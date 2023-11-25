@@ -1,0 +1,17 @@
+{
+  "overall": {
+    "api_keys": {
+      "openai_api_key_chatgpt": "",
+      "openai_api_key_gpt_4": ""
+    }
+  },
+  "data_procession": {
+    "categories": [
+      "blog",
+      "email_content",
+      "game_review",
+      "news",
+      "paper_abstract"
+    ]
+  }
+}
