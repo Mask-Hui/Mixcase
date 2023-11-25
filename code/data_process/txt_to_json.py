@@ -23,8 +23,6 @@ def clean_text_files(folder_path):
 
 
 # split original txt files by sentence
-
-
 def split_txt_by_sentences(input_folder, output_folder):
     domains = get_categories()
 
