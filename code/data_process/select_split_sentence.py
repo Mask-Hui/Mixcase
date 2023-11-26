@@ -54,5 +54,6 @@ def run_select_process(block_path, source_path, output_path):
 
 
 if __name__ == "__main__":
-    run_select_process('../../data/split_data/compose_data.json', '../../data/original_data/original_sentence.json',
-                       '../../data/split_data/select_data.json')
+    run_select_process('../../data_HWT/split_data/compose_data.json',
+                       '../../data_HWT/original_data/original_sentence.json',
+                       '../../data_HWT/split_data/select_data.json')

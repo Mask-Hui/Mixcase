@@ -23,8 +23,6 @@ def clean_text_files(folder_path):
 
 
 # split original txt files by sentence
-
-
 def split_txt_by_sentences(input_folder, output_folder):
     domains = get_categories()
 
@@ -51,9 +49,7 @@ def split_txt_by_sentences(input_folder, output_folder):
                     i = 0
                     while i < len(sentences):
                         current_sentence = sentences[i].strip()
-                        # 检查句子是否少于或等于2个词
                         if len(current_sentence.split()) <= 2 and i + 1 < len(sentences):
-                            # 将当前句子与下一个句子合并
                             result.append((current_sentence + ' ' + sentences[i + 1]).strip())
                             i += 2
                         else:
@@ -123,5 +119,5 @@ def process_text_to_json(input_folder, output_folder):
 
 
 if __name__ == "__main__":
-    merge_txt_files('../../data/original_long_data', '../../data/original_data')
-    process_text_to_json('../../data/original_data', '../../data/original_data')
+    merge_txt_files('../../data_HWT/original_long_data', '../../data_HWT/original_data')
+    process_text_to_json('../../data_HWT/original_data', '../../data_HWT/original_data')

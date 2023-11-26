@@ -1,0 +1,12 @@
+Your last paragraph is right on man.  It just the commie business practice
+that bites.
+
+Again, my view of the world is that the transmission should be associated
+with the sink control area - they are the one who takes it home.  The source
+control area shouldn't have the fake transmission.
+
+Guess part of the problem is due to CAs not registering as TPs which would
+make things much more consistent.
+
+PSEI will take NOR, SINGLEBUS, GF (if we're not looking), MIDC-MIDC, and
+other creative entries for the OASIS number for MIDC-MIDC transactions.

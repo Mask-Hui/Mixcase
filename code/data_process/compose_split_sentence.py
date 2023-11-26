@@ -81,10 +81,11 @@ def run_compose_process(input_path, output_path):
         if processed_data:
             write_json_data(output_path, processed_data)
         else:
-            print("No data meeting the criteria.")
+            print("No data_HWT meeting the criteria.")
     else:
-        print("Original data file not found.")
+        print("Original data_HWT file not found.")
 
 
 if __name__ == "__main__":
-    run_compose_process('../../data/original_data/original_sentence.json', '../../data/split_data/compose_data.json')
+    run_compose_process('../../data_HWT/original_data/original_sentence.json',
+                        '../../data_HWT/split_data/compose_data.json')

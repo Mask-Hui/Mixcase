@@ -5,13 +5,14 @@
       "openai_api_key_gpt_4": ""
     }
   },
-  "data_procession": {
+  "data_preprocessing": {
     "categories": [
       "blog",
       "email_content",
       "game_review",
       "news",
-      "paper_abstract"
+      "paper_abstract",
+      "speech"
     ]
   }
 }
