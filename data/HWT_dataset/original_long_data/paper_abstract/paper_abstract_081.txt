@@ -1,1 +1,20 @@
-A plasma rotating spoke in a crossed field discharge is studied using 2d radial-azimuthal fully kinetic particle-in-cell monte carlo collision (pic/mcc) simulations. The kinetic model reveals the whole perturbation spectrum of the gradient drift instability in the linear stage: simon-hoh, lower-hybrid and ion sound modes, providing direct evidence of the spoke of the gradient drift instability nature. The two-fluid dispersion relation of the gradient drift instability was utilized to analyze the linear development of instabilities in the simulations. The charge separation effect was incorporated in the fluid linear theory and a super-resolution signal processing method (multiple signal classification) was applied to obtain the numerical frequency spectrum. The simulated spectrum and growth rate show excellent agreement with the theoretical dispersion relation (real frequency and imaginary frequency) over investigated cases. The most linearly unstable mode was found to be the lower hybrid instability and the mode transition into the m=1 macroscopic rotating structure after saturation of the linear phase is accompanied by an inverse energy cascade. In the nonlinear stage, the pronounced spoke phenomena can occur when the heating of $\mathbf{e_{\theta}\times b}$ electron flow channeled in the spoke front passage suffices to provide the enhanced ionization.
+We present results of a study on identifying circumbinary planet candidates
+that produce multiple transits during one conjunction with eclipsing binary
+systems. The occurrence of these transits enables us to estimate the
+candidates' orbital periods, which is crucial as the periods of the currently
+known transiting circumbinary planets are significantly longer than the typical
+observational baseline of TESS. Combined with the derived radii, it also
+provides valuable information needed for follow-up observations and subsequent
+confirmation of a large number of circumbinary planet candidates from TESS.
+Motivated by the discovery of the 1108-day circumbinary planet Kepler-1647, we
+show the application of this technique to four of Kepler's circumbinary planets
+that produce such transits. Our results indicate that in systems where the
+circumbinary planet is on a low-eccentricity orbit, the estimated planetary
+orbital period is within <10-20% of the true value. This estimate is derived
+from photometric observations spanning less than 5% of the planet's period,
+demonstrating the strong capability of the technique. Capitalizing on the
+current and future eclipsing binaries monitored by NASA's TESS mission, we
+estimate that hundreds of circumbinary planets candidates producing multiple
+transits during one conjunction will be detected in the TESS data. Such a large
+sample will enable statistical understanding of the population of planets
+orbiting binary stars and shed new light on their formation and evolution.

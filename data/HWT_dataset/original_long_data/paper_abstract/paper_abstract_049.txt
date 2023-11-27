@@ -1,1 +1,12 @@
-New methods for time-to-event prediction are proposed by extending the cox proportional hazards model with neural networks. Building on methodology from nested case-control studies, we propose a loss function that scales well to large data sets, and enables fitting of both proportional and non-proportional extensions of the cox model. Through simulation studies, the proposed loss function is verified to be a good approximation for the cox partial log-likelihood. The proposed methodology is compared to existing methodologies on real-world data sets, and is found to be highly competitive, typically yielding the best performance in terms of brier score and binomial log-likelihood. A python package for the proposed methods is available at https://github.com/havakv/pycox.
+High dimensionality poses many challenges to the use of data, from
+visualization and interpretation, to prediction and storage for historical
+preservation. Techniques abound to reduce the dimensionality of fixed-length
+sequences, yet these methods rarely generalize to variable-length sequences. To
+address this gap, we extend existing methods that rely on the use of kernels to
+variable-length sequences via use of the Recurrent Neural Tangent Kernel
+(RNTK). Since a deep neural network with ReLu activation is a Max-Affine Spline
+Operator (MASO), we dub our approach Max-Affine Spline Kernel (MASK). We
+demonstrate how MASK can be used to extend principal components analysis (PCA)
+and t-distributed stochastic neighbor embedding (t-SNE) and apply these new
+algorithms to separate synthetic time series data sampled from second-order
+differential equations.

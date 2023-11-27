@@ -1,1 +1,10 @@
-The motion of weakly inertial brownian particles, transported by steady two-dimensional fluid flows, is investigated by means of asymptotic methods. We focus on the phenomenon of noise-induced separatrix crossing, which can force particles to enter or exit recirculation cells in an unpredictable manner. An analytical expression for the probability of separatrix crossing is obtained. It can be applied to a wide variety of flows, provided some elementary kinematical quantities of the fluid flow are known. It does not require to solve particle trajectories.
+Gaussian Processes (GPs) has experienced tremendous success in geoscience in
+general and for bio-geophysical parameter retrieval in the last years. GPs
+constitute a solid Bayesian framework to formulate many function approximation
+problems consistently. This paper reviews the main theoretical GP developments
+in the field. We review new algorithms that respect the signal and noise
+characteristics, that provide feature rankings automatically, and that allow
+applicability of associated uncertainty intervals to transport GP models in
+space and time. All these developments are illustrated in the field of
+geoscience and remote sensing at a local and global scales through a set of
+illustrative examples.

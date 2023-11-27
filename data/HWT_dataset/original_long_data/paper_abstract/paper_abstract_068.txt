@@ -1,1 +1,20 @@
-This paper discusses the opportunity of bringing the concept of zero-shot adaptation into learning-based millimeter-wave (mmwave) communication systems, particularly in environments with unstable urban infrastructures. Here, zero-shot adaptation implies that a learning agent adapts to unseen scenarios during training without any adaptive fine-tuning. By considering learning-based beam-tracking of a mmwave node placed on an overhead messenger wire, we first discuss the importance of zero-shot adaptation. More specifically, we confirm that the gap between the values of wire tension and total wire mass in training and test scenarios deteriorates the beam-tracking performance in terms of the received power. Motivated by this discussion, we propose a robust beam-tracking method to adapt to a broad range of test scenarios in a zero-shot manner, i.e., without requiring any retraining to adapt the scenarios. The key idea is to leverage a recent, robust adversarial reinforcement learning technique, where such training and test gaps are regarded as disturbances from adversaries. In our case, a beam-tracking agent performs training competitively bases on an intelligent adversary who causes beam misalignments. Numerical evaluations confirm the feasibility of zero-shot adaptation by showing that the on-wire node achieves feasible beam-tracking performance without any adaptive fine-tuning in unseen scenarios.
+The proliferation of Internet-of-Things (IoT) devices and cloud-computing
+applications over siloed data centers is motivating renewed interest in the
+collaborative training of a shared model by multiple individual clients via
+federated learning (FL). To improve the communication efficiency of FL
+implementations in wireless systems, recent works have proposed compression and
+dimension reduction mechanisms, along with digital and analog transmission
+schemes that account for channel noise, fading, and interference. This prior
+art has mainly focused on star topologies consisting of distributed clients and
+a central server. In contrast, this paper studies FL over wireless
+device-to-device (D2D) networks by providing theoretical insights into the
+performance of digital and analog implementations of decentralized stochastic
+gradient descent (DSGD). First, we introduce generic digital and analog
+wireless implementations of communication-efficient DSGD algorithms, leveraging
+random linear coding (RLC) for compression and over-the-air computation
+(AirComp) for simultaneous analog transmissions. Next, under the assumptions of
+convexity and connectivity, we provide convergence bounds for both
+implementations. The results demonstrate the dependence of the optimality gap
+on the connectivity and on the signal-to-noise ratio (SNR) levels in the
+network. The analysis is corroborated by experiments on an image-classification
+task.

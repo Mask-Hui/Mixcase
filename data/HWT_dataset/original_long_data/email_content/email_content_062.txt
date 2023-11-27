@@ -1,1 +1,51 @@
-Rring (non-privileged)1.pst fyi - good prices on these non-stops: total price for this trip: $375.00 here is a detailed description of the flight(s) you selected, along with any rules and restrictions that apply. 1 review the flight details <http://www.expedia.com/eta/fltitin.gif> wed 7-nov-01 1833 mi (2950 km) 4hr 28mn houston (iah) depart 11:45 am to portland (pdx) arrive 2:13 pm continental <http://www.expedia.com/pubspec/images/airlines/co.gif> flight: 1490 _____ economy/coach class, lunch, boeing 737-300, 70% on time _____ total miles: 1833 mi (2950 km) total flight time: 4hr 28mn <http://www.expedia.com/eta/fltitin.gif> fri 9-nov-01 1833 mi (2950 km) 4hr 5mn portland (pdx) depart 3:00 pm to houston (iah) arrive 9:05 pm continental <http://www.expedia.com/pubspec/images/airlines/co.gif> flight: 128 _____ economy/coach class, dinner, boeing 737-300, 70% on time _____ total miles: 1833 mi (2950 km) total flight time: 4hr 5mn tip: you could miss a connecting flight unless you allow sufficient connection time between flights. This is generally 35 to 60 minutes for domestic connections and 60 to 120 minutes for international connections.
+ebass.nsf
+
+Am I going to be able to get these out on the website today?
+
+Eric
+
+
+
+
+Robert B Cass
+07/14/2000 11:31 AM
+To: Torrey Moorer/HOU/ECT@ECT, Eric Bass/HOU/ECT@ECT
+cc: Dale Neuner/HOU/ECT@ECT, Melba Lozano/HOU/ECT@ECT 
+Subject: Map and test - 2 Nat Gas Indices in TEST
+
+Please map and test the following two (2) indices which are in TEST for Eric 
+Bruce (trader): 
+
+INDEX:   Gas Daily - WAHA - HeHub
+SORT CODE IN TEST:  1006
+ABBREV:  Waha-HeHub    
+PRODUCT TYPE: US Gas Fin Swap
+DESCRIPTION:  The Index for a day shall be the difference between (i) the 
+Daily Midpoint price published on such calendar day under the heading "Daily 
+Price Survey" in the Permian Basin Area: Tex intras, Waha area section of Gas 
+Daily, or if a calendar day is not a Business Day then the price used shall 
+be the Daily Midpoint price published on the next succeeding Business Day, 
+and (ii) the Daily Midpoint price published on such calendar day under the 
+heading "Daily Price Survey" in the Louisiana--Onshore South - Henry Hub 
+section of Gas Daily, or if a calendar day is not a Business Day then the 
+price used shall be the Daily Midpoint price published on the next succeeding 
+Business Day. 
+
+
+INDEX:   Gas Daily - HSC - HeHub
+SORT CODE IN TEST:  1001
+ABBREV:    HSC-HeHub
+PRODUCT TYPE: US Gas Fin Swap
+DESCRIPTION:   The Index for a day shall be the difference between (i) the 
+Daily Midpoint price published on such calendar day under the heading "Daily 
+Price Survey" in the East -Houston - Katy, Houston Ship Channel section of 
+Gas Daily, or if a calendar day is not a Business Day then the price used 
+shall be the Daily Midpoint price published on the next succeeding Business 
+Day, and (ii) the Daily Midpoint price published on such calendar day under 
+the heading "Daily Price Survey" in the Louisiana--Onshore South - Henry Hub 
+section of Gas Daily, or if a calendar day is not a Business Day then the 
+price used shall be the Daily Midpoint price published on the next succeeding 
+Business Day.
+
+
+Thanks!  - R

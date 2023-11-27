@@ -1,1 +1,16 @@
-All elementary particles in nature can be classified as fermions with half-integer spin and bosons with integer spin. Within quantum electrodynamics (qed), even though the spin of the dirac particle is well defined, there exist open questions on the quantized description of spin of the gauge field particle -- the photon. Here, we discover the quantum operators for the spin angular momentum (sam) $\boldsymbol{s}_{m}=(1/c)\int d^{3}x\boldsymbol{\pi}\times\boldsymbol{a}$ and orbital angular momentum (oam) $\boldsymbol{l}_{m}=-(1/c)\int d^{3}x\pi^{\mu}\boldsymbol{x}\times\boldsymbol{\nabla}a_{\mu}$ of the photon, where $\pi^{\mu}$ is the conjugate canonical momentum of the gauge field $a_{\mu}$. Using relativistic field theory, we reveal a perfect symmetry between the angular momentum commutation relations for dirac fields and maxwell fields. Our work resolves the long-standing questions on the decomposition of orbital and spin angular momentum of the photon with applications in quantum optics, topological photonics as well as nanophotonics and also has important ramifications for the spin structure of nucleons.
+When random effects are correlated with sample design variables, the usual
+approach of employing individual survey weights (constructed to be inversely
+proportional to the unit survey inclusion probabilities) to form a
+pseudo-likelihood no longer produces asymptotically unbiased inference. We
+construct a weight-exponentiated formulation for the random effects
+distribution that achieves unbiased inference for generating hyperparameters of
+the random effects. We contrast our approach with frequentist methods that rely
+on numerical integration to reveal that only the Bayesian method achieves both
+unbiased estimation with respect to the sampling design distribution and
+consistency with respect to the population generating distribution. Our
+simulations and real data example for a survey of business establishments
+demonstrate the utility of our approach across different modeling formulations
+and sampling designs. This work serves as a capstone for recent developmental
+efforts that combine traditional survey estimation approaches with the Bayesian
+modeling paradigm and provides a bridge across the two rich but disparate
+sub-fields.

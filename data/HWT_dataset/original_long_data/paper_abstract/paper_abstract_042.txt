@@ -1,1 +1,12 @@
-We propose a computationally efficient algorithm for the device activity detection problem in the multi-cell massive multi-input multi-output (mimo) system, where the active devices transmit their signature sequences to multiple bss in multiple cells and all the bss cooperate to detect the active devices. The device activity detection problem has been formulated as a maximum likelihood maximization (mle) problem in the literature. The state-of-the-art algorithm for solving the problem is the (random) coordinate descent (cd) algorithm. However, the cd algorithm fails to exploit the special sparsity structure of the solution of the device activity detection problem, i.e., most of devices are not active in each time slot. In this paper, we propose a novel active set selection strategy to accelerate the cd algorithm and propose an efficient active set cd algorithm for solving the considered problem. Specifically, at each iteration, the proposed active set cd algorithm first selects a small subset of all devices, namely the active set, which contains a few devices that contribute the most to the deviation from the first-order optimality condition of the mle problem thus potentially can provide the most improvement to the objective function, then applies the cd algorithm to perform the detection for the devices in the active set. Simulation results show that the proposed active set cd algorithm significantly outperforms the state-of-the-art cd algorithm in terms of the computational efficiency.
+With the increased size and frequency of wildfire eventsworldwide, accurate
+real-time prediction of evolving wildfirefronts is a crucial component of
+firefighting efforts and for-est management practices. We propose a wildfire
+spreadingmodel that predicts the evolution of the wildfire perimeter in24 hour
+periods. The fire spreading simulation is based ona deep convolutional neural
+network (CNN) that is trainedon remotely sensed atmospheric and environmental
+time se-ries data. We show that the model is able to learn wildfirespreading
+dynamics from real historic data sets from a seriesof wildfires in the Western
+Sierra Nevada Mountains in Cal-ifornia. We validate the model on a previously
+unseen wild-fire and produce realistic results that significantly
+outperformhistoric alternatives with validation accuracies ranging from78% -
+98%

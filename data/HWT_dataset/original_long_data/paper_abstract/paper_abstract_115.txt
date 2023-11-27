@@ -1,1 +1,20 @@
-The treatment of convective boundaries remains an important source of uncertainty within stellar evolution, with drastic implications for the thermally-pulsing stars on the asymptotic giant branch (agb). Various sources are taken as motivation for the incorporation of convective boundary mixing during this phase, from s-process nucleosynthesis to hydrodynamical models. In spite of the considerable evidence in favour of the existence of convective boundary mixing on the pre-agb evolution, this mixing is not universally included in models of tp-agb stars. The aim of this investigation is to ascertain the extent of convective boundary mixing, which is compatible with observations when considering full evolutionary models. Additionally, we investigate a theoretical argument that has been made that momentum-driven overshooting at the base of the pulse-driven convection zone should be negligible. We show that, while the argument holds,estimations based on the picture of turbulent entrainment suggest that mixing is possible at both convective boundaries. We demonstrate that additional mixing at convective boundaries during core-burning phases prior to the thermally-pulsing asymptotic giant branch has an impact on the later evolution, changing the mass range at which the third dredge-up and hot-bottom burning occur, and thus also the final surface composition. In addition, an effort has been made to constrain the efficiency of convective boundary mixing at the different convective boundaries, using observational constraints. Our study suggests a strong tension between different constraints that makes it impossible to reproduce all observables simultaneously within the framework of an exponentially decaying overshooting. This result calls for a reassessment of both the models of convective boundary mixing and the observational constraints.
+In this article we review the case for a light ($< m_{h_{125}}/2$) neutralino
+and sneutrino being a viable Dark Matter (DM) candidate in Supersymmetry(SUSY).
+To that end we recapitulate, very briefly, three issues related to the DM which
+impact the discussions : calculation of DM relic density, detection of the DM
+in Direct and Indirect experiments and creation /detection at the Colliders. In
+case of SUSY, the results from Higgs and SUSY searches at the colliders also
+have implications for the DM mass and couplings. In view of the constraints
+coming from all these sources, the possibility of a light neutralino is all but
+ruled out for the constrained MSSM : cMSSM. The pMSSM, where the gaugino masses
+are not related at high scale, is also quite constrained and under tension in
+case of thermal DM and will be put to very stern test in the near future in
+Direct Detection (DD) experiments as well as by the LHC analyses. However in
+the pMSSM with modified cosmology and hence non-thermal DM or in the NMSSM, a
+light neutralino is much more easily accommodated. A light RH sneutrino is also
+still a viable DM candidate although it requires extending the MSSM with
+additional singlet neutrino superfields. All of these possibilities can be
+indeed tested jointly in the upcoming SUSY-electroweakino and Higgs searches at
+the HL/HE luminosity LHC, the upcoming experiments for the Direct Detection
+(DD) and indirect detection for the DM as well as the high precision
+electron-positron colliders under planning.

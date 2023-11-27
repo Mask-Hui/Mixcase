@@ -1,1 +1,13 @@
-Random restart of a given algorithm produces many partitions to yield a consensus clustering. Ensemble methods such as consensus clustering have been recognized as more robust approaches for data clustering than single clustering algorithms. We propose the use of determinantal point processes or dpp for the random restart of clustering algorithms based on initial sets of center points, such as k-medoids or k-means. The relation between dpp and kernel-based methods makes dpps suitable to describe and quantify similarity between objects. Dpps favor diversity of the center points within subsets. So, subsets with more similar points have less chances of being generated than subsets with very distinct points. The current and most popular sampling technique is sampling center points uniformly at random. We show through extensive simulations that, contrary to dpp, this technique fails both to ensure diversity, and to obtain a good coverage of all data facets. These two properties of dpp are key to make dpps achieve good performance with small ensembles. Simulations with artificial datasets and applications to real datasets show that determinantal consensus clustering outperform classical algorithms such as k-medoids and k-means consensus clusterings which are based on uniform random sampling of center points.
+The direpack package aims to establish a set of modern statistical dimension
+reduction techniques into the Python universe as a single, consistent package.
+The dimension reduction methods included resort into three categories:
+projection pursuit based dimension reduction, sufficient dimension reduction,
+and robust M estimators for dimension reduction. As a corollary, regularized
+regression estimators based on these reduced dimension spaces are provided as
+well, ranging from classical principal component regression up to sparse
+partial robust M regression. The package also contains a set of classical and
+robust pre-processing utilities, including generalized spatial signs, as well
+as dedicated plotting functionality and cross-validation utilities. Finally,
+direpack has been written consistent with the scikit-learn API, such that the
+estimators can flawlessly be included into (statistical and/or machine)
+learning pipelines in that framework.

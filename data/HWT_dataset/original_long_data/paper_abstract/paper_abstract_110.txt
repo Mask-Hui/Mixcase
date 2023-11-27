@@ -1,1 +1,9 @@
-The $a_0^0(980)-f_0(980)$ mixing is one of the most potential tools to learn about the nature of $a_0^0(980)$ and $f_0(980)$. Using the $f_0(980)$-$a_0^0(980)$ mixing intensity $\xi_{af}$ measured recently at besiii, we calculate the the branching ratio of the the isospin violation decay $j/\psi \rightarrow\gamma\eta_c \rightarrow \gamma \pi^0 a_0^0(1450)\rightarrow \gamma \pi^0 a_0^0(980)f_0(500)\rightarrow \gamma \pi^0 f_0(980) f_0(500) \rightarrow \gamma \pi^0 \pi^+\pi^- \pi^+\pi^-$. The value of the branching ratio is found to be $o(10^{-6})$, which can be observed with $10^{10}$ $j/\psi$ events collected at besiii. The narrow peak from the $f_0(980)$-$a_0^0(980)$ mixing in the $\pi^+\pi^-$ mass square spectrum can also be observed. In addition, we study the non-resonant decay $a_0^0(1450)\rightarrow f_0(980) \pi^+\pi^-(\text{non-resonant})$, which is dominated by the $a_0^0(980)$-$f_{0}(980)$ mixing. We find that the non-resonant decay $a_0^0(1450)\rightarrow f_0(980) \pi^+\pi^-$ and the decay $a_0^0(1450)\rightarrow f_0(980) f_0(500)$ can be combined to measure the mixing intensity $\xi_{af}$ in experiment. These decays are the perfect complement to the decay $\chi_{c1}\rightarrow f_{0}(980)\pi^{0}\to\pi^{+}\pi^{-}\pi^{0}$ which had been observed at besiii, the observations of them will make the measurement of the mixing intensity $\xi_{af}$ more precisely.
+Asymptotically AdS wormhole solutions are considered in the context of
+holography. Correlation functions of local operators on distinct boundaries are
+studied. It is found that such correlators are finite at short distances.
+Correlation functions of non-local operators (Wilson loops) on distinct
+boundaries are also studied, with similar conclusions. Deformations of the
+theory with multi-trace operators on distinct boundaries are considered and
+studied. As a consequence of these results, the dual theory is expected to
+factorize in the UV, and the two sectors to be coupled by a soft non-local
+interaction. A simple field theory model with such behavior is presented.

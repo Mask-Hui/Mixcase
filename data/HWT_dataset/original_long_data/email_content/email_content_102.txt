@@ -1,1 +1,78 @@
-Jshankm.nsf is this on the web site. Can you get on the distribution? thanks. ----- forwarded by jeffrey a shankman/hou/ect on 02/20/2001 10:01 am ----- chris connelly 02/19/2001 04:36 am to: george mcclellan/hou/ect@ect, stuart staley/lon/ect@ect, jeffrey a shankman/hou/ect@ect, mike mcconnell/hou/ect@ect, kevin mcgowan/corp/enron@enron, tom mcquade/hou/ect@ect cc: peter bradley/lon/ect@ect, jez peters/lon/ect@ect, candace parker/lon/ect@ect, kenny nicoll/lon/ect@ect, dimitri taylor/lon/ect@ect, andy james/eu/enron@enron, cornelia luptowitsch/lon/ect@ect, dorte kjaergaard/lon/ect@ect, fiona ryan/lon/ect@ect, jennifer burns/hou/ect@ect, jeff andrews/na/enron@enron subject: freight weekly report enron shipping services weekly report 07/2001 highlight the cape market is still rising, but very gently. Owners are still quite concerned about the year as a whole and are actively seeking coverage. We spend much of last week covering all our short positions thru to may. Plan is to sit back for a couple weeks and then sell short again for q2, q3 and q4 if feasible. We struck a deal last friday with cetragpa ( pierre's ex co. ) by which we agreed a collar on the rbct/rotterdam route for 2002/2003. We bought a call at $7.80 and sold a put at $6.80 for 600,000 mt ( this could be valuable hedge for the first 2 years of the gijon business). On the panamax front, pacific market is still relatively active and strong while the atlantic is soft with few grain cargoes from the us gulf. We fixed last week a contract to supply 3 panamax vessels of coal and petcoke to aceralia ( spanish steel mill ). We are also currently seeking freight for our first freight and coal business into the us east coast ( thanks to the us coal guys ) on a belted self discharge handy max to load in second half of this year. Market short term medium term long term handy max down down down panamax up flat down cape size up flat down cape average time charter rate: $ 17,310 ( +247 ) spot rbct/rotterdam: $ 8.522 ( +.272) spot tubaro/china: $10.125 (+.175) spot bolivar/rotterdam: $ 6.503 ( +.203) panamax average time charter rate: $ 11,110 ( -390 ) spot us gulf/japan: $21.481 ( - 0.119 ) deals done physical freight ecs freight fixed rbct/rotterdam with cc at $8.60 third party freight deals sold three panamax cargoes to elcano from roberts bank to gijon for may 01 thru to march 02 ffa s numerous swaps on both the cape and panamax routes. Eol traded 25,000 tons with billiton travels all three of us should be in chris
+mhaedic.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+December 01, 2000 5:00pm through December 04, 2000 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON NORTH AMERICAN LANS:  SEE ORIGINAL REPORT
+    
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+LOTUS NOTES: No Scheduled Outages.
+
+MARKET DATA:    SEE ORIGINAL REPORT
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER: HR
+Impact:  CORP
+Time:  Sat 12/2/2000 at  8:00:00 AM CT thru Sat 12/2/2000 at  12:00:00 PM CT
+ Sat 12/2/2000 at  6:00:00 AM PT thru Sat 12/2/2000 at  10:00:00 AM PT
+ Sat 12/2/2000 at  2:00:00 PM London thru Sat 12/2/2000 at  6:00:00 PM London
+Outage:  Corporate HR Database Move
+Environments Impacted:  HR LAN
+Purpose: Reconfiguration of Sun Solaris and Oracle DB to allow for more 
+simultaneous connections.
+        The applications impacted are as follows:  HRGlobalApps, 
+ExpertFinder, GCS, GIS, PM, etc.
+Backout: Restore current configuration back to the Sun Servers.
+Contact(s):  Brandon Bangerter  713-345-4904    
+  Raj Perubhatla  713-345-8016  
+  Brian Ellis  713-345-8017
+  
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+------------------------------------------------------------------------------
+-------------------------------------------------------
+FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+(713) 853-5536   Information Risk Management
+
+Specific Applications Help:
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+All Other Systems    (713) 563-5797  [Pager]
+      or (713) 563-5987  [Pager]

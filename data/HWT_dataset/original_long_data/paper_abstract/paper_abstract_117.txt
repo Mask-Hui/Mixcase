@@ -1,1 +1,16 @@
-Gauge-invariant descriptions for a free bosonic scalar field of continuous spin in a $d$-dimensional minkowski space-time using a metric-like formulation are constructed on the basis of a constrained brst-bfv approach we propose. The resulting brst-bfv equations of motion for a scalar field augmented by ghost operators contains different sets of auxiliary fields, depending on the manner of a partial gauge-fixing and a resolution of some of the equations of motion for a brst-unfolded first-stage reducible gauge theory. To achieve an equivalence of the resulting brst-unfolded constrained equations of motion with the initial irreducible poincare group conditions of a bargmann--wigner type, it is demonstrated that one should replace the field in these conditions by a class of gauge-equivalent configurations. Triplet-like, doublet-like constrained descriptions, as well as an unconstrained quartet-like non-lagrangian and lagrangian formulations, are derived using both fronsdal-like and new tensor fields. In particular, the brst--bv equations of motion and lagrangian using an appropriate set of lagrangian multipliers in the minimal sector of the respective field and antifield configurations are constructed in a manifest way.
+We examine the detection prospects for a long-lived bi$\nu$o, a pseudo-Dirac
+bino which is responsible for neutrino masses, at the LHC and at dedicated
+long-lived particle detectors. The bi$\nu$o arises in $U(1)_R$-symmetric
+supersymmetric models where the neutrino masses are generated through higher
+dimensional operators in an inverse seesaw mechanism. At the LHC the bi$\nu$o
+is produced through squark decays and it subsequently decays to quarks, charged
+leptons and missing energy via its mixing with the Standard Model neutrinos. We
+consider long-lived bi$\nu$os which escape the ATLAS or CMS detectors as
+missing energy and decay to charged leptons inside the proposed long-lived
+particle detectors FASER, CODEX-b, and MATHUSLA. We find the currently allowed
+region in the squark-bi$\nu$o mass parameter space by recasting most recent LHC
+searches for jets+MET. We also determine the reach of MATHUSLA, CODEX-b and
+FASER. We find that a large region of parameter space involving squark masses,
+bi$\nu$o mass and the messenger scale can be probed with MATHUSLA, ranging from
+bi$\nu$o masses of 10 GeV-2 TeV and messenger scales $10^{2-11}$ TeV for a
+range of squark masses.

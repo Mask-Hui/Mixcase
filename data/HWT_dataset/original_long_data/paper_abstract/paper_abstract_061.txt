@@ -1,1 +1,17 @@
-We show that transverse-momentum-dependent parton distribution functions (tmdpdfs), important non-perturbative quantities for describing the properties of hadrons in high-energy scattering processes such as drell-yan and semi-inclusive deep-inelastic scattering with observed small transverse momentum, can be obtained from euclidean qcd calculations in the framework of large-momentum effective theory (lamet). We present a lamet factorization of the euclidean quasi-tmdpdfs in terms of the physical tmdpdfs and off-light-cone soft function at leading order in $1/p^z$ expansion, with the perturbative matching coefficient satisfying a renormalization group equation. We also discuss the implementation in lattice qcd with finite-length gauge links as well as the rapidity-regularization-independent factorization for drell-yan cross section.
+Objective:Optoacoustic (photoacoustic) tomography is aimed at reconstructing
+maps of the initial pressure rise induced by the absorption of light pulses in
+tissue. In practice, due to inaccurate assumptions in the forward model, noise
+and other experimental factors, the images are often afflicted by artifacts,
+occasionally manifested as negative values. The aim of the work is to develop
+an inversion method which reduces the occurrence of negative values and
+improves the quantitative performance of optoacoustic imaging. Methods: We
+present a novel method for optoacoustic tomography based on an entropy
+maximization algorithm, which uses logarithmic regularization for attaining
+non-negative reconstructions. The reconstruction image quality is further
+improved using structural prior based fluence correction. Results: We report
+the performance achieved by the entropy maximization scheme on numerical
+simulation, experimental phantoms and in-vivo samples. Conclusion: The proposed
+algorithm demonstrates superior reconstruction performance by delivering
+non-negative pixel values with no visible distortion of anatomical structures.
+Significance: Our method can enable quantitative optoacoustic imaging, and has
+the potential to improve pre-clinical and translational imaging applications.

@@ -1,1 +1,14 @@
-We formulate the smoluchowski equation for a run-and-tumble particle. It includes the mean tumble rate in a chemical field, for which we derive a markovian response theory. Using a multipole expansion and a reaction-diffusion equation for the chemoattractant field, we derive a polarization extended model, which also includes the recently discovered angle bias. In the adiabatic limit we recover generalized keller-segel equations with diffusion and chemotactic coefficients that depend on the microscopic swimming parameters. By requiring the tumble rate to be positive, our model possesses an upper bound of the chemotactic drift velocity, which is no longer singular as in the original keller-segel equations. Using the keller-segel model, we present an extensive study of traveling bacterial concentration pulses demonstrating how speed, width, and height of the pulse depend on the microscopic parameters. Most importantly, we discover a maximum number of bacteria that the pulse can sustain - the maximum carrying capacity. Finally, we obtain a remarkably good match to experimental results on the traveling bacterial pulse. It does not require a second, signaling chemical field nor a singular chemotactic drift velocity.
+We show that a na\"{i}ve application of the quantum extremal surface (QES)
+prescription can lead to paradoxical results and must be corrected at leading
+order. The corrections arise when there is a second QES (with strictly larger
+generalized entropy at leading order than the minimal QES), together with a
+large amount of highly incompressible bulk entropy between the two surfaces. We
+trace the source of the corrections to a failure of the assumptions used in the
+replica trick derivation of the QES prescription, and show that a more careful
+derivation correctly computes the corrections. Using tools from one-shot
+quantum Shannon theory (smooth min- and max-entropies), we generalize these
+results to a set of refined conditions that determine whether the QES
+prescription holds. We find similar refinements to the conditions needed for
+entanglement wedge reconstruction (EWR), and show how EWR can be reinterpreted
+as the task of one-shot quantum state merging (using zero-bits rather than
+classical bits), a task gravity is able to achieve optimally efficiently.

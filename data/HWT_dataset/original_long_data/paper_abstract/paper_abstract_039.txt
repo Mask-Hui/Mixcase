@@ -1,1 +1,22 @@
-Today's scientific research is an expensive enterprise funded largely by taxpayers' and corporate groups' monies. It is a critical part in the competition between nations, and all nations want to discover fields of research that promise to create future industries, and dominate these by building up scientific and technological expertise early. However, our understanding of the value chain going from science to technology is still in a relatively infant stage, and the conversion of scientific leadership into market dominance remains very much an alchemy rather than a science. In this paper, we analyze bibliometric records of scientific journal publications and patents related to graphene, at the aggregate level as well as on the temporal and spatial dimensions. We find the present leaders of graphene science and technology emerged rather late in the race, after the initial scientific leaders lost their footings. More importantly, notwithstanding the amount of funding already committed, we find evidences that suggest the 'golden eras' of graphene science and technology were in 2010 and 2012 respectively, in spite of the continued growth of journal and patent publications in this area.
+We are studying the influence of stellar multiplicity on exoplanet systems,
+in particular systems that have been detected via radial-velocity searches. We
+are in particular interested in the closest companions as they would have a
+strong influence on the evolution of the original planet forming disks. In this
+study we present new companions detected during our ongoing survey of exoplanet
+hosts with VLT/SPHERE. We are using the extreme adaptive optics imager SPHERE
+at the ESO/VLT to search for faint (sub)stellar companions. We utilized the
+classical coronagraphic imaging mode to perform a snapshot survey (3-6 min
+integration time) of exoplanet host stars in the Ks-band. We detected new
+stellar companions to the exoplanet host stars HD1666, HIP68468, HIP107773, and
+HD109271. With an angular separation of only 0.38" (40 au of projected
+separation) HIP107773 is among the closest companions found to exoplanet host
+stars. The presence of the stellar companion explains the linear
+radial-velocity trend seen in the system. At such a small separation the
+companion likely had significant influence on the evolution of the planet
+forming disk around the primary star. We find that the companion in the HD1666
+system may well be responsible for the high orbit eccentricity (0.63) of the
+detected Jupiter class planet, making this system one of only a few where such
+a connection can be established. A cross-match with the Gaia DR2 catalog showed
+furthermore that the near infrared faint companion around HD109271 had been
+detected in the optical and is significantly brighter than in the near infrared
+making it a white dwarf companion.

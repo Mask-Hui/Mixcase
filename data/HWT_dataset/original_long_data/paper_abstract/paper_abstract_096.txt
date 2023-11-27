@@ -1,1 +1,10 @@
-This paper presents a technique to measure the gain of a single-plate micro-channel plate (mcp)/phosphor assembly by using a convolutional neural network to analyse images of the phosphor screen, recorded by a charge coupled device. The neural network reduces the background noise in the images sufficiently that individual electron events can be identified. From the denoised images, an algorithm determines the average intensity recorded on the phosphor associated with a single electron hitting the mcp. From this average single-particle-intensity, along with measurements of the charge of bunches after amplification by the mcp, we were able to deduce the gain curve of the mcp.
+This article proposes a methodology for the development of adaptive traffic
+signal controllers using reinforcement learning. Our methodology addresses the
+lack of standardization in the literature that renders the comparison of
+approaches in different works meaningless, due to differences in metrics,
+environments, and even experimental design and methodology. The proposed
+methodology thus comprises all the steps necessary to develop, deploy and
+evaluate an adaptive traffic signal controller -- from simulation setup to
+problem formulation and experimental design. We illustrate the proposed
+methodology in two simple scenarios, highlighting how its different steps
+address limitations found in the current literature.

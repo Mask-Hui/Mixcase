@@ -1,1 +1,12 @@
-Spurious association arises from covariance between propensity for the treatment and individual risk for the outcome. For sensitivity analysis with stochastic counterfactuals we introduce a methodology to characterize uncertainty in causal inference from natural experiments and quasi-experiments. Our sensitivity parameters are standardized measures of variation in propensity and individual risk, and one minus their geometric mean is an intuitive measure of randomness in the data generating process. Within our latent propensity-risk model, we show how to compute from contingency table data a threshold, $t$, of sufficient randomness for causal inference. If the actual randomness of the data generating process exceeds this threshold then causal inference is warranted.
+We study the robust mean estimation problem in high dimensions, where $\alpha
+<0.5$ fraction of the data points can be arbitrarily corrupted. Motivated by
+compressive sensing, we formulate the robust mean estimation problem as the
+minimization of the $\ell_0$-`norm' of the outlier indicator vector, under
+second moment constraints on the inlier data points. We prove that the global
+minimum of this objective is order optimal for the robust mean estimation
+problem, and we propose a general framework for minimizing the objective. We
+further leverage the $\ell_1$ and $\ell_p$ $(0<p<1)$, minimization techniques
+in compressive sensing to provide computationally tractable solutions to the
+$\ell_0$ minimization problem. Both synthetic and real data experiments
+demonstrate that the proposed algorithms significantly outperform
+state-of-the-art robust mean estimation methods.

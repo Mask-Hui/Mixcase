@@ -1,1 +1,11 @@
-In spite of its fundamental importance in quantum science and technology, the experimental certification of nonclassicality is still a challenging task, especially in realistic scenarios where losses and noise imbue the system. Here, we present the first experimental implementation of the recently introduced phase-space inequalities for nonclassicality certification, which conceptually unite phase-space representations with correlation conditions. We demonstrate the practicality and sensitivity of this approach by studying nonclassicality of a family of noisy and lossy quantum states of light. To this end, we experimentally generate single-photon-added thermal states with various thermal mean photon numbers and detect them at different loss levels. Based on the reconstructed wigner and husimi q functions, the inequality conditions detect nonclassicality despite the fact that the involved distributions are nonnegative, which includes cases of high losses (93%) and cases where other established methods do not reveal nonclassicality. We show the advantages of the implemented approach and discuss possible extensions that assure a wide applicability for quantum science and technologies.
+Aiming to estimate extreme precipitation forecast quantiles, we propose a
+nonparametric regression model that features a constant extreme value index.
+Using local linear quantile regression and an extrapolation technique from
+extreme value theory, we develop an estimator for conditional quantiles
+corresponding to extreme high probability levels. We establish uniform
+consistency and asymptotic normality of the estimators. In a simulation study,
+we examine the performance of our estimator on finite samples in comparison
+with a method assuming linear quantiles. On a precipitation data set in the
+Netherlands, these estimators have greater predictive skill compared to the
+upper member of ensemble forecasts provided by a numerical weather prediction
+model.

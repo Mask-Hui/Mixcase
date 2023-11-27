@@ -1,1 +1,15 @@
-We study the flow extension of graphs, i.e., pre-assigning a partial flow on the edges incident to a given vertex and aiming to extend to the entire graph. This is closely related to tutte's $3$-flow conjecture(1972) that every $4$-edge-connected graph admits a nowhere-zero $3$-flow and a $\mathbb{z}_3$-group connectivity conjecture(3gcc) of jaeger, linial, payan, and tarsi(1992) that every $5$-edge-connected graph $g$ is $\mathbb{z}_3$-connected. Our main results show that these conjectures are equivalent to their natural flow extension versions and present some applications. The $3$-flow case gives an alternative proof of kochol's result(2001) that tutte's $3$-flow conjecture is equivalent to its restriction on $5$-edge-connected graphs and is implied by the 3gcc. It also shows a new fact that gr{\"o}tzsch's theorem (that triangle-free planar graphs are $3$-colorable) is equivalent to its seemly weaker girth five case that planar graphs of grith $5$ are $3$-colorable. Our methods allow to verify 3gcc for graphs with crossing number one, which is in fact reduced to the planar case proved by richter, thomassen and younger(2017). Other equivalent versions of 3gcc and related partial results are obtained as well.
+The pileup of planets at periods of roughly one year and beyond is actually a
+bimodal peak with a wide, sharp gap splitting the peak of the pileup in a major
+population of large planets. Consisting of nearly 40\% of planets with periods
+past 200 days, the periods of the planets of metal-rich stars like the sun in
+surface gravity which do not have a stellar companion show two strong peaks
+separated by a sparsely populated region. Monte Carlo tests show that this
+structure is unlikely to occur in random distributions, and a comparison with
+objects from all the other populations show that this feature is unlikely to be
+due to observational effects. The peaks have their highest density next to the
+gap. These two peaks are most strongly seen in single-planet systems, though
+the gap persists in multiple planet systems. These features are likely
+characteristic of planets with masses not too much lower than Jupiter, and
+perhaps not too much higher. The presence of well-defined features in the
+period distribution show that planet formation may be much more uniform than
+previously expected.

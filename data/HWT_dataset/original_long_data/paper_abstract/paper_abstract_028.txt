@@ -1,1 +1,12 @@
-Let $\omega$ be a lipschitz polyhedral (can be nonconvex) domain in $\mathbb{r}^{3}$, and $v_{h}$ denotes the finite element space of continuous piecewise linear polynomials. On non-obtuse quasi-uniform tetrahedral meshes, we prove that the finite element projection $r_{h}u$ of $u \in h^{1}(\omega) \cap c(\overline{\omega})$ (with $r_{h} u$ interpolating $u$ at the boundary nodes) satisfies \begin{align*} \vert r_{h} u\vert_{l^{\infty}(\omega)} \leq c \vert \log h \vert \vert u\vert_{l^{\infty}(\omega)}. \end{align*} if we further assume $u \in w^{1,\infty}(\omega)$, then \begin{align*} \vert r_{h} u\vert_{w^{1, \infty}(\omega)} \leq c \vert \log h \vert \vert u\vert_{w^{1, \infty}(\omega)}. \end{align*}
+Over the past few years, there has been significant interest in video action
+recognition systems and models. However, direct comparison of accuracy and
+computational performance results remain clouded by differing training
+environments, hardware specifications, hyperparameters, pipelines, and
+inference methods. This article provides a direct comparison between fourteen
+off-the-shelf and state-of-the-art models by ensuring consistency in these
+training characteristics in order to provide readers with a meaningful
+comparison across different types of video action recognition algorithms.
+Accuracy of the models is evaluated using standard Top-1 and Top-5 accuracy
+metrics in addition to a proposed new accuracy metric. Additionally, we compare
+computational performance of distributed training from two to sixty-four GPUs
+on a state-of-the-art HPC system.

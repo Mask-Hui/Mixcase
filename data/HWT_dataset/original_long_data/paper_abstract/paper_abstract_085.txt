@@ -1,1 +1,17 @@
-Research has shown that neural models implicitly encode linguistic features, but there has been no research showing \emph{how} these encodings arise as the models are trained. We present the first study on the learning dynamics of neural language models, using a simple and flexible analysis method called singular vector canonical correlation analysis (svcca), which enables us to compare learned representations across time and across models, without the need to evaluate directly on annotated data. We probe the evolution of syntactic, semantic, and topic representations and find that part-of-speech is learned earlier than topic; that recurrent layers become more similar to those of a tagger during training; and embedding layers less similar. Our results and methods could inform better learning algorithms for nlp models, possibly to incorporate linguistic information more effectively.
+This paper aims to propose a novel large-signal order reduction (LSOR)
+approach for microgrids (MG) by embedding a stability and accuracy assessment
+theorem. Different from the existing order reduction methods, the proposed
+approach prevails mainly in two aspects. Firstly, the dynamic stability of
+full-order MG models can be assessed by only leveraging their derived
+reduced-order models and boundary layer models with our method. Specially, when
+the reduced-order system is input-to-state stable and the boundary layer system
+is uniformly globally asymptotically stable, the original MGs system can be
+proved to be stable under several common growth conditions. Secondly, a set of
+accuracy assessment criterion is developed and embedded into a tailored
+feedback mechanism to guarantee the accuracy of derived reduced model. It is
+proved that the errors between solutions of reduced and original models are
+bounded and convergent under such conditions. Strict mathematical proof for the
+proposed stability and accuracy assessment theorem is provided. The proposed
+LSOR method is generic and can be applied to arbitrary dynamic systems.
+Multiple case studies are conducted on MG systems to show the effectiveness of
+proposed approach.

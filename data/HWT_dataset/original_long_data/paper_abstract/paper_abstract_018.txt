@@ -1,1 +1,10 @@
-We develop theory of (possibly large) cotilting objects of injective dimension at most one in general grothendieck categories. We show that such cotilting objects are always pure-injective and that they characterize the situation where the grothendieck category is tilted using a torsion pair to another grothendieck category. We prove that for noetherian schemes with an ample family of line bundles a cotilting class is closed under injective envelopes if and only if it is invariant under twists by line bundles, and that such cotilting classes are parametrized by specialization closed subsets disjoint from the associated points of the scheme. Finally, we compute the cotilting sheaves of the latter type explicitly for curves as products of direct images of indecomposable injective modules or completed canonical modules at stalks.
+Quantization for probability distributions refers broadly to estimating a
+given probability measure by a discrete probability measure supported by a
+finite number of points. We consider general geometric approaches to
+quantization using stationary processes arising in dynamical systems, followed
+by a discussion of the special cases of stationary processes: random processes
+and Diophantine processes. We are interested in how close stationary process
+can be to giving optimal $n$-means and $n^{th}$ optimal mean distortion errors.
+We also consider different ways of measuring the degree of approximation by
+quantization, and their advantages and disadvantages in these different
+contexts.

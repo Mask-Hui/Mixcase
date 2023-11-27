@@ -1,1 +1,8 @@
-Deslib is an open-source python library providing the implementation of several dynamic selection techniques. The library is divided into three modules: (i) \emph{dcs}, containing the implementation of dynamic classifier selection methods (dcs); (ii) \emph{des}, containing the implementation of dynamic ensemble selection methods (des); (iii) \emph{static}, with the implementation of static ensemble techniques. The library is fully documented (documentation available online on read the docs), has a high test coverage (codecov.io) and is part of the scikit-learn-contrib supported projects. Documentation, code and examples can be found on its github page: https://github.com/scikit-learn-contrib/deslib.
+We study the collective radiative decay of a system of two two-level emitters
+coupled to a one-dimensional waveguide in a regime where their separation is
+comparable to the coherence length of a spontaneously emitted photon. The
+electromagnetic field propagating in the cavity-like geometry formed by the
+emitters exerts a retarded backaction on the system leading to strongly
+non-Markovian dynamics. The collective spontaneous emission rate of the
+emitters exhibits an enhancement or inhibition beyond the usual Dicke super-
+and sub-radiance due to a self-consistent coherent time-delayed feedback.

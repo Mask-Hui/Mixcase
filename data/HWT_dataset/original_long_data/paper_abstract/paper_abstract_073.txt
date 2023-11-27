@@ -1,1 +1,13 @@
-Elephant random walk is a kind of one-dimensional discrete-time random walk with infinite memory: for each step, with probability $\alpha$ the walker adopts one of his/her previous steps uniformly chosen at random, and otherwise he/she performs like a simple random walk (possibly with bias). It admits phase transition from diffusive to superdiffusive behavior at the critical value $\alpha_c=1/2$. For $\alpha \in (\alpha_c, 1)$, there is a scaling factor $a_n$ of order $n^{\alpha}$ such that the position $s_n$ of the walker at time $n$ scaled by $a_n$ converges to a nondegenerate random variable $w$, whose distribution is not gaussian. Our main result shows that the fluctuation of $s_n$ around $w \cdot a_n$ is still gaussian. We also give a description of phase transition induced by bias decaying polynomially in time.
+Unobserved spatial confounding variables are prevalent in environmental and
+ecological applications where the system under study is complex and the data
+are often observational. Instrumental variables (IVs) are a common way to
+address unobserved confounding; however, the efficacy of using IVs on spatial
+confounding is largely unknown. This paper explores the effectiveness of IVs in
+this situation -- with particular attention paid to the spatial scale of the
+instrument. We show that, in case of spatially-dependent treatments, IVs are
+most effective when they vary at a finer spatial resolution than the treatment.
+We investigate IV performance in extensive simulations and apply the model in
+the example of long term trends in the air pollution and cardiovascular
+mortality in the United States over 1990-2010. Finally, the IV approach is also
+extended to the spatial interference setting, in which treatments can affect
+nearby responses.

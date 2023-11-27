@@ -1,1 +1,19 @@
-Ultrahigh-resolution fiber-optic sensing has been demonstrated with a meter-long, high-finesse fiber fabry-perot interferometer (ffpi). The main technical challenge of large, environment-induced resonance frequency drift is addressed by locking the interrogation laser to a similar meter-long ffpi, which, along with the ffpi sensor, is thermally and mechanically isolated from the ambient. A nominal, noise-limited strain resolution of 800 f{\epsilon} /sqrt(hz) has been achieved within 1 to 100 hz. Strain resolution further improves to 75 f{\epsilon} /sqrt(hz) at 1 khz, 60 f{\epsilon} /sqrt(hz) at 2 khz and 40 f{\epsilon} /sqrt(hz) at 23 khz, demonstrating comparable or even better resolutions than proven techniques such as {\pi}-phase-shifted and slow-light fiber bragg gratings. Limitations of the current system are analyzed and improvement strategies are presented. The work lays out a feasible path toward ultrahigh-resolution fiber-optic sensing based on long ffpis.
+A novel framework is proposed for quality of experience (QoE)-driven
+deployment and dynamic movement of multiple unmanned aerial vehicles (UAVs).
+The problem of joint non-convex three-dimensional (3D) deployment and dynamic
+movement of the UAVs is formulated for maximizing the sum mean opinion score
+(MOS) of ground users, which is proved to be NP-hard. In the aim of solving
+this pertinent problem, a three-step approach is proposed for attaining 3D
+deployment and dynamic movement of multiple UAVs. Firstly, genetic algorithm
+based K-means (GAK-means) algorithm is utilized for obtaining the cell
+partition of the users. Secondly, Q-learning based deployment algorithm is
+proposed, in which each UAV acts as an agent, making their own decision for
+attaining 3D position by learning from trial and mistake. In contrast to
+conventional genetic algorithm based learning algorithms, the proposed
+algorithm is capable of training the direction selection strategy offline.
+Thirdly, Q-learning based movement algorithm is proposed in the scenario that
+the users are roaming. The proposed algorithm is capable of converging to an
+optimal state. Numerical results reveal that the proposed algorithms show a
+fast convergence rate after a small number of iterations. Additionally, the
+proposed Q-learning based deployment algorithm outperforms K-means algorithms
+and Iterative-GAKmean (IGK) algorithms with a low complexity.

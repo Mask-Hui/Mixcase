@@ -1,1 +1,19 @@
-This paper addresses the problem of selecting an optimal sampling set for signals on graphs. The proposed sampling set selection (sss) is based on a localization operator that can consider both vertex domain and spectral domain localization. We clarify the relationships among the proposed method, sensor position selection methods in machine learning, and conventional sss methods based on graph frequency. In contrast to the conventional graph signal processing-based approaches, the proposed method does not need to compute the eigendecomposition of a variation operator, while still considering (graph) frequency information. We evaluate the performance of our approach through comparisons of prediction errors and execution time.
+In recent years, deep learning (DL) has contributed significantly to the
+improvement of motor-imagery brain-machine interfaces (MI-BMIs) based on
+electroencephalography(EEG). While achieving high classification accuracy, DL
+models have also grown in size, requiring a vast amount of memory and
+computational resources. This poses a major challenge to an embedded BMI
+solution that guarantees user privacy, reduced latency, and low power
+consumption by processing the data locally. In this paper, we propose
+EEG-TCNet, a novel temporal convolutional network (TCN) that achieves
+outstanding accuracy while requiring few trainable parameters. Its low memory
+footprint and low computational complexity for inference make it suitable for
+embedded classification on resource-limited devices at the edge. Experimental
+results on the BCI Competition IV-2a dataset show that EEG-TCNet achieves
+77.35% classification accuracy in 4-class MI. By finding the optimal network
+hyperparameters per subject, we further improve the accuracy to 83.84%.
+Finally, we demonstrate the versatility of EEG-TCNet on the Mother of All BCI
+Benchmarks (MOABB), a large scale test benchmark containing 12 different EEG
+datasets with MI experiments. The results indicate that EEG-TCNet successfully
+generalizes beyond one single dataset, outperforming the current
+state-of-the-art (SoA) on MOABB by a meta-effect of 0.25.

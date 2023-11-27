@@ -1,1 +1,11 @@
-The establishment of a world-wide quantum communication network relies on the synergistic integration of satellite-based links and fiber-based networks. The first are helpful for long-distance communication, as the photon losses introduced by the optical fibers are too detrimental for lengths greater than about 200 km. This work aims at giving, on the one hand, a comprehensive and fundamental model for the losses suffered by the quantum signals during the propagation along an atmospheric free-space link. On the other hand, a performance analysis of different quantum key distribution (qkd) implementations is performed, including finite-key effects, focusing on different interesting practical scenarios. The specific approach that we chose allows to precisely model the contribution due to different weather conditions, paving the way towards more accurate feasibility studies of satellite-based qkd missions.
+When forecasting time series with a hierarchical structure, the existing
+state of the art is to forecast each time series independently, and, in a
+post-treatment step, to reconcile the time series in a way that respects the
+hierarchy (Hyndman et al., 2011; Wickramasuriya et al., 2018). We propose a new
+loss function that can be incorporated into any maximum likelihood objective
+with hierarchical data, resulting in reconciled estimates with confidence
+intervals that correctly account for additional uncertainty due to imperfect
+reconciliation. We evaluate our method using a non-linear model and synthetic
+data on a counterfactual forecasting problem, where we have access to the
+ground truth and contemporaneous covariates, and show that we largely improve
+over the existing state-of-the-art method.

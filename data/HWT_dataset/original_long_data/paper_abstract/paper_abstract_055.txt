@@ -1,1 +1,15 @@
-We carried out a comprehensive study of magnetic critical behavior in single crystals of ternary chalcogenide fecr$_2$te$_4$ that undergoes a ferrimagnetic transition below $t_c$ $\sim$ 123 k. Detailed critical behavior analysis and scaled magnetic entropy change indicate a second-order ferrimagentic transition. Critical exponents $\beta = 0.30(1)$ with $t_c = 122.4(5)$ k, $\gamma = 1.22(1)$ with $t_c = 122.8(1)$ k, and $\delta = 4.24(2)$ at $t_c$ $\sim$ 123 k suggest that the spins approach three-dimensional ising ($\beta$ = 0.325, $\gamma$ = 1.24, and $\delta$ = 4.82) model coupled with the attractive long-range interactions between spins that decay as $j(r)\approx r^{-4.88}$. Our results suggest that the ferrimagnetism in fecr$_2$te$_4$ is due to itinerant ferromagnetism among the antiferromagnetically coupled cr-fe-cr trimers.
+A common practice in many auctions is to offer bidders an opportunity to
+improve their bids, known as a Best and Final Offer (BAFO) stage. This final
+bid can depend on new information provided about either the asset or the
+competitors. This paper examines the effects of new information regarding
+competitors, seeking to determine what information the auctioneer should
+provide assuming the set of allowable bids is discrete. The rational strategy
+profile that maximizes the revenue of the auctioneer is the one where each
+bidder makes the highest possible bid that is lower than his valuation of the
+item. This strategy profile is an equilibrium for a large enough number of
+bidders, regardless of the information released. We compare the number of
+bidders needed for this profile to be an equilibrium under different
+information settings. We find that it becomes an equilibrium with fewer bidders
+when less additional information is made available to the bidders regarding the
+competition. It follows that when the number of bidders is a priori unknown,
+there are some advantages to the auctioneer to not reveal information.

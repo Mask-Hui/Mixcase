@@ -1,1 +1,23 @@
-Error-detection and correction are necessary prerequisites for any scalable quantum computing architecture. Given the inevitability of unwanted physical noise in quantum systems and the propensity for errors to spread as computations proceed, computational outcomes can become substantially corrupted. This observation applies regardless of the choice of physical implementation. In the context of photonic quantum information processing, there has recently been much interest in passive linear optics quantum computing, which includes boson-sampling, as this model eliminates the highly-challenging requirements for feed-forward via fast, active control. That is, these systems are passive by definition. In usual scenarios, error detection and correction techniques are inherently active, making them incompatible with this model, arousing suspicion that physical error processes may be an insurmountable obstacle. Here we explore a photonic error-detection technique, based on w-state encoding of photonic qubits, which is entirely passive, based on post-selection, and compatible with these near-term photonic architectures of interest. We show that this w-state redundant encoding techniques enables the suppression of dephasing noise on photonic qubits via simple fan-out style operations, implemented by optical fourier transform networks, which can be readily realised today. The protocol effectively maps dephasing noise into heralding failures, with zero failure probability in the ideal no-noise limit. We present our scheme in the context of a single photonic qubit passing through a noisy communication or quantum memory channel, which has not been generalised to the more general context of full quantum computation.
+We develop a stochastic theory that treats time-dependent exciton-exciton
+s-wave scattering and that accounts for dynamic Coulomb screening, which we
+describe within a mean-field limit. With this theory, we model
+excitation-induced dephasing effects on time-resolved two-dimensional coherent
+optical lineshapes and we identify a number of features that can be attributed
+to the many-body dynamics occurring in the background of the exciton, including
+dynamic line narrowing, mixing of real and imaginary spectral components, and
+multi-quantum states. We test the model by means of multidimensional coherent
+spectroscopy on a two-dimensional metal-halide semiconductor that hosts tightly
+bound excitons and biexcitons that feature strong polaronic character. We find
+that the exciton nonlinear coherent lineshape reflects many-body correlations
+that give rise to excitation-induced dephasing. Furthermore, we observe that
+the exciton lineshape evolves with population time over time windows in which
+the population itself is static, in a manner that reveals the evolution of the
+multi-exciton many-body couplings. Specifically, the dephasing dynamics slow
+down with time, at a rate that is governed by the strength of exciton many-body
+interactions and on the dynamic Coulomb screening potential. The real part of
+the coherent optical lineshape displays strong dispersive character at zero
+time, which transforms to an absorptive lineshape on the dissipation timescale
+of excitation-induced dephasing effects, while the imaginary part displays
+converse behavior. Our microscopic theoretical approach is sufficiently
+flexible to allow for a wide exploration of how system-bath dynamics contribute
+to linear and non-linear time-resolved spectral behavior.

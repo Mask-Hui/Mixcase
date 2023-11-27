@@ -1,1 +1,13 @@
-We study the three-body decay of the newly observed bottom baryon $\lambda_b^*(6072)$ by lhcb; $\lambda_b^*(6072) \to \lambda_b \pi \pi$. Its mass about 500 mev above the ground state $\lambda_b$ and a broad width imply that the state could be an analogue of the roper resonance of the nucleon $n(1440)$. In terms of sequential processes going through $\sigma_b$ and $\sigma_b^*$, we find that the observed invariant mass distribution is reproduced assuming its spin and parity $j^p = 1/2^+$. We discuss that the ratio of the two sequential processes and angular correlation of two pions are useful for the determination of spin and parity. We suggest further studies for the roper resonance analogue in various flavor contents, raising an interesting and important question in baryon spectroscopy.
+Narrow linewidth optical atomic transitions provide a valuable resource for
+frequency metrology, and form the basis of today's most precise and accurate
+clocks. Recent experiments have demonstrated that ensembles of atoms can be
+interfaced with the mode of an optical cavity using such transitions, and that
+atom-cavity interactions can dominate over decoherence processes even when the
+atomic transition that mediates the interactions is very weak. This scenario
+enables new opportunities for optical frequency metrology, including techniques
+for nondestructive readout and entanglement enhancement for optical lattice
+clocks, methods for cavity-enhanced laser frequency stabilization, and
+high-precision active optical frequency references based on superradiant
+emission. This tutorial provides a pedagogical description of the physics
+governing atom-cavity coupling with narrow linewidth optical transitions, and
+describes several examples of applications to optical frequency metrology.

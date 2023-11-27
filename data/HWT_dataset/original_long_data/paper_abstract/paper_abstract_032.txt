@@ -1,1 +1,17 @@
-We present gyrokinetic simulations with the gene code addressing the near-edge region of an l-mode plasma in the diii-d tokamak. At radial position $\rho=0.80$, simulations with the ion temperature gradient increased by $40\%$ above the nominal value give electron and ion heat fluxes that are in simultaneous agreement with the experiment. This gradient increase is consistent with the combined statistical and systematic uncertainty $\sigma$ of the charge exchange recombination spectroscopy (cer) measurements at the $1.6 \sigma$ level. Multi-scale simulations are carried out with realistic mass ratio and geometry for the first time in the near-edge. These multi-scale simulations suggest that the highly unstable ion temperature gradient (itg) modes of the flux-matched ion-scale simulations suppress electron-scale transport, such that ion-scale simulations are sufficient at this location. At radial position $\rho=0.90$, nonlinear simulations show a hybrid state of itg and trapped electron modes~(tems), which was not expected from linear simulations. The nonlinear simulations reproduce the total experimental heat flux with the inclusion of $\mathbf{e} \times \mathbf{b}$ shear effects and an increase in the electron temperature gradient by $\sim 23\%$. This gradient increase is compatible with the combined statistical and systematic uncertainty of the thomson scattering data at the $1.3 \sigma$ level. These results are consistent with previous findings that gyrokinetic simulations are able to reproduce the experimental heat fluxes by varying input parameters close to their experimental uncertainties, pushing the validation frontier closer to the edge region.
+We have estimated centrality variation of chemical freeze-out parameters from
+yield data at mid-rapidity of $\pi^\pm$, $K^\pm$ and $p$, $\bar{p}$ for
+collision energies of RHIC (Relativistic Heavy Ion Collider), Beam Energy Scan
+(RHIC-BES) program, and LHC (Large Hadron Collider). We have considered a
+simple hadron resonance gas model and employed a formalism involving conserved
+charges ($B, Q, S$) of QCD for parameterization. Along with temperature and
+three chemical potentials ($T,\mu_B,\mu_Q,\mu_S$), a strangeness
+under-saturation factor ($\gamma_S$) has been used to incorporate the partial
+equilibration in the strange sector. Our obtained freeze-out temperature does
+not vary much with centrality, whereas chemical potentials and $\gamma_S$ seem
+to have a significant dependence. The strange hadrons are found to deviate from
+a complete chemical equilibrium at freeze-out at the peripheral collisions.
+This deviation appears to be more prominent as the collision energy decreases
+at lower RHIC-BES energies. We have also shown that this departure from
+equilibrium reduces towards central collisions, and strange particle
+equilibration may happen after a threshold number of participants in $A$-$A$
+collision.

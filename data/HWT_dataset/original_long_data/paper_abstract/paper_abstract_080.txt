@@ -1,1 +1,14 @@
-The study of temporal networks is motivated by the simple and important observation that just as network structure can affect dynamics, so can structure in time. Just as network topology can teach us about the system in question, so can its temporal characteristics. In many cases, leaving out either one of these components would lead to an incomplete understanding of the system or poor predictions. We argue that including time into network modeling inevitably leads researchers away from the trodden paths of network science. Temporal network theory requires something different -- new methods, new concepts, new questions -- compared to static networks. In this introductory chapter, we overview the ideas that the field of temporal networks has brought forward in the last decade. We also place the contributions to the current volume on this map of temporal-network approaches.
+Recent work has shown that two-dimensional non-linear $\sigma$-models on
+group manifolds with Poisson-Lie symmetry can be understood within generalised
+geometry as exemplars of generalised parallelisable spaces. Here we extend this
+idea to target spaces constructed as double cosets $M=\widetilde{G} \backslash
+D / H$. Mirroring conventional coset geometries, we show that on $M$ one can
+construct a generalised frame field and a $H$-valued generalised spin
+connection that together furnish an algebra under the generalised Lie
+derivative. This results naturally in a generalised covariant derivative with a
+(covariantly) constant generalised intrinsic torsion, lending itself to the
+construction of consistent truncations of 10-dimensional supergravity
+compactified on $M$. An important feature is that $M$ can admit distinguished
+points, around which the generalised tangent bundle should be augmented by
+localised vector multiplets. We illustrate these ideas with explicit examples
+of two-dimensional parafermionic theories and NS5-branes on a circle.

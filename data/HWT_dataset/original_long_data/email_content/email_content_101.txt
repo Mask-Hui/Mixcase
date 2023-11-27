@@ -1,1 +1,62 @@
-Kate symes 6-27-02.nsf it's been changed to prebon. Kate evelyn metoyer@enron 03/13/2001 02:55 pm to: kate symes/pdx/ect@ect cc: subject: re: 3/13 checkout yes i think deal 549010 should be prebon instead of amerex. Thanks!! kate symes @ ect 03/13/2001 04:39 pm to: evelyn metoyer/corp/enron@enron cc: subject: re: 3/13 checkout prebon sean crandall 549048 - changed to np diana scholtes prebon broker said our price (215) and del. Point (cob) are right jeff richter 549013 - changed to apb 549010 - enron buys bp/apr01/np/peak/207.00 (in with amerex - should it be prebon?) chris mallory - just entered williams deal evelyn metoyer@enron 03/13/2001 02:27 pm to: kate symes/pdx/ect@ect cc: subject: 3/13 checkout amerex all deals checked out fine prebon sean crandall deal 549048 prebon shows del. Point as np-15 diana scholtes deal 549053 prebon shows price as $141 and delivery pt as mid-c jeff richter deal 549013 prebon does not recognize i am missing the following: 1) enron buys from bp energy 25 mw of april'01 np-15 peak hrs at $207 2) enron buys williams 25 mw of sp-15 of april'01 off-peak hrs at $107 bloomberg all deals checked out fine.
+DPERLIN (Non-Privileged).pst
+
+Please call me when you arrive.  Thanks
+
+
+ -----Original Message-----
+From: =09Perlingiere, Debra =20
+Sent:=09Friday, October 19, 2001 5:11 PM
+To:=09Mims, Patrice L.
+Subject:=09Central Illinois Confirm
+
+
+ I would like to use the following for the Flexible Pricing.   The last sen=
+tence  regarding the keep whole verbiage I think you will want to delete th=
+is as it does not allow for Force Majeure.
+
+ FLEXIBLE PRICING: During the Period of Delivery for a Transaction, Custome=
+r may request a price other than the original Contract Price, being a Fixed=
+ Price or (each below defined) by contacting Company during Pricing Hours r=
+equesting any such price for a specified quantity of Gas to be Scheduled du=
+ring selected Months within the Period of Delivery; provided, such request =
+must be made prior to 12:00 noon C.T. of the last Business Day prior to the=
+ last trading Day of the NYMEX Gas futures contract for the selected Month.=
+  A Confirmation may be sent by Company to Customer confirming the Flexible=
+ Pricing agreement in accordance with Exhibit "A" "Fixed Price" means a fix=
+ed dollar amount agreed to by the Parties.  The price for all Gas for which=
+ a Flexible Price has not been agreed by the Parties shall be the original =
+Contract Price applicable to the Transaction.  "Notwithstanding anything to=
+ the contrary contained in this Confirmation or the GTC, upon Customer's ac=
+ceptance of Fixed Price, Customer shall keep whole and hold Company harmles=
+s for all cost and expenses incurred by Company with respect to the quantit=
+y of Gas that is converted into a Fixed Price, in the event that such quant=
+ity of Gas is not Scheduled by Customer for any reasons, including without =
+limitation events of Force Majeure.
+
+For the Section "Daily Pricing for Physical for Physical Call Option" =20
+
+Daily Pricing means the "Daily Midpoint" price set forth in Gas Daily
+ Platts, a division of The McGraw-Hill Companies, or successor publication,=
+ in the column "Daily Price Survey" under the listing applicable to the geo=
+graphic location closest in proximity to the Delivery Point(s) for the rele=
+vant gas day.  If there is no single "Daily Midpoint" price published for t=
+hat particular Gas Day, but there is published a "Common" range of prices u=
+nder the above column and listing, then the Spot Price shall be the average=
+ of such "Common" high and low prices.  In the event that no 'Daily Midpoin=
+t" price or "Common" range of prices is published for that particular Gas D=
+ay, then the Spot Price shall be the average of the following: the price (d=
+etermined as stated above) for each of the first Gas Day immediately preced=
+ing and following the Gas Day in which the default occurred for which a Spo=
+t Price can be determined.
+
+Let  me know what you think.
+
+dp
+
+Debra Perlingiere
+Enron North America Legal
+1400 Smith Street, EB 3885
+Houston, Texas 77002
+Debra.Perlingiere@enron.com
+713-853-7658
+713-646-3490 Fax

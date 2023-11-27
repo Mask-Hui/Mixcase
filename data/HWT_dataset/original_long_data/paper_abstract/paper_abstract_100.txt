@@ -1,1 +1,12 @@
-Plasmonic excitations such as surface-plasmon-polaritons (spps) and graphene-plasmons (gps), carry large momenta and are thus able to confine electromagnetic fields to small dimensions. This property makes them ideal platforms for subwavelength optical control and manipulation at the nanoscale. The momenta of these plasmons are even further increased if a scheme of metal-insulator-metal and graphene-insulator-metal are used for spps and gps, respectively. However, with such large momenta, their far-field excitation becomes challenging. In this work, we consider hybrids of graphene and metallic nanostructures and study the physical mechanisms behind the interaction of far-field light with the supported high momenta plasmon modes. While there are some similarities in the properties of gps and spps, since both are of the plasmon-polariton type, their physical properties are also distinctly different. For gps we find two different physical mechanism related to either gps confined to isolated cavities, or large area collective grating couplers. Strikingly, we find that although the two systems are conceptually different, under specific conditions they can behave similarly. By applying the same study to spps, we find a different physical behavior, which fundamentally stems from the different dispersion relations of spps as compared to gps. Furthermore, these hybrids produce large field enhancements that can also be electrically tuned and modulated making them the ideal candidates for a variety of plasmonic devices.
+We present a new training scheme for streaming automatic speech recognition
+(ASR) based on recurrent neural network transducers (RNN-T) which allows the
+encoder network to benefit from longer audio streams as input, while only
+requiring partial transcriptions of such streams during training. We show that
+this extension of the acoustic context during training and inference can lead
+to word error rate reductions of more than 6% in a realistic production
+setting. We investigate its effect on acoustically challenging data containing
+background speech and present data points which indicate that this approach
+helps the network learn both speaker and environment adaptation. Finally, we
+visualize RNN-T loss gradients with respect to the input features in order to
+illustrate the ability of a long short-term memory (LSTM) based ASR encoder to
+exploit long-term context.

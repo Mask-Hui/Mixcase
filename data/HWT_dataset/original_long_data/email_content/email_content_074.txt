@@ -1,1 +1,135 @@
-Dbaughm.nsf fyi........ ---------------------- forwarded by terri clynes/hou/ect on 12/15/2000 10:07 am --------------------------- "dan s. Fredrickson" <ds.fredrickson@mapp.org>@mapp.org on 12/14/2000 10:36:17 am sent by: owner-pemc@mapp.org to: <rtc@mapp.org>, <pemc@mapp.org>, <mrc@mapp.org>, <rin@mapp.org> cc: subject: re: notice of pending changes (effective 12/18/2000) to mapp's loss repayment procedure as previously noticed, changes to mapp's lrp will take effect on 12/18/2000. Additional information, including lrp loss matrices, examples of calculating lrp loss amounts and tables cross-referencing oasis and lrp/scheds information can be found at the following url: http://mappoac3.oasis.mapp.org/oac/oac2/lrp/lrp.html a link to this web page is also provided under the schedule f oasis page's "provider information" link. Please contact on of the following mapp transmission operations staff if you have questions about the new procedures: bill kunkel 651-632-8573 bill tate 651-632-8403 tom white 651-632-8407 dan fredrickson mapp transmission operations -----original message----- from: dan s. Fredrickson [mailto:ds.fredrickson@mapp.org] sent: friday, november 17, 2000 5:22 pm to: 'rtc@mapp.org'; 'pemc@mapp.org'; 'mrc@mapp.org'; 'rin@mapp.org' subject: notice of pending changes (effective 12/18/2000) to mapp's loss repayment procedure notice of new mapp loss repayment policies and procedures at the direction of the regional transmission committee of mapp, new loss repayment policies and procedures will be implemented on december 18, 2000. These changes make the transmission customer, as identified on the oasis reservation, responsible for paying energy losses on mapp schedule f transmission service. Previously, the mapp source entity has been responsible for paying these losses. These changes do not modify the application of mapp's loss repayment procedure (lrp) to mapp member open access transmission tariff (oatt) customers. Changes to the administration of schedule f loss repayment include: o the schedule f transmission customer will now be responsible for the lrp losses on their energy schedules. O payment of third party impacts due to "through flowing" schedule f transactions (where the source and sink are both outside mapp) will be included in the lrp. O to facilitate the payment of third party losses, the customer will make arrangements with the source scheduling participant (ssp), as defined on the transmission reservation, to pay for energy transaction losses at the onset of a schedule. O the ssp will bank the losses for repayment of third party losses, one week later, to the day. The repayment is done, as it is today, according to a schedule sent out by the mapp center. For additional information please see the business practices section of mapp's schedule f oasis: http://mapp.oasis.mapp.org/documents/mapp/practices.html questions may be e-mailed to tom white at the mapp center: ts.white@mapp.org answers to frequently asked questions will be posted at the url given above. A copy of the revised section five of the policies and procedures document is attached. Dan fredrickson mapp transmission operations << file: lrppolicy20001218.doc >>
+sshackle.nsf
+
+Notice No. 00-338
+October 3, 2000
+
+MEMORANDUM
+
+TO: ALL NYMEX AND COMEX MEMBERS
+
+FROM: Neal L. Wolkoff, Executive Vice President
+
+DATE: October 3, 2000
+
+RE: Notice of CFTC Approval of New NYMEX Rule 6.40C: ("Average Price 
+Calculations by Futures Commission Merchants")
+
+Please be advised that the CFTC has approved new NYMEX Rule 6.40C ("Average 
+Price Calculations by Futures Commission Merchants"), which is attached and 
+is now in effect.
+
+New NYMEX Rule 6.40C, which is consistent with a recent CFTC "Advisory," 
+permits FCMs, under certain conditions specified in the rule, to use their 
+own internal, proprietary systems to generate average price ("AP")  
+calculations when multiple prices are received on an order or series of 
+orders.  AP calculations are not being provided by the Exchange for NYMEX 
+Division contracts.
+
+New NYMEX Rule 6.40C is applicable only to NYMEX Division contracts.  A 
+similar proposal for COMEX Division contracts remains pending with the CFTC.
+
+The conditions specified in NYMEX Rule 6.40C include the following:
+
+1. The customer has requested average price reporting;
+2. Each individual trade is submitted to and cleared by the Exchange at the 
+executed price;
+3. The FCM calculates and confirms to its customers a weighted mathematical 
+average price;
+4. The FCM possesses the records to support the calculations and the 
+allocations to customer accounts and maintains all such records pursuant to 
+CFTC regulations and further makes such records available for inspection by 
+affected customers upon request; and
+5. The FCM identifies each trade to which an average price is assigned as 
+having an average price on each confirmation statement and monthly statement 
+on which the trade is reported to the customer.
+
+If you have any questions, please contact Tom LaSala, Vice President, 
+Compliance Department, at (212) 299-2897, or Brian Regan, Senior Associate 
+General Counsel, at (212) 299-2207.
+Approved New NYMEX Rule 6.40C
+
+("Average Price Calculations by Futures Commission Merchants")
+
+(Entire rule is new.)
+
+Rule 6.40C Average Price Calculations by Futures Commission Merchants
+
+(A) Eligible Accounts.  An FCM, subject to compliance with the conditions 
+specified in this rule, may report and/or confirm to customers an average of 
+multiple execution prices and may use its own proprietary system to make such 
+average price calculations, regardless of whether the Exchange also provides 
+a service for average price calculations for the applicable NYMEX Division 
+contract, provided:
+
+(a) that such prices were obtained as the result of the execution of an order 
+or series of orders to purchase or sell the same futures and/or the same 
+option series for the same account or group of accounts; or
+
+(b) that such prices were obtained as the result of the execution of trades 
+to purchase or sell the same futures and/or the same option series for the 
+FCM's proprietary account(s), provided further however, that trades for such 
+a proprietary account are not averaged with trades for any other account.
+
+For purposes of this rule, eligible accounts may include multiple accounts 
+that are part of a managed account program or other common investment 
+program.  Eligible accounts may include individual non-discretionary 
+accounts, except that prices for non-discretionary accounts may not be 
+averaged with prices for other non-discretionary accounts.  Eligible accounts 
+also may include individual discretionary accounts consistent with the 
+provisions of Exchange Rule 6.41.
+
+(B) An  FCM may use its own system to calculate average prices for contracts 
+executed on the Exchange provided that the following conditions are met for 
+all such transactions:
+
+1. The customer has requested average price reporting;
+
+2. Each individual trade is submitted to and cleared by the Exchange at the 
+executed price;
+
+3. The FCM calculates and confirms to its customers a weighted mathematical 
+average price, as calculated pursuant to the requirements of Section (C) 
+below;
+
+4. The FCM possesses the records to support the calculations and the 
+allocations to customer accounts and maintains all such records pursuant to 
+CFTC regulations and further makes such records available for inspection by 
+affected customers upon request; and
+
+5. The FCM identifies each trade to which an average price is assigned as 
+having an average price on each confirmation statement and monthly statement 
+on which the trade is reported to the customer.
+
+(C) Calculation of Average Price.  The weighted mathematical average price 
+shall be computed by FCMs by:
+
+(a) multiplying the number of contracts purchased or sold at each execution 
+price by that price;
+
+(b) adding the results together; and
+
+(c) dividing by the total number of contracts.
+
+For a series of orders, the average price may be computed based on the 
+average price of each order in that series.
+
+FCMs may confirm to customers either the actual average price or the average 
+price rounded to the next price increment, provided however, that in 
+confirming the average price rounded to the next price increment, the FCM 
+must round the average price up to the next price increment for a buy order 
+or down to the next price increment for a sell order, and must pay any 
+residual thus created to the customer, except that any residual amount of 
+less than one cent may be retained by the FCM.
+
+
+
+__________________________________________________
+Please click on the link below to indicate you have received this
+email.
+
+"http://208.206.41.61/email/email_log.cfm?useremail=sara.shackleton@enron.com&
+refdoc=(00-338)"
+
+Note: If you click on the above line and nothing happens, please copy
+the text between the quotes, open your internet browser,
+paste it into the web site address and press Return.

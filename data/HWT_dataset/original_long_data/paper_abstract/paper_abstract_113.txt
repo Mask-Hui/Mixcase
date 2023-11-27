@@ -1,1 +1,18 @@
-We identify a class of dressed atom-photon states formingat the same energy of the atom at any coupling strength. As a hallmark, their photonic component is an eigenstate of the bare photonic bath with a vacancy in place of the atom. The picture accommodates waveguide-qed phenomena where atoms behave as perfect mirrors, connecting in particular dressed bound states (bs) in the continuum or bic with geometrically-confined photonic modes. When applied to photonic lattices, the framework provides a general criterion to predict dressed bs in lattices with topological properties by putting them in one-to-one correspondence with photonic bs. New classes of dressed bs are thus predicted in the photonic creutz-ladder and haldane models. In the latter case, states with non-zero local photon flux occur, where an atom is dressed by a photon orbiting around it.
+The recently discovered gravitational wave sources GW190521 and GW190814 have
+shown evidence of BH mergers with masses and spins that could be outside of the
+range expected from isolated stellar evolution. These merging objects could
+have undergone previous mergers. Such hierarchical mergers are predicted to be
+frequent in active galactic nuclei (AGN) disks, where binaries form and evolve
+efficiently by dynamical interactions and gaseous dissipation. Here we compare
+the properties of these observed events to the theoretical models of mergers in
+AGN disks, which are obtained by performing one-dimensional $N$-body
+simulations combined with semi-analytical prescriptions. The high BH masses in
+GW190521 are consistent with mergers of high-generation (high-g) BHs where the
+initial progenitor stars had high metallicity, 2g BHs if the original
+progenitors were metal-poor, or 1g BHs that had gained mass via super-Eddington
+accretion. Other measured properties related to spin parameters in GW190521 are
+also consistent with mergers in AGN disks. Furthermore, mergers in the lower
+mass gap or those with low mass ratio as found in GW190814 and GW190412 are
+also reproduced by mergers of 2g-1g or 1g-1g objects with significant accretion
+in AGN disks. Finally, due to gas accretion, the massive neutron star merger
+reported in GW190425 can be produced in an AGN disk.

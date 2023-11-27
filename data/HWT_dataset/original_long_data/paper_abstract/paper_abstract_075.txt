@@ -1,1 +1,12 @@
-Amdeberhan's conjectures on the enumeration, the average size, and the largest size of $(n,n+1)$-core partitions with distinct parts have motivated many research on this topic. Recently, straub and nath-sellers obtained formulas for the numbers of $(n, dn-1)$ and $(n, dn+1)$-core partitions with distinct parts, respectively. Let $x_{s,t}$ be the size of a uniform random $(s,t)$-core partition with distinct parts when $s$ and $t$ are coprime to each other. Some explicit formulas for the $k$-th moments $\mathbb{e} [x_{n,n+1}^k]$ and $\mathbb{e} [x_{2n+1,2n+3}^k]$ were given by zaleski and zeilberger when $k$ is small. Zaleski also studied the expectation and higher moments of $x_{n,dn-1}$ and conjectured some polynomiality properties concerning them in arxiv:1702.05634. Motivated by the above works, we derive several polynomiality results and asymptotic formulas for the $k$-th moments of $x_{n,dn+1}$ and $x_{n,dn-1}$ in this paper, by studying the beta sets of core partitions. In particular, we show that these $k$-th moments are asymptotically some polynomials of n with degrees at most $2k$, when $d$ is given and $n$ tends to infinity. Moreover, when $d=1$, we derive that the $k$-th moment $\mathbb{e} [x_{n,n+1}^k]$ of $x_{n,n+1}$ is asymptotically equal to $\left(n^2/10\right)^k$ when $n$ tends to infinity. The explicit formulas for the expectations $\mathbb{e} [x_{n,dn+1}]$ and $\mathbb{e} [x_{n,dn-1}]$ are also given. The $(n,dn-1)$-core case in our results proves several conjectures of zaleski on the polynomiality of the expectation and higher moments of $x_{n,dn-1}$.
+We derive a topological classification of the steady states of
+$d$-dimensional lattice models driven by $D$ incommensurate tones. Mapping to a
+unifying $(d+D)$-dimensional localized model in frequency space reveals
+anomalous localized topological phases (ALTPs) with no static analog. While the
+formal classification is determined by $d+D$, the observable signatures of each
+ALTP depend on the spatial dimension $d$. For each $d$, with $d+D=3$, we
+identify a quantized circulating current, and corresponding topological edge
+states. The edge states for a driven wire ($d=1$) function as a quantized,
+nonadiabatic energy pump between the drives. We design concrete models of
+quasiperiodically driven qubits and wires that achieve ALTPs of several
+topological classes. Our results provide a route to experimentally access
+higher dimensional ALTPs in driven low-dimensional systems.

@@ -1,1 +1,21 @@
-Tjones.nsf thanks. Do we still have the materials from the workshop that could be forwarded to jane? mark taylor 10/25/2000 04:55 pm to: alan aronowitz/hou/ect@ect cc: tana jones/hou/ect@ect subject: re: isda master documentation workshop unfortunately euromoney is no longer offering their courses. They were by far the best around and it's a real shame. There is a pli course being offered in ny in mid november (at which i'm speaking on commodity derivatives) and isda has a conference in london on collateral arrangements and the isda credit support documents. Neither is anywhere near as good as the old euromoney courses but both would probably benefit jane. Alan aronowitz 10/25/2000 04:16 pm to: tana jones/hou/ect@ect, mark taylor/hou/ect@ect cc: subject: isda master documentation workshop are either of you aware of any master documentation workshops being offered in nyc or london in the next few months that would be worthwhile for jane mcbride to attend? i remember several years ago going to a program that euromoney (or eurocurrency) put on for 2-days focusing on isda's. Please advise. Thanks.
+rbuy.nsf
+
+fyi, rick
+---------------------- Forwarded by Rick Buy/HOU/ECT on 12/05/2000 07:54 AM 
+---------------------------
+
+
+John L Nowlan
+12/04/2000 05:53 PM
+To: Rick Buy/HOU/ECT@ECT, Jeffrey A Shankman/HOU/ECT@ECT, Mike 
+McConnell/HOU/ECT@ECT
+cc:  
+Subject: VAR
+
+Recognizing we were just below daily VAR limits today, coupled with the high 
+volatility in the crude and products markets, we attempted to do an interday 
+calc. Unfortunately it took us some time to get the right person but we did 
+succeed in getting an  estimate right at the close which showed we were very 
+near our limits as we were yesterday. I flag this up to point out it is 
+critical in these ,markets that we have some cover or know who we can call if 
+we need this type of interday analysis.

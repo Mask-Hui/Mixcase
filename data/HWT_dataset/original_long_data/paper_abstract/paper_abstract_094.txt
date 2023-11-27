@@ -1,1 +1,12 @@
-Cosmology is well suited to study the effects of long range interactions due to the large densities in the early universe. In this article, we explore how the energy density and equation of state of a fermion system diverge from the commonly assumed ideal gas form under the presence of scalar long range interactions with a range much smaller than cosmological scales. In this scenario, "small"-scale physics can impact our largest-scale observations. As a benchmark, we apply the formalism to self-interacting neutrinos, performing an analysis to present and future cosmological data. Our results show that the current cosmological neutrino mass bound is fully avoided in the presence of a long range interaction, opening the possibility for a laboratory neutrino mass detection in the near future. We also demonstrate an interesting complementarity between neutrino laboratory experiments and the future euclid survey.
+Pascal's Theorem gives a synthetic geometric condition for six points
+$a,\ldots,f$ in $\mathbb{P}^2$ to lie on a conic. Namely, that the intersection
+points $\overline{ab}\cap\overline{de}$, $\overline{af}\cap\overline{dc}$,
+$\overline{ef}\cap\overline{bc}$ are aligned. One could ask an analogous
+question in higher dimension: is there a coordinate-free condition for $d+4$
+points in $\mathbb{P}^d$ to lie on a degree $d$ rational normal curve? In this
+paper we find many of these conditions by writing in the Grassmann-Cayley
+algebra the defining equations of the parameter space of $d+4$ ordered points
+in $\mathbb{P}^d$ that lie on a rational normal curve. These equations were
+introduced and studied in a previous joint work of the authors with
+Giansiracusa and Moon. We conclude with an application in the case of seven
+points on a twisted cubic.

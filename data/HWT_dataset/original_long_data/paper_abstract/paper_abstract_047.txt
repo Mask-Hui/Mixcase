@@ -1,1 +1,15 @@
-This paper presents a method of exploring the relative predictive importance of individual variables in multicollinear data sets at three levels of significance: strong importance, moderate importance, and no importance. Implementation of bonferroni adjustment to control for type i error in the method is described, and results with and without the correction are compared. An example of the method in binary logistic modeling is demonstrated by using a set of 20 acoustic features to discriminate vocalic nasality in the speech of six speakers of the mixean variety of low navarrese basque. Validation of the method is presented by comparing the direction of significant effects to those observed in separate logistic mixed effects models, as well as goodness of fit and prediction accuracy compared to partial least squares logistic regression. The results show that the proposed method yields: (1) similar, but more conservative estimates in comparison to separate logistic regression models, (2) models that fit data as well as partial least squares methods, and (3) predictions for new data that are as accurate as partial least squares methods.
+End-to-end models for robust automatic speech recognition (ASR) have not been
+sufficiently well-explored in prior work. With end-to-end models, one could
+choose to preprocess the input speech using speech enhancement techniques and
+train the model using enhanced speech. Another alternative is to pass the noisy
+speech as input and modify the model architecture to adapt to noisy speech. A
+systematic comparison of these two approaches for end-to-end robust ASR has not
+been attempted before. We address this gap and present a detailed comparison of
+speech enhancement-based techniques and three different model-based adaptation
+techniques covering data augmentation, multi-task learning, and adversarial
+learning for robust ASR. While adversarial learning is the best-performing
+technique on certain noise types, it comes at the cost of degrading clean
+speech WER. On other relatively stationary noise types, a new speech
+enhancement technique outperformed all the model-based adaptation techniques.
+This suggests that knowledge of the underlying noise type can meaningfully
+inform the choice of adaptation technique.

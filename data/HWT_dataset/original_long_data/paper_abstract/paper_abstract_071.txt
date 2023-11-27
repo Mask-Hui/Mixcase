@@ -1,1 +1,9 @@
-We study a new model of quintessential inflation which is inspired by supergravity and string theory. The model features a kinetic pole, which gives rise to the inflationary plateau, and a runaway quintessential tail. We envisage a coupling between the inflaton and the peccei-quinn (pq) field which terminates the roll of the runaway inflaton and traps the latter at an enhanced symmetry point (esp), thereby breaking the pq symmetry. The kinetic density of the inflaton is transferred to the newly created thermal bath of the hot big bang due to the decay of pq particles. The model successfully accounts for the observations of inflation and dark energy without any fine-tuning, while also resolving the strong cp problem of qcd and generating axionic dark matter, without isocurvature perturbations. Trapping the inflaton at the esp ensures that the model does not suffer from the infamous 5th force problem, which typically plagues quintessence.
+Authenticated teleportation aims to certify the transmission of a quantum
+state through teleportation, even in the presence of an adversary. This
+scenario can be pictured in terms of an untrusted source distributing a Bell
+state between two parties who wish to verify it using some simple tests. We
+propose a protocol that achieves this goal in a practical way, and analyse its
+performance and security when the parties have noisy measurement devices.
+Further, we model a realistic experimental scenario where the state is subject
+to noise and dephasing. We finally apply our analysis to the verification of
+graph states with noisy measurement devices.

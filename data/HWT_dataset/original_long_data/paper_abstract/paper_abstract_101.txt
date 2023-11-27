@@ -1,1 +1,11 @@
-Quantum coherence is the most distinguished signature of quantum mechanics, also recognized to be an essential resource for many promising quantum technologies, playing a central role in phenomena related to quantum information science, quantum thermodynamics and quantum biology, just to mention few examples. However, the resource theory of coherence is in the preliminary stage of its development, being still limited to the study of the manipulation and quantification of coherence, mostly from a theoretical viewpoint. Here, we propose an experimental method to directly measure the relative entropy of coherence, which according to the resource theory is one of the main quantifiers of coherence. To achieve this aim, we show how to measure the von neumann entropy of a generic quantum state directly in terms of the shannon entropy of the probability distribution of outcomes in a defined measurement basis. In both cases, by direct we mean that tomographic methods are not required. Two quantum-optical applications of our method are discussed in order to give support to our predictions.
+Starting from the strong-coupling limit of an extended Hubbard model, we
+develop a spin-fermion theory to study the insulating phase and pairing
+symmetry of the superconducting phase in twisted bilayer graphene. Assuming
+that the insulating phase is an anti-ferromagnetic insulator, we show that
+fluctuations of the anti-ferromagnetic order in the conducting phase can
+mediate superconducting pairing. Using a self-consistent mean-field analysis,
+we find that the pairing wave function has a chiral d-wave symmetry. Consistent
+with this observation, we show explicitly the existence of chiral Majorana edge
+modes by diagonalizing our proposed Hamiltonian on a finite-sized system. These
+results establish twisted bilayer graphene as a promising platform to realize
+topological superconductivity.

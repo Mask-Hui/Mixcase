@@ -1,1 +1,8 @@
-We study the sensitivity of displaced vertex searches for heavy neutrinos produced in w boson decays in the lhc detectors atlas, cms and lhcb. We also propose a new search that uses the muon chambers to detect muons from heavy neutrino decays outside the tracker. The sensitivity estimates are based on benchmark models in which the heavy neutrinos mix exclusively with one of the three standard model generations. In the most sensitive mass regime the displaced vertex searches can improve existing constraints on the mixing with the first two standard model generations by more than four orders of magnitude and by three orders of magnitude for the mixing with the third generation.
+We describe a superconducting circuit consisting of a Josephson junction in
+parallel with a quantum phase slip wire, which implements a Hamiltonian that is
+periodic in both charge and flux. This Hamiltonian is exactly diagonalisable in
+a double-Bloch band, and the eigenstates are shown to be code states of the
+Gottesman-Kitaev-Preskill quantum error correcting code. The eigenspectrum has
+several critical points, where the linear sensitivity to external charge and
+flux noise vanishes. The states at these critical points thus hold promise as
+qubit states that are insensitive to external noise sources.

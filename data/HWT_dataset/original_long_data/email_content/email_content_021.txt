@@ -1,1 +1,59 @@
-Harora (non-privileged).pst a backup seat and a backup computer have been assigned to you. Please read this communication in detail. Purpose: net works has developed a backup plan for possible work stoppages after moving to the new building. A wider business continuity plan will be rolled out next year. Location: large areas of the 30th and 31st floors of the current building, enron center north, will be set aside for recovery purposes. Your name has been put on the list and you will be notified once the seat assignments are finalized. Locations will also be posted at the entryways on the 30th and 31st floors. Timing. Through november, backup seats assignments will be announced as each trading group moves to the new building. The backup seats will be available at least to january 1st. Testing. Test times to try the backup pc and to familiarize yourself with your backup location will be announced by the it team as the locations are finished. Telephones. Only regular phones will be available. For those with speed dial phones, the it team will download the numbers and leave them on a piece of paper at your seat assignment. Because the numbers change frequently, we ask that you rely on keeping track of the numbers yourself and use the number lists as a last resort. Other supplies. The it team is not responsible for non-technical or special needs. If you rely on hard copy forms, address books, etc, you will need to be sure to leave appropriate supplies when you test the computer, or bring supplies along if you are asked to move to your backup seat. Limited access. The backup floor is not meant as a backup day-to-day work environment. To keep the equipment functioning and secure, we plan to limit access except for test times and if we need to invoke the plan because of a work stoppage. Escalation procedures. The plan will be as follows: i. During regular business hours a. Announcement. You will be notified via the pa system if you need to move to the backup location. -or- b. No announcement. If an obvious problem like a fire or power shutdown occurs, for example, all personnel with a seat assignment will be expected to make their way to their backup seat without notification. Ii. After hours for after hours issues, greeters will announce the move to the backup location as people arrive to work. E-mails and voice mails will also be distributed.
+mtaylor.nsf
+
+My thoughts concerning potentially novel elements of EnronOnline:
+
+1.  The online "making of a market" i.e. the continuous posting of real-time 
+prices for both purchases and sales of commodities
+2.  The online ability to enter into an energy commodity or commodity 
+derivative transaction.
+3.  The continuous and frequent updating of prices - including the operation 
+of the "Stack Manager" which automates this process in many ways so that the 
+system can react more quickly than a person.
+4.  EnronOnline uses multiple levels of contractual language - a single line 
+"short description" of abbreviated terms identifying the transaction to the 
+trader, a long description which defines the abbreviated terms and adds 
+additional legal language and general terms and conditions which contain the 
+remaining contractual terms and are accepted only once by the counterparty.
+5.  The site directs counterparties to different contracts based on the 
+counterparty profile containing both credit information and information 
+concerning the contracts the counterparty already has in place.
+6.  It may be relevant for any or all of the foregoing that the EnronOnline 
+system is web-based - i.e. the user does not require any system-specific 
+software but just a web browser (and an internet plug-in application)
+7.  The Master User account gives the counterparty the ability to set up 
+passwords for sub-users for that entity and control the access and trading 
+authority of various password holders.
+8.  Each user can create customized screens showing only those products in 
+which he or she is interested.
+9.  The system provides for the submission of offers to transact by 
+counterparties which are automatically accepted or rejected by the system 
+based on pre-established criteria resulting in binding contracts.
+
+Mark Taylor
+
+
+   
+	Enron North America Corp.
+	
+	From:  Mark E Haedicke                           04/18/2000 04:52 PM
+	
+
+To: Travis McCullough/HOU/ECT@ECT, Sborgman@velaw.com, Mark Taylor/HOU/ECT@ECT
+cc:  
+Subject: Business Methods on Paper.com
+
+
+Based on earlier conversations, I have identified the following business 
+methods that may be novel from a patent point of view:
+
+1.   our site is offering "prime" paper rather than seconds or ends
+2.   credit risk is managed by the site (credit intermediation) without cost 
+to customers
+3.   customers can access financial derivatives on paper to manage price risk 
+on physical paper products
+4.   customers have access to financial derivatives to manage price risk on 
+prime offerings
+
+Please give me your comments on this so we plan our strategy.
+
+Mark Haedicke

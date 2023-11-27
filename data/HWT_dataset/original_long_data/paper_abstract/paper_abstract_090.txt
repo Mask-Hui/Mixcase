@@ -1,1 +1,20 @@
-We consider the capacity of entanglement in models related with the gravitational phase transitions. The capacity is labeled by the replica parameter which plays a similar role to the inverse temperature in thermodynamics. In the end of the world brane model of a radiating black hole the capacity has a peak around the page time indicating the phase transition between replica wormhole geometries of different types of topology. Similarly, in a moving mirror model describing hawking radiation the capacity typically shows a discontinuity when the dominant saddle switches between two phases, which can be seen as a formation of island regions. In either case we find the capacity can be an invaluable diagnostic for a black hole evaporation process.
+We have carried out a search for massive white dwarfs (WDs) in the direction
+of young open star clusters using the Gaia DR2 database. The aim of this survey
+was to provide robust data for new and previously known high-mass WDs regarding
+cluster membership, to highlight WDs previously included in the Initial Final
+Mass Relation (IFMR) that are unlikely members of their respective clusters
+according to Gaia astrometry and to select an unequivocal WD sample that could
+then be compared with the host clusters' turnoff masses.
+  All promising WD candidates in each cluster CMD were followed up with
+spectroscopy from Gemini in order to determine whether they were indeed WDs and
+derive their masses, temperatures and ages. In order to be considered cluster
+members, white dwarfs were required to have proper motions and parallaxes
+within 2, 3, or 4-$\sigma$ of that of their potential parent cluster based on
+how contaminated the field was in their region of the sky, have a cooling age
+that was less than the cluster age and a mass that was broadly consistent with
+the IFMR. A number of WDs included in current versions of the IFMR turned out
+to be non-members and a number of apparent members, based on Gaia's astrometric
+data alone, were rejected as their mass and/or cooling times were incompatible
+with cluster membership. In this way, we developed a highly selected IFMR
+sample for high mass WDs that, surprisingly, contained no precursor masses
+significantly in excess of ${\sim}$6 $M_{\odot}$.

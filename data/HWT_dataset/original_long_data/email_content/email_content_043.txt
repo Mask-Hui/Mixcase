@@ -1,1 +1,46 @@
-Jsteffe (non-privileged).pst mike smith and jim steffes just phoned and indicated that the california iso may require us to post $5mm in collateral today to cover deliveries to our california customers. We are attempting to have them net this request with approximately $50mm of monies they owe us. This payment will allow us to remain a scheduling coordinator for the first 5 days of december. If we do not pay the iso will decertify us and the utilities (pg&e, sce and sdg&e) can immediately execute thier right to return our customers to utility service. We have a transaction pending to sell a large portion of the contracts under the iso that could be worth as much as $150mm. If the utilities return the customers to utility service we will not have a book to sell. Mike or jim, if i have missed anything or misstated anything, please reply to all. I will keep you posted, but wanted to get the word to you as soon as i heard. Thanks wade
+vkamins.nsf
+
+For Password Renewals Only=20
+
+IT Security & Controls =01) Password Security Notice
+=20
+Passwords
+The key to maintaining information and system security is the use of=20
+well-selected and guarded passwords.  Because your password is our first li=
+ne=20
+of defense, stronger password selection criteria will soon be implemented f=
+or=20
+all employees. =20
+
+Password Policy
+
+Passwords=01(
+1. must be at least of eight characters in length.=20
+2. must not contain names, userids, common English dictionary words, and=20
+begin or end with a number.
+3. must contain alphanumeric characters and contain at least one special=20
+character. No more than fifty percent of the overall password can be in=20
+English.
+4. must not be reused or cyclical.=20
+5. must be changed every 60 days.
+6. must not be publicly displayed.
+7. must not be shared with other users.
+=20
+Choosing a good password comes down to two things.  First, avoid common=20
+everyday words a potential hacker=01,s software will be looking for.  Secon=
+d,=20
+keep your password  simple enough that you can remember it without having t=
+o=20
+write it down.=20
+
+Please keep in mind that the Enron Code of Ethics holds employees responsib=
+le=20
+for password security.  IT Security & Controls conducts periodic audits to=
+=20
+ensure compliance with company policy.=20
+
+http://itc.corp.enron.com/data/policiesandprocedures/ITPasswordScreenSaver/
+
+For any problems encountered concerning password controls, please call your=
+=20
+appropriate Resolution Center (available: 24Hrs./day, 7 days/week).

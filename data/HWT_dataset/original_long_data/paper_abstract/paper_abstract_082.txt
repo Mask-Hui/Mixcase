@@ -1,1 +1,9 @@
-Superconducting granular aluminum is attracting increasing interest due to its high kinetic inductance and low dissipation, favoring its use in kinetic inductance particle detectors, superconducting resonators or quantum bits. We perform switching current measurements on dc-squids, obtained by introducing two identical geometric constrictions in granular aluminum rings of various normal-state resistivities in the range from $\rho_\mathrm{n} = 250\,\mu\omega\mathrm{cm}$ to $5550\,\mu\omega\mathrm{cm}$. The relative high kinetic inductance of the squid loop, in the range of tens of nh, leads to a suppression of the modulation in the measured switching current versus magnetic flux, accompanied by a distortion towards a triangular shape. We observe a change in the temperature dependence of the switching current histograms with increasing normal-state film resistivity. This behavior suggests the onset of a diffusive motion of the superconducting phase across the constrictions in the two-dimensional washboard potential of the squids, which could be caused by a change of the local electromagnetic environment of films with increasing normal-state resistivities.
+We study the dynamics of the Peccei-Quinn (PQ) phase transition for the QCD
+axion. In weakly coupled models the transition is typically second order except
+in the region of parameters where the PQ symmetry is broken through the
+Coleman-Weinberg mechanism. In strongly coupled realizations the transition is
+often first order. We show examples where the phase transition leads to strong
+supercooling lowering the nucleation temperature and enhancing the stochastic
+gravitational wave signals. The models predict a frequency peak in the range
+100-1000 Hz with an amplitude that is already within the sensitivity of LIGO
+and can be thoroughly tested with future gravitational wave interferometers.

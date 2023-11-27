@@ -1,1 +1,14 @@
-Objective dyslexia diagnosis is not a straighforward task since it is traditionally performed by means of the intepretation of different behavioural tests. Moreover, these tests are only applicable to readers. This way, early diagnosis requires the use of specific tasks not only related to reading. Thus, the use of electroencephalography (eeg) constitutes an alternative for an objective and early diagnosis that can be used with pre-readers. In this way, the extraction of relevant features in eeg signals results crucial for classification. However, the identification of the most relevant features is not straighforward, and predefined statistics in the time or frequency domain are not always discriminant enough. On the other hand, classical processing of eeg signals based on extracting eeg bands frequency descriptors, usually make some assumptions on the raw signals that could cause indormation loosing. In this work we propose an alternative for analysis in the frequency domain based on singluar spectrum analysis (ssa) to split the raw signal into components representing different oscillatory modes. Moreover, correlation matrices obtained for each component among eeg channels are classfied using a convolutional neural network.
+Ranking algorithms play a crucial role in online platforms ranging from
+search engines to recommender systems. In this paper, we identify a surprising
+consequence of popularity-based rankings: the fewer the items reporting a given
+signal, the higher the share of the overall traffic they collectively attract.
+This few-get-richer effect emerges in settings where there are few distinct
+classes of items (e.g., left-leaning news sources versus right-leaning news
+sources), and items are ranked based on their popularity. We demonstrate
+analytically that the few-get-richer effect emerges when people tend to click
+on top-ranked items and have heterogeneous preferences for the classes of
+items. Using simulations, we analyze how the strength of the effect changes
+with assumptions about the setting and human behavior. We also test our
+predictions experimentally in an online experiment with human participants. Our
+findings have important implications to understand the spread of
+misinformation.

@@ -1,1 +1,12 @@
-We infer the crater chronologies of ceres and vesta from a self-consistent dynamical model of asteroid impactors. The model accounts for planetary migration/instability early in the solar system history and tracks asteroid orbits over 4.56 gy. It is calibrated on the current population of the asteroid belt. The model provides the number of asteroid impacts on different worlds at any time throughout the solar system history. We combine the results with an impactor-crater scaling relationship to determine the crater distribution of ceres and vesta and compare these theoretical predictions with observations. We find that: (i) the ceres and vesta chronologies are similar, whereas they significantly differ from the lunar chronology. Therefore, using the lunar chronology for main belt asteroids, as often done in previous publications, is incorrect. (ii) the model results match the number and size distribution of large (diameter $>90$ km) craters observed on vesta, but overestimate the number of large craters on ceres. This implies that large crater erasure is required for ceres. (iii) in a model where planetary migration/instability happens early, the probability to form the rheasilvia basin on vesta during the last 1 gy is 10\%, a factor of $\sim1.5$ higher than for the late instability case and $\sim2.5$ times higher than found in previous studies. Thus, while the formation of the rheasilvia at $\sim1$ gy ago (ga) would be somewhat unusual, it cannot be ruled out at more than $\simeq1.5\sigma$. In broader context, our work provides a self-consistent framework for modeling asteroid crater records.
+In this paper I report, exchange bias effect in a bilayer thin film of
+amorphous zinc ferrite and nanocrystalline gallium ferrite. The amorphous zinc
+ferrite layer was deposited at room temperature (Ts = RT) on top of a
+nanocrystalline gallium ferrite thin film using a pulsed laser. This bilayer
+film showed large exchange bias effect (He ~ 418 Oe at 2 K). The exchange bias
+shift decreased exponentially as the temperature increased and disappeared for
+T > 30 K. Along with the exchange bias shift the film also showed enhanced
+magnetization in Field Cooled (FC) measurements as compared to the Zero Field
+Cooled (ZFC) magnetization. The bilayer film also showed training effect at 2
+K, which followed spin configurational relaxation model. The observed exchange
+bias effect could be attributed to the pinning anisotropy of the spin glass
+amorphous zinc ferrite layer pinned at the interface of gallium ferrite.

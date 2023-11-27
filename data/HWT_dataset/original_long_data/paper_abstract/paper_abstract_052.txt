@@ -1,1 +1,20 @@
-Pulsed nuclear magnetic resonance (nmr) is widely used in high-precision magnetic field measurements. The absolute value of the magnetic field is determined from the precession frequency of nuclear magnetic moments. The hilbert transform is widely used to extract the phase function from the observed free induction decay (fid) signal and then its frequency. In this paper, a detailed implementation of a hilbert-transform based fid frequency extraction method is described. How artifacts and noise level in the fid signal affect the extracted phase function are derived analytically. A method of mitigating the artifacts in the extracted phase function of an fid is discussed. Correlations between noises of the phase function samples are studied for different noise spectra. We discovered that the error covariance matrix for the extracted phase function is nearly singular and improper for constructing the $\chi^2$ used in the fitting routine. A down-sampling method for fixing the singular covariance matrix has been developed, so that the minimum $\chi^2$-fit yields properly the statistical uncertainty of the extracted frequency. Other practical methods of obtaining the statistical uncertainty are also discussed.
+In multiple-input multiple-output (MIMO) device-to-device (D2D) networks,
+interference and rank-deficient channels are the critical bottlenecks for
+achieving high degrees of freedom (DoFs). In this paper, we propose a
+reconfigurable intelligent surface (RIS) assisted interference alignment
+strategy to simultaneous mitigate the co-channel interference and cope with
+rank-deficient channels, thereby improving the feasibility of interference
+alignment conditions and in turn increasing the achievable DoFs. The key
+enabler is a general low-rank optimization approach that maximizes the
+achievable DoFs by jointly designing the phase-shift and transceiver matrices.
+To address the unique challenges of the coupled optimization variables, we
+develop a block-structured Riemannian pursuit method by solving fixed-rank and
+unit modulus constrained least square subproblems along with rank increase.
+Finally, to reduce the computational complexity and achieve good DoF
+performance, we develop unified Riemannian conjugate gradient algorithms to
+alternately optimize the fixed-rank transceiver matrix and the unit modulus
+constrained phase shifter by exploiting the non-compact Stiefel manifold and
+the complex circle manifold, respectively. Numerical results demonstrate the
+effectiveness of deploying an RIS and the superiority of the proposed
+block-structured Riemannian pursuit method in terms of the achievable DoFs and
+the achievable sum rate.

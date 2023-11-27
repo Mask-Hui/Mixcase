@@ -1,1 +1,18 @@
-A second peak in extreme ultraviolet sometimes appears during the gradual phase of solar flares, which is known as euv late phase (elp). Stereotypically elp is associated with two separated sets of flaring loops with distinct sizes, and it has been debated whether elp is caused by additional heating or extended plasma cooling in the longer loop system. Here we carry out a survey of 55 m-and-above goes-class flares with elp during 2010--2014. Based on the flare-ribbon morphology, these flares are categorized as circular-ribbon (19 events), two-ribbon (23 events), and complex-ribbon (13 events) flares. Among them, 22 events (40%) are associated with coronal mass ejections, while the rest are confined. An extreme elp, with the late-phase peak exceeding the main-phase peak, is found in 48% of two-ribbon flares, 37% of circular-ribbon flares, and 31% of complex-ribbon flares, suggesting that additional heating is more likely present during elp in two-ribbon than in circular-ribbon flares. Overall, cooling may be the dominant factor causing the delay of the elp peak relative to the main-phase peak, because the loop system responsible for the elp emission is generally larger than, and well separated from, that responsible for the main-phase emission. All but one of the circular-ribbon flares can be well explained by a composite "dome-plate" quasi-separatrix layer (qsl). Only half of these show a magnetic null point, with its fan and spine embedded in the dome and plate, respectively. The dome-plate qsl, therefore, is a general and robust structure characterizing circular-ribbon flares.
+The increasing integration of world economies, which organize in complex
+multilayer networks of interactions, is one of the critical factors for the
+global propagation of economic crises. We adopt the network science approach to
+quantify shock propagation on the global trade-investment multiplex network. To
+this aim, we propose a model that couples a Susceptible-Infected-Recovered
+epidemic spreading dynamics, describing how economic distress propagates
+between connected countries, with an internal contagion mechanism, describing
+the spreading of such economic distress within a given country. At the local
+level, we find that the interplay between trade and financial interactions
+influences the vulnerabilities of countries to shocks. At the large scale, we
+find a simple linear relation between the relative magnitude of a shock in a
+country and its global impact on the whole economic system, albeit the strength
+of internal contagion is country-dependent and the intercountry propagation
+dynamics is non-linear. Interestingly, this systemic impact can be predicted on
+the basis of intra-layer and inter-layer scale factors that we name network
+multipliers, that are independent of the magnitude of the initial shock. Our
+model sets-up a quantitative framework to stress-test the robustness of
+individual countries and of the world economy to propagating crashes.

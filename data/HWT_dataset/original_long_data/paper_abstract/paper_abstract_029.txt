@@ -1,1 +1,14 @@
-We introduce a language generative model framework for generating a styled paragraph based on a context sentence and a style reference example. The framework consists of a style encoder and a texts decoder. The style encoder extracts a style code from the reference example, and the text decoder generates texts based on the style code and the context. We propose a novel objective function to train our framework. We also investigate different network design choices. We conduct extensive experimental validation with comparison to strong baselines to validate the effectiveness of the proposed framework using a newly collected dataset with diverse text styles. Both code and dataset will be released upon publication.
+We update the search for features, due to transient reductions in inflaton's
+speed of sound, in the Cosmic Microwave Background (CMB) angular power spectrum
+using Planck 2018 temperature, polarization and lensing data. We develop a new
+methodology to test more flexible templates to reconstruct the reduction of the
+speed of sound based on Gaussian Processes. We formally derive a dynamical
+prior for the shape of the reduction using a \textit{maximum-entropy} approach
+to ensure the physical conditions of the model are satisfied. The posterior
+allows for one or more consecutive reductions, fitting apparent features in the
+CMB power spectra in multipoles from a few tens to $\ell\simeq 2000$. As
+expected, these fits are not statistically favored with respect to the
+$\Lambda$CDM model. The methodology derived here allows for the inclusion of
+additional data sets (in particular, Large Scale Structure data), which in
+principle will increase the statistical significance of the reconstruction of
+the inflaton's speed of sound.

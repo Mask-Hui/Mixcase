@@ -1,1 +1,21 @@
-In this paper, we present an algorithm for online 3d reconstruction of dynamic scenes using individual times of arrival (toa) of photons recorded by single-photon detector arrays. One of the main challenges in 3d imaging using single-photon lidar is the integration time required to build toa histograms and reconstruct reliable 3d profiles in the presence of non-negligible ambient illumination. This long integration time also prevents the analysis of rapid dynamic scenes using existing techniques. We propose a new method which does not rely on the construction of toa histograms but allows, for the first time, individual detection events to be processed online, in a parallel manner in different pixels, while accounting for the intrinsic spatiotemporal structure of dynamic scenes. Adopting a bayesian approach, a bayesian model is constructed to capture the dynamics of the 3d profile and an approximate inference scheme based on assumed density filtering is proposed, yielding a fast and robust reconstruction algorithm able to process efficiently thousands to millions of frames, as usually recorded using single-photon detectors. The performance of the proposed method, able to process hundreds of frames per second, is assessed using a series of experiments conducted with static and dynamic 3d scenes and the results obtained pave the way to a new family of real-time 3d reconstruction solutions.
+Electronic coupling and hence hybridization of atoms serve as the basis for
+the rich properties of the endless library of naturally occurring molecules.
+Colloidal quantum dots (CQDs) manifesting quantum strong confinement, possess
+atomic like characteristics with s and p electronic levels, which popularized
+the notion of CQDs as artificial atoms. Continuing this analogy, when two atoms
+are close enough to form a molecule so that their orbitals start overlapping,
+the orbitals' energies start to split into bonding and anti-bonding states made
+out of hybridized orbitals. The same concept is also applicable for two fused
+core-shell nanocrystals in close proximity. Their band-edge states, which
+dictate the emitted photon energy, start to hybridize changing their electronic
+and optical properties. Thus, an exciting direction of artificial molecules
+emerges leading to a multitude of possibilities for creating a library of new
+hybrid nanostructures with novel optoelectronic properties with relevance
+towards diverse applications including quantum technologies. In a model fused
+core-shell homodimer molecule, the hybridization energy is strongly correlated
+with the extent of structural continuity, the delocalization of the exciton
+wavefunction, and the barrier thickness as calculated numerically. The
+hybridization impacts the emitted photon statistics manifesting a faster
+radiative decay rate, photon bunching effect, and modified Auger recombination
+pathway compared to the monomer artificial atoms. Future perspectives for the
+nanocrystals chemistry paradigm are highlighted.

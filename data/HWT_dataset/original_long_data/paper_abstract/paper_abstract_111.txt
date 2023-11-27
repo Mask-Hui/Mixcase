@@ -1,1 +1,13 @@
-Iot devices, equipped with embedded actuators and sensors, provide custom automation in the form of iot apps. Iot apps subscribe to events and upon receipt, transmit actuation commands which trigger a set of actuators. Events and actuation commands follow paths in the iot ecosystem such as sensor-to-edge, edge-to-cloud, and cloud-to-actuator, with different network and processing delays between these connections. Significant delays may occur especially when an iot system cloud interacts with other clouds. Due to this variation in delays, the cloud may receive events in an incorrect order, and in turn, devices may receive and actuate misordered commands. In this paper, we first study eight major iot platforms and show that they do not make strong guarantees on event orderings to address these issues. We then analyze the end-to-end interactions among iot components, from the creation of an event to the invocation of a command. From this, we identify and formalize the root causes of misorderings in events and commands leading to undesired states. We deploy 23 apps in a simulated smart home containing 35 iot devices to evaluate the misordering problem. Our experiments demonstrate a high number of misordered events and commands that occur through different interaction paths. Through this effort, we reveal the root and extent of the misordering problem and guide future work to ensure correct ordering in iot systems.
+Based on the concepts of quantum synchronization and quantum phase
+synchronization proposed by A. Mari \textit{et al.} in Phys. Rev. Lett. 111,
+103605 (2013), we introduce and characterize the measure of a more generalized
+quantum synchronization called quantum $\varphi$-synchronization under which
+the pairs of variables have the same amplitude and possess the same $\varphi$
+phase shift. Naturally, quantum synchronization and quantum
+anti-synchronization become special cases of quantum $\varphi$-synchronization.
+Their relations and differences are also discussed. To illustrate these
+theories, we investigate the quantum $\varphi$-synchronization and quantum
+phase synchronization phenomena of two coupled optomechanical systems with
+periodic modulation and show that quantum $\varphi$-synchronization is more
+general as a measure of synchronization. We also show the phenomenon of quantum
+anti-synchronization when $\varphi=\pi$.

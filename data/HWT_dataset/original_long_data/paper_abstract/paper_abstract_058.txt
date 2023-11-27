@@ -1,1 +1,24 @@
-We establish a robust statistical description of the star-forming galaxy population at the end of cosmic hi reionization ($5.0\le{}z\le6.6$) from a large sample of 52 galaxies with spectroscopically confirmed redshifts from the vimos ultradeep survey. We identify galaxies with ly$\alpha$ either in absorption or in emission, at variance with most spectroscopic samples in the literature where ly$\alpha$ emitters dominate. We find that star-forming galaxies at these redshifts are distributed along a main sequence in the stellar mass vs. Sfr plane. We report a flat evolution of the ssfr(z) in 3<z<6 compared to lower redshift measurements. Uv-continuum slopes vary with luminosity, with a large dispersion. We determing uv and ly$\alpha$ luminosity functions using v$_{max}$ method and use them to derive star formation rate densities (sfrd). We find that both uv-derived and ly$\alpha$-derived sfrds are in excellent agreement after correcting ly$\alpha$ luminosity density for igm absorption. Our new sfrd measurements at a mean redshift z=5.6 confirm the steep decline of the sfrd at z>2. The bright end of the ly$\alpha$ luminosity function has a high number density, indicating a significant star formation activity concentrated in the brightest ly$\alpha$ emitters (lae) at these redshifts. Lae with ew>25\aa ~contribute to about 75\% of the total uv-derived sfrd. While our analysis favors a low dust content in 5.0<z<6.6, uncertainties on the dust extinction correction and associated degeneracies in spectral fitting will remain an issue to estimate the total sfrd until future survey extending spectroscopy to the nir rest-frame spectral domain, e.g. With jwst.
+Purpose: Summarize ICU delirium prediction models published within the past
+five years. Methods: Electronic searches were conducted in April 2019 using
+PubMed, Embase, Cochrane Central, Web of Science, and CINAHL to identify peer
+reviewed studies published in English during the past five years that
+specifically addressed the development, validation, or recalibration of
+delirium prediction models in adult ICU populations. Data were extracted using
+CHARMS checklist elements for systematic reviews of prediction studies,
+including the following characteristics: study design, participant descriptions
+and recruitment methods, predicted outcomes, a priori candidate predictors,
+sample size, model development, model performance, study results,
+interpretation of those results, and whether the study included missing data.
+Results: Twenty studies featuring 26 distinct prediction models were included.
+Model performance varied greatly, as assessed by AUROC (0.68-0.94), specificity
+(56.5%-92.5%), and sensitivity (59%-90.9%). Most models used data collected
+from a single time point or window to predict the occurrence of delirium at any
+point during hospital or ICU admission, and lacked mechanisms for providing
+pragmatic, actionable predictions to clinicians. Conclusions: Although most ICU
+delirium prediction models have relatively good performance, they have limited
+applicability to clinical practice. Most models were static, making predictions
+based on data collected at a single time-point, failing to account for
+fluctuating conditions during ICU admission. Further research is needed to
+create clinically relevant dynamic delirium prediction models that can adapt to
+changes in individual patient physiology over time and deliver actionable
+predictions to clinicians.

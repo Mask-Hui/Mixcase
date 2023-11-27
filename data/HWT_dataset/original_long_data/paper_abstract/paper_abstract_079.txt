@@ -1,1 +1,18 @@
-We develop an effective field theory (eft) framework to perform an analytic calculation for energy correlator observables computed on groomed heavy-quark jets. A soft-drop grooming algorithm is applied to a jet initiated by a massive quark to minimize soft contamination effects such as pile-up and multi-parton interactions. We specifically consider the two-particle energy correlator as an initial application of this eft framework to compute heavy quark jet substructure. We find that there are different regimes for the event shapes, depending on the size of the measured correlator observable, that require the use of different eft formulations, in which the quark mass and grooming parameters may be relevant or not. We use the eft to resum large logarithms in the energy correlator observable in terms of the momentum of a reconstructed heavy hadron to nll$'$ accuracy and subsequently match it to a full qcd $\mathcal{o}(\alpha_s)$ cross section, which we also compute. We compare our predictions to simulations in pythia for $e^+e^-$ collisions. We find a good agreement with partonic simulations, as well as hadronic ones with an appropriate shape function used to describe nonperturbative effects and the heavy quark hadron decay turned off. We also predict the scaling behavior for the leading nonperturbative power correction due to hadronization. Consequently, we can give a prediction for the energy correlator distribution at the level of the reconstructed heavy hadron. This work provides a general framework for the analysis of heavy quark jet substructure observables.
+The dark matter, needed for various phenomena ranging from flat rotation
+curves to structure formation, seems to be not only neutral and long-living but
+also highly secluded from the ordinary matter. Here we show that, metric-affine
+gravity, which involves metric tensor and affine connection as two independent
+fields, dynamically reduces, in its minimal form, to the usual gravity plus a
+massive vector field. The vector, which interacts with only the quarks, leptons
+and gravity, is neutral and long-living (longer than the age of the Universe)
+when its mass range is $9.4\ {\rm MeV} < M_Y < 28.4\ {\rm MeV}$. Its scattering
+cross section from nucleons, which is some 60 orders of magnitude below the
+current bounds, is too small to facilitate direct detection of the dark matter.
+This property provides an explanation for whys and hows of dark matter
+searches. We show that due to its geometrical origin the $Y_\mu$ does not
+couple to scalars and gauge bosons. It couples only to fermions. This very
+feature of the $Y_\mu$ makes it fundamentally different than all the other
+vector dark matter candidates in the literature. The geometrical dark matter we
+present is minimal and self-consistent not only theoretically but also
+astrophysically in that its feebly interacting nature is all that is needed for
+its longevity.

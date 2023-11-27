@@ -1,1 +1,12 @@
-We show how series expansions of functions of bosonic number operators are naturally derived from finite-difference calculus. The scheme employs newton series rather than taylor series known from differential calculus, and also works in cases where the taylor expansion fails. For a function of number operators, such an expansion is automatically normal ordered. Applied to the holstein-primakoff representation of spins, the scheme yields an exact series expansion with a finite number of terms and, in addition, allows for a systematic expansion of the spin operators that respects the spin commutation relations within a truncated part of the full hilbert space. Furthermore, the newton series expansion strongly facilitates the calculation of expectation values with respect to coherent states. As a third example, we show that factorial moments and factorial cumulants arising in the context of photon or electron counting are a natural consequence of newton series expansions. Finally, we elucidate the connection between normal ordering, taylor and newton series by determining a corresponding integral transformation, which is related to the mellin transform.
+We consider gauge/gravity correspondence for general Dp-branes with $0\le
+p\le 4$, namely, the duality between the (p+1)-dimensional maximally
+supersymmetric Yang-Mills theory and superstring theory on the near-horizon
+limit of the Dp-brane solution. It has been known that in the large N gauge
+theory at zero temperature and strong 't Hooft coupling, the two-point
+functions of operators corresponding to supergravity modes obey power-law, with
+a power different from the free-field value when $p\neq 3$. In this work, we
+show that the free-field result of gauge theory can be reproduced from the bulk
+string theory, for the two-point function of an operator Tr(Z^J), where Z is a
+complex combination of two scalar fields. We assume the spatial direction of
+worldsheet is discretized into J bits, and use the fact that these bits become
+independent particles when string tension is zero.

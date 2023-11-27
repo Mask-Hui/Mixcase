@@ -1,1 +1,17 @@
-We employ the curvature expansion of the quantum effective action for gravity-matter systems to construct graviton-mediated scattering amplitudes for non-minimally coupled scalar fields in a minkowski background. By design, the formalism parameterises all quantum corrections to these processes and is manifestly gauge-invariant. The conditions resulting from uv-finiteness, unitarity, and causality are analysed in detail and it is shown by explicit construction that the quantum effective action provides sufficient room to meet these structural requirements without introducing non-localities or higher-spin degrees of freedom. Our framework provides a bottom-up approach to all quantum gravity programs seeking for the quantisation of gravity within the framework of quantum field theory. Its scope is illustrated by specific examples, including effective field theory, stelle gravity, infinite derivative gravity, and asymptotic safety.
+We investigate the problem of multiple time series forecasting, with the
+objective to improve multiple-step-ahead predictions. We propose a multi-task
+Gaussian process framework to simultaneously model batches of individuals with
+a common mean function and a specific covariance structure. This common mean is
+defined as a Gaussian process for which the hyper-posterior distribution is
+tractable. Therefore an EM algorithm can be derived for simultaneous
+hyper-parameters optimisation and hyper-posterior computation. Unlike previous
+approaches in the literature, we account for uncertainty and handle uncommon
+grids of observations while maintaining explicit formulations, by modelling the
+mean process in a non-parametric probabilistic framework. We also provide
+predictive formulas integrating this common mean process. This approach greatly
+improves the predictive performance far from observations, where information
+shared across individuals provides a relevant prior mean. Our overall algorithm
+is called \textsc{Magma} (standing for Multi tAsk Gaussian processes with
+common MeAn), and publicly available as a R package. The quality of the mean
+process estimation, predictive performances, and comparisons to alternatives
+are assessed in various simulated scenarios and on real datasets.

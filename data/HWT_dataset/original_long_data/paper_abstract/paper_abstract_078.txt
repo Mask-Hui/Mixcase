@@ -1,1 +1,18 @@
-Consider a bayesian inference problem where a variable of interest does not take values in a euclidean space. These "non-standard" data structures are in reality fairly common. They are frequently used in problems involving latent discrete factor models, networks, and domain specific problems such as sequence alignments and reconstructions, pedigrees, and phylogenies. In principle, bayesian inference should be particularly well-suited in such scenarios, as the bayesian paradigm provides a principled way to obtain confidence assessment for random variables of any type. However, much of the recent work on making bayesian analysis more accessible and computationally efficient has focused on inference in euclidean spaces. In this paper, we introduce blang, a domain specific language (dsl) and library aimed at bridging this gap. Blang allows users to perform bayesian analysis on arbitrary data types while using a declarative syntax similar to bugs. Blang is augmented with intuitive language additions to invent data types of the user's choosing. To perform inference at scale on such arbitrary state spaces, blang leverages recent advances in parallelizable, non-reversible markov chain monte carlo methods.
+PrCo$_2$Ga$_8$ is an orthorhombic quasi-skutterudite type compound which
+crystallizes in the CaCo$_2$Al$_8$ structure type, with space group $Pbam$ (No.
+55). The Pr$^{3+}$ ion has a site symmetry of $C_s$ which predicts a crystal
+electric field (CEF) level splitting into 9 singlets for $J$ = 4. However, a
+phase transition at $T_m$ = 1.28~K is observed in electrical resistivity and
+specific heat results and is reported in this paper. The electrical resistivity
+shows an upturn below $T_m$ due to the superzone-gap formation. This transition
+is tuneable in fields and is suppressed to lower temperatures with applied
+magnetic fields. The electronic specific heat $C_{p}(T)/T$ increases below
+$T_m$ and reaches a value of 7.37 J/(mol K$^2$) at 0.4~K. The Sommerfeld
+coefficient, $\gamma$ extracted from the low temperature analysis of
+$C_\mathrm{4f}(T)/T$ is 637 mJ/(mol K$^2$) indicating a possible mass
+enhancement of the quasiparticles. The calculated entropy value of 3.05 J/(mol
+K) is recovered around $T_m$ exhibiting almost 53% of Rln2, where R is the
+universal gas constant. Magnetic susceptibility results obeys the Curie-Weiss
+law for data above 100 K with an estimated effective magnetic moment,
+$\mu_\mathrm{eff}$ = 3.37 $\mu_B$/Pr and Weiss temperature, $\theta_p$ = $-$124
+K.

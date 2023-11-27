@@ -1,1 +1,19 @@
-In this paper, we calculate the matrix element and form factors of vector-to-vector ($v'\to v'$) transition within the standard light-front~(slf) and covariant light-front~(clf) quark models~(qms), and investigate the self-consistency and lorentz covariance of the clf qm within two types of correspondences between the manifest covariant bethe-salpeter approach and the lf approach. The zero-mode and valence contributions to the form factors of $v'\to v'$ transition in the clf qm and their relation to the slf results are analyzed, and the main conclusions obtained via the decay constants of vector and axial-vector mesons and form factors of $p\to v$ transition in the previous works are confirmed again. Furthermore, we present our numerical predictions for the form factors of $c\to (q,s)$ ($q=u,d$) induced $d^*\to (k^*\,,\rho)$, $d^*_s\to (\phi\,,k^*)$, $j/\psi\to (d^*_s\,,d^*)$, $b^*_c\to (b^*_s\,,b^*)$ transitions and $b\to (q,s,c)$ induced $b^*\to (d^*\,,k^*\,,\rho)$, $b^*_s\to (d^*_s\,,\phi\,,k^*)$, $b^*_c\to (j/\psi\,,d^*_s\,,d^*)$, $\upsilon(1s)\to (b_c^*\,,b_s^*\,,b^*)$ transitions, which can be applied further to the relevant phenomenological studies of meson decays.
+Iterative impact analysis (IIA) is a process that allows developers to
+estimate the impacted units of a software change. Starting from a single
+impacted unit, the developers inspect its interacting units via program
+dependencies to identify the ones that are also impacted, and this process
+continues iteratively. Experience has shown that developers often miss impacted
+units and inspect many irrelevant units. In this work, we study propagation
+heuristics that guide developers to find the actual impacted units and
+termination heuristics that help to decide whether the estimated impact is
+complete. The roles of these two kinds of heuristics are complementary and
+affect both the precision and recall when used during IIA. We investigated
+several propagation heuristics adapted from previously published papers and
+combined them with a practical termination heuristic. We developed a
+reenactment process that simulates the actions of developers who use those
+heuristics during IIA, and we assessed their performance. The software changes
+for our reenactment were mined from the repositories of open source projects.
+We found that IIA provides better recall than the other known impact analysis
+techniques. However the IIA with the propagation heuristics that we
+investigated does not supersede IIA combined with a random inspection, and
+hence these heuristics do not help the IIA.

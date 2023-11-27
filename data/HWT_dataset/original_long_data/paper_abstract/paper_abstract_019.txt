@@ -1,1 +1,21 @@
-Neural random fields (nrfs), referring to a class of generative models that use neural networks to implement potential functions in random fields (a.k.a. Energy-based models), are not new but receive less attention with slow progress. Different from various directed graphical models such as generative adversarial networks (gans), nrfs provide an interesting family of undirected graphical models for generative modeling. In this paper we propose a new approach, the inclusive-nrf approach, to learning nrfs for continuous data (e.g. Images), by introducing inclusive-divergence minimized auxiliary generators and developing stochastic gradient sampling in an augmented space. Based on the new approach, specific inclusive-nrf models are developed and thoroughly evaluated in two important generative modeling applications - image generation and anomaly detection. The proposed models consistently improve over state-of-the-art results in both applications. Remarkably, in addition to superior sample generation, one additional benefit of our inclusive-nrf approach is that, unlike gans, it can directly provide (unnormalized) density estimate for sample evaluation. With these contributions and results, this paper significantly advances the learning and applications of nrfs to a new level, both theoretically and empirically, which have never been obtained before.
+Precession frequencies measured by optically pumped scalar magnetometers are
+dependent on the relative angle between the sensor and the external magnetic
+field. This dependence is known to be induced mainly by the nonlinear Zeeman
+effect and the orientation-dependent light shift, resulting in the so-called
+heading errors if the magnetic field orientation is not well known or is not
+stable. In this work, we find that the linear nuclear Zeeman effect has also a
+significant impact on the heading errors. It not only shifts the precession
+frequency but causes asymmetry: the heading error for sensors orienting in the
+upper-half plane with respect to the external field is different from the case
+when the sensors work in the lower-half plane. This heading error also depends
+on the relative direction of the probe laser to the driving magnetic field.
+With a left-handed circularly-polarized pump laser, when the probe laser is
+parallel to the driving field, the angular dependence of the precession
+frequency is smaller when the sensor is in the upper plane. Otherwise, when
+they are perpendicular to each other, the heading error is smaller when the
+sensor is in the lower plane. Furthermore, to suppress the heading error, we
+propose to utilize a small magnetic field along the propagation direction of
+the pump laser. By tuning the magnitude of this auxiliary field, the
+heading-error curve is flattened around different angles, which can increase
+the accuracy in practice when the magnetometer works around a certain
+orientation angle.

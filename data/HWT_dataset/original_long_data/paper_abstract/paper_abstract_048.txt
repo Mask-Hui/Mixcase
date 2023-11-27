@@ -1,1 +1,21 @@
-Precise spectroscopy of oscillating fields plays significant roles in many fields. Here, we propose an experimentally feasible scheme to measure the frequency of a fast-oscillating field using a single-qubit sensor. By invoking a stable classical clock, the signal phase correlations between successive measurements enable us to extract the target frequency with extremely high precision. In addition, we integrate dynamical decoupling technique into the framework to suppress the influence of slow environmental noise. Our framework is feasible with a variety of atomic and single solid-state-spin systems within the state-of-the-art experimental capabilities as a versatile tool for quantum spectroscopy.
+Online reviews provide product evaluations for customers to make decisions.
+Unfortunately, the evaluations can be manipulated using fake reviews ("spams")
+by professional spammers, who have learned increasingly insidious and powerful
+spamming strategies by adapting to the deployed detectors. Spamming strategies
+are hard to capture, as they can be varying quickly along time, different
+across spammers and target products, and more critically, remained unknown in
+most cases. Furthermore, most existing detectors focus on detection accuracy,
+which is not well-aligned with the goal of maintaining the trustworthiness of
+product evaluations. To address the challenges, we formulate a minimax game
+where the spammers and spam detectors compete with each other on their
+practical goals that are not solely based on detection accuracy. Nash
+equilibria of the game lead to stable detectors that are agnostic to any mixed
+detection strategies. However, the game has no closed-form solution and is not
+differentiable to admit the typical gradient-based algorithms. We turn the game
+into two dependent Markov Decision Processes (MDPs) to allow efficient
+stochastic optimization based on multi-armed bandit and policy gradient. We
+experiment on three large review datasets using various state-of-the-art
+spamming and detection strategies and show that the optimization algorithm can
+reliably find an equilibrial detector that can robustly and effectively prevent
+spammers with any mixed spamming strategies from attaining their practical
+goal. Our code is available at https://github.com/YingtongDou/Nash-Detect.

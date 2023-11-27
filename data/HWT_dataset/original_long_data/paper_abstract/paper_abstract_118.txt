@@ -1,1 +1,14 @@
-The topological states of matters arising from the nontrivial magnetic configuration provide a better understanding of physical properties and functionalities of solid materials. Such studies benefit from the active control of spin orientation in any solid, which is yet known to rarely take place in the two-dimensional (2d) limit. Here we demonstrate by the first-principles calculations that spin-orientation dependent topological states can appear in the geometrically frustrated monolayer antiferromagnet. Different topological states including quantum anomalous hall (qah) effect and time-reversal-symmetry (trs) broken quantum spin hall (qsh) effect can be obtained by changing spin orientation in the nitl2s4 monolayer. Remarkably, the dilated nc-afm nitl2s4 monolayer gives birth to the qah effect with hitherto reported largest number of quantized conducting channels (chern number c = -4) in 2d materials. Interestingly, under tunable chemical potential, the nc-afm nitl2s4 monolayer hosts a novel state supporting the coexistence of qah and trs broken qsh effects with a chern number c = 3 and spin chern number c_s = 1. This work manifests a promising concept and material realization toward topological spintronics in 2d antiferromagnets by manipulating its spin degree of freedom.
+The second law of thermodynamics is a useful and universal tool to derive the
+generalizations of the Fourier's law. In many cases, only linear relations are
+considered between the thermodynamic fluxes and forces, i.e., the conduction
+coefficients are independent of the temperature. In the present paper, we
+investigate a particular nonlinearity in which the thermal conductivity depends
+on the temperature linearly. Also, that assumption is extended to the
+relaxation time, which appears in the hyperbolic generalization of Fourier's
+law, namely the Maxwell-Cattaneo-Vernotte (MCV) equation. Although such
+nonlinearity in the Fourier heat equation is well-known in the literature, its
+extension onto the MCV equation is rarely applied. Since these nonlinearities
+have significance from an experimental point of view, an efficient way is
+needed to solve the system of partial differential equations. In the following,
+we present a numerical method that is first developed for linear generalized
+heat equations. The related stability conditions are also discussed.

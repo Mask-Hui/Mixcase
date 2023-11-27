@@ -1,1 +1,18 @@
-We study the quantum tunnel effect through a potential barrier employing a semiclassical formulation of quantum mechanics based on expectation values of configuration variables and quantum dispersions as dynamical variables. The evolution of the system is given in terms of a dynamical system for which we are able to determine effective trajectories for individual particles, in a total resemblance of the bohmian description of quantum mechanics. We obtain a type of semiclassical confinement for particles in a similar way as with the quantum potential, and also determine a semiclassical transmission coefficient for the tunneling process.
+A discrete time crystal is a recently discovered non-equilibrium phase of
+matter that has been shown to exist in disordered, periodically driven Ising
+spin chains. In this phase, if the system is initially prepared in one of a
+certain class of pure multispin product states, it periodically returns to this
+state over very long time scales despite the presence of interactions,
+disorder, and pulse imperfections. Here, we show that this phase occurs in GaAs
+quantum dot spin arrays containing as few as three quantum dots, each confining
+one electron spin, for naturally occurring levels of nuclear spin noise and
+charge noise. Although the physical interaction in these arrays is a
+nearest-neighbor Heisenberg exchange interaction, we show that this can be
+effectively converted into an Ising interaction by applying additional pulses
+during each drive period. We show that by changing the rotation axis of these
+pulses, we can select the direction of the Ising interaction and, consequently,
+the quantization axis of the stabilized multispin states. Moreover, we
+demonstrate that it is possible to perform coherent rotations of the stabilized
+states while remaining in the time crystal phase. These findings open up the
+intriguing possibility of using time crystal phases to extend the lifetime of
+quantum states for information applications.

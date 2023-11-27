@@ -1,1 +1,7 @@
-We report a magnetotransport study of spin relaxation in 1.4-21.2 nm epitaxial sriro$_3$ thin films coherently strained on srtio$_3$ substrates. Fully charge compensated semimetallic transport has been observed in sriro$_3$ films thicker than 1.6 nm, where the charge mobility at 10 k increases from 45 cm$^2$/vs to 150 cm$^2$/vs with decreasing film thickness. In the two-dimensional regime, the charge dephasing and spin-orbit scattering lengths extracted from the weak localization/anti-localization effects show power-law dependence on temperature, pointing to the important role of electron-electron interaction. The spin-orbit scattering time $\tau_\text{so}$ exhibits an elliott-yafet mechanism dominated quasi-linear dependence on the momentum relaxation time $\tau_\text{p}$. Ultrathin films approaching the critical thickness of metal-insulator transition show an abrupt enhancement in $\tau_\text{so}$, with the corresponding $\tau_\text{so}/\tau_\text{p}$ about 7.6 times of the value for thicker films. A likely origin for such unusual enhancement is the onset of strong electron correlation, which leads to charge gap formation and suppresses spin scattering.
+We perform explorative analyses of the 3D gluon content of the proton via a
+study of (un)polarized twist-2 gluon TMDs, calculated in a spectator model for
+the parent nucleon. Our approach encodes a flexible parametrization for the
+spectator-mass density, suited to describe both moderate and small-$x$ effects.
+All these prospective developments are relevant in the investigation of the
+gluon dynamics inside nucleons and nuclei, which constitutes one of the major
+goals of new-generation colliding machines, as the EIC, the HL-LHC and NICA.

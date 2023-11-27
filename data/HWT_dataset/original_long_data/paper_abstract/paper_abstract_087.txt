@@ -1,1 +1,19 @@
-Training acoustic models with sequentially incoming data -- while both leveraging new data and avoiding the forgetting effect-- is an essential obstacle to achieving human intelligence level in speech recognition. An obvious approach to leverage data from a new domain (e.g., new accented speech) is to first generate a comprehensive dataset of all domains, by combining all available data, and then use this dataset to retrain the acoustic models. However, as the amount of training data grows, storing and retraining on such a large-scale dataset becomes practically impossible. To deal with this problem, in this study, we study several domain expansion techniques which exploit only the data of the new domain to build a stronger model for all domains. These techniques are aimed at learning the new domain with a minimal forgetting effect (i.e., they maintain original model performance). These techniques modify the adaptation procedure by imposing new constraints including (1) weight constraint adaptation (wca): keeping the model parameters close to the original model parameters; (2) elastic weight consolidation (ewc): slowing down training for parameters that are important for previously established domains; (3) soft kl-divergence (skld): restricting the kl-divergence between the original and the adapted model output distributions; and (4) hybrid skld-ewc: incorporating both skld and ewc constraints. We evaluate these techniques in an accent adaptation task in which we adapt a deep neural network (dnn) acoustic model trained with native english to three different english accents: australian, hispanic, and indian. The experimental results show that skld significantly outperforms ewc, and ewc works better than wca. The hybrid skld-ewc technique results in the best overall performance.
+The observability of charged Higgs $ H^{\pm} $ has been investigated at
+future lepton collider by assuming type-I 2HDM at a centre of mass energy $
+\sqrt{s}=1.5$ TeV. The signal process chain is $ e^{+}e^{-} \rightarrow Z^{*}/
+\gamma^{*}\rightarrow H^{+} H^{-}\rightarrow H^{0} W^{+} H^{0} W^{-}\rightarrow
+l^{+} l^{-} b \overline{b} b \overline{b} \nu \overline{\nu}$. The process
+proceeds through s-channel, virtual gamma and Z-boson exchange. Several
+benchmark points are selected and mass of the charged Higgs bosons $ H^{\pm} $
+is reconstructed by analysing the events. The value of tan $ \beta $ is kept
+relatively high to enhance the branching ratio of $ H^{0}\rightarrow
+b\overline{b} $ to benefit the signal processes. The produced $ t\overline{t} $
+and vector bosons are the main background processes in SM. Signal selection
+efficiencies and signal significance efficiency are calculated for integrated
+luminosities of $100 fb^{-1} $, $ 500 fb^{-1} $, $ 1000 fb^{-1} $ and $ 5000
+fb^{-1} $. Reconstructed and corrected mass of charged Higgs bosons $ H^{\pm} $
+is determined. Through analyzing the results it is demonstrated that charged
+Higgs can be discovered through pair production process via its bosonic decays.
+This study is supposed to provide the experimentalists a good way to examine
+the Higgs bosons beyond SM as well as to check the validity of 2HDM models in
+considered parameter space.

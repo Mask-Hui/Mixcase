@@ -1,1 +1,9 @@
-Sound sources localization using multichannel signal processing has been a subject of active research for decades. In recent years, the use of deep learning in audio signal processing has allowed to drastically improve performances for machine hearing. This has motivated the scientific community to also develop machine learning strategies for source localization applications. In this paper, we present beamlearning, a multi-resolution deep learning approach that allows to encode relevant information contained in unprocessed time domain acoustic signals captured by microphone arrays. The use of raw data aims at avoiding simplifying hypothesis that most traditional model-based localization methods rely on. Benefits of its use are shown for realtime sound source 2d-localization tasks in reverberating and noisy environments. Since supervised machine learning approaches require large-sized, physically realistic, precisely labelled datasets, we also developed a fast gpu-based computation of room impulse responses using fractional delays for image source models. A thorough analysis of the network representation and extensive performance tests are carried out using the beamlearning network with synthetic and experimental datasets. Obtained results demonstrate that the beamlearning approach significantly outperforms the wideband music and srp-phat methods in terms of localization accuracy and computational efficiency in presence of heavy measurement noise and reverberation.
+Artificial Intelligence techniques are already popular and important in the
+legal domain. We extract legal indicators from judicial judgment to decrease
+the asymmetry of information of the legal system and the access-to-justice gap.
+We use NLP methods to extract interesting entities/data from judgments to
+construct networks of lawyers and judgments. We propose metrics to rank lawyers
+based on their experience, wins/loss ratio and their importance in the network
+of lawyers. We also perform community detection in the network of judgments and
+propose metrics to represent the difficulty of cases capitalising on
+communities features.

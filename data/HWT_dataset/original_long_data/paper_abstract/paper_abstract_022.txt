@@ -1,1 +1,16 @@
-We study the spectrum of single-photon emission and scattering in a mixed optomechanical model which consists of both linear and quadratic optomechanical interactions. The spectra are calculated based on the exact long-time solutions of the single-photon emission and scattering processes in this system. We find that there exist some phonon sideband peaks in the spectra and there are some sub peaks around the phonon sideband peaks under proper parameter conditions. The correspondence between the spectral features and the optomechanical interactions is confirmed, and the optomechanical coupling strengths can be inferred by analyzing the resonance peaks and dips in the spectra.
+Pulsar glitches offer an insight into the dynamics of superfluids in the high
+density interior of a neutron star. To model these phenomena, however, one
+needs to have an understanding of the dynamics of a turbulent array of
+superfluid vortices moving through a pinning lattice. In this paper we develop
+a theoretical approach to describe vortex mediated mutual friction in a pinned,
+turbulent and rotating superfluid. Our model is then applied to the study of
+the post glitch rotational evolution in the Vela pulsar and in PSR J0537-6910.
+We show that in both cases a turbulent model fits the evolution of the spin
+frequency derivative better than a laminar one. We also predict that the second
+derivative of the frequency after a glitch should be correlated with the
+waiting time since the previous glitch, which we find to be consistent with
+observational data for these pulsars. The main conclusion of this paper is that
+in the post-glitch rotational evolution of these two pulsars we are most likely
+observing the response to the glitch of a pinned turbulent region of the star
+(possibly the crust) and not the laminar response of a regular straight vortex
+array.

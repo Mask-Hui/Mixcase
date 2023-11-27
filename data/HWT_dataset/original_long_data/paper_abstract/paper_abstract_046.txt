@@ -1,1 +1,16 @@
-Detections from the repeating fast radio burst frb 121102 are clustered in time, noticeable even in the earliest repeat bursts. Recently, it was argued that the source activity is periodic, suggesting that the clustering reflected a not-yet-identified periodicity. We performed an extensive multi-wavelength campaign with the effelsberg telescope, the green bank telescope and the arecibo observatory to shadow the gran telescope canaria (optical), nustar (x-ray) and integral (gamma-ray). We detected 36 bursts with effelsberg, one with a pulse width of 39\,ms, the widest burst ever detected from frb 121102. With one burst detected during simultaneous nustar observations, we place a 5-$\sigma$ upper limit of $5\times10^{47}$ erg on the 3--79\,kev energy of an x-ray burst counterpart. We tested the periodicity hypothesis using 165-hr of effelsberg observations and find a periodicity of 161$\pm$5 days. We predict the source to be active from 2020-07-09 to 2020-10-14 and subsequently from 2020-12-17 to 2021-03-24. We compare the wait times between consecutive bursts within a single observation to weibull and poisson distributions. We conclude that the strong clustering was indeed a consequence of a periodic activity and show that if the few events with millisecond separation are excluded, the arrival times are poisson distributed. We model the bursts' cumulative energy distribution with energies from ${\sim}10^{38}$-$10^{39}$ erg and find that it is well described by a power-law with slope of $\gamma=-1.1\pm 0.2$. We propose that a single power-law might be a poor descriptor of the data over many orders of magnitude.
+There is an increasing demand for precise molecular spectroscopy, in
+particular in the mid-infrared fingerprint window that hosts a considerable
+number of vibrational signatures, whether it be for modeling our atmosphere,
+interpreting astrophysical spectra or testing fundamental physics. We present a
+high-resolution mid-infrared spectrometer traceable to primary frequency
+standards. It combines a widely tunable ultra-narrow Quantum Cascade Laser
+(QCL), an optical frequency comb and a compact multipass cell. The QCL
+frequency is stabilized onto a comb controlled with a remote near-infrared
+ultra-stable laser, transferred through a fiber link. The resulting QCL
+frequency stability is below 10-15 from 0.1 to 10s and its frequency
+uncertainty of 4x10-14 is given by the remote frequency standards. Continuous
+tuning over ~400 MHz is reported. We use the apparatus to perform saturated
+absorption spectroscopy of methanol in the low-pressure multipass cell and
+demonstrate a statistical uncertainty at the kHz level on transition center
+frequencies, confirming its potential for driving the next generation
+technology required for precise spectroscopic measurements.

@@ -1,1 +1,12 @@
-Following a series of similar calculations in simpler non-conformal holographic setups, we determine the quasinormal mode spectrum for an operator dual to a gauge-invariant scalar field within the improved holographic qcd framework. At temperatures somewhat above the critical temperature of the deconfinement transition, we find a small number of clearly separated modes followed by a branch-cut-like structure parallel to the real axis, the presence of which is linked to the form of the ihqcd potential employed. The temperature dependence of the lowest nonzero mode is furthermore used to study the thermalization time of the corresponding correlator, which is found to be of the order of the inverse critical temperature near the phase transition and decrease slightly faster than $1/t$ at higher temperatures.
+This work analyses the performance-complexity tradeoff for different
+direction of arrival (DoA) estimation techniques. Such tradeoff is investigated
+taking into account uniform linear array structures. Several DoA estimation
+techniques have been compared, namely the conventional Delay-and-Sum (DS),
+Minimum Variance Distortionless Response (MVDR), Multiple Signal Classifier
+(MUSIC) subspace, Estimation of Signal Parameters via Rotational Invariance
+Technique (ESPRIT), Unitary-ESPRIT and Fourier Transform method (FT-DoA). The
+analytical formulation of each estimation technique as well the comparative
+numerical results are discussed focused on the estimation accuracy versus
+complexity tradeoff. The present study reveals the behavior of seven
+techniques, demonstrating promising ones for current and future location
+applications involving DoA estimation, especially for 5G massive MIMO systems.

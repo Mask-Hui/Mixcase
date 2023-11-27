@@ -1,1 +1,11 @@
-We consider a family of $\kappa$-poincar\'e invariant scalar field theories on 4-d $\kappa$-minkowski space with quartic orientable interaction, that is for which $\phi$ and its conjugate $\phi^\dag$ alternate in the quartic interaction, and whose kinetic operator is the square of a $u_\kappa(iso(4))$-equivariant dirac operator. The formal commutative limit yields the standard complex $\phi^4$ theory. We find that the 2-point function receives uv linearly diverging 1-loop corrections while it stays free of ir singularities that would signal occurrence of uv/ir mixing. We find that all the 1-loop planar and non-planar contributions to the 4-point function are uv finite, stemming from the existence of the particular estimate for the propagator partly combined with its decay properties at large momenta, implying formally vanishing of the beta-functions at 1-loop so that the coupling constants stay scale-invariant at 1-loop.
+We address the effect of orientation of the accretion disk plane and the
+geometry of the broad-line region (BLR) in the context of understanding the
+distribution of quasars along their Main Sequence. We utilize the
+photoionization code CLOUDY to model the BLR, incorporating the `un-constant'
+virial factor. We show the preliminary results of the analysis to highlight the
+co-dependence of the Eigenvector 1 parameter, $\mathrm{R_{FeII}}$ on the broad
+H$\beta$ FWHM (i.e. the line dispersion) and the inclination angle ($\theta$),
+assuming fixed values for the Eddington ratio
+($\mathrm{L_{bol}}/\mathrm{L_{Edd}}$), black hole mass ($\mathrm{M_{BH}}$),
+spectral energy distribution (SED) shape, cloud density (n$\rm{_{H}}$) and
+composition.

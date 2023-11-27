@@ -1,1 +1,10 @@
-We investigate the response of a photonic gas interacting with a reservoir of pumped dye-molecules to quenches in the pump power. In addition to the expected dramatic critical slowing down of the equilibration time around phase transitions we find extremely slow equilibration even far away from phase transitions. This non-critical slowing down can be accounted for quantitatively by fierce competition among cavity modes for access to the molecular environment, and we provide a quantitative explanation for this non-critical slowing down.
+We consider the connection between two constructions of the mirror partner
+for the Calabi-Yau orbifold. This orbifold is defined as a quotient by some
+suitable subgroup $G$ of the phase symmetries of the hypersurface $ X_M $ in
+the weighted projective space, cut out by a quasi-homogeneous polynomial $W_M$.
+The first, Berglund-H\"ubsch-Krawitz (BHK) construction, uses another weighted
+projective space and the quotient of a new hypersurface $X_{M^T}$ inside it by
+some dual group $G^T$. In the second, Batyrev construction, the mirror partner
+is constructed as a hypersurface in the toric variety defined by the reflexive
+polytope dual to the polytope associated with the original Calabi-Yau orbifold.
+We give a simple evidence of the equivalence of these two constructions.

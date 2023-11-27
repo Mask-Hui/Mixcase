@@ -1,1 +1,18 @@
-We propose and demonstrate pump-probe spectroscopy of rubidium absorption which reveals the sub-doppler hyperfine structure of the $^{5}$s$_{1/2} \leftrightarrow$ $^{5}$p$_{3/2}$ (d2) transitions. The counter propagating pump and probe lasers are independently tunable in frequency, with the probe operating at the single-photon-level. The two-dimensional spectrum measured as the laser frequencies are scanned shows fluorescence, doppler-broadened absorption dips and sub-doppler features. The detuning between the pump and probe lasers allows compensation of the doppler shift for all atomic velocities in the room temperature vapor, meaning we observe sub-doppler features for all atoms in the beam. We detail a theoretical model of the system which incorporates fluorescence, saturation effects and optical pumping and compare this with the measured spectrum, finding a mean absolute percentage error of 4.17\%. In the future this technique could assist in frequency stabilization of lasers, and the single-photon-level probe could be replaced by a single photon source.
+The CHY formalism for massless scattering provides a cohesive framework for
+the computation of scattering amplitudes in a variety of theories. It is
+especially compelling because it elucidates existing relations among theories
+which are seemingly unrelated in a standard Lagrangian formulation. However, it
+entails operations that are highly non-trivial to perform analytically, most
+notably solving the scattering equations. We present a new Python package (
+https://github.com/GDeLaurentis/seampy ) to solve the scattering equations and
+to compute scattering amplitudes. Both operations are done numerically with
+high-precision floating-point algebra. Elimination theory is used to obtain
+solutions to the scattering equations for arbitrary kinematics. These solutions
+are then applied to a variety of CHY integrands to obtain tree amplitudes for
+the following theories: Yang-Mills, Einstein gravity, biadjoint scalar,
+Born-Infeld, non-linear sigma model, Galileon, conformal gravity and
+$(\text{DF})^2$. Finally, we exploit this high-precision numerical
+implementation to explore the singularity structure of the amplitudes and to
+reconstruct analytical expressions which make manifest their pole structure.
+Some of the expressions for conformal gravity and the $(\text{DF})^2$ gauge
+theory are new to the best of our knowledge.

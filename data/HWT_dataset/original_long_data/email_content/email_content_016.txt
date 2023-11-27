@@ -1,1 +1,78 @@
-Wolfe, jason.pst ------------------------------------------------------------------------------------------------------ w e e k e n d s y s t e m s a v a i l a b i l i t y f o r june 1, 2001 5:00pm through june 4, 2001 12:00am ------------------------------------------------------------------------------------------------------ ecs to ecn network interconnection, june 9th 2001 this is a notification that the enron corp. I/t networks team will be connecting the new building network infrastructure located in enron center south (ecs) to the existing enron center north (ecn) backbone network. While this activity is not expected to produce a disruption to network services, this notice is designed to alert the organization to our activities. No network hardware or systems are anticipated to be shutdown. The actual physical interconnection of the networks will be performed in the eb 34th floor data center. Interconnection activities are scheduled to occur the evening of june 9th 2001 starting from 7:00 p.m.(ct) and completing around 11:00 p.m. (ct). Application testing activities will begin at 11:00 p.m. (ct) once all network testing has completed. If you have any further questions, please contact pete castrejana at 713-410-0642 for more information. Scheduled system outages: ardmore data center - facility operations: no scheduled outages. Azurix: no scheduled outages. Eb34 data center - facility operations: no scheduled outages. Edi server: no scheduled outages. Enron center south data center - facility operations: no scheduled outages enron north american lans: impact: ens time: fri 6/1/2001 at 11:00:00 pm ct thru fri 6/1/2001 at 11:45:00 pm ct fri 6/1/2001 at 9:00:00 pm pt thru fri 6/1/2001 at 9:45:00 pm pt sat 6/2/2001 at 5:00:00 am london thru sat 6/2/2001 at 5:45:00 am london outage: enable routing on new router ecn-34-cor-ccr1 environments impacted: ens purpose: this router will be used to connect to the new building backout: remove routing on the router. Contact(s): scott shishido 713-853-9780 impact: aep time: fri 6/1/2001 at 8:00:00 pm ct thru fri 6/1/2001 at 8:30:00 pm ct fri 6/1/2001 at 6:00:00 pm pt thru fri 6/1/2001 at 6:30:00 pm pt sat 6/2/2001 at 2:00:00 am london thru sat 6/2/2001 at 2:30:00 am london outage: shutting off the internal link to 1201 louisiana environments impacted: aep purpose: company occupying that space has been sold. Backout: none contact(s): garhett clark 713-345-9953 robert humlicek 713-853-6366 713-406-8293 impact: ens/gco time: fri 6/1/2001 thru wed 7/4/2001 outage: hpl migration to aep environments impacted: gco purpose: sites sold backout: none contact(s): garhett clark 713-345-9953 robert humlicek 713-853-6366 713-406-8293 field services: no scheduled outages. Internet: impact: internet time: fri 6/1/2001 at 10:30:00 pm ct thru fri 6/1/2001 at 10:45:00 pm ct fri 6/1/2001 at 8:30:00 pm pt thru fri 6/1/2001 at 8:45:00 pm pt sat 6/2/2001 at 4:30:00 am london thru sat 6/2/2001 at 4:45:00 am london outage: reboot enron.com edge routers environments impacted: internet purpose: regular reboot to prevent such problems as memory corruption. Intermettent disruption to last about five minutes. Backout: contact(s): john shupak 713-853-7943 bryan aubuchon 713-345-8446 messaging: impact: corp notes time: fri 6/1/2001 at 9:00:00 pm ct thru sat 6/2/2001 at 1:00:00 am ct fri 6/1/2001 at 7:00:00 pm pt thru fri 6/1/2001 at 11:00:00 pm pt sat 6/2/2001 at 3:00:00 am london thru sat 6/2/2001 at 7:00:00 am london outage: cnotes server reboots environments impacted: all users on any of the mailservers listed below purpose: scheduled @ 2 week interval backout: make sure server comes up. Contact(s): trey rhodes (713) 345-7792 impact: ei time: fri 6/1/2001 at 9:00:00 pm ct thru sat 6/2/2001 at 1:00:00 am ct fri 6/1/2001 at 7:00:00 pm pt thru fri 6/1/2001 at 11:00:00 pm pt sat 6/2/2001 at 3:00:00 am london thru sat 6/2/2001 at 7:00:00 am london outage: ei notes server maintenance environments impacted: ei local/domestic/foreign sites purpose: scheduled @ 2 week interval backout: n/a contact(s): david ricafrente 713-646-7741 market data: no scheduled outages. Nt: no scheduled outages. Os/2: no scheduled outages. Other systems: no scheduled outages. Sitara: no scheduled outages. Sun/oss system: no scheduled outages. Telephony: no scheduled outages terminal server: no scheduled outages. Unify: no scheduled outages. ------------------------------------------------------------------------------------------------------------------------------------- for assistance (713) 853-1411 enron resolution center specific help: information risk management (713) 853-5536 sap/isc (713) 345-4727 unify on-call (713) 284-3757 [pager] sitara on-call (713) 288-0101 [pager] rus/gops/geotools/aprs (713) 639-9726 [pager] oss/ua4/tarp (713) 285-3165 [pager] cpr (713) 284-4175 [pager] edi support (713) 327-3893 [pager] ees help desk (713)853-9797 or (888)853-9797 tds -trader decision support on-call (713) 327-6032 [pager]
+tdonoho.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+December 01, 2000 5:00pm through December 04, 2000 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON NORTH AMERICAN LANS:  SEE ORIGINAL REPORT
+    
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+LOTUS NOTES: No Scheduled Outages.
+
+MARKET DATA:    SEE ORIGINAL REPORT
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER: HR
+Impact:  CORP
+Time:  Sat 12/2/2000 at  8:00:00 AM CT thru Sat 12/2/2000 at  12:00:00 PM CT
+ Sat 12/2/2000 at  6:00:00 AM PT thru Sat 12/2/2000 at  10:00:00 AM PT
+ Sat 12/2/2000 at  2:00:00 PM London thru Sat 12/2/2000 at  6:00:00 PM London
+Outage:  Corporate HR Database Move
+Environments Impacted:  HR LAN
+Purpose: Reconfiguration of Sun Solaris and Oracle DB to allow for more 
+simultaneous connections.
+        The applications impacted are as follows:  HRGlobalApps, 
+ExpertFinder, GCS, GIS, PM, etc.
+Backout: Restore current configuration back to the Sun Servers.
+Contact(s):  Brandon Bangerter  713-345-4904    
+  Raj Perubhatla  713-345-8016  
+  Brian Ellis  713-345-8017
+  
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+------------------------------------------------------------------------------
+-------------------------------------------------------
+FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+(713) 853-5536   Information Risk Management
+
+Specific Applications Help:
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+All Other Systems    (713) 563-5797  [Pager]
+      or (713) 563-5987  [Pager]

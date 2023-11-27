@@ -1,1 +1,12 @@
-We propose a class of nodal line semimetals that host an eight-fold degenerate double dirac nodal line (ddnl) with negligible spin-orbit coupling. We find only 5 of the 230 space groups host the ddnl. The ddnl can be considered as a combination of two dirac nodal lines, and has a trivial berry phase. This leads to two possible but completely different surface states, namely, a torus surface state covering the whole surface brillouin zone and no surface state at all. Based on first-principles calculations, we predict that the hydrogen storage material libh is an ideal ddnl semimetal, where the line resides at fermi level, is relatively flat in energy, and exhibits a large linear energy range. Interestingly, both the two novel surface states of ddnl can be realized in libh. Further, we predict that with a magnetic field parallel to ddnl, the landau levels of ddnl are doubly degenerate due to kramers-like degeneracy and have a doubly degenerate zero-mode.
+We put forward the idea of lattice quantum magnetometry, i.e. quantum sensing
+of magnetic fields by a charged (spinless) particle placed on a finite
+two-dimensional lattice. In particular, we focus on the detection of a locally
+static transverse magnetic field, either homogeneous or inhomogeneous, by
+performing ground state measurements. The system turns out to be of interest as
+quantum magnetometer, since it provides a non-negligible quantum Fisher
+information (QFI) in a large range of configurations. Moreover, the QFI shows
+some relevant peaks, determined by the spectral properties of the Hamiltonian,
+suggesting that certain values of the magnetic fields may be estimated better
+than the others, depending on the value of other tunable parameters. We also
+assess the performance of coarse-grained position measurement, showing that it
+may be employed to realize nearly optimal estimation strategies.

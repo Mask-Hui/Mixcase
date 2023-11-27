@@ -1,1 +1,14 @@
-In recent years, there have been a surge in applications of neural networks (nns) in physical sciences. Although various algorithmic advances have been proposed, there are, thus far, limited number of studies that assess the interpretability of neural networks. This has contributed to the hasty characterization of most nn methods as "black boxes" and hindering wider acceptance of more powerful machine learning algorithms for physics. In an effort to address such issues in fluid flow modeling, we use a probabilistic neural network (pnn) that provide confidence intervals for its predictions in a computationally effective manner. The model is first assessed considering the estimation of proper orthogonal decomposition (pod) coefficients from local sensor measurements of solution of the shallow water equation. We find that the present model outperforms a well-known linear method with regard to estimation. This model is then applied to the estimation of the temporal evolution of pod coefficients with considering the wake of a naca0012 airfoil with a gurney flap and the noaa sea surface temperature. The present model can accurately estimate the pod coefficients over time in addition to providing confidence intervals thereby quantifying the uncertainty in the output given a particular training data set.
+Scintillation from noble gases is an important technique in particle physics
+including neutrino beam experiments, neutrino-less double beta-decay and dark
+matter searches. In liquid argon, the possibility of enhancing the light yield
+by the addition of a small quantity of xenon (doping at 10-1000 ppm) has been
+of particular interest. While the pathway for energy transfer between argon and
+xenon excimers is well known, the time-dependence of the process has not been
+fully studied in the context of a physics-based model. In this paper we present
+a model of the energy transfer process together with a fit to xenon-doped argon
+data. We have measured the diffusion limited rate constant as a function of
+xenon dopant. We find that the time dependence of the energy transfer is
+consistent with diffusion-limited reactions. Additionally, we find that
+commercially obtained argon can have a small xenon component (4 ppm). Our
+result will facilitate the use of xenon-doped liquid argon in future
+experiments.

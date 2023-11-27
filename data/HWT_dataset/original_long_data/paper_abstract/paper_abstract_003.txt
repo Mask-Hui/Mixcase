@@ -1,1 +1,17 @@
-We report (semi-)analytical solutions of a benchmark problem for rigorously testing coupled incompressible fluid--elastic solid interaction algorithms. The problem involves a visco-hyperelastic solid material layer sandwiched between two fluid layers, in turn confined by two long planar walls. The walls undergo oscillatory motion which drive a characteristic system response. The governing equations in this setting reduce to one-dimension and admit (semi-)analytical solutions, whose form depends on fluid viscosity and solid elasticity. Using these solutions, we highlight specific parameter settings that serve as rigorous, challenging long-time benchmarks for validating multiphase solvers, in the context of fsi simulations.
+We revisit the Casimir effect perceived by two surfaces in the presence of
+infrared (IR) transparency. To address this problem, we study a model, where
+such a phenomenon naturally arises: the DGP model with two parallel 3-branes,
+each endowed with a localized curvature term. In that model, the UV modes of
+the 5-dimensional graviton are suppressed on the branes, while the IR modes can
+penetrate them freely. First, we find that the DGP branes act as "effective"
+(momentum-dependent) boundary conditions for the gravitational field, so that
+the (gravitational) Casimir force between them emerges. Second, we discover
+that the presence of an IR transparency region for the discrete modes modifies
+the standard Casimir force -- as derived for ideal Dirichlet boundary
+conditions -- in two competing ways: i) The exclusion of soft modes from the
+discrete spectrum leads to an increase of the Casimir force. ii) The non-ideal
+nature of the boundary conditions gives rise to a "leakage" of hard modes. As a
+result of i) and ii), the Casimir force becomes weaker. Since the derivation of
+this result involves only the localized kinetic terms of a quantum field on
+parallel surfaces (with codimension one), the derived Casimir force is expected
+to be present in a variety of setups in arbitrary dimensions.
