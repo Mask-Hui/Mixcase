@@ -1,12 +1,1 @@
-The nonlinear fluorescence emission has been widely applied for the high
-spatial resolution optical imaging. Here, we studied the fluorescence anomalous
-saturating effect of the nitrogen vacancy defect in diamond. The fluorescence
-reduction was observed with high power laser excitation. It increased the
-nonlinearity of the fluorescence emission, and changed the spatial frequency
-distribution of the fluorescence image. We used a differential excitation
-protocol to extract the high spatial frequency information. By modulating the
-excitation laser's power, the spatial resolution of imaging was improved
-approximate 1.6 times in comparison with the confocal microscopy. Due to the
-simplicity of the experimental setup and data processing, we expect this method
-can be used for improving the spatial resolution of sensing and biological
-labeling with the defects in solids.
+The nonlinear fluorescence emission has been widely applied for the high spatial resolution optical imaging. Here, we studied the fluorescence anomalous saturating effect of the nitrogen vacancy defect in diamond. The fluorescence reduction was observed with high power laser excitation. It increased the nonlinearity of the fluorescence emission, and changed the spatial frequency distribution of the fluorescence image. We used a differential excitation protocol to extract the high spatial frequency information. By modulating the excitation laser's power, the spatial resolution of imaging was improved approximate 1.6 times in comparison with the confocal microscopy. Due to the simplicity of the experimental setup and data processing, we expect this method can be used for improving the spatial resolution of sensing and biological labeling with the defects in solids.

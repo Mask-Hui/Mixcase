@@ -1,11 +1,1 @@
-We derive the conditions for matching high-energy renormalizable Quantum
-Field Theories onto low-energy nonrenormalizable ones by means of the FDR
-approach described in Fortsch.Phys. 63 (2015) 132-141. Our procedure works
-order-by-order in the loop expansion and avoids the addition of higher
-dimensional interactions into the nonrenormalizable Lagrangian. To illustrate
-our strategy, we match the high-energy fermion-loop corrections computed in the
-complete electroweak theory onto the nonrenormalizable four-fermion Fermi
-model. As a result, the Fermi Lagrangian can be used without modifications to
-reproduce, at arbitrary loop orders and energies, the exact electroweak
-interactions between two massless fermion lines induced by one-fermion-loop
-resummed gauge boson propagators.
+We derive the conditions for matching high-energy renormalizable quantum field theories onto low-energy nonrenormalizable ones by means of the fdr approach described in fortsch.phys. 63 (2015) 132-141. Our procedure works order-by-order in the loop expansion and avoids the addition of higher dimensional interactions into the nonrenormalizable lagrangian. To illustrate our strategy, we match the high-energy fermion-loop corrections computed in the complete electroweak theory onto the nonrenormalizable four-fermion fermi model. As a result, the fermi lagrangian can be used without modifications to reproduce, at arbitrary loop orders and energies, the exact electroweak interactions between two massless fermion lines induced by one-fermion-loop resummed gauge boson propagators.

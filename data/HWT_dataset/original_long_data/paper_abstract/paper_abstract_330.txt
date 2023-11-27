@@ -1,11 +1,1 @@
-We propose very efficient algorithms for the bootstrap percolation and the
-diffusion percolation models by extending the Newman-Ziff algorithm of the
-classical percolation [M. E. J. Newman and R. M. Ziff, Phys. Rev. Lett. 85
-(2000) 4104]. Using these algorithms and the finite-size-scaling, we calculated
-with high precision the percolation threshold and critical exponents in the
-eleven two-dimensional Archimedean lattices. We present the condition for the
-continuous percolation transition in the bootstrap percolation and the
-diffusion percolation, and show that they have the same critical exponents as
-the classical percolation within error bars in two dimensions. We conclude that
-the bootstrap percolation and the diffusion percolation almost certainly belong
-to the same universality class as the classical percolation.
+We propose very efficient algorithms for the bootstrap percolation and the diffusion percolation models by extending the newman-ziff algorithm of the classical percolation [m. E. J. Newman and r. M. Ziff, phys. Rev. Lett. 85 (2000) 4104]. Using these algorithms and the finite-size-scaling, we calculated with high precision the percolation threshold and critical exponents in the eleven two-dimensional archimedean lattices. We present the condition for the continuous percolation transition in the bootstrap percolation and the diffusion percolation, and show that they have the same critical exponents as the classical percolation within error bars in two dimensions. We conclude that the bootstrap percolation and the diffusion percolation almost certainly belong to the same universality class as the classical percolation.

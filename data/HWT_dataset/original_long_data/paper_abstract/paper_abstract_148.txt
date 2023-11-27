@@ -1,10 +1,1 @@
-We discuss spontaneous symmetry breaking of open classical and quantum
-systems. When a continuous symmetry is spontaneously broken in an open system,
-a gapless excitation mode appears corresponding to the Nambu-Goldstone mode.
-Unlike isolated systems, the gapless mode is not always a propagation mode, but
-it is a diffusion one. Using the Ward-Takahashi identity and the effective
-action formalism, we establish the Nambu-Goldstone theorem in open systems, and
-derive the low-energy coefficients that determine the dispersion relation of
-Nambu-Goldstone modes. Using these coefficients, we classify the
-Nambu-Goldstone modes into four types: type-A propagation, type-A diffusion,
-type-B propagation, and type-B diffusion modes.
+We discuss spontaneous symmetry breaking of open classical and quantum systems. When a continuous symmetry is spontaneously broken in an open system, a gapless excitation mode appears corresponding to the nambu-goldstone mode. Unlike isolated systems, the gapless mode is not always a propagation mode, but it is a diffusion one. Using the ward-takahashi identity and the effective action formalism, we establish the nambu-goldstone theorem in open systems, and derive the low-energy coefficients that determine the dispersion relation of nambu-goldstone modes. Using these coefficients, we classify the nambu-goldstone modes into four types: type-a propagation, type-a diffusion, type-b propagation, and type-b diffusion modes.

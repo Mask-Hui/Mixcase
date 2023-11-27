@@ -1,13 +1,1 @@
-In this work, a parametric up-converter amplifier is introduced as a wideband
-impedance matching network for receiving electrically small antennas. Chu's
-limit restricts the minimum Q-factor of unloaded small antennas; however, the
-practical bandwidth of small antennas is defined by their loaded Q-factor. By
-connecting a small antenna to an amplifier with a real input impedance several
-times greater than the radiation resistance of the antenna, we propose
-increasing the return loss to reduce the loaded Q-factor and increase the
-bandwidth as a result of the Bode-Fano theorem. In addition, a parametric
-amplifier is used because, in comparison with transistor amplifiers, it offers
-low noise characteristics. The gain of the low noise parametric amplifier
-compensates for the loss due to the imposed mismatch. Our simulation result
-shows bandwidth improvements up to 32 times can be accomplished by trading 2 dB
-of noise figure compare to 15 dB suggested by Chu's limit for a lossy antenna.
+In this work, a parametric up-converter amplifier is introduced as a wideband impedance matching network for receiving electrically small antennas. Chu's limit restricts the minimum q-factor of unloaded small antennas; however, the practical bandwidth of small antennas is defined by their loaded q-factor. By connecting a small antenna to an amplifier with a real input impedance several times greater than the radiation resistance of the antenna, we propose increasing the return loss to reduce the loaded q-factor and increase the bandwidth as a result of the bode-fano theorem. In addition, a parametric amplifier is used because, in comparison with transistor amplifiers, it offers low noise characteristics. The gain of the low noise parametric amplifier compensates for the loss due to the imposed mismatch. Our simulation result shows bandwidth improvements up to 32 times can be accomplished by trading 2 db of noise figure compare to 15 db suggested by chu's limit for a lossy antenna.

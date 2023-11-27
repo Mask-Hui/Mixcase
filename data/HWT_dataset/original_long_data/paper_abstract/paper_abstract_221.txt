@@ -1,16 +1,1 @@
-Let $\text{Emb}_{\mathbb{Z}}^+(\mathrm{O})$ denote $\mathbb{Z}-$linear formal
-sums of equivalence classes of optimal embeddings of real quadratic orders into
-$\mathrm{O}$, an Eichler order of level $\mathfrak{M}$ in an indefinite
-quaternion algebra over $\mathbb{Q}$. For all positive integers $n$ coprime to
-$\mathfrak{M}$, we define an operator
-$T_n:\text{Emb}_{\mathbb{Z}}^+(\mathrm{O})\rightarrow
-\text{Emb}_{\mathbb{Z}}^+(\mathrm{O})$, which we refer to as a Hecke operator.
-We introduce the "prime power Hecke graph", and show how it can be used to
-determine the effect of $T_p$ on a single optimal embedding. To justify the
-name of the operator, we associate an optimal embedding equivalence class to a
-closed geodesic on the corresponding Shimura curve. By considering the signed
-intersection number of pairs of geodesics, we use the operators $T_n$ to define
-formal power series. In showing that the action of Hecke operators on the
-homology of the curve commutes with our definition, we prove that the formal
-power series agree with weight two cusp forms for $\Gamma_0(N)$ on all
-coefficients of exponents coprime to $\mathfrak{M}$.
+Let $\text{emb}_{\mathbb{z}}^+(\mathrm{o})$ denote $\mathbb{z}-$linear formal sums of equivalence classes of optimal embeddings of real quadratic orders into $\mathrm{o}$, an eichler order of level $\mathfrak{m}$ in an indefinite quaternion algebra over $\mathbb{q}$. For all positive integers $n$ coprime to $\mathfrak{m}$, we define an operator $t_n:\text{emb}_{\mathbb{z}}^+(\mathrm{o})\rightarrow \text{emb}_{\mathbb{z}}^+(\mathrm{o})$, which we refer to as a hecke operator. We introduce the "prime power hecke graph", and show how it can be used to determine the effect of $t_p$ on a single optimal embedding. To justify the name of the operator, we associate an optimal embedding equivalence class to a closed geodesic on the corresponding shimura curve. By considering the signed intersection number of pairs of geodesics, we use the operators $t_n$ to define formal power series. In showing that the action of hecke operators on the homology of the curve commutes with our definition, we prove that the formal power series agree with weight two cusp forms for $\gamma_0(n)$ on all coefficients of exponents coprime to $\mathfrak{m}$.

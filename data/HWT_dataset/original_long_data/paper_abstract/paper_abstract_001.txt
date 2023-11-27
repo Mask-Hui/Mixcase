@@ -1,18 +1,1 @@
-The dielectric constant, which defines the polarization of the media, is a
-key quantity in condensed matter. It determines several electronic and
-optoelectronic properties important for a plethora of modern technologies from
-computer memory to field effect transistors and communication circuits.
-Moreover, the importance of the dielectric constant in describing
-electromagnetic interactions through screening plays a critical role in
-understanding fundamental molecular interactions. Here we show that despite its
-fundamental transcendence, the dielectric constant does not define
-unequivocally the dielectric properties of two-dimensional (2D) materials due
-to the locality of their electrostatic screening. Instead, the electronic
-polarizability correctly captures the dielectric nature of a 2D material which
-is united to other physical quantities in an atomically thin layer. We reveal a
-long-sought universal formalism where electronic, geometrical and dielectric
-properties are intrinsically correlated through the polarizability opening the
-door to probe quantities yet not directly measurable including the real
-covalent thickness of a layer. We unify the concept of dielectric properties in
-any material dimension finding a global dielectric anisotropy index defining
-their controllability through dimensionality.
+The dielectric constant, which defines the polarization of the media, is a key quantity in condensed matter. It determines several electronic and optoelectronic properties important for a plethora of modern technologies from computer memory to field effect transistors and communication circuits. Moreover, the importance of the dielectric constant in describing electromagnetic interactions through screening plays a critical role in understanding fundamental molecular interactions. Here we show that despite its fundamental transcendence, the dielectric constant does not define unequivocally the dielectric properties of two-dimensional (2d) materials due to the locality of their electrostatic screening. Instead, the electronic polarizability correctly captures the dielectric nature of a 2d material which is united to other physical quantities in an atomically thin layer. We reveal a long-sought universal formalism where electronic, geometrical and dielectric properties are intrinsically correlated through the polarizability opening the door to probe quantities yet not directly measurable including the real covalent thickness of a layer. We unify the concept of dielectric properties in any material dimension finding a global dielectric anisotropy index defining their controllability through dimensionality.

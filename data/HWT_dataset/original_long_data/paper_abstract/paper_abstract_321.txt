@@ -1,12 +1,1 @@
-In this paper we investigate multi-agent discrete-event systems with partial
-observation. The agents can be divided into several groups in each of which the
-agents have similar (isomorphic) state transition structures, and thus can be
-relabeled into the same template. Based on the template a scalable supervisor
-whose state size and computational cost are independent of the number of agents
-is designed for the case of partial observation. The scalable supervisor under
-partial observation does not need to be recomputed regardless of how many
-agents are added to or removed from the system. We generalize our earlier
-results to partial observation by proposing sufficient conditions for safety
-and maximal permissiveness of the scalable least restrictive supervisor on the
-template level. An example is provided to illustrate the proposed scalable
-supervisory synthesis.
+In this paper we investigate multi-agent discrete-event systems with partial observation. The agents can be divided into several groups in each of which the agents have similar (isomorphic) state transition structures, and thus can be relabeled into the same template. Based on the template a scalable supervisor whose state size and computational cost are independent of the number of agents is designed for the case of partial observation. The scalable supervisor under partial observation does not need to be recomputed regardless of how many agents are added to or removed from the system. We generalize our earlier results to partial observation by proposing sufficient conditions for safety and maximal permissiveness of the scalable least restrictive supervisor on the template level. An example is provided to illustrate the proposed scalable supervisory synthesis.

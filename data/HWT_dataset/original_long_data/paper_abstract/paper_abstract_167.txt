@@ -1,8 +1,1 @@
-The observation of gravitational waves from an asymmetric binary opens the
-possibility for heavy neutron stars, but these pose challenges to models of the
-neutron star equation of state. We construct heavy neutron stars by introducing
-non-trivial structure in the speed of sound sourced by deconfined QCD matter,
-which cannot be well recovered by spectral representations. Their moment of
-inertia, Love number and quadrupole moment are very small, so a tenfold
-increase in sensitivity may be needed to test this possibility with
-gravitational waves, which is feasible with third generation detectors.
+The observation of gravitational waves from an asymmetric binary opens the possibility for heavy neutron stars, but these pose challenges to models of the neutron star equation of state. We construct heavy neutron stars by introducing non-trivial structure in the speed of sound sourced by deconfined qcd matter, which cannot be well recovered by spectral representations. Their moment of inertia, love number and quadrupole moment are very small, so a tenfold increase in sensitivity may be needed to test this possibility with gravitational waves, which is feasible with third generation detectors.

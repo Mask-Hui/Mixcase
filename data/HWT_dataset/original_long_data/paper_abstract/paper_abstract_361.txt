@@ -1,14 +1,1 @@
-In the shock-ignition inertial confinement fusion scheme, high-intensity
-lasers propagate through an inhomogeneous coronal plasma, driving a shock
-designed to cause fuel ignition. During the high-intensity ignitor laser pulse,
-SRS backscatter in the long scale-length coronal plasma is likely to be in the
-kinetic regime. In this work, we use one-dimensional particle-in-cell
-simulations to show that there is a non-linear frequency shift caused by
-kinetic effects, resulting in the growth of Stimulated Raman Scattering (SRS)
-in an inhomogeneous plasma far exceeding the predictions of the fluid theory,
-so-called inflationary SRS or iSRS. We find that iSRS occurs over a wide range
-of density scale-lengths relevant to shock-ignition and other directly-driven
-inertial confinement fusion schemes. The presence of iSRS in shock-ignition
-plasmas has implications for the theoretical gains from shock-ignition inertial
-confinement fusion. Here we quantify the intensity threshold for the onset of
-iSRS for shock-ignition relevant parameters.
+In the shock-ignition inertial confinement fusion scheme, high-intensity lasers propagate through an inhomogeneous coronal plasma, driving a shock designed to cause fuel ignition. During the high-intensity ignitor laser pulse, srs backscatter in the long scale-length coronal plasma is likely to be in the kinetic regime. In this work, we use one-dimensional particle-in-cell simulations to show that there is a non-linear frequency shift caused by kinetic effects, resulting in the growth of stimulated raman scattering (srs) in an inhomogeneous plasma far exceeding the predictions of the fluid theory, so-called inflationary srs or isrs. We find that isrs occurs over a wide range of density scale-lengths relevant to shock-ignition and other directly-driven inertial confinement fusion schemes. The presence of isrs in shock-ignition plasmas has implications for the theoretical gains from shock-ignition inertial confinement fusion. Here we quantify the intensity threshold for the onset of isrs for shock-ignition relevant parameters.

@@ -1,15 +1,1 @@
-We present an extensive formulation of the inverse grating problem for exural
-waves, in which the energy of each diffracted mode is selected and the grating
-configuration is then obtained by solving a linear system of equations. The
-grating is designed as a lineal periodic repetition of a unit cell comprising a
-cluster of resonators attached at points whose physical properties are directly
-derived by inversion of a given matrix. Although both active and passive
-attachments can be required in the most general case, it is possible to find
-configurations with only passive, i.e. damped, solutions. This inverse design
-approach presents an alternative to the design of metasurfaces for exural waves
-overcoming the limitations of gradient phase metasurfaces, which require a
-continuous variation of the surface's impedance. When the grating is designed
-in such a way that all the energy is channeled to a single diffracted mode, it
-behaves as an anomalous refractor or re ector. The negative refractor is
-analyzed in depth, and it is shown that with only three scatterers per unit
-cell is it possible to build such a device with unitary efficiency.
+We present an extensive formulation of the inverse grating problem for exural waves, in which the energy of each diffracted mode is selected and the grating configuration is then obtained by solving a linear system of equations. The grating is designed as a lineal periodic repetition of a unit cell comprising a cluster of resonators attached at points whose physical properties are directly derived by inversion of a given matrix. Although both active and passive attachments can be required in the most general case, it is possible to find configurations with only passive, i.e. Damped, solutions. This inverse design approach presents an alternative to the design of metasurfaces for exural waves overcoming the limitations of gradient phase metasurfaces, which require a continuous variation of the surface's impedance. When the grating is designed in such a way that all the energy is channeled to a single diffracted mode, it behaves as an anomalous refractor or re ector. The negative refractor is analyzed in depth, and it is shown that with only three scatterers per unit cell is it possible to build such a device with unitary efficiency.

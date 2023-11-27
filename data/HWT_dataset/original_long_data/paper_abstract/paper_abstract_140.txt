@@ -1,15 +1,1 @@
-In a molecular scenario, we investigate the isospin-breaking hidden charm
-decay processes of $X(3872)$, i.e., $X(3872) \to \pi^+ \pi^- J/\psi$, $X(3872)
-\to \pi^+ \pi^- \pi^0 J/\psi$, and $X(3872)\to \pi^0\chi_{cJ}$. We assume that
-the source of the strong isospin violation comes from the different coupling
-strengths of $X(3872)$ to its charged components $D^{\ast +} D^-$ and neutral
-components $D^{\ast 0 } \bar{D}^0$ as well as the interference between the
-charged meson loops and neutral meson loops. The former effect could fix our
-parameters by using the measurement of the ratio $\Gamma[X(3872) \to \pi^+
-\pi^- \pi^0 J/\psi]/\Gamma[X(3872) \to \pi^+ \pi^- J/\psi]$. With the
-determined parameter range, we find that the estimated ratio $\Gamma[X(3872)
-\to \pi^0 \chi_{c1}/\Gamma[X(3872) \to \pi^+ \pi^- J/\psi]$ is well consistent
-with the experimental measurement from the BESIII collaboration. Moreover, the
-partial width ratio of $\pi^0 \chi_{cJ}$ for $J=0,1,2$ is estimated to be
-$1.77\sim1.65:1:1.09\sim1.43$, which could be tested by further precise
-measurements of BESIII and Belle II.
+In a molecular scenario, we investigate the isospin-breaking hidden charm decay processes of $x(3872)$, i.e., $x(3872) \to \pi^+ \pi^- j/\psi$, $x(3872) \to \pi^+ \pi^- \pi^0 j/\psi$, and $x(3872)\to \pi^0\chi_{cj}$. We assume that the source of the strong isospin violation comes from the different coupling strengths of $x(3872)$ to its charged components $d^{\ast +} d^-$ and neutral components $d^{\ast 0 } \bar{d}^0$ as well as the interference between the charged meson loops and neutral meson loops. The former effect could fix our parameters by using the measurement of the ratio $\gamma[x(3872) \to \pi^+ \pi^- \pi^0 j/\psi]/\gamma[x(3872) \to \pi^+ \pi^- j/\psi]$. With the determined parameter range, we find that the estimated ratio $\gamma[x(3872) \to \pi^0 \chi_{c1}/\gamma[x(3872) \to \pi^+ \pi^- j/\psi]$ is well consistent with the experimental measurement from the besiii collaboration. Moreover, the partial width ratio of $\pi^0 \chi_{cj}$ for $j=0,1,2$ is estimated to be $1.77\sim1.65:1:1.09\sim1.43$, which could be tested by further precise measurements of besiii and belle ii.

@@ -1,12 +1,1 @@
-We derive a topological classification of the steady states of
-$d$-dimensional lattice models driven by $D$ incommensurate tones. Mapping to a
-unifying $(d+D)$-dimensional localized model in frequency space reveals
-anomalous localized topological phases (ALTPs) with no static analog. While the
-formal classification is determined by $d+D$, the observable signatures of each
-ALTP depend on the spatial dimension $d$. For each $d$, with $d+D=3$, we
-identify a quantized circulating current, and corresponding topological edge
-states. The edge states for a driven wire ($d=1$) function as a quantized,
-nonadiabatic energy pump between the drives. We design concrete models of
-quasiperiodically driven qubits and wires that achieve ALTPs of several
-topological classes. Our results provide a route to experimentally access
-higher dimensional ALTPs in driven low-dimensional systems.
+We derive a topological classification of the steady states of $d$-dimensional lattice models driven by $d$ incommensurate tones. Mapping to a unifying $(d+d)$-dimensional localized model in frequency space reveals anomalous localized topological phases (altps) with no static analog. While the formal classification is determined by $d+d$, the observable signatures of each altp depend on the spatial dimension $d$. For each $d$, with $d+d=3$, we identify a quantized circulating current, and corresponding topological edge states. The edge states for a driven wire ($d=1$) function as a quantized, nonadiabatic energy pump between the drives. We design concrete models of quasiperiodically driven qubits and wires that achieve altps of several topological classes. Our results provide a route to experimentally access higher dimensional altps in driven low-dimensional systems.

@@ -1,16 +1,1 @@
-This paper shows that the eccentric debris rings seen around the stars
-Fomalhaut and HD 202628 are narrower than expected in the standard eccentric
-planet perturbation scenario (sometimes referred to as "pericenter glow"). The
-standard scenario posits an initially circular and narrow belt of planetesimals
-at semi-major axis $a$, whose eccentricity is increased to $e_f$ after the gas
-disc has dispersed by secular perturbations from an eccentric planet, resulting
-in a belt of width $2ae_f$. In a minor modification of this scenario, narrower
-belts can arise if the planetesimals are initially eccentric, which could
-result from earlier planet perturbations during the gas-rich protoplanetary
-disc phase. However, a primordial eccentricity could alternatively be caused by
-instabilities that increase the disc eccentricity, without the need for any
-planets. Whether these scenarios produce detectable eccentric rings within
-protoplanetary discs is unclear, but they nevertheless predict that narrow
-eccentric planetesimal rings should exist before the gas in protoplanetary
-discs is dispersed. PDS 70 is noted as a system hosting an asymmetric
-protoplanetary disc that may be a progenitor of eccentric debris ring systems.
+This paper shows that the eccentric debris rings seen around the stars fomalhaut and hd 202628 are narrower than expected in the standard eccentric planet perturbation scenario (sometimes referred to as "pericenter glow"). The standard scenario posits an initially circular and narrow belt of planetesimals at semi-major axis $a$, whose eccentricity is increased to $e_f$ after the gas disc has dispersed by secular perturbations from an eccentric planet, resulting in a belt of width $2ae_f$. In a minor modification of this scenario, narrower belts can arise if the planetesimals are initially eccentric, which could result from earlier planet perturbations during the gas-rich protoplanetary disc phase. However, a primordial eccentricity could alternatively be caused by instabilities that increase the disc eccentricity, without the need for any planets. Whether these scenarios produce detectable eccentric rings within protoplanetary discs is unclear, but they nevertheless predict that narrow eccentric planetesimal rings should exist before the gas in protoplanetary discs is dispersed. Pds 70 is noted as a system hosting an asymmetric protoplanetary disc that may be a progenitor of eccentric debris ring systems.

@@ -1,14 +1,1 @@
-We show that a na\"{i}ve application of the quantum extremal surface (QES)
-prescription can lead to paradoxical results and must be corrected at leading
-order. The corrections arise when there is a second QES (with strictly larger
-generalized entropy at leading order than the minimal QES), together with a
-large amount of highly incompressible bulk entropy between the two surfaces. We
-trace the source of the corrections to a failure of the assumptions used in the
-replica trick derivation of the QES prescription, and show that a more careful
-derivation correctly computes the corrections. Using tools from one-shot
-quantum Shannon theory (smooth min- and max-entropies), we generalize these
-results to a set of refined conditions that determine whether the QES
-prescription holds. We find similar refinements to the conditions needed for
-entanglement wedge reconstruction (EWR), and show how EWR can be reinterpreted
-as the task of one-shot quantum state merging (using zero-bits rather than
-classical bits), a task gravity is able to achieve optimally efficiently.
+We show that a na\"{i}ve application of the quantum extremal surface (qes) prescription can lead to paradoxical results and must be corrected at leading order. The corrections arise when there is a second qes (with strictly larger generalized entropy at leading order than the minimal qes), together with a large amount of highly incompressible bulk entropy between the two surfaces. We trace the source of the corrections to a failure of the assumptions used in the replica trick derivation of the qes prescription, and show that a more careful derivation correctly computes the corrections. Using tools from one-shot quantum shannon theory (smooth min- and max-entropies), we generalize these results to a set of refined conditions that determine whether the qes prescription holds. We find similar refinements to the conditions needed for entanglement wedge reconstruction (ewr), and show how ewr can be reinterpreted as the task of one-shot quantum state merging (using zero-bits rather than classical bits), a task gravity is able to achieve optimally efficiently.

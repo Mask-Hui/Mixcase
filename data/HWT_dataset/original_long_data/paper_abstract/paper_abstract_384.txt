@@ -1,13 +1,1 @@
-This talk reviews Feynman integrals, which are associated to elliptic curves.
-The talk will give an introduction into the mathematics behind them, covering
-the topics of elliptic curves, elliptic integrals, modular forms and the moduli
-space of $n$ marked points on a genus one curve. The latter will be important,
-as elliptic Feynman integrals can be expressed as iterated integrals on the
-moduli space ${\mathcal M}_{1,n}$, in same way as Feynman integrals which
-evaluate to multiple polylogarithms can be expressed as iterated integrals on
-the moduli space ${\mathcal M}_{0,n}$. With the right language, many methods
-from the genus zero case carry over to the genus one case. In particular we
-will see in specific examples that the differential equation for elliptic
-Feynman integrals can be cast into an $\varepsilon$-form. This allows to
-systematically obtain a solution order by order in the dimensional
-regularisation parameter.
+This talk reviews feynman integrals, which are associated to elliptic curves. The talk will give an introduction into the mathematics behind them, covering the topics of elliptic curves, elliptic integrals, modular forms and the moduli space of $n$ marked points on a genus one curve. The latter will be important, as elliptic feynman integrals can be expressed as iterated integrals on the moduli space ${\mathcal m}_{1,n}$, in same way as feynman integrals which evaluate to multiple polylogarithms can be expressed as iterated integrals on the moduli space ${\mathcal m}_{0,n}$. With the right language, many methods from the genus zero case carry over to the genus one case. In particular we will see in specific examples that the differential equation for elliptic feynman integrals can be cast into an $\varepsilon$-form. This allows to systematically obtain a solution order by order in the dimensional regularisation parameter.

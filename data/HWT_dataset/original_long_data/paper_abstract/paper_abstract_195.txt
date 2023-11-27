@@ -1,12 +1,1 @@
-Manipulation of a quantum system requires the knowledge of how it evolves. To
-impose that the dynamics of a system becomes a particular target operation (for
-any preparation of the system), it may be more useful to have an equation of
-motion for the dynamics itself--rather than the state. Here we develop a
-Markovian master equation for the process matrix of an open system, which
-resembles the Lindblad Markovian master equation. We employ this equation to
-introduce a scheme for optimal local coherent process control at target times,
-and extend the Krotov technique to obtain optimal control. We illustrate
-utility of this framework through several quantum coherent control scenarios,
-such as optimal decoherence suppression, gate simulation, and passive control
-of the environment, in all of which we aim to simulate a given terminal process
-at a given final time.
+Manipulation of a quantum system requires the knowledge of how it evolves. To impose that the dynamics of a system becomes a particular target operation (for any preparation of the system), it may be more useful to have an equation of motion for the dynamics itself--rather than the state. Here we develop a markovian master equation for the process matrix of an open system, which resembles the lindblad markovian master equation. We employ this equation to introduce a scheme for optimal local coherent process control at target times, and extend the krotov technique to obtain optimal control. We illustrate utility of this framework through several quantum coherent control scenarios, such as optimal decoherence suppression, gate simulation, and passive control of the environment, in all of which we aim to simulate a given terminal process at a given final time.

@@ -1,17 +1,1 @@
-We present a new collection of processing techniques, collectively
-"factorized Kramers--Kronig and error correction" (fKK-EC), for (a) Raman
-signal extraction, (b) denoising, and (c) phase- and scale-error correction in
-coherent anti-Stokes Raman scattering (CARS) hyperspectral imaging and
-spectroscopy. These new methods are orders-of-magnitude faster than
-conventional methods and are capable of real-time performance, owing to the
-unique core concept: performing all processing on a small basis vector set and
-using matrix/vector multiplication afterwards for direct and fast
-transformation of the entire dataset. Experimentally, we demonstrate that a
-703026 spectra image of chicken cartilage can be processed in 70 s
-(approximately 0.1 ms / spectrum), which is approximately 70 times faster than
-with the conventional workflow (approximately 7.0 ms / spectrum). Additionally,
-we discuss how this method may be used for machine learning (ML) by re-using
-the transformed basis vector sets with new data. Using this ML paradigm, the
-same tissue image was processed (post-training) in approximately 33 s, which is
-a speed-up of approximately 150 times when compared with the conventional
-workflow.
+We present a new collection of processing techniques, collectively "factorized kramers--kronig and error correction" (fkk-ec), for (a) raman signal extraction, (b) denoising, and (c) phase- and scale-error correction in coherent anti-stokes raman scattering (cars) hyperspectral imaging and spectroscopy. These new methods are orders-of-magnitude faster than conventional methods and are capable of real-time performance, owing to the unique core concept: performing all processing on a small basis vector set and using matrix/vector multiplication afterwards for direct and fast transformation of the entire dataset. Experimentally, we demonstrate that a 703026 spectra image of chicken cartilage can be processed in 70 s (approximately 0.1 ms / spectrum), which is approximately 70 times faster than with the conventional workflow (approximately 7.0 ms / spectrum). Additionally, we discuss how this method may be used for machine learning (ml) by re-using the transformed basis vector sets with new data. Using this ml paradigm, the same tissue image was processed (post-training) in approximately 33 s, which is a speed-up of approximately 150 times when compared with the conventional workflow.

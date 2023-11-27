@@ -1,8 +1,1 @@
-Given a simple undirected graph $G$, an orientation of $G$ is to assign every
-edge of $G$ a direction. Borradaile et al gave a greedy algorithm
-SC-Path-Reversal (in polynomial time) which finds a strongly connected
-orientation that minimizes the maximum indegree, and conjectured that
-SC-Path-Reversal is indeed optimal for the "minimizing the lexicographic order"
-objective as well. In this note, we give a positive answer to the conjecture,
-that is we show that the algorithm SC-PATH-REVERSAL finds a strongly connected
-orientation that minimizes the lexicographic order of indegrees.
+Given a simple undirected graph $g$, an orientation of $g$ is to assign every edge of $g$ a direction. Borradaile et al gave a greedy algorithm sc-path-reversal (in polynomial time) which finds a strongly connected orientation that minimizes the maximum indegree, and conjectured that sc-path-reversal is indeed optimal for the "minimizing the lexicographic order" objective as well. In this note, we give a positive answer to the conjecture, that is we show that the algorithm sc-path-reversal finds a strongly connected orientation that minimizes the lexicographic order of indegrees.

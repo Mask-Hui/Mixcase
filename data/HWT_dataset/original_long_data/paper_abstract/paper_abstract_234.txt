@@ -1,11 +1,1 @@
-Neumann-Rosochatius system is a well known one dimensional integrable system.
-We study the rotating and pulsating string in $AdS_4 \times \mathbb{CP}^3$ with
-a $B_{\rm{NS}}$ holonomy turned on over $\mathbb{CP}^1 \subset \mathbb{CP}^3$,
-or the so called Aharony-Bergman-Jafferis (ABJ) background. We observe that the
-string equations of motion in both cases are integrable and the Lagrangians
-reduce to a form similar to that of deformed Neuman-Rosochatius system. We find
-out the scaling relations among various conserved charges and comment on the
-finite size effect for the dyonic giant magnons on $R_{t}\times
-\mathbb{CP}^{3}$ with two angular momenta. For the pulsating string we derive
-the energy as function of oscillation number and angular momenta along
-$\mathbb{CP}^{3}$.
+Neumann-rosochatius system is a well known one dimensional integrable system. We study the rotating and pulsating string in $ads_4 \times \mathbb{cp}^3$ with a $b_{\rm{ns}}$ holonomy turned on over $\mathbb{cp}^1 \subset \mathbb{cp}^3$, or the so called aharony-bergman-jafferis (abj) background. We observe that the string equations of motion in both cases are integrable and the lagrangians reduce to a form similar to that of deformed neuman-rosochatius system. We find out the scaling relations among various conserved charges and comment on the finite size effect for the dyonic giant magnons on $r_{t}\times \mathbb{cp}^{3}$ with two angular momenta. For the pulsating string we derive the energy as function of oscillation number and angular momenta along $\mathbb{cp}^{3}$.

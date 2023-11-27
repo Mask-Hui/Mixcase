@@ -1,10 +1,1 @@
-We consider the connection between two constructions of the mirror partner
-for the Calabi-Yau orbifold. This orbifold is defined as a quotient by some
-suitable subgroup $G$ of the phase symmetries of the hypersurface $ X_M $ in
-the weighted projective space, cut out by a quasi-homogeneous polynomial $W_M$.
-The first, Berglund-H\"ubsch-Krawitz (BHK) construction, uses another weighted
-projective space and the quotient of a new hypersurface $X_{M^T}$ inside it by
-some dual group $G^T$. In the second, Batyrev construction, the mirror partner
-is constructed as a hypersurface in the toric variety defined by the reflexive
-polytope dual to the polytope associated with the original Calabi-Yau orbifold.
-We give a simple evidence of the equivalence of these two constructions.
+We consider the connection between two constructions of the mirror partner for the calabi-yau orbifold. This orbifold is defined as a quotient by some suitable subgroup $g$ of the phase symmetries of the hypersurface $ x_m $ in the weighted projective space, cut out by a quasi-homogeneous polynomial $w_m$. The first, berglund-h\"ubsch-krawitz (bhk) construction, uses another weighted projective space and the quotient of a new hypersurface $x_{m^t}$ inside it by some dual group $g^t$. In the second, batyrev construction, the mirror partner is constructed as a hypersurface in the toric variety defined by the reflexive polytope dual to the polytope associated with the original calabi-yau orbifold. We give a simple evidence of the equivalence of these two constructions.

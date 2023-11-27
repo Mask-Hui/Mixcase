@@ -1,12 +1,1 @@
-We study the robust mean estimation problem in high dimensions, where $\alpha
-<0.5$ fraction of the data points can be arbitrarily corrupted. Motivated by
-compressive sensing, we formulate the robust mean estimation problem as the
-minimization of the $\ell_0$-`norm' of the outlier indicator vector, under
-second moment constraints on the inlier data points. We prove that the global
-minimum of this objective is order optimal for the robust mean estimation
-problem, and we propose a general framework for minimizing the objective. We
-further leverage the $\ell_1$ and $\ell_p$ $(0<p<1)$, minimization techniques
-in compressive sensing to provide computationally tractable solutions to the
-$\ell_0$ minimization problem. Both synthetic and real data experiments
-demonstrate that the proposed algorithms significantly outperform
-state-of-the-art robust mean estimation methods.
+We study the robust mean estimation problem in high dimensions, where $\alpha <0.5$ fraction of the data points can be arbitrarily corrupted. Motivated by compressive sensing, we formulate the robust mean estimation problem as the minimization of the $\ell_0$-`norm' of the outlier indicator vector, under second moment constraints on the inlier data points. We prove that the global minimum of this objective is order optimal for the robust mean estimation problem, and we propose a general framework for minimizing the objective. We further leverage the $\ell_1$ and $\ell_p$ $(0<p<1)$, minimization techniques in compressive sensing to provide computationally tractable solutions to the $\ell_0$ minimization problem. Both synthetic and real data experiments demonstrate that the proposed algorithms significantly outperform state-of-the-art robust mean estimation methods.

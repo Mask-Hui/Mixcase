@@ -1,11 +1,1 @@
-We study the phenomenology of a hypercharge-zero SU(2) triplet scalar whose
-existence is motivated by two-step electroweak symmetry-breaking. We consider
-both the possibility that the triplets are stable and contribute to the dark
-matter density, or that they decay via mixing with the standard model Higgs
-boson. The former is constrained by disappearing charged track searches at the
-LHC and by dark matter direct detection experiments, while the latter is
-constrained by existing multilepton collider searches. We find that a two-step
-electroweak phase transition involving a stable triplet with a negative
-quadratic term is ruled out by direct detection searches, while an unstable
-triplet with a mass less than $230\ \mathrm{GeV}$ is excluded at $95\%$
-confidence level.
+We study the phenomenology of a hypercharge-zero su(2) triplet scalar whose existence is motivated by two-step electroweak symmetry-breaking. We consider both the possibility that the triplets are stable and contribute to the dark matter density, or that they decay via mixing with the standard model higgs boson. The former is constrained by disappearing charged track searches at the lhc and by dark matter direct detection experiments, while the latter is constrained by existing multilepton collider searches. We find that a two-step electroweak phase transition involving a stable triplet with a negative quadratic term is ruled out by direct detection searches, while an unstable triplet with a mass less than $230\ \mathrm{gev}$ is excluded at $95\%$ confidence level.

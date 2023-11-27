@@ -1,13 +1,1 @@
-Time-series forecasting is important for many applications. Forecasting
-models are usually trained using time-series data in a specific target task.
-However, sufficient data in the target task might be unavailable, which leads
-to performance degradation. In this paper, we propose a few-shot learning
-method that forecasts a future value of a time-series in a target task given a
-few time-series in the target task. Our model is trained using time-series data
-in multiple training tasks that are different from target tasks. Our model uses
-a few time-series to build a forecasting function based on a recurrent neural
-network with an attention mechanism. With the attention mechanism, we can
-retrieve useful patterns in a small number of time-series for the current
-situation. Our model is trained by minimizing an expected test error of
-forecasting next timestep values. We demonstrate the effectiveness of the
-proposed method using 90 time-series datasets.
+Time-series forecasting is important for many applications. Forecasting models are usually trained using time-series data in a specific target task. However, sufficient data in the target task might be unavailable, which leads to performance degradation. In this paper, we propose a few-shot learning method that forecasts a future value of a time-series in a target task given a few time-series in the target task. Our model is trained using time-series data in multiple training tasks that are different from target tasks. Our model uses a few time-series to build a forecasting function based on a recurrent neural network with an attention mechanism. With the attention mechanism, we can retrieve useful patterns in a small number of time-series for the current situation. Our model is trained by minimizing an expected test error of forecasting next timestep values. We demonstrate the effectiveness of the proposed method using 90 time-series datasets.

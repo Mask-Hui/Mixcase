@@ -1,9 +1,1 @@
-The document describes a numerical algorithm for plasms and fluids by the
-Lagrange method, in which the spatial meshes follow the plasma and fluid
-behavior. Through the mesh wall the plasma and the fluid do not escape. The 3D
-Lagrange code is originally designed to simulate a Gold cone plasma, which is
-relevant to confine an imploding fuel in the cone in inertial confinement
-fusion. However, the 3D Lagrange code would be applied to simulate plasmas and
-fluids, which are not deformed seriously. The 3D code is designed in the
-spatial Cartesian coordinate (x, y, z), and employs the compressible fluid
-model.
+The document describes a numerical algorithm for plasms and fluids by the lagrange method, in which the spatial meshes follow the plasma and fluid behavior. Through the mesh wall the plasma and the fluid do not escape. The 3d lagrange code is originally designed to simulate a gold cone plasma, which is relevant to confine an imploding fuel in the cone in inertial confinement fusion. However, the 3d lagrange code would be applied to simulate plasmas and fluids, which are not deformed seriously. The 3d code is designed in the spatial cartesian coordinate (x, y, z), and employs the compressible fluid model.

@@ -1,9 +1,1 @@
-The design of a 9-channel microphone system for location recording of mainly
-atmospheres will be described. The key concept is matching the recording and
-reproduction angles of the individual sectors. The rig is designed for the
-AURO-3D 9-channel playback system (4 height speakers). An analysis of the
-reproduction layout will be included, as well as recording concepts like the
-Stereo Recording Angle (SRA), Williams curves, Scale Factors for different
-reproduction angles than 60 degrees and diffuse field decorrelation. Finally,
-practical aspects like microphone mounts and windshields for such a system will
-be presented.
+The design of a 9-channel microphone system for location recording of mainly atmospheres will be described. The key concept is matching the recording and reproduction angles of the individual sectors. The rig is designed for the auro-3d 9-channel playback system (4 height speakers). An analysis of the reproduction layout will be included, as well as recording concepts like the stereo recording angle (sra), williams curves, scale factors for different reproduction angles than 60 degrees and diffuse field decorrelation. Finally, practical aspects like microphone mounts and windshields for such a system will be presented.

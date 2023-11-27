@@ -1,16 +1,1 @@
-Fixed-wing unmanned aerial vehicles (UAVs) are of great potential to serve as
-aerial access points (APs) owing to better aerodynamic performance and longer
-flight endurance. However, the inherent hovering feature of fixed-wing UAVs may
-result in discontinuity of connections and frequent handover of ground users
-(GUs). In this work, we model and evaluate the performance of a fixed-wing UAV
-network, where UAV APs provide coverage to GUs with millimeter wave backhaul.
-Firstly, it reveals that network spatial throughput (ST) is independent of the
-hover radius under real-time closest-UAV association, while linearly decreases
-with the hover radius if GUs are associated with the UAVs, whose hover center
-is the closest. Secondly, network ST is shown to be greatly degraded with the
-over-deployment of UAV APs due to the growing air-to-ground interference under
-excessive overlap of UAV cells. Finally, aiming to alleviate the interference,
-a projection area equivalence (PAE) rule is designed to tune the UAV beamwidth.
-Especially, network ST can be sustainably increased with growing UAV density
-and independent of UAV flight altitude if UAV beamwidth inversely grows with
-the square of UAV density under PAE.
+Fixed-wing unmanned aerial vehicles (uavs) are of great potential to serve as aerial access points (aps) owing to better aerodynamic performance and longer flight endurance. However, the inherent hovering feature of fixed-wing uavs may result in discontinuity of connections and frequent handover of ground users (gus). In this work, we model and evaluate the performance of a fixed-wing uav network, where uav aps provide coverage to gus with millimeter wave backhaul. Firstly, it reveals that network spatial throughput (st) is independent of the hover radius under real-time closest-uav association, while linearly decreases with the hover radius if gus are associated with the uavs, whose hover center is the closest. Secondly, network st is shown to be greatly degraded with the over-deployment of uav aps due to the growing air-to-ground interference under excessive overlap of uav cells. Finally, aiming to alleviate the interference, a projection area equivalence (pae) rule is designed to tune the uav beamwidth. Especially, network st can be sustainably increased with growing uav density and independent of uav flight altitude if uav beamwidth inversely grows with the square of uav density under pae.

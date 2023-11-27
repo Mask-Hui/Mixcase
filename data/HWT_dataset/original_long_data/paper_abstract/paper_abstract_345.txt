@@ -1,17 +1,1 @@
-Brillouin systems operating in the quantum regime have recently been
-identified as a valuable tool for quantum information technologies and
-fundamental science. However, reaching the quantum regime is extraordinarily
-challenging, owing to the stringent requirements of combining low thermal
-occupation with low optical and mechanical dissipation, and large coherent
-phonon-photon interactions. Here, we propose an on-chip liquid based Brillouin
-system that is predicted to exhibit ultra-high coherent phonon-photon coupling
-with exceptionally low acoustic dissipation. The system is comprised of a
-silicon-based "slot" waveguide filled with superfluid helium. This type of
-waveguide supports optical and acoustical traveling waves, strongly confining
-both fields into a subwavelength-scale mode volume. It serves as the foundation
-of an on-chip traveling wave Brillouin resonator with a single photon
-optomechanical coupling rate exceeding $240$kHz. Such devices may enable
-applications ranging from ultra-sensitive superfluid-based gyroscopes, to
-non-reciprocal optical circuits. Furthermore, this platform opens up new
-possibilities to explore quantum fluid dynamics in a strongly interacting
-condensate.
+Brillouin systems operating in the quantum regime have recently been identified as a valuable tool for quantum information technologies and fundamental science. However, reaching the quantum regime is extraordinarily challenging, owing to the stringent requirements of combining low thermal occupation with low optical and mechanical dissipation, and large coherent phonon-photon interactions. Here, we propose an on-chip liquid based brillouin system that is predicted to exhibit ultra-high coherent phonon-photon coupling with exceptionally low acoustic dissipation. The system is comprised of a silicon-based "slot" waveguide filled with superfluid helium. This type of waveguide supports optical and acoustical traveling waves, strongly confining both fields into a subwavelength-scale mode volume. It serves as the foundation of an on-chip traveling wave brillouin resonator with a single photon optomechanical coupling rate exceeding $240$khz. Such devices may enable applications ranging from ultra-sensitive superfluid-based gyroscopes, to non-reciprocal optical circuits. Furthermore, this platform opens up new possibilities to explore quantum fluid dynamics in a strongly interacting condensate.

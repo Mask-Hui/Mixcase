@@ -1,7 +1,1 @@
-Given a group $G$ and an endomorphism $\varphi$ of $G$, two elements $x, y
-\in G$ are said to be $\varphi$-conjugate if $x = gy \varphi(g)^{-1}$ for some
-$g \in G$. The number of equivalence classes for this relation is the
-Reidemeister number $R(\varphi)$ of $\varphi$. The set $\{R(\psi) \mid \psi \in
-\mathrm{Aut}(G)\}$ is called the Reidemeister spectrum of $G$. We investigate
-Reidemeister numbers and spectra on direct products of finitely many groups and
-determine what information can be derived from the individual factors.
+Given a group $g$ and an endomorphism $\varphi$ of $g$, two elements $x, y \in g$ are said to be $\varphi$-conjugate if $x = gy \varphi(g)^{-1}$ for some $g \in g$. The number of equivalence classes for this relation is the reidemeister number $r(\varphi)$ of $\varphi$. The set $\{r(\psi) \mid \psi \in \mathrm{aut}(g)\}$ is called the reidemeister spectrum of $g$. We investigate reidemeister numbers and spectra on direct products of finitely many groups and determine what information can be derived from the individual factors.

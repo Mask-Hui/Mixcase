@@ -1,9 +1,1 @@
-For arbitrarily small values of $\varepsilon>0,$ we formulate and analyse the
-Maxwell system of equations of electromagnetism on $\varepsilon$-periodic sets
-$S^\varepsilon\subset{\mathbb R}^3.$ Assuming that a family of Borel measures
-$\mu^\varepsilon,$ such that ${\rm supp}(\mu^\varepsilon)=S^\varepsilon,$ is
-obtained by $\varepsilon$-contraction of a fixed 1-periodic measure $\mu,$ and
-for right-hand sides $f^\varepsilon\in L^2({\mathbb R}^3, d\mu^\varepsilon),$
-we prove order-sharp norm-resolvent convergence estimates for the solutions of
-the system. Our analysis includes the case of periodic "singular structures",
-when $\mu$ is supported by lower-dimensional manifolds.
+For arbitrarily small values of $\varepsilon>0,$ we formulate and analyse the maxwell system of equations of electromagnetism on $\varepsilon$-periodic sets $s^\varepsilon\subset{\mathbb r}^3.$ assuming that a family of borel measures $\mu^\varepsilon,$ such that ${\rm supp}(\mu^\varepsilon)=s^\varepsilon,$ is obtained by $\varepsilon$-contraction of a fixed 1-periodic measure $\mu,$ and for right-hand sides $f^\varepsilon\in l^2({\mathbb r}^3, d\mu^\varepsilon),$ we prove order-sharp norm-resolvent convergence estimates for the solutions of the system. Our analysis includes the case of periodic "singular structures", when $\mu$ is supported by lower-dimensional manifolds.

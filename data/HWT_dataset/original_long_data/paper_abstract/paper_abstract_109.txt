@@ -1,18 +1,1 @@
-The competition between kinetic energy and Coulomb interactions in electronic
-systems can lead to complex many-body ground states with competing
-superconducting, charge density wave, and magnetic orders. Here we study the
-low temperature phases of a strongly interacting zinc-oxide-based high mobility
-two dimensional electron system that displays a tunable metal-insulator
-transition. Through a comprehensive analysis of the dependence of electronic
-transport on temperature, carrier density, in-plane and perpendicular magnetic
-fields, and voltage bias, we provide evidence for the existence of competing
-correlated metallic and insulating states with varying degrees of spin
-polarization. Our system features an unprecedented level of agreement with the
-state-of-the-art Quantum Monte Carlo phase diagram of the ideal jellium model,
-including a Wigner crystallization transition at a value of the interaction
-parameter $r_s\sim 30$ and the absence of a pure Stoner transition. In-plane
-field dependence of transport reveals a new low temperature state with partial
-spin polarization separating the spin unpolarized metal and the Wigner crystal,
-which we examine against possible theoretical scenarios such as an
-anti-ferromagnetic crystal, Coulomb induced micro-emulsions, and disorder
-driven puddle formation.
+The competition between kinetic energy and coulomb interactions in electronic systems can lead to complex many-body ground states with competing superconducting, charge density wave, and magnetic orders. Here we study the low temperature phases of a strongly interacting zinc-oxide-based high mobility two dimensional electron system that displays a tunable metal-insulator transition. Through a comprehensive analysis of the dependence of electronic transport on temperature, carrier density, in-plane and perpendicular magnetic fields, and voltage bias, we provide evidence for the existence of competing correlated metallic and insulating states with varying degrees of spin polarization. Our system features an unprecedented level of agreement with the state-of-the-art quantum monte carlo phase diagram of the ideal jellium model, including a wigner crystallization transition at a value of the interaction parameter $r_s\sim 30$ and the absence of a pure stoner transition. In-plane field dependence of transport reveals a new low temperature state with partial spin polarization separating the spin unpolarized metal and the wigner crystal, which we examine against possible theoretical scenarios such as an anti-ferromagnetic crystal, coulomb induced micro-emulsions, and disorder driven puddle formation.

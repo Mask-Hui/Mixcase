@@ -1,17 +1,1 @@
-Synchrotron radio emission from non-relativistic jets powered by massive
-protostars has been reported, indicating the presence of relativistic electrons
-and magnetic fields of strength ~0.3-5 mG. We study diffusive shock
-acceleration and magnetic field amplification in protostellar jets with speeds
-between 300 and 1500 km/s. We show that the magnetic field in the synchrotron
-emitter can be amplified by the non-resonant hybrid (Bell) instability excited
-by the cosmic-ray streaming. By combining the synchrotron data with basic
-theory of Bell instability we estimate the magnetic field in the synchrotron
-emitter and the maximum energy of protons. Protons can achieve maximum energies
-in the range 0.04-0.65 TeV and emit gamma rays in their interaction with matter
-fields. We predict detectable levels of gamma rays in IRAS 16547-5247 and IRAS
-16848-4603. The gamma ray flux can be significantly enhanced by the gas mixing
-due to Rayleigh-Taylor instability. The detection of this radiation by the
-Fermi satellite in the GeV domain and the forthcoming Cherenkov Telescope Array
-at higher energies may open a new window to study the formation of massive
-stars, as well as diffusive acceleration and magnetic field amplification in
-shocks with velocities of about 1000 km/s.
+Synchrotron radio emission from non-relativistic jets powered by massive protostars has been reported, indicating the presence of relativistic electrons and magnetic fields of strength ~0.3-5 mg. We study diffusive shock acceleration and magnetic field amplification in protostellar jets with speeds between 300 and 1500 km/s. We show that the magnetic field in the synchrotron emitter can be amplified by the non-resonant hybrid (bell) instability excited by the cosmic-ray streaming. By combining the synchrotron data with basic theory of bell instability we estimate the magnetic field in the synchrotron emitter and the maximum energy of protons. Protons can achieve maximum energies in the range 0.04-0.65 tev and emit gamma rays in their interaction with matter fields. We predict detectable levels of gamma rays in iras 16547-5247 and iras 16848-4603. The gamma ray flux can be significantly enhanced by the gas mixing due to rayleigh-taylor instability. The detection of this radiation by the fermi satellite in the gev domain and the forthcoming cherenkov telescope array at higher energies may open a new window to study the formation of massive stars, as well as diffusive acceleration and magnetic field amplification in shocks with velocities of about 1000 km/s.

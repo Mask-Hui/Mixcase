@@ -1,13 +1,1 @@
-Based on the concepts of quantum synchronization and quantum phase
-synchronization proposed by A. Mari \textit{et al.} in Phys. Rev. Lett. 111,
-103605 (2013), we introduce and characterize the measure of a more generalized
-quantum synchronization called quantum $\varphi$-synchronization under which
-the pairs of variables have the same amplitude and possess the same $\varphi$
-phase shift. Naturally, quantum synchronization and quantum
-anti-synchronization become special cases of quantum $\varphi$-synchronization.
-Their relations and differences are also discussed. To illustrate these
-theories, we investigate the quantum $\varphi$-synchronization and quantum
-phase synchronization phenomena of two coupled optomechanical systems with
-periodic modulation and show that quantum $\varphi$-synchronization is more
-general as a measure of synchronization. We also show the phenomenon of quantum
-anti-synchronization when $\varphi=\pi$.
+Based on the concepts of quantum synchronization and quantum phase synchronization proposed by a. Mari \textit{et al.} in phys. Rev. Lett. 111, 103605 (2013), we introduce and characterize the measure of a more generalized quantum synchronization called quantum $\varphi$-synchronization under which the pairs of variables have the same amplitude and possess the same $\varphi$ phase shift. Naturally, quantum synchronization and quantum anti-synchronization become special cases of quantum $\varphi$-synchronization. Their relations and differences are also discussed. To illustrate these theories, we investigate the quantum $\varphi$-synchronization and quantum phase synchronization phenomena of two coupled optomechanical systems with periodic modulation and show that quantum $\varphi$-synchronization is more general as a measure of synchronization. We also show the phenomenon of quantum anti-synchronization when $\varphi=\pi$.

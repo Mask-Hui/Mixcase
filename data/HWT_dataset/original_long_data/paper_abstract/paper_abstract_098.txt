@@ -1,15 +1,1 @@
-Both compressible and incompressible porous medium models are used in the
-literature to describe the mechanical properties of living tissues. These two
-classes of models can be related using a stiff pressure law. In the
-incompressible limit, the compressible model generates a free boundary problem
-of Hele-Shaw type where incompressibility holds in the saturated phase. Here we
-consider the case with a nutrient. Then, a badly coupled system of equations
-describes the cell density number and the nutrient concentration. For that
-reason, the derivation of the free boundary (incompressible) limit was an open
-problem, in particular a difficulty is to establish the so-called
-complementarity relation which allows to recover the pressure using an elliptic
-equation. To establish the limit, we use two new ideas. The first idea, also
-used recently for related problems, is to extend the usual Aronson-B\'enilan
-estimates in $L^\infty$ to an $L^2$ setting. The second idea is to derive a
-sharp uniform $L^4$ estimate on the pressure gradient, independently of space
-dimension.
+Both compressible and incompressible porous medium models are used in the literature to describe the mechanical properties of living tissues. These two classes of models can be related using a stiff pressure law. In the incompressible limit, the compressible model generates a free boundary problem of hele-shaw type where incompressibility holds in the saturated phase. Here we consider the case with a nutrient. Then, a badly coupled system of equations describes the cell density number and the nutrient concentration. For that reason, the derivation of the free boundary (incompressible) limit was an open problem, in particular a difficulty is to establish the so-called complementarity relation which allows to recover the pressure using an elliptic equation. To establish the limit, we use two new ideas. The first idea, also used recently for related problems, is to extend the usual aronson-b\'enilan estimates in $l^\infty$ to an $l^2$ setting. The second idea is to derive a sharp uniform $l^4$ estimate on the pressure gradient, independently of space dimension.

@@ -1,16 +1,1 @@
-In this work, an exact renormalization group treatment of honeycomb lattice
-leading to an exact relation between the coupling strengths of the honeycomb
-and the triangular lattices is presented. Using the honeycomb and the
-triangular duality relation, the critical coupling values of honeycomb and
-triangular lattices are calculated exactly by the simultaneous solution of the
-renormalized relation and the duality relation, without using the so-called
-star-triangular transformation. Apparently, the obtained coupling relation is
-unique. It, not only takes place the role of the star triangular relation, but
-also it is the only exact relation obtained from renormalization group theory
-other than the 1D Ising chain. An exact pair correlation functions expression
-relating the nearest neighbors and the next nearest neighbor correlation
-functions are also obtained for the honeycomb lattice. Utilizing this
-correlation relation, an exact expression of the correlation length of the
-honeycomb lattice is calculated analytically for the coupling constant values
-less than the critical value in the realm of the scaling theory. The critical
-exponents $\nu$ and $\alpha$ are also calculated as $\nu=1$ and $\alpha=0$.
+In this work, an exact renormalization group treatment of honeycomb lattice leading to an exact relation between the coupling strengths of the honeycomb and the triangular lattices is presented. Using the honeycomb and the triangular duality relation, the critical coupling values of honeycomb and triangular lattices are calculated exactly by the simultaneous solution of the renormalized relation and the duality relation, without using the so-called star-triangular transformation. Apparently, the obtained coupling relation is unique. It, not only takes place the role of the star triangular relation, but also it is the only exact relation obtained from renormalization group theory other than the 1d ising chain. An exact pair correlation functions expression relating the nearest neighbors and the next nearest neighbor correlation functions are also obtained for the honeycomb lattice. Utilizing this correlation relation, an exact expression of the correlation length of the honeycomb lattice is calculated analytically for the coupling constant values less than the critical value in the realm of the scaling theory. The critical exponents $\nu$ and $\alpha$ are also calculated as $\nu=1$ and $\alpha=0$.

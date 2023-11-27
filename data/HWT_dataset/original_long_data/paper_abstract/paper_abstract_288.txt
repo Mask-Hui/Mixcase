@@ -1,16 +1,1 @@
-We investigate operational probabilistic theories where the pure states of
-every system are the vertices of a simplex. A special case of such theories is
-that of classical theories, i.e. simplicial theories whose pure states are
-jointly perfectly discriminable. The usual Classical Theory satisfies also
-local discriminability. However, simplicial theories---including the classical
-ones---can violate local discriminability, thus admitting of entangled states.
-First, we prove sufficient conditions for the presence of entangled states in
-arbitrary probabilistic theories. Then, we prove that simplicial theories are
-necessarily causal, and this represents a no-go theorem for conceiving
-non-causal classical theories. We then provide necessary and sufficient
-conditions for simplicial theories to exhibit entanglement, and classify their
-system-composition rules. We conclude proving that, in simplicial theories, an
-operational formulation of the superposition principle cannot be satisfied, and
-that---under the hypothesis of $n$-local discriminability---no mixed state
-admits of a purification. Our results hold also in the general case where the
-sets of states fail to be convex.
+We investigate operational probabilistic theories where the pure states of every system are the vertices of a simplex. A special case of such theories is that of classical theories, i.e. Simplicial theories whose pure states are jointly perfectly discriminable. The usual classical theory satisfies also local discriminability. However, simplicial theories---including the classical ones---can violate local discriminability, thus admitting of entangled states. First, we prove sufficient conditions for the presence of entangled states in arbitrary probabilistic theories. Then, we prove that simplicial theories are necessarily causal, and this represents a no-go theorem for conceiving non-causal classical theories. We then provide necessary and sufficient conditions for simplicial theories to exhibit entanglement, and classify their system-composition rules. We conclude proving that, in simplicial theories, an operational formulation of the superposition principle cannot be satisfied, and that---under the hypothesis of $n$-local discriminability---no mixed state admits of a purification. Our results hold also in the general case where the sets of states fail to be convex.

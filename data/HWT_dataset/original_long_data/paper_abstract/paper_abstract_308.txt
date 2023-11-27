@@ -1,16 +1,1 @@
-Our study is focused on the dynamics of weighted composition operators
-defined on a locally convex space $E\hookrightarrow (C(X),\tau_p)$ with $X$
-being a topological Hausdorff space containing at least two different points
-and such that the evaluations $\{\delta_x:\ x\in X\}$ are linearly independent
-in $E'$. We prove, when $X$ is compact and $E$ is a Banach space containing a
-nowhere vanishing function, that a weighted composition operator
-$C_{\varphi,\omega}$ is never weakly supercyclic on $E$. We also prove that if
-the symbol $\varphi$ lies in the unit ball of $A(\mathbb{D})$, then every
-weighted composition operator can never be $\tau_p$-supercyclic neither on
-$C(\mathbb{D})$ nor on the disc algebra $A(\mathbb{D})$. Finally, we obtain
-Ansari-Bourdon type results and conditions on the spectrum for arbitrary weakly
-supercyclic operators, and we provide necessary conditions for a composition
-operator to be weakly supercyclic on the space of holomorphic functions defined
-in non necessarily simply connected planar domains. As a consequence, we show
-that no composition operator can be weakly supercyclic neither on the space of
-holomorphic functions on the punctured disc nor in the punctured plane.
+Our study is focused on the dynamics of weighted composition operators defined on a locally convex space $e\hookrightarrow (c(x),\tau_p)$ with $x$ being a topological hausdorff space containing at least two different points and such that the evaluations $\{\delta_x:\ x\in x\}$ are linearly independent in $e'$. We prove, when $x$ is compact and $e$ is a banach space containing a nowhere vanishing function, that a weighted composition operator $c_{\varphi,\omega}$ is never weakly supercyclic on $e$. We also prove that if the symbol $\varphi$ lies in the unit ball of $a(\mathbb{d})$, then every weighted composition operator can never be $\tau_p$-supercyclic neither on $c(\mathbb{d})$ nor on the disc algebra $a(\mathbb{d})$. Finally, we obtain ansari-bourdon type results and conditions on the spectrum for arbitrary weakly supercyclic operators, and we provide necessary conditions for a composition operator to be weakly supercyclic on the space of holomorphic functions defined in non necessarily simply connected planar domains. As a consequence, we show that no composition operator can be weakly supercyclic neither on the space of holomorphic functions on the punctured disc nor in the punctured plane.

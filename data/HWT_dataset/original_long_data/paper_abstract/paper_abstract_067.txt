@@ -1,11 +1,1 @@
-Orientational dynamics in the isotropic phase of a comb-shaped nematic
-polymer with mesogenic and functional side groups was studied using the Kerr
-effect and dielectric spectroscopy. For the first time, it was found that in a
-mesogenic polymer, in contrast to low-molecular-weight mesogens, the relaxation
-of the electric birefringence of a melt above the temperature of the
-nematic-isotropic phase transition can be presented by a sum of several
-exponential processes, two of which play a decisive role. These main processes
-replace each other in a temperature range of about fifty degrees. Dielectric
-spectroscopy also made it possible to distinguish two processes of
-orientational relaxation: the first is due to rotation of the side mesogenic
-groups, and the second is associated with motion of the main chain segments.
+Orientational dynamics in the isotropic phase of a comb-shaped nematic polymer with mesogenic and functional side groups was studied using the kerr effect and dielectric spectroscopy. For the first time, it was found that in a mesogenic polymer, in contrast to low-molecular-weight mesogens, the relaxation of the electric birefringence of a melt above the temperature of the nematic-isotropic phase transition can be presented by a sum of several exponential processes, two of which play a decisive role. These main processes replace each other in a temperature range of about fifty degrees. Dielectric spectroscopy also made it possible to distinguish two processes of orientational relaxation: the first is due to rotation of the side mesogenic groups, and the second is associated with motion of the main chain segments.

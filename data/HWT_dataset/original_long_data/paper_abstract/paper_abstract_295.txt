@@ -1,14 +1,1 @@
-We investigate the neutral AdS black-hole solution in the consistent
-$D\rightarrow4$ Einstein-Gauss-Bonnet gravity proposed in [K. Aoki, M.A. Gorji,
-and S. Mukohyama, Phys. Lett. B {\bf 810}, 135843 (2020)] and construct the
-gravity duals of ($2+1$)-dimensional superconductors with Gauss-Bonnet
-corrections in the probe limit. We find that the curvature correction has a
-more subtle effect on the scalar condensates in the s-wave superconductor in
-($2+1$)-dimensions, which is different from the finding in the
-higher-dimensional superconductors that the higher curvature correction makes
-the scalar hair more difficult to be developed in the full parameter space.
-However, in the p-wave case, we observe that the higher curvature correction
-always makes it harder for the vector condensates to form in various
-dimensions. Moreover, we note that the higher curvature correction results in
-the larger deviation from the expected relation in the gap frequency
-$\omega_g/T_c\approx 8$ in both ($2+1$)-dimensional s-wave and p-wave models.
+We investigate the neutral ads black-hole solution in the consistent $d\rightarrow4$ einstein-gauss-bonnet gravity proposed in [k. Aoki, m.a. Gorji, and s. Mukohyama, phys. Lett. B {\bf 810}, 135843 (2020)] and construct the gravity duals of ($2+1$)-dimensional superconductors with gauss-bonnet corrections in the probe limit. We find that the curvature correction has a more subtle effect on the scalar condensates in the s-wave superconductor in ($2+1$)-dimensions, which is different from the finding in the higher-dimensional superconductors that the higher curvature correction makes the scalar hair more difficult to be developed in the full parameter space. However, in the p-wave case, we observe that the higher curvature correction always makes it harder for the vector condensates to form in various dimensions. Moreover, we note that the higher curvature correction results in the larger deviation from the expected relation in the gap frequency $\omega_g/t_c\approx 8$ in both ($2+1$)-dimensional s-wave and p-wave models.

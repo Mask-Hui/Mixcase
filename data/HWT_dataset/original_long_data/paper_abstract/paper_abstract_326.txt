@@ -1,12 +1,1 @@
-The singlet sector of vector, large $N$, 3d field theory corresponds to
-Vasiliev higher spin theory on $AdS_4$. Will discuss three dimensional $U(N)$
-symmetric field theory with fermion and boson matter coupled to a topological
-Chern-Simons field. In the presence of a marginal deformation will determine
-the conditions for the existence of a phase with spontaneous breaking of scale
-invariance. In this phase the ground state contains massive $U(N)$ quanta and a
-massless $U(N)$ singlet bound state goldstone boson:~the Dilaton. Will show
-that such a phase appears only in the presence of a marginal deformation. The
-massless Dilaton appears in the spectrum provided certain relations between
-coupling constants are satisfied. Will discuss the fermion-boson mapping and
-show that the conditions for spontaneous breaking of scale invariance in the
-boson and fermion theories are copies of each other.
+The singlet sector of vector, large $n$, 3d field theory corresponds to vasiliev higher spin theory on $ads_4$. Will discuss three dimensional $u(n)$ symmetric field theory with fermion and boson matter coupled to a topological chern-simons field. In the presence of a marginal deformation will determine the conditions for the existence of a phase with spontaneous breaking of scale invariance. In this phase the ground state contains massive $u(n)$ quanta and a massless $u(n)$ singlet bound state goldstone boson:~the dilaton. Will show that such a phase appears only in the presence of a marginal deformation. The massless dilaton appears in the spectrum provided certain relations between coupling constants are satisfied. Will discuss the fermion-boson mapping and show that the conditions for spontaneous breaking of scale invariance in the boson and fermion theories are copies of each other.

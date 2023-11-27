@@ -1,10 +1,1 @@
-We compute the one-loop effective action of string configurations embedded in
-$AdS_4\times\mathbb{CP}^3$ which are dual to $\frac{1}{6}$-BPS latitude Wilson
-Loops in the ABJM theory. To avoid ambiguities in the string path integral we
-subtract the $\frac{1}{2}$-BPS case. The one-loop determinants are computed by
-Fourier-decomposing the two dimensional operators and then using the
-Gel'fand-Yaglom method. We comment on various aspects related to the
-regularization procedure, showing the cancellation of a hierarchy of
-divergences. After taking into account an IR anomaly from a change in topology,
-we find a precise agreement with the field theory result known from
-supersymmetric localization.
+We compute the one-loop effective action of string configurations embedded in $ads_4\times\mathbb{cp}^3$ which are dual to $\frac{1}{6}$-bps latitude wilson loops in the abjm theory. To avoid ambiguities in the string path integral we subtract the $\frac{1}{2}$-bps case. The one-loop determinants are computed by fourier-decomposing the two dimensional operators and then using the gel'fand-yaglom method. We comment on various aspects related to the regularization procedure, showing the cancellation of a hierarchy of divergences. After taking into account an ir anomaly from a change in topology, we find a precise agreement with the field theory result known from supersymmetric localization.

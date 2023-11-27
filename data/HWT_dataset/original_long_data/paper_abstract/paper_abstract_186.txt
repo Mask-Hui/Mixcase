@@ -1,13 +1,1 @@
-We introduce a novel Skyrme-like conserved current in the effective theory of
-pions and vector mesons based on the idea of hidden local symmetry. The
-associated charge is equivalent to the skyrmion charge for any smooth
-configuration. In addition, there exist singular configurations that can be
-identified as N_f=1 baryons charged under the new symmetry. Under this
-identification, the vector mesons play the role of the Chern-Simons vector
-fields living on the quantum Hall droplet that forms the N_f=1 baryon. We
-propose that this current is the correct effective expression for the baryon
-current at low energies. This proposal gives a unified picture for the two
-types of baryons and allows them to continuously transform one to the other in
-a natural way. In addition, Chern-Simons dualities on the droplet can be
-interpreted as a result of Seiberg-like duality between gluons and vector
-mesons.
+We introduce a novel skyrme-like conserved current in the effective theory of pions and vector mesons based on the idea of hidden local symmetry. The associated charge is equivalent to the skyrmion charge for any smooth configuration. In addition, there exist singular configurations that can be identified as n_f=1 baryons charged under the new symmetry. Under this identification, the vector mesons play the role of the chern-simons vector fields living on the quantum hall droplet that forms the n_f=1 baryon. We propose that this current is the correct effective expression for the baryon current at low energies. This proposal gives a unified picture for the two types of baryons and allows them to continuously transform one to the other in a natural way. In addition, chern-simons dualities on the droplet can be interpreted as a result of seiberg-like duality between gluons and vector mesons.

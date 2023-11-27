@@ -1,16 +1,1 @@
-Causal inference from observational data is the goal of many data analyses in
-the health and social sciences. However, academic statistics has often frowned
-upon data analyses with a causal objective. The introduction of the term "data
-science" provides a historic opportunity to redefine data analysis in such a
-way that it naturally accommodates causal inference from observational data.
-Like others before, we organize the scientific contributions of data science
-into three classes of tasks: Description, prediction, and counterfactual
-prediction (which includes causal inference). An explicit classification of
-data science tasks is necessary to discuss the data, assumptions, and analytics
-required to successfully accomplish each task. We argue that a failure to
-adequately describe the role of subject-matter expert knowledge in data
-analysis is a source of widespread misunderstandings about data science.
-Specifically, causal analyses typically require not only good data and
-algorithms, but also domain expert knowledge. We discuss the implications for
-the use of data science to guide decision-making in the real world and to train
-data scientists.
+Causal inference from observational data is the goal of many data analyses in the health and social sciences. However, academic statistics has often frowned upon data analyses with a causal objective. The introduction of the term "data science" provides a historic opportunity to redefine data analysis in such a way that it naturally accommodates causal inference from observational data. Like others before, we organize the scientific contributions of data science into three classes of tasks: description, prediction, and counterfactual prediction (which includes causal inference). An explicit classification of data science tasks is necessary to discuss the data, assumptions, and analytics required to successfully accomplish each task. We argue that a failure to adequately describe the role of subject-matter expert knowledge in data analysis is a source of widespread misunderstandings about data science. Specifically, causal analyses typically require not only good data and algorithms, but also domain expert knowledge. We discuss the implications for the use of data science to guide decision-making in the real world and to train data scientists.

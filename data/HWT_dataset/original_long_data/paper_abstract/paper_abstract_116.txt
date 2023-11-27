@@ -1,11 +1,1 @@
-We present a new operator method in the Heisenberg representation to obtain
-the signal of parity measurement within a lossless SU(1,1) interferometer.
-Based on this method, it is convenient to derive the parity signal directly in
-terms of input states, including general Gaussian or non-Gaussian state. As
-applications, we revisit the signal of parity measurement within an SU(1,1)
-interferometer when a coherent or thermal state and a squeezed vacuum state are
-considered as input states. In addition, we also obtain the parity signal of a
-Fock state when it passes through an SU(1,1) interferometer, which is also a
-new result. Therefore, the operator method proposed in this work may bring
-convenience to the study of quantum metrology, particularly the phase
-estimation based on an SU(1,1) interferometer.
+We present a new operator method in the heisenberg representation to obtain the signal of parity measurement within a lossless su(1,1) interferometer. Based on this method, it is convenient to derive the parity signal directly in terms of input states, including general gaussian or non-gaussian state. As applications, we revisit the signal of parity measurement within an su(1,1) interferometer when a coherent or thermal state and a squeezed vacuum state are considered as input states. In addition, we also obtain the parity signal of a fock state when it passes through an su(1,1) interferometer, which is also a new result. Therefore, the operator method proposed in this work may bring convenience to the study of quantum metrology, particularly the phase estimation based on an su(1,1) interferometer.

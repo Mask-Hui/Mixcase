@@ -1,18 +1,1 @@
-Routing controllability of autonomous vehicles (AVs) has been shown to reduce
-the impact of selfish routing on network efficiency. However, the assumption
-that AVs would readily allow themselves to be controlled externally by a
-central agency is unrealistic. In this paper, we propose a joint routing and
-pricing control scheme that aims to incentivize AVs to seek centrally
-controlled system optimal (SO) routing by saving on tolls while user
-equilibrium (UE) seeking AVs and human-driven vehicles (HVs) are subject to a
-congestion charge. The problem is formulated as a bi-level optimization, in
-which dynamic tolls are optimized in the upper level, whereas the lower level
-is a mixed equilibrium simulation-based dynamic traffic assignment model
-considering mixed fleet of AVs and HVs. We develop a feedback-based controller
-to implement a second-based pricing scheme from which SO-seeking AVs are
-exempt; but UEseeking vehicles, including both AVs and HVs, are subject to a
-distance-based charge for entering a pricing zone. This control strategy
-encourages controllable AVs to adopt SO routing while discouraging UE-seeking
-users from entering the pricing zone. We demonstrate the performance of the
-proposed framework using the Nguyen network and a large-scale network model of
-Melbourne, Australia.
+Routing controllability of autonomous vehicles (avs) has been shown to reduce the impact of selfish routing on network efficiency. However, the assumption that avs would readily allow themselves to be controlled externally by a central agency is unrealistic. In this paper, we propose a joint routing and pricing control scheme that aims to incentivize avs to seek centrally controlled system optimal (so) routing by saving on tolls while user equilibrium (ue) seeking avs and human-driven vehicles (hvs) are subject to a congestion charge. The problem is formulated as a bi-level optimization, in which dynamic tolls are optimized in the upper level, whereas the lower level is a mixed equilibrium simulation-based dynamic traffic assignment model considering mixed fleet of avs and hvs. We develop a feedback-based controller to implement a second-based pricing scheme from which so-seeking avs are exempt; but ueseeking vehicles, including both avs and hvs, are subject to a distance-based charge for entering a pricing zone. This control strategy encourages controllable avs to adopt so routing while discouraging ue-seeking users from entering the pricing zone. We demonstrate the performance of the proposed framework using the nguyen network and a large-scale network model of melbourne, australia.

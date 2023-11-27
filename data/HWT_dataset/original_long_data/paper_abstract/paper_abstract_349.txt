@@ -1,10 +1,1 @@
-In a network, a channel introduces correlations to the parties that aim to
-establish a communication protocol. In this work, we present a framework of
-non-local network coding by exploiting a Bell scenario and show the usefulness
-of non-local and quantum resources in network coding. Two-sender and
-two-receiver interference channels are considered, for which network coding is
-characterized by two-input and four-outcome Bell scenarios. It is shown that
-non-signaling (quantum) correlations lead to strictly higher channel capacities
-in general than quantum (local) correlations. It is also shown that, however,
-more non-locality does not necessarily imply a higher channel capacity. The
-framework can be generally applied to network communication protocols.
+In a network, a channel introduces correlations to the parties that aim to establish a communication protocol. In this work, we present a framework of non-local network coding by exploiting a bell scenario and show the usefulness of non-local and quantum resources in network coding. Two-sender and two-receiver interference channels are considered, for which network coding is characterized by two-input and four-outcome bell scenarios. It is shown that non-signaling (quantum) correlations lead to strictly higher channel capacities in general than quantum (local) correlations. It is also shown that, however, more non-locality does not necessarily imply a higher channel capacity. The framework can be generally applied to network communication protocols.

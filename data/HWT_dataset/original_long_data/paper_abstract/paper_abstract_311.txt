@@ -1,11 +1,1 @@
-We introduce a new boundedness condition for affine permutations, motivated
-by the fruitful concept of periodic boundary conditions in statistical physics.
-We study pattern avoidance in bounded affine permutations. In particular, we
-show that if $\tau$ is one of the finite increasing oscillations, then every
-$\tau$-avoiding affine permutation satisfies the boundedness condition. We also
-explore the enumeration of pattern-avoiding affine permutations that can be
-decomposed into blocks, using analytic methods to relate their exact and
-asymptotic enumeration to that of the underlying ordinary permutations.
-Finally, we perform exact and asymptotic enumeration of the set of all bounded
-affine permutations of size $n$. A companion paper will focus on avoidance of
-monotone decreasing patterns in bounded affine permutations.
+We introduce a new boundedness condition for affine permutations, motivated by the fruitful concept of periodic boundary conditions in statistical physics. We study pattern avoidance in bounded affine permutations. In particular, we show that if $\tau$ is one of the finite increasing oscillations, then every $\tau$-avoiding affine permutation satisfies the boundedness condition. We also explore the enumeration of pattern-avoiding affine permutations that can be decomposed into blocks, using analytic methods to relate their exact and asymptotic enumeration to that of the underlying ordinary permutations. Finally, we perform exact and asymptotic enumeration of the set of all bounded affine permutations of size $n$. A companion paper will focus on avoidance of monotone decreasing patterns in bounded affine permutations.

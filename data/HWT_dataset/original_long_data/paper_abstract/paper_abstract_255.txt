@@ -1,14 +1,1 @@
-An electron is usually considered to have only one type of kinetic energy,
-but could it have more, for its spin and charge, or by exciting other
-electrons? In one dimension (1D), the physics of interacting electrons is
-captured well at low energies by the Tomonaga-Luttinger-Liquid (TLL) model, yet
-little has been observed experimentally beyond this linear regime. Here, we
-report on measurements of many-body modes in 1D gated-wires using a tunnelling
-spectroscopy technique. We observe two separate Fermi seas at high energies,
-associated with spin and charge excitations, together with the emergence of
-three additional 1D 'replica' modes that strengthen with decreasing wire
-length. The effective interaction strength in the wires is varied by changing
-the amount of 1D inter-subband screening by over 45%. Our findings demonstrate
-the existence of spin-charge separation in the whole energy band outside the
-low-energy limit of validity of the TLL model, and also set a limit on the
-validity of the newer nonlinear TLL theory.
+An electron is usually considered to have only one type of kinetic energy, but could it have more, for its spin and charge, or by exciting other electrons? in one dimension (1d), the physics of interacting electrons is captured well at low energies by the tomonaga-luttinger-liquid (tll) model, yet little has been observed experimentally beyond this linear regime. Here, we report on measurements of many-body modes in 1d gated-wires using a tunnelling spectroscopy technique. We observe two separate fermi seas at high energies, associated with spin and charge excitations, together with the emergence of three additional 1d 'replica' modes that strengthen with decreasing wire length. The effective interaction strength in the wires is varied by changing the amount of 1d inter-subband screening by over 45%. Our findings demonstrate the existence of spin-charge separation in the whole energy band outside the low-energy limit of validity of the tll model, and also set a limit on the validity of the newer nonlinear tll theory.

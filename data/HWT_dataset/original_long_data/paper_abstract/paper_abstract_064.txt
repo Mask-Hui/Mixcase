@@ -1,18 +1,1 @@
-The CHY formalism for massless scattering provides a cohesive framework for
-the computation of scattering amplitudes in a variety of theories. It is
-especially compelling because it elucidates existing relations among theories
-which are seemingly unrelated in a standard Lagrangian formulation. However, it
-entails operations that are highly non-trivial to perform analytically, most
-notably solving the scattering equations. We present a new Python package (
-https://github.com/GDeLaurentis/seampy ) to solve the scattering equations and
-to compute scattering amplitudes. Both operations are done numerically with
-high-precision floating-point algebra. Elimination theory is used to obtain
-solutions to the scattering equations for arbitrary kinematics. These solutions
-are then applied to a variety of CHY integrands to obtain tree amplitudes for
-the following theories: Yang-Mills, Einstein gravity, biadjoint scalar,
-Born-Infeld, non-linear sigma model, Galileon, conformal gravity and
-$(\text{DF})^2$. Finally, we exploit this high-precision numerical
-implementation to explore the singularity structure of the amplitudes and to
-reconstruct analytical expressions which make manifest their pole structure.
-Some of the expressions for conformal gravity and the $(\text{DF})^2$ gauge
-theory are new to the best of our knowledge.
+The chy formalism for massless scattering provides a cohesive framework for the computation of scattering amplitudes in a variety of theories. It is especially compelling because it elucidates existing relations among theories which are seemingly unrelated in a standard lagrangian formulation. However, it entails operations that are highly non-trivial to perform analytically, most notably solving the scattering equations. We present a new python package ( https://github.com/gdelaurentis/seampy ) to solve the scattering equations and to compute scattering amplitudes. Both operations are done numerically with high-precision floating-point algebra. Elimination theory is used to obtain solutions to the scattering equations for arbitrary kinematics. These solutions are then applied to a variety of chy integrands to obtain tree amplitudes for the following theories: yang-mills, einstein gravity, biadjoint scalar, born-infeld, non-linear sigma model, galileon, conformal gravity and $(\text{df})^2$. Finally, we exploit this high-precision numerical implementation to explore the singularity structure of the amplitudes and to reconstruct analytical expressions which make manifest their pole structure. Some of the expressions for conformal gravity and the $(\text{df})^2$ gauge theory are new to the best of our knowledge.

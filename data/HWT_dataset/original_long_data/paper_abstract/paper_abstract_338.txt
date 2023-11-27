@@ -1,15 +1,1 @@
-Spectra of 76 known dwarf novae from the LAMOST survey were presented. Most
-of the objects were observed in quiescence, and about 16 systems have typical
-outburst spectra. 36 of these systems were observed by SDSS, and most of their
-spectra are similar to the SDSS spectra. 2 objects, V367 Peg and V537 Peg, are
-the first to observe their spectra. The spectrum of V367 Peg shows a
-contribution from a M-type donor and its spectral type could be estimated as
-M3-5 by combining its orbital period. The signature of white dwarf spectrum can
-be seen clearly in four low-accretion-rate WZ Sge stars. Other special spectral
-features worthy of further observations are also noted and discussed. We
-present a LAMOST spectral atlas of outbursting dwarf novae. 6 objects have the
-first outburst spectra, and the others were also compared with the published
-outburst spectra. We argue that these data will be useful for further
-investigation of the accretion disc properties. The HeII $\lambda$4686 emission
-line can be found in the outburst spectra of seven dwarf novae. These objects
-are excellent candidates for probing the spiral asymmetries of accretion disc.
+Spectra of 76 known dwarf novae from the lamost survey were presented. Most of the objects were observed in quiescence, and about 16 systems have typical outburst spectra. 36 of these systems were observed by sdss, and most of their spectra are similar to the sdss spectra. 2 objects, v367 peg and v537 peg, are the first to observe their spectra. The spectrum of v367 peg shows a contribution from a m-type donor and its spectral type could be estimated as m3-5 by combining its orbital period. The signature of white dwarf spectrum can be seen clearly in four low-accretion-rate wz sge stars. Other special spectral features worthy of further observations are also noted and discussed. We present a lamost spectral atlas of outbursting dwarf novae. 6 objects have the first outburst spectra, and the others were also compared with the published outburst spectra. We argue that these data will be useful for further investigation of the accretion disc properties. The heii $\lambda$4686 emission line can be found in the outburst spectra of seven dwarf novae. These objects are excellent candidates for probing the spiral asymmetries of accretion disc.

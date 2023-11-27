@@ -1,9 +1,1 @@
-Asymptotically AdS wormhole solutions are considered in the context of
-holography. Correlation functions of local operators on distinct boundaries are
-studied. It is found that such correlators are finite at short distances.
-Correlation functions of non-local operators (Wilson loops) on distinct
-boundaries are also studied, with similar conclusions. Deformations of the
-theory with multi-trace operators on distinct boundaries are considered and
-studied. As a consequence of these results, the dual theory is expected to
-factorize in the UV, and the two sectors to be coupled by a soft non-local
-interaction. A simple field theory model with such behavior is presented.
+Asymptotically ads wormhole solutions are considered in the context of holography. Correlation functions of local operators on distinct boundaries are studied. It is found that such correlators are finite at short distances. Correlation functions of non-local operators (wilson loops) on distinct boundaries are also studied, with similar conclusions. Deformations of the theory with multi-trace operators on distinct boundaries are considered and studied. As a consequence of these results, the dual theory is expected to factorize in the uv, and the two sectors to be coupled by a soft non-local interaction. A simple field theory model with such behavior is presented.

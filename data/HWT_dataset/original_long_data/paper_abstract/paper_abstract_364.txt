@@ -1,11 +1,1 @@
-We study the instability of de Sitter space-time (dS) under thermal radiation
-in different vacua. For this purpose we model the interaction between thermal
-radiation and unknown ultraviolet physics as a scattering process inside the
-horizon. Then we argue that the mode function solution of a scalar field in
-four-dimensional dS can be separated into the incoming and outgoing modes.
-Different vacua for dS are realized by different combinations of positive
-frequency modes assigned to each solution. For a minimally coupled massless
-scalar field, we explicitly compute the behavior of the mode function and the
-corresponding energy-momentum tensor in the Unruh vacuum near the horizon, and
-find that the horizon area increases (decreases) in time when the incoming
-(outgoing) mode contributes to thermal flux.
+We study the instability of de sitter space-time (ds) under thermal radiation in different vacua. For this purpose we model the interaction between thermal radiation and unknown ultraviolet physics as a scattering process inside the horizon. Then we argue that the mode function solution of a scalar field in four-dimensional ds can be separated into the incoming and outgoing modes. Different vacua for ds are realized by different combinations of positive frequency modes assigned to each solution. For a minimally coupled massless scalar field, we explicitly compute the behavior of the mode function and the corresponding energy-momentum tensor in the unruh vacuum near the horizon, and find that the horizon area increases (decreases) in time when the incoming (outgoing) mode contributes to thermal flux.

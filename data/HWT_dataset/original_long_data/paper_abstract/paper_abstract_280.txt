@@ -1,9 +1,1 @@
-This paper presents an iterative inversion algorithm for computed tomography
-image reconstruction that performs well in terms of accuracy and speed using
-limited data. The computational method combines an image domain technique and
-statistical reconstruction by using an initial filtered back projection
-reconstruction to create a binary edge mask, which is then used in an
-l2-regularized reconstruction. Both theoretical and empirical results are
-offered to support the algorithm. While in this paper a simple forward model is
-used and physical edges are used as the sparse feature, the proposed method is
-flexible and can accommodate any forward model and sparsifying transform.
+This paper presents an iterative inversion algorithm for computed tomography image reconstruction that performs well in terms of accuracy and speed using limited data. The computational method combines an image domain technique and statistical reconstruction by using an initial filtered back projection reconstruction to create a binary edge mask, which is then used in an l2-regularized reconstruction. Both theoretical and empirical results are offered to support the algorithm. While in this paper a simple forward model is used and physical edges are used as the sparse feature, the proposed method is flexible and can accommodate any forward model and sparsifying transform.

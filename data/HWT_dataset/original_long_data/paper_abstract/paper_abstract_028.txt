@@ -1,12 +1,1 @@
-Over the past few years, there has been significant interest in video action
-recognition systems and models. However, direct comparison of accuracy and
-computational performance results remain clouded by differing training
-environments, hardware specifications, hyperparameters, pipelines, and
-inference methods. This article provides a direct comparison between fourteen
-off-the-shelf and state-of-the-art models by ensuring consistency in these
-training characteristics in order to provide readers with a meaningful
-comparison across different types of video action recognition algorithms.
-Accuracy of the models is evaluated using standard Top-1 and Top-5 accuracy
-metrics in addition to a proposed new accuracy metric. Additionally, we compare
-computational performance of distributed training from two to sixty-four GPUs
-on a state-of-the-art HPC system.
+Over the past few years, there has been significant interest in video action recognition systems and models. However, direct comparison of accuracy and computational performance results remain clouded by differing training environments, hardware specifications, hyperparameters, pipelines, and inference methods. This article provides a direct comparison between fourteen off-the-shelf and state-of-the-art models by ensuring consistency in these training characteristics in order to provide readers with a meaningful comparison across different types of video action recognition algorithms. Accuracy of the models is evaluated using standard top-1 and top-5 accuracy metrics in addition to a proposed new accuracy metric. Additionally, we compare computational performance of distributed training from two to sixty-four gpus on a state-of-the-art hpc system.

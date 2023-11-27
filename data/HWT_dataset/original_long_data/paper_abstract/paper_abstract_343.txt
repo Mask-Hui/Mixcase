@@ -1,14 +1,1 @@
-Majorana fermions cannot be found in nature as a free fundamental particle.
-Nevertheless, in condensed matter systems, they can emerge as a collective
-excitation. In this work, using functional integration techniques, we
-calculated the effective potential for emergent Majorana fermions in the Kitaev
-chain. In this case, we have shown how the superconductor parameter behaves as
-a function of temperature. Furthermore, we considered surface-induced
-superconductivity in a Topological Insulator and calculated the effective
-potential for emergent Majorana fermions in this system. In the case of an
-s-wave superconductor, we obtained a gap equation equivalent to that one
-appearing in a quasi-two-dimensional Dirac electronic system, a candidate to
-explain high-Tc superconductivity. Finally, for the p-wave superconductor, we
-have obtained a critical value of the electronelectron interaction in the
-surface of the Topological Insulator, determining the existence or not of
-induced superconductivity, a remarkable result to guide experiments
+Majorana fermions cannot be found in nature as a free fundamental particle. Nevertheless, in condensed matter systems, they can emerge as a collective excitation. In this work, using functional integration techniques, we calculated the effective potential for emergent majorana fermions in the kitaev chain. In this case, we have shown how the superconductor parameter behaves as a function of temperature. Furthermore, we considered surface-induced superconductivity in a topological insulator and calculated the effective potential for emergent majorana fermions in this system. In the case of an s-wave superconductor, we obtained a gap equation equivalent to that one appearing in a quasi-two-dimensional dirac electronic system, a candidate to explain high-tc superconductivity. Finally, for the p-wave superconductor, we have obtained a critical value of the electronelectron interaction in the surface of the topological insulator, determining the existence or not of induced superconductivity, a remarkable result to guide experiments

@@ -1,9 +1,1 @@
-We construct necessary and sufficient geometric conditions for a class of
-AdS$_2$ solutions of M-theory with, at least, minimal supersymmetry to exist.
-We generalize previous results in the literature for ${\cal N}=(2,0)$
-supersymmetry in AdS$_2$ to ${\cal N}=(1,0)$. When the solution can be locally
-described as AdS$_2\times \Sigma_g \times \,$SE$_7$ with $\Sigma_g$ a Riemann
-surface of genus $g$ and SE$_7$ a seven-dimensional Sasaki-Einstein manifold,
-we clarify and unify various solutions present in the literature. In the case
-of SE$_7=Q^{1,1,1}$ we find a new solution with baryonic and mesonic charges
-turned on simultaneously.
+We construct necessary and sufficient geometric conditions for a class of ads$_2$ solutions of m-theory with, at least, minimal supersymmetry to exist. We generalize previous results in the literature for ${\cal n}=(2,0)$ supersymmetry in ads$_2$ to ${\cal n}=(1,0)$. When the solution can be locally described as ads$_2\times \sigma_g \times \,$se$_7$ with $\sigma_g$ a riemann surface of genus $g$ and se$_7$ a seven-dimensional sasaki-einstein manifold, we clarify and unify various solutions present in the literature. In the case of se$_7=q^{1,1,1}$ we find a new solution with baryonic and mesonic charges turned on simultaneously.

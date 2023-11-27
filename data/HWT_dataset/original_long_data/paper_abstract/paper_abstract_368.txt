@@ -1,11 +1,1 @@
-In this work, a generalization of the study of the human gait was made from
-already existent models in the literature, like models of Keller and
-Kockshenev. In this hybrid model, a strategy of metabolic energy minimization
-is combined in a race process, with a non-linear description of the movement of
-the mass center's libration, trying to reproduce the behavior of the walk-run
-transition. The results of the experimental data, for different speed regimes,
-indicate that the perimeter of the trajectory of the mass center is a relevant
-quantity in the quantification of this dynamic. An experimental procedure was
-put into practice in collaboration with the research group in Biomedical
-Engineering, Basic Sciences and Laboratories of the Manuela Beltr\'an
-University in Bogot\'a, Colombia.
+In this work, a generalization of the study of the human gait was made from already existent models in the literature, like models of keller and kockshenev. In this hybrid model, a strategy of metabolic energy minimization is combined in a race process, with a non-linear description of the movement of the mass center's libration, trying to reproduce the behavior of the walk-run transition. The results of the experimental data, for different speed regimes, indicate that the perimeter of the trajectory of the mass center is a relevant quantity in the quantification of this dynamic. An experimental procedure was put into practice in collaboration with the research group in biomedical engineering, basic sciences and laboratories of the manuela beltr\'an university in bogot\'a, colombia.

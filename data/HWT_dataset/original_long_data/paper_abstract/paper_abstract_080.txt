@@ -1,14 +1,1 @@
-Recent work has shown that two-dimensional non-linear $\sigma$-models on
-group manifolds with Poisson-Lie symmetry can be understood within generalised
-geometry as exemplars of generalised parallelisable spaces. Here we extend this
-idea to target spaces constructed as double cosets $M=\widetilde{G} \backslash
-D / H$. Mirroring conventional coset geometries, we show that on $M$ one can
-construct a generalised frame field and a $H$-valued generalised spin
-connection that together furnish an algebra under the generalised Lie
-derivative. This results naturally in a generalised covariant derivative with a
-(covariantly) constant generalised intrinsic torsion, lending itself to the
-construction of consistent truncations of 10-dimensional supergravity
-compactified on $M$. An important feature is that $M$ can admit distinguished
-points, around which the generalised tangent bundle should be augmented by
-localised vector multiplets. We illustrate these ideas with explicit examples
-of two-dimensional parafermionic theories and NS5-branes on a circle.
+Recent work has shown that two-dimensional non-linear $\sigma$-models on group manifolds with poisson-lie symmetry can be understood within generalised geometry as exemplars of generalised parallelisable spaces. Here we extend this idea to target spaces constructed as double cosets $m=\widetilde{g} \backslash d / h$. Mirroring conventional coset geometries, we show that on $m$ one can construct a generalised frame field and a $h$-valued generalised spin connection that together furnish an algebra under the generalised lie derivative. This results naturally in a generalised covariant derivative with a (covariantly) constant generalised intrinsic torsion, lending itself to the construction of consistent truncations of 10-dimensional supergravity compactified on $m$. An important feature is that $m$ can admit distinguished points, around which the generalised tangent bundle should be augmented by localised vector multiplets. We illustrate these ideas with explicit examples of two-dimensional parafermionic theories and ns5-branes on a circle.

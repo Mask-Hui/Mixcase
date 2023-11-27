@@ -1,18 +1,1 @@
-An essential part for the accurate classification of electrocardiogram (ECG)
-signals is the extraction of informative yet general features, which are able
-to discriminate diseases. Cardiovascular abnormalities manifest themselves in
-features on different time scales: small scale morphological features, such as
-missing P-waves, as well as rhythmical features apparent on heart rate scales.
-For this reason we incorporate a variant of the complex wavelet transform,
-called a scatter transform, in a deep residual neural network (ResNet). The
-former has the advantage of being derived from theory, making it well behaved
-under certain transformations of the input. The latter has proven useful in ECG
-classification, allowing feature extraction and classification to be learned in
-an end-to-end manner. Through the incorporation of trainable layers in between
-scatter transforms, the model gains the ability to combine information from
-different channels, yielding more informative features for the classification
-task and adapting them to the specific domain. For evaluation, we submitted our
-model in the official phase in the PhysioNet/Computing in Cardiology Challenge
-2020. Our (Team Triage) approach achieved a challenge validation score of
-0.640, and full test score of 0.485, placing us 4th out of 41 in the official
-ranking.
+An essential part for the accurate classification of electrocardiogram (ecg) signals is the extraction of informative yet general features, which are able to discriminate diseases. Cardiovascular abnormalities manifest themselves in features on different time scales: small scale morphological features, such as missing p-waves, as well as rhythmical features apparent on heart rate scales. For this reason we incorporate a variant of the complex wavelet transform, called a scatter transform, in a deep residual neural network (resnet). The former has the advantage of being derived from theory, making it well behaved under certain transformations of the input. The latter has proven useful in ecg classification, allowing feature extraction and classification to be learned in an end-to-end manner. Through the incorporation of trainable layers in between scatter transforms, the model gains the ability to combine information from different channels, yielding more informative features for the classification task and adapting them to the specific domain. For evaluation, we submitted our model in the official phase in the physionet/computing in cardiology challenge 2020. Our (team triage) approach achieved a challenge validation score of 0.640, and full test score of 0.485, placing us 4th out of 41 in the official ranking.

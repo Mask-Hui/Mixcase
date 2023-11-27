@@ -1,15 +1,1 @@
-Micro-focus computed tomography (CT), enabling the reconstruction of
-hyperfine structure within objects, is a powerful nondestructive testing tool
-in many fields. Current X-ray sources for micro-focus CT are typically limited
-by their relatively low photon energy and low flux. An all-optical inverse
-Compton scattering source (AOCS) based on laser wakefield accelerator (LWFA)
-can generate intense quasi-monoenergetic X/gamma-ray pulses in the keV-MeV
-range with micron-level source size, and its potential application for
-micro-focus CT has become very attractive in recent years due to the fast pace
-progress made in LWFA. Here we report the first experimental demonstration of
-high-fidelity micro-focus CT using AOCS (~70 keV) by imaging and reconstructing
-a test object with complex inner structures. A region-of-interest (ROI) CT
-method is adopted to utilize the relatively small field-of-view (FOV) of AOCS
-to obtain high-resolution reconstruction. This demonstration of the ROI
-micro-focus CT based on AOCS is a key step for its application in the field of
-hyperfine nondestructive testing.
+Micro-focus computed tomography (ct), enabling the reconstruction of hyperfine structure within objects, is a powerful nondestructive testing tool in many fields. Current x-ray sources for micro-focus ct are typically limited by their relatively low photon energy and low flux. An all-optical inverse compton scattering source (aocs) based on laser wakefield accelerator (lwfa) can generate intense quasi-monoenergetic x/gamma-ray pulses in the kev-mev range with micron-level source size, and its potential application for micro-focus ct has become very attractive in recent years due to the fast pace progress made in lwfa. Here we report the first experimental demonstration of high-fidelity micro-focus ct using aocs (~70 kev) by imaging and reconstructing a test object with complex inner structures. A region-of-interest (roi) ct method is adopted to utilize the relatively small field-of-view (fov) of aocs to obtain high-resolution reconstruction. This demonstration of the roi micro-focus ct based on aocs is a key step for its application in the field of hyperfine nondestructive testing.

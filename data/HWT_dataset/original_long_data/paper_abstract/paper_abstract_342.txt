@@ -1,14 +1,1 @@
-The Weak Gravity Conjecture (WGC) demands the existence of superextremal
-particles in any consistent quantum theory of gravity. The standard lore is
-that these particles are introduced to ensure that extremal black holes are
-either unstable or marginally stable, but it is not clear what is wrong if this
-doesn't happen. This note shows that, for a generic Einstein quantum theory of
-gravity in AdS, exactly stability of extremal black branes is in tension with
-rigorously proven quantum information theorems about entanglement entropy.
-Avoiding the contradiction leads to a nonperturbative version of the WGC, which
-reduces to the usual statement at weak coupling. The argument is general, and
-it does not rely on either supersymmetry or a particular UV completion,
-assuming only the validity of Einsteinian gravity, effective field theory, and
-holography. The pathology is related to the development of an infinite throat
-in the near-horizon region of the extremal solutions, which suggests a
-connection to the ER=EPR proposal.
+The weak gravity conjecture (wgc) demands the existence of superextremal particles in any consistent quantum theory of gravity. The standard lore is that these particles are introduced to ensure that extremal black holes are either unstable or marginally stable, but it is not clear what is wrong if this doesn't happen. This note shows that, for a generic einstein quantum theory of gravity in ads, exactly stability of extremal black branes is in tension with rigorously proven quantum information theorems about entanglement entropy. Avoiding the contradiction leads to a nonperturbative version of the wgc, which reduces to the usual statement at weak coupling. The argument is general, and it does not rely on either supersymmetry or a particular uv completion, assuming only the validity of einsteinian gravity, effective field theory, and holography. The pathology is related to the development of an infinite throat in the near-horizon region of the extremal solutions, which suggests a connection to the er=epr proposal.

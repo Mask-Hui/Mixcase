@@ -1,13 +1,1 @@
-We have implemented a GPU version of the Jefimenko's equations -- JefiGPU.
-Given the proper distributions of the source terms $\rho$ (charge density) and
-$\mathbf{J}$ (current density) in the source volume, the algorithm gives the
-electromagnetic fields in the observational region (not necessarily overlaps
-the vicinity of the sources). To verify the accuracy of the GPU implementation,
-we have compared the obtained results with that of the theoretical ones. Our
-results show that the deviations of the GPU results from the theoretical ones
-are around 5\%. Meanwhile, we have also compared the performance of the GPU
-implementation with a CPU version. The simulation results indicate that the GPU
-code is significantly faster than the CPU version. Finally, we have studied the
-parameter dependence of the execution time and memory consumption on one NVIDIA
-Tesla V100 card. Our code can be consistently coupled to RBG (Relativistic
-Boltzmann equations on GPUs) and many other GPU-based algorithms in physics.
+We have implemented a gpu version of the jefimenko's equations -- jefigpu. Given the proper distributions of the source terms $\rho$ (charge density) and $\mathbf{j}$ (current density) in the source volume, the algorithm gives the electromagnetic fields in the observational region (not necessarily overlaps the vicinity of the sources). To verify the accuracy of the gpu implementation, we have compared the obtained results with that of the theoretical ones. Our results show that the deviations of the gpu results from the theoretical ones are around 5\%. Meanwhile, we have also compared the performance of the gpu implementation with a cpu version. The simulation results indicate that the gpu code is significantly faster than the cpu version. Finally, we have studied the parameter dependence of the execution time and memory consumption on one nvidia tesla v100 card. Our code can be consistently coupled to rbg (relativistic boltzmann equations on gpus) and many other gpu-based algorithms in physics.

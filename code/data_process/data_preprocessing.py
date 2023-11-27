@@ -101,31 +101,7 @@ def clean_text_files(folder_path):
                 with open(file_path, 'w', encoding='utf-8') as output_file:
                     output_file.write(cleaned_content)
 
-def calculate_average_words_per_sentence(folder_path):
-    category_averages = {}
-    for category in os.listdir(folder_path):
-        category_path = os.path.join(folder_path, category)
-        if os.path.isdir(category_path):
-            total_sentences = 0
-            total_words = 0
-            for file_name in os.listdir(category_path):
-                if file_name.endswith('.txt'):
-                    file_path = os.path.join(category_path, file_name)
-                    with open(file_path, 'r', encoding='utf-8') as file:
-                        text = file.read()
-                        sentences = sent_tokenize(text)
-                        total_sentences += len(sentences)
-                        total_words += sum(len(word_tokenize(sentence)) for sentence in sentences)
-            if total_sentences > 0:
-                average_words = total_words / total_sentences
-                category_averages[category] = average_words
-    return category_averages
-
 
 if __name__ == "__main__":
     process_text_files("../../data/HWT_dataset/original_long_data",
                        "../../data/HWT_dataset/original_data/HWT_original_data.json")
-    # 统计每个category的句子平均词数
-    averages = calculate_average_words_per_sentence("../../data/HWT_dataset/original_long_data")
-    for category, average in averages.items():
-        print(f"Category: {category}, Average Words per Sentence: {average:.2f}")

@@ -1,11 +1,1 @@
-We study the three-dimensional turbulent Kolmogorov flow, i.e. the
-Navier-Stokes equations forced by a low-single-wave-number sinusoidal force in
-a periodic domain, by means of direct numerical simulations. This classical
-model system is a realization of anisotropic and non-homogeneous hydrodynamic
-turbulence. Boussinesq's eddy viscosity linear relation is checked and found to
-be approximately valid over half of the system volume. A more general nonlinear
-quadratic constitutive equation is proposed and its parameters estimated at
-varying the Taylor scale-based Reynolds number in the flow up to the value 200.
-This provides a Reynolds number-dependent quadratic closure for the Kolmogorov
-flow. The case of a forcing with a different shape, here chosen Gaussian, is
-considered and the differences with the sinusoidal forcing are emphasized.
+We study the three-dimensional turbulent kolmogorov flow, i.e. The navier-stokes equations forced by a low-single-wave-number sinusoidal force in a periodic domain, by means of direct numerical simulations. This classical model system is a realization of anisotropic and non-homogeneous hydrodynamic turbulence. Boussinesq's eddy viscosity linear relation is checked and found to be approximately valid over half of the system volume. A more general nonlinear quadratic constitutive equation is proposed and its parameters estimated at varying the taylor scale-based reynolds number in the flow up to the value 200. This provides a reynolds number-dependent quadratic closure for the kolmogorov flow. The case of a forcing with a different shape, here chosen gaussian, is considered and the differences with the sinusoidal forcing are emphasized.

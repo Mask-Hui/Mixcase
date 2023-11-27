@@ -1,15 +1,1 @@
-Van der Waals materials exhibit naturally passivated surfaces and can form
-versatile heterostructures, enabling observation of carrier transport
-mechanisms not seen in three-dimensional materials. Here we report observation
-of a "band bending junction", a new type of semiconductor homojunction whose
-surface potential landscape depends solely on a difference in thickness between
-the two semiconductor regions atop a buried heterojunction interface. Using
-MoS2 on Au to form a buried heterojunction interface, we find that lateral
-surface potential differences can arise in MoS2 from the local extent of
-vertical band bending in thin and thick MoS2 regions. Using scanning ultrafast
-electron microscopy, we examine the spatiotemporal dynamics of photogenerated
-charge carriers and find that lateral carrier separation is enabled by a band
-bending junction, which is confirmed with semiconductor transport simulations.
-Band bending junctions may therefore enable new electronic and optoelectronic
-devices in Van der Waals materials that rely on thickness variations rather
-than doping to separate charge carriers.
+Van der waals materials exhibit naturally passivated surfaces and can form versatile heterostructures, enabling observation of carrier transport mechanisms not seen in three-dimensional materials. Here we report observation of a "band bending junction", a new type of semiconductor homojunction whose surface potential landscape depends solely on a difference in thickness between the two semiconductor regions atop a buried heterojunction interface. Using mos2 on au to form a buried heterojunction interface, we find that lateral surface potential differences can arise in mos2 from the local extent of vertical band bending in thin and thick mos2 regions. Using scanning ultrafast electron microscopy, we examine the spatiotemporal dynamics of photogenerated charge carriers and find that lateral carrier separation is enabled by a band bending junction, which is confirmed with semiconductor transport simulations. Band bending junctions may therefore enable new electronic and optoelectronic devices in van der waals materials that rely on thickness variations rather than doping to separate charge carriers.

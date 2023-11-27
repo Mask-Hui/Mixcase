@@ -1,11 +1,1 @@
-In this short note, I show how a recent result of Alhejji and Smith
-[arXiv:1909.00787] regarding an optimal uniform continuity bound for classical
-conditional entropy leads to an optimal uniform continuity bound for quantum
-conditional entropy of classical--quantum states. The bound is optimal in the
-sense that there always exists a pair of classical--quantum states saturating
-the bound, and so no further improvements are possible. An immediate
-application is a uniform continuity bound for entanglement of formation that
-improves upon the one previously given by Winter in [arXiv:1507.07775]. Two
-intriguing open questions are raised regarding other possible uniform
-continuity bounds for conditional entropy, one about quantum--classical states
-and another about fully quantum bipartite states.
+In this short note, i show how a recent result of alhejji and smith [arxiv:1909.00787] regarding an optimal uniform continuity bound for classical conditional entropy leads to an optimal uniform continuity bound for quantum conditional entropy of classical--quantum states. The bound is optimal in the sense that there always exists a pair of classical--quantum states saturating the bound, and so no further improvements are possible. An immediate application is a uniform continuity bound for entanglement of formation that improves upon the one previously given by winter in [arxiv:1507.07775]. Two intriguing open questions are raised regarding other possible uniform continuity bounds for conditional entropy, one about quantum--classical states and another about fully quantum bipartite states.

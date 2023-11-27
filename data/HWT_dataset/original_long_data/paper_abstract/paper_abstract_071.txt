@@ -1,9 +1,1 @@
-Authenticated teleportation aims to certify the transmission of a quantum
-state through teleportation, even in the presence of an adversary. This
-scenario can be pictured in terms of an untrusted source distributing a Bell
-state between two parties who wish to verify it using some simple tests. We
-propose a protocol that achieves this goal in a practical way, and analyse its
-performance and security when the parties have noisy measurement devices.
-Further, we model a realistic experimental scenario where the state is subject
-to noise and dephasing. We finally apply our analysis to the verification of
-graph states with noisy measurement devices.
+Authenticated teleportation aims to certify the transmission of a quantum state through teleportation, even in the presence of an adversary. This scenario can be pictured in terms of an untrusted source distributing a bell state between two parties who wish to verify it using some simple tests. We propose a protocol that achieves this goal in a practical way, and analyse its performance and security when the parties have noisy measurement devices. Further, we model a realistic experimental scenario where the state is subject to noise and dephasing. We finally apply our analysis to the verification of graph states with noisy measurement devices.

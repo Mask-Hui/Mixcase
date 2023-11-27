@@ -1,13 +1,1 @@
-The direpack package aims to establish a set of modern statistical dimension
-reduction techniques into the Python universe as a single, consistent package.
-The dimension reduction methods included resort into three categories:
-projection pursuit based dimension reduction, sufficient dimension reduction,
-and robust M estimators for dimension reduction. As a corollary, regularized
-regression estimators based on these reduced dimension spaces are provided as
-well, ranging from classical principal component regression up to sparse
-partial robust M regression. The package also contains a set of classical and
-robust pre-processing utilities, including generalized spatial signs, as well
-as dedicated plotting functionality and cross-validation utilities. Finally,
-direpack has been written consistent with the scikit-learn API, such that the
-estimators can flawlessly be included into (statistical and/or machine)
-learning pipelines in that framework.
+The direpack package aims to establish a set of modern statistical dimension reduction techniques into the python universe as a single, consistent package. The dimension reduction methods included resort into three categories: projection pursuit based dimension reduction, sufficient dimension reduction, and robust m estimators for dimension reduction. As a corollary, regularized regression estimators based on these reduced dimension spaces are provided as well, ranging from classical principal component regression up to sparse partial robust m regression. The package also contains a set of classical and robust pre-processing utilities, including generalized spatial signs, as well as dedicated plotting functionality and cross-validation utilities. Finally, direpack has been written consistent with the scikit-learn api, such that the estimators can flawlessly be included into (statistical and/or machine) learning pipelines in that framework.

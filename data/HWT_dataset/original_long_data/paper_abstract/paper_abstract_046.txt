@@ -1,16 +1,1 @@
-There is an increasing demand for precise molecular spectroscopy, in
-particular in the mid-infrared fingerprint window that hosts a considerable
-number of vibrational signatures, whether it be for modeling our atmosphere,
-interpreting astrophysical spectra or testing fundamental physics. We present a
-high-resolution mid-infrared spectrometer traceable to primary frequency
-standards. It combines a widely tunable ultra-narrow Quantum Cascade Laser
-(QCL), an optical frequency comb and a compact multipass cell. The QCL
-frequency is stabilized onto a comb controlled with a remote near-infrared
-ultra-stable laser, transferred through a fiber link. The resulting QCL
-frequency stability is below 10-15 from 0.1 to 10s and its frequency
-uncertainty of 4x10-14 is given by the remote frequency standards. Continuous
-tuning over ~400 MHz is reported. We use the apparatus to perform saturated
-absorption spectroscopy of methanol in the low-pressure multipass cell and
-demonstrate a statistical uncertainty at the kHz level on transition center
-frequencies, confirming its potential for driving the next generation
-technology required for precise spectroscopic measurements.
+There is an increasing demand for precise molecular spectroscopy, in particular in the mid-infrared fingerprint window that hosts a considerable number of vibrational signatures, whether it be for modeling our atmosphere, interpreting astrophysical spectra or testing fundamental physics. We present a high-resolution mid-infrared spectrometer traceable to primary frequency standards. It combines a widely tunable ultra-narrow quantum cascade laser (qcl), an optical frequency comb and a compact multipass cell. The qcl frequency is stabilized onto a comb controlled with a remote near-infrared ultra-stable laser, transferred through a fiber link. The resulting qcl frequency stability is below 10-15 from 0.1 to 10s and its frequency uncertainty of 4x10-14 is given by the remote frequency standards. Continuous tuning over ~400 mhz is reported. We use the apparatus to perform saturated absorption spectroscopy of methanol in the low-pressure multipass cell and demonstrate a statistical uncertainty at the khz level on transition center frequencies, confirming its potential for driving the next generation technology required for precise spectroscopic measurements.

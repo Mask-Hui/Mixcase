@@ -1,8 +1,1 @@
-We propose an experimental time-of-flight test of the photon "trajectory"
-predictions of the Bohmian version of quantum mechanics. The photon
-trajectories in free space, as predicted by Bohmian mechanics, deviate from
-expected straight-line paths, bending and turning corners in the presence of
-quantum interference. We propose an experiment using two such corner-turns that
-should, in principle, allow these hypothetical Bohmian photons to arrive at a
-timing detector earlier than conventional photons traveling on the
-straight-line paths predicted by standard quantum mechanics.
+We propose an experimental time-of-flight test of the photon "trajectory" predictions of the bohmian version of quantum mechanics. The photon trajectories in free space, as predicted by bohmian mechanics, deviate from expected straight-line paths, bending and turning corners in the presence of quantum interference. We propose an experiment using two such corner-turns that should, in principle, allow these hypothetical bohmian photons to arrive at a timing detector earlier than conventional photons traveling on the straight-line paths predicted by standard quantum mechanics.

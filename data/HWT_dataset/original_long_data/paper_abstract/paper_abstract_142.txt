@@ -1,13 +1,1 @@
-Quantum error mitigation techniques can reduce noise on current quantum
-hardware without the need for fault-tolerant quantum error correction. For
-instance, the quasiprobability method simulates a noise-free quantum computer
-using a noisy one, with the caveat of only producing the correct expected
-values of observables. The cost of this error mitigation technique manifests as
-a sampling overhead which scales exponentially in the number of corrected
-gates. In this work, we present two novel approaches to reduce the exponential
-basis of that overhead. First, we introduce a robust quasiprobability method
-that allows for a tradeoff between an approximation error and the sampling
-overhead via semidefinite programming. Second, we derive a new algorithm based
-on mathematical optimization that aims to choose the quasiprobability
-decomposition in a noise-aware manner. Both techniques lead to a significantly
-lower overhead compared to existing approaches.
+Quantum error mitigation techniques can reduce noise on current quantum hardware without the need for fault-tolerant quantum error correction. For instance, the quasiprobability method simulates a noise-free quantum computer using a noisy one, with the caveat of only producing the correct expected values of observables. The cost of this error mitigation technique manifests as a sampling overhead which scales exponentially in the number of corrected gates. In this work, we present two novel approaches to reduce the exponential basis of that overhead. First, we introduce a robust quasiprobability method that allows for a tradeoff between an approximation error and the sampling overhead via semidefinite programming. Second, we derive a new algorithm based on mathematical optimization that aims to choose the quasiprobability decomposition in a noise-aware manner. Both techniques lead to a significantly lower overhead compared to existing approaches.

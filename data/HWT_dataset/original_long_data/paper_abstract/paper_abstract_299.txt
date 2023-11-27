@@ -1,11 +1,1 @@
-We developed single-shot shaped pulses for ultra high fidelity (UH-fidelity)
-population transfer on a 3-level quantum system in lambda configuration. To
-ensure high fidelity, we use the Lewis-Riesenfeld (L-R) method to derive a
-family of solutions leading to an exact transfer, where the solutions follow a
-single dynamical mode of the L-R invariant. Among this family, we identify a
-tracking solution with a single parameter to control simultaneously the
-fidelity of the transfer, the population of the excited state, and robustness.
-We define a measure of the robustness of an UH-fidelity transfer as the minimum
-percentile deviation on the pulse areas at which the infidelity rises above
-$10^{-4}$. The robustness of our shaped pulses is found superior to that of
-Gaussian and adiabatically-optimized pulses for moderate pulse areas.
+We developed single-shot shaped pulses for ultra high fidelity (uh-fidelity) population transfer on a 3-level quantum system in lambda configuration. To ensure high fidelity, we use the lewis-riesenfeld (l-r) method to derive a family of solutions leading to an exact transfer, where the solutions follow a single dynamical mode of the l-r invariant. Among this family, we identify a tracking solution with a single parameter to control simultaneously the fidelity of the transfer, the population of the excited state, and robustness. We define a measure of the robustness of an uh-fidelity transfer as the minimum percentile deviation on the pulse areas at which the infidelity rises above $10^{-4}$. The robustness of our shaped pulses is found superior to that of gaussian and adiabatically-optimized pulses for moderate pulse areas.

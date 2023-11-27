@@ -1,14 +1,1 @@
-We update the search for features, due to transient reductions in inflaton's
-speed of sound, in the Cosmic Microwave Background (CMB) angular power spectrum
-using Planck 2018 temperature, polarization and lensing data. We develop a new
-methodology to test more flexible templates to reconstruct the reduction of the
-speed of sound based on Gaussian Processes. We formally derive a dynamical
-prior for the shape of the reduction using a \textit{maximum-entropy} approach
-to ensure the physical conditions of the model are satisfied. The posterior
-allows for one or more consecutive reductions, fitting apparent features in the
-CMB power spectra in multipoles from a few tens to $\ell\simeq 2000$. As
-expected, these fits are not statistically favored with respect to the
-$\Lambda$CDM model. The methodology derived here allows for the inclusion of
-additional data sets (in particular, Large Scale Structure data), which in
-principle will increase the statistical significance of the reconstruction of
-the inflaton's speed of sound.
+We update the search for features, due to transient reductions in inflaton's speed of sound, in the cosmic microwave background (cmb) angular power spectrum using planck 2018 temperature, polarization and lensing data. We develop a new methodology to test more flexible templates to reconstruct the reduction of the speed of sound based on gaussian processes. We formally derive a dynamical prior for the shape of the reduction using a \textit{maximum-entropy} approach to ensure the physical conditions of the model are satisfied. The posterior allows for one or more consecutive reductions, fitting apparent features in the cmb power spectra in multipoles from a few tens to $\ell\simeq 2000$. As expected, these fits are not statistically favored with respect to the $\lambda$cdm model. The methodology derived here allows for the inclusion of additional data sets (in particular, large scale structure data), which in principle will increase the statistical significance of the reconstruction of the inflaton's speed of sound.

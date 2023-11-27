@@ -1,16 +1,1 @@
-When random effects are correlated with sample design variables, the usual
-approach of employing individual survey weights (constructed to be inversely
-proportional to the unit survey inclusion probabilities) to form a
-pseudo-likelihood no longer produces asymptotically unbiased inference. We
-construct a weight-exponentiated formulation for the random effects
-distribution that achieves unbiased inference for generating hyperparameters of
-the random effects. We contrast our approach with frequentist methods that rely
-on numerical integration to reveal that only the Bayesian method achieves both
-unbiased estimation with respect to the sampling design distribution and
-consistency with respect to the population generating distribution. Our
-simulations and real data example for a survey of business establishments
-demonstrate the utility of our approach across different modeling formulations
-and sampling designs. This work serves as a capstone for recent developmental
-efforts that combine traditional survey estimation approaches with the Bayesian
-modeling paradigm and provides a bridge across the two rich but disparate
-sub-fields.
+When random effects are correlated with sample design variables, the usual approach of employing individual survey weights (constructed to be inversely proportional to the unit survey inclusion probabilities) to form a pseudo-likelihood no longer produces asymptotically unbiased inference. We construct a weight-exponentiated formulation for the random effects distribution that achieves unbiased inference for generating hyperparameters of the random effects. We contrast our approach with frequentist methods that rely on numerical integration to reveal that only the bayesian method achieves both unbiased estimation with respect to the sampling design distribution and consistency with respect to the population generating distribution. Our simulations and real data example for a survey of business establishments demonstrate the utility of our approach across different modeling formulations and sampling designs. This work serves as a capstone for recent developmental efforts that combine traditional survey estimation approaches with the bayesian modeling paradigm and provides a bridge across the two rich but disparate sub-fields.

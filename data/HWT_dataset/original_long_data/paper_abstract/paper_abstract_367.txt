@@ -1,12 +1,1 @@
-An analytical gradient theory for single-state N-electron valence state
-perturbation theory (NEVPT2), using both strongly contracted (SC) and partially
-contracted (PC) internal contraction schemes, is developed. We demonstrate the
-utility of the developed algorithm in the optimization of the single-state
-molecular geometry of acrolein, benzyne, benzene, the retinal chromophore PSB3,
-the GFP chromophore pHBI, and porphine, with the cc-pVTZ basis sets. The
-SC-NEVPT2 analytical gradients exhibit numerical instability due to the lack of
-invariance with respect to the rotations among the inactive orbitals. On the
-other hand, PC-NEVPT2 gives molecular geometries comparable to CASPT2 in any
-tested cases. We discuss possible future developments that will make the NEVPT2
-gradient algorithm a powerful tool for optimizing the molecular geometries and
-conducting molecular dynamics simulations of correlated systems.
+An analytical gradient theory for single-state n-electron valence state perturbation theory (nevpt2), using both strongly contracted (sc) and partially contracted (pc) internal contraction schemes, is developed. We demonstrate the utility of the developed algorithm in the optimization of the single-state molecular geometry of acrolein, benzyne, benzene, the retinal chromophore psb3, the gfp chromophore phbi, and porphine, with the cc-pvtz basis sets. The sc-nevpt2 analytical gradients exhibit numerical instability due to the lack of invariance with respect to the rotations among the inactive orbitals. On the other hand, pc-nevpt2 gives molecular geometries comparable to caspt2 in any tested cases. We discuss possible future developments that will make the nevpt2 gradient algorithm a powerful tool for optimizing the molecular geometries and conducting molecular dynamics simulations of correlated systems.

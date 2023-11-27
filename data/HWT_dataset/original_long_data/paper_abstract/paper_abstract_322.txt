@@ -1,15 +1,1 @@
-As the deployment of low carbon transportation technologies, specifically
-electric vehicles (EVs), is increasing, the concept of their eco-driving is
-gaining significant attention. Contrary to the eco-driving techniques used in
-conventional internal combustion engine vehicles that do not have the
-capability of regenerative braking, this paper proposes a genetic algorithm
-(GA)-based eco-driving technique for EVs considering regenerative braking. In
-the proposed approach, the optimal or near-optimal combination of variables in
-the driving cycle of EVs is searched using GA. The proposed approach starts by
-generating an initial population of chromosomes, where all variables under
-consideration are encoded in each chromosome. This population of chromosomes is
-passed through crossover, mutation, and elitist-based selection over a certain
-number of generations, which results in a driving cycle with the least energy
-consumption. The proposed method is verified using two case studies. The
-results of the case studies show the capability of the proposed method in
-computing the minimum energy driving cycle.
+As the deployment of low carbon transportation technologies, specifically electric vehicles (evs), is increasing, the concept of their eco-driving is gaining significant attention. Contrary to the eco-driving techniques used in conventional internal combustion engine vehicles that do not have the capability of regenerative braking, this paper proposes a genetic algorithm (ga)-based eco-driving technique for evs considering regenerative braking. In the proposed approach, the optimal or near-optimal combination of variables in the driving cycle of evs is searched using ga. The proposed approach starts by generating an initial population of chromosomes, where all variables under consideration are encoded in each chromosome. This population of chromosomes is passed through crossover, mutation, and elitist-based selection over a certain number of generations, which results in a driving cycle with the least energy consumption. The proposed method is verified using two case studies. The results of the case studies show the capability of the proposed method in computing the minimum energy driving cycle.

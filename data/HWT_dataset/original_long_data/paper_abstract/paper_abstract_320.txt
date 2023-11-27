@@ -1,12 +1,1 @@
-We revisit the scenario of a massive spin-2 particle as the mediator for
-communicating between dark matter of arbitrary spin and the Standard Model.
-Taking the general couplings of the spin-2 particle in the effective theory, we
-discuss the thermal production mechanisms for dark matter with various channels
-and the dark matter self-scattering. For WIMP and light dark matter cases, we
-impose the relic density condition and various experimental constraints from
-direct and indirect detections, precision measurements as well as collider
-experiments. We show that it is important to include the annihilation of dark
-matter into a pair of spin-2 particles in both allowed and forbidden regimes,
-thus opening up the consistent parameter space for dark matter. The benchmark
-models of the spin-2 mediator are presented in the context of the warped extra
-dimension and compared to the simplified models.
+We revisit the scenario of a massive spin-2 particle as the mediator for communicating between dark matter of arbitrary spin and the standard model. Taking the general couplings of the spin-2 particle in the effective theory, we discuss the thermal production mechanisms for dark matter with various channels and the dark matter self-scattering. For wimp and light dark matter cases, we impose the relic density condition and various experimental constraints from direct and indirect detections, precision measurements as well as collider experiments. We show that it is important to include the annihilation of dark matter into a pair of spin-2 particles in both allowed and forbidden regimes, thus opening up the consistent parameter space for dark matter. The benchmark models of the spin-2 mediator are presented in the context of the warped extra dimension and compared to the simplified models.

@@ -1,12 +1,1 @@
-We consider gauge/gravity correspondence for general Dp-branes with $0\le
-p\le 4$, namely, the duality between the (p+1)-dimensional maximally
-supersymmetric Yang-Mills theory and superstring theory on the near-horizon
-limit of the Dp-brane solution. It has been known that in the large N gauge
-theory at zero temperature and strong 't Hooft coupling, the two-point
-functions of operators corresponding to supergravity modes obey power-law, with
-a power different from the free-field value when $p\neq 3$. In this work, we
-show that the free-field result of gauge theory can be reproduced from the bulk
-string theory, for the two-point function of an operator Tr(Z^J), where Z is a
-complex combination of two scalar fields. We assume the spatial direction of
-worldsheet is discretized into J bits, and use the fact that these bits become
-independent particles when string tension is zero.
+We consider gauge/gravity correspondence for general dp-branes with $0\le p\le 4$, namely, the duality between the (p+1)-dimensional maximally supersymmetric yang-mills theory and superstring theory on the near-horizon limit of the dp-brane solution. It has been known that in the large n gauge theory at zero temperature and strong 't hooft coupling, the two-point functions of operators corresponding to supergravity modes obey power-law, with a power different from the free-field value when $p\neq 3$. In this work, we show that the free-field result of gauge theory can be reproduced from the bulk string theory, for the two-point function of an operator tr(z^j), where z is a complex combination of two scalar fields. We assume the spatial direction of worldsheet is discretized into j bits, and use the fact that these bits become independent particles when string tension is zero.

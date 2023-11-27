@@ -1,13 +1,1 @@
-Within General Relativity, the unique stationary solution of an isolated
-black hole is the Kerr spacetime, which has a peculiar multipolar structure
-depending only on its mass and spin. We develop a general method to extract the
-multipole moments of arbitrary stationary spacetimes and apply it to a large
-family of horizonless microstate geometries. The latter can break the axial and
-equatorial symmetry of the Kerr metric and have a much richer multipolar
-structure, which provides a portal to constrain fuzzball models
-phenomenologically. We find numerical evidence that all multipole moments are
-typically larger (in absolute value) than those of a Kerr black hole with the
-same mass and spin. Current measurements of the quadrupole moment of black-hole
-candidates could place only mild constraints on fuzzballs, while future
-gravitational-wave detections of extreme mass-ratio inspirals with the space
-mission LISA will improve these bounds by orders of magnitude.
+Within general relativity, the unique stationary solution of an isolated black hole is the kerr spacetime, which has a peculiar multipolar structure depending only on its mass and spin. We develop a general method to extract the multipole moments of arbitrary stationary spacetimes and apply it to a large family of horizonless microstate geometries. The latter can break the axial and equatorial symmetry of the kerr metric and have a much richer multipolar structure, which provides a portal to constrain fuzzball models phenomenologically. We find numerical evidence that all multipole moments are typically larger (in absolute value) than those of a kerr black hole with the same mass and spin. Current measurements of the quadrupole moment of black-hole candidates could place only mild constraints on fuzzballs, while future gravitational-wave detections of extreme mass-ratio inspirals with the space mission lisa will improve these bounds by orders of magnitude.

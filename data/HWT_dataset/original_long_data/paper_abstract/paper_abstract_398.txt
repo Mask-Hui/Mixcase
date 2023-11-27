@@ -1,14 +1,1 @@
-Time has a fundamentally different character in quantum mechanics and in
-general relativity. In quantum theory events unfold in a fixed time order while
-in general relativity temporal order is influenced by the distribution of
-matter. When the distribution of matter requires a quantum description,
-temporal order is expected to become non-classical -- a scenario beyond the
-scope of current theories. Here we provide a direct description of such a
-scenario. We consider a massive body in a spatial superposition and show how it
-leads to "entanglement" of temporal orders between time-like events in the
-resulting space-time. This entanglement enables accomplishing a task, violation
-of a Bell inequality, that is impossible under classical temporal order.
-Violation of the inequality means that temporal order becomes non-classical --
-it cannot be described by locally defined classical variables. Our approach
-provides a quantitative method for investigating quantum aspects of space-time
-and gravity.
+Time has a fundamentally different character in quantum mechanics and in general relativity. In quantum theory events unfold in a fixed time order while in general relativity temporal order is influenced by the distribution of matter. When the distribution of matter requires a quantum description, temporal order is expected to become non-classical -- a scenario beyond the scope of current theories. Here we provide a direct description of such a scenario. We consider a massive body in a spatial superposition and show how it leads to "entanglement" of temporal orders between time-like events in the resulting space-time. This entanglement enables accomplishing a task, violation of a bell inequality, that is impossible under classical temporal order. Violation of the inequality means that temporal order becomes non-classical -- it cannot be described by locally defined classical variables. Our approach provides a quantitative method for investigating quantum aspects of space-time and gravity.

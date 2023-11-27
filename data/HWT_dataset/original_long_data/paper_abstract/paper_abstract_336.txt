@@ -1,18 +1,1 @@
-The Einstein-Podolsky-Rosen (EPR) paradox is one of the milestones in quantum
-foundations, arising from the lack of local realistic description of quantum
-mechanics. The EPR paradox has stimulated an important concept of "quantum
-nonlocality", which manifests itself by three different types: quantum
-entanglement, quantum steering, and Bell nonlocality. Although Bell nonlocality
-is more often used to show the "quantum nonlocality", the original EPR paradox
-is essentially a steering paradox. In this work, we formulate the original EPR
-steering paradox into a contradiction equality,thus making it amenable to an
-experimental verification. We perform an experimental test of the steering
-paradox in a two-qubit scenario. Furthermore, by starting from the steering
-paradox, we generate a generalized linear steering inequality and transform
-this inequality into a mathematically equivalent form, which is more friendly
-for experimental implementation, i.e., one may only measure the observables in
-$x$-, $y$-, or $z$-axis of the Bloch sphere, rather than other arbitrary
-directions. We also perform experiments to demonstrate this scheme. Within the
-experimental errors, the experimental results coincide with the theoretical
-predictions. Our results deepen the understanding of quantum foundations and
-provide an efficient way to detect the steerability of quantum states.
+The einstein-podolsky-rosen (epr) paradox is one of the milestones in quantum foundations, arising from the lack of local realistic description of quantum mechanics. The epr paradox has stimulated an important concept of "quantum nonlocality", which manifests itself by three different types: quantum entanglement, quantum steering, and bell nonlocality. Although bell nonlocality is more often used to show the "quantum nonlocality", the original epr paradox is essentially a steering paradox. In this work, we formulate the original epr steering paradox into a contradiction equality,thus making it amenable to an experimental verification. We perform an experimental test of the steering paradox in a two-qubit scenario. Furthermore, by starting from the steering paradox, we generate a generalized linear steering inequality and transform this inequality into a mathematically equivalent form, which is more friendly for experimental implementation, i.e., one may only measure the observables in $x$-, $y$-, or $z$-axis of the bloch sphere, rather than other arbitrary directions. We also perform experiments to demonstrate this scheme. Within the experimental errors, the experimental results coincide with the theoretical predictions. Our results deepen the understanding of quantum foundations and provide an efficient way to detect the steerability of quantum states.

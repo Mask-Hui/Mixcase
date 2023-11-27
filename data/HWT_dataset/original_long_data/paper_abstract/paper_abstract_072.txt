@@ -1,15 +1,1 @@
-The misalignment mechanism allows for the efficient, and usually very cold,
-production of light scalar bosons, such as axion-like particles (ALPs), making
-them an appealing dark matter candidate. However, in certain cases, such as in
-the presence of a monodromy, the self-interactions of ALPs can be sufficiently
-strong such that the homogeneous field fragments soon after the onset of
-oscillations. The resulting large inhomogeneities can lead to the production of
-gravitational waves (GWs). We investigate the nonlinear dynamics of
-fragmentation, as well as of the subsequent turbulent regime, and calculate the
-stochastic GW background that is produced from this process. The GW background
-can be enhanced if the time evolution features an extended intermediate phase
-of ultrarelativistic dynamics due to a small mass at the bottom of the
-potential. Yet, this enhancement is limited by the requirement that the dark
-matter remains sufficiently cold. In some cases the resulting GWs may be within
-reach of future GW detectors, allowing a complementary probe of this type of
-dark matter.
+The misalignment mechanism allows for the efficient, and usually very cold, production of light scalar bosons, such as axion-like particles (alps), making them an appealing dark matter candidate. However, in certain cases, such as in the presence of a monodromy, the self-interactions of alps can be sufficiently strong such that the homogeneous field fragments soon after the onset of oscillations. The resulting large inhomogeneities can lead to the production of gravitational waves (gws). We investigate the nonlinear dynamics of fragmentation, as well as of the subsequent turbulent regime, and calculate the stochastic gw background that is produced from this process. The gw background can be enhanced if the time evolution features an extended intermediate phase of ultrarelativistic dynamics due to a small mass at the bottom of the potential. Yet, this enhancement is limited by the requirement that the dark matter remains sufficiently cold. In some cases the resulting gws may be within reach of future gw detectors, allowing a complementary probe of this type of dark matter.

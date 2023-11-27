@@ -1,17 +1,1 @@
-We present a new method to obtain more realistic initial conditions for
-N-body simulations of young star clusters. We start from the outputs of
-hydrodynamical simulations of molecular cloud collapse, in which star formation
-is modelled with sink particles. In our approach, we instantaneously remove gas
-from these hydrodynamical simulation outputs to mock the end of the
-gas-embedded phase, induced by stellar feedback. We then enforce a realistic
-initial mass function by splitting or joining the sink particles based on their
-mass and position. Such initial conditions contain more consistent information
-on the spatial distribution and the kinematical and dynamical states of young
-star clusters, which are fundamental to properly study these systems. For
-example, by applying our method to a set of previously run hydrodynamical
-simulations, we found that the early evolution of young star clusters is
-affected by gas removal and by the early dry merging of sub-structures. This
-early evolution can either quickly erase the rotation acquired by our
-(sub-)clusters in their embedded phase or "fuel" it by feeding of angular
-momentum by sub-structure mergers, before two-body relaxation acts on longer
-timescales.
+We present a new method to obtain more realistic initial conditions for n-body simulations of young star clusters. We start from the outputs of hydrodynamical simulations of molecular cloud collapse, in which star formation is modelled with sink particles. In our approach, we instantaneously remove gas from these hydrodynamical simulation outputs to mock the end of the gas-embedded phase, induced by stellar feedback. We then enforce a realistic initial mass function by splitting or joining the sink particles based on their mass and position. Such initial conditions contain more consistent information on the spatial distribution and the kinematical and dynamical states of young star clusters, which are fundamental to properly study these systems. For example, by applying our method to a set of previously run hydrodynamical simulations, we found that the early evolution of young star clusters is affected by gas removal and by the early dry merging of sub-structures. This early evolution can either quickly erase the rotation acquired by our (sub-)clusters in their embedded phase or "fuel" it by feeding of angular momentum by sub-structure mergers, before two-body relaxation acts on longer timescales.

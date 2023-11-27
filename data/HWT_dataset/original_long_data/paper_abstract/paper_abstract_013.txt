@@ -1,12 +1,1 @@
-Quantum logic gates with many control qubits are essential in many quantum
-algorithms, but remain challenging to perform in current experiments. Trapped
-ion quantum computers natively feature a different type of entangling
-operation, namely the Molmer-Sorensen (MS) gate which effectively applies an
-Ising interaction to all qubits at the same time. We consider a sequence of
-equal all-to-all MS operations, interleaved with single qubit gates that act
-only on one special qubit. Using a connection with quantum signal processing
-techniques, we find that it is possible to perform an arbitray SU(2) rotation
-on the special qubit if and only if all other qubits are in the state |1>. Such
-controlled rotation gates with N-1 control qubits require 2N applications of
-the MS gate, and can be mapped to a conventional Toffoli gate by demoting a
-single qubit to ancilla.
+Quantum logic gates with many control qubits are essential in many quantum algorithms, but remain challenging to perform in current experiments. Trapped ion quantum computers natively feature a different type of entangling operation, namely the molmer-sorensen (ms) gate which effectively applies an ising interaction to all qubits at the same time. We consider a sequence of equal all-to-all ms operations, interleaved with single qubit gates that act only on one special qubit. Using a connection with quantum signal processing techniques, we find that it is possible to perform an arbitray su(2) rotation on the special qubit if and only if all other qubits are in the state |1>. Such controlled rotation gates with n-1 control qubits require 2n applications of the ms gate, and can be mapped to a conventional toffoli gate by demoting a single qubit to ancilla.

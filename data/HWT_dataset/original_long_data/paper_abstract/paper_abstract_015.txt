@@ -1,11 +1,1 @@
-We address the effect of orientation of the accretion disk plane and the
-geometry of the broad-line region (BLR) in the context of understanding the
-distribution of quasars along their Main Sequence. We utilize the
-photoionization code CLOUDY to model the BLR, incorporating the `un-constant'
-virial factor. We show the preliminary results of the analysis to highlight the
-co-dependence of the Eigenvector 1 parameter, $\mathrm{R_{FeII}}$ on the broad
-H$\beta$ FWHM (i.e. the line dispersion) and the inclination angle ($\theta$),
-assuming fixed values for the Eddington ratio
-($\mathrm{L_{bol}}/\mathrm{L_{Edd}}$), black hole mass ($\mathrm{M_{BH}}$),
-spectral energy distribution (SED) shape, cloud density (n$\rm{_{H}}$) and
-composition.
+We address the effect of orientation of the accretion disk plane and the geometry of the broad-line region (blr) in the context of understanding the distribution of quasars along their main sequence. We utilize the photoionization code cloudy to model the blr, incorporating the `un-constant' virial factor. We show the preliminary results of the analysis to highlight the co-dependence of the eigenvector 1 parameter, $\mathrm{r_{feii}}$ on the broad h$\beta$ fwhm (i.e. The line dispersion) and the inclination angle ($\theta$), assuming fixed values for the eddington ratio ($\mathrm{l_{bol}}/\mathrm{l_{edd}}$), black hole mass ($\mathrm{m_{bh}}$), spectral energy distribution (sed) shape, cloud density (n$\rm{_{h}}$) and composition.

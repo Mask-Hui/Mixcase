@@ -1,17 +1,1 @@
-We revisit the Casimir effect perceived by two surfaces in the presence of
-infrared (IR) transparency. To address this problem, we study a model, where
-such a phenomenon naturally arises: the DGP model with two parallel 3-branes,
-each endowed with a localized curvature term. In that model, the UV modes of
-the 5-dimensional graviton are suppressed on the branes, while the IR modes can
-penetrate them freely. First, we find that the DGP branes act as "effective"
-(momentum-dependent) boundary conditions for the gravitational field, so that
-the (gravitational) Casimir force between them emerges. Second, we discover
-that the presence of an IR transparency region for the discrete modes modifies
-the standard Casimir force -- as derived for ideal Dirichlet boundary
-conditions -- in two competing ways: i) The exclusion of soft modes from the
-discrete spectrum leads to an increase of the Casimir force. ii) The non-ideal
-nature of the boundary conditions gives rise to a "leakage" of hard modes. As a
-result of i) and ii), the Casimir force becomes weaker. Since the derivation of
-this result involves only the localized kinetic terms of a quantum field on
-parallel surfaces (with codimension one), the derived Casimir force is expected
-to be present in a variety of setups in arbitrary dimensions.
+We revisit the casimir effect perceived by two surfaces in the presence of infrared (ir) transparency. To address this problem, we study a model, where such a phenomenon naturally arises: the dgp model with two parallel 3-branes, each endowed with a localized curvature term. In that model, the uv modes of the 5-dimensional graviton are suppressed on the branes, while the ir modes can penetrate them freely. First, we find that the dgp branes act as "effective" (momentum-dependent) boundary conditions for the gravitational field, so that the (gravitational) casimir force between them emerges. Second, we discover that the presence of an ir transparency region for the discrete modes modifies the standard casimir force -- as derived for ideal dirichlet boundary conditions -- in two competing ways: i) the exclusion of soft modes from the discrete spectrum leads to an increase of the casimir force. Ii) the non-ideal nature of the boundary conditions gives rise to a "leakage" of hard modes. As a result of i) and ii), the casimir force becomes weaker. Since the derivation of this result involves only the localized kinetic terms of a quantum field on parallel surfaces (with codimension one), the derived casimir force is expected to be present in a variety of setups in arbitrary dimensions.

@@ -1,18 +1,1 @@
-In this paper we investigate the problem of automatically naming pieces of
-assembly code. Where by naming we mean assigning to an assembly function a
-string of words that would likely be assigned by a human reverse engineer. We
-formally and precisely define the framework in which our investigation takes
-place. That is we define the problem, we provide reasonable justifications for
-the choices that we made for the design of training and the tests. We performed
-an analysis on a large real-world corpora constituted by nearly 9 millions of
-functions taken from more than 22k softwares. In such framework we test
-baselines coming from the field of Natural Language Processing (e.g., Seq2Seq
-networks and Transformer). Interestingly, our evaluation shows promising
-results beating the state-of-the-art and reaching good performance. We
-investigate the applicability of tine-tuning (i.e., taking a model already
-trained on a large generic corpora and retraining it for a specific task). Such
-technique is popular and well-known in the NLP field. Our results confirm that
-fine-tuning is effective even when neural networks are applied to binaries. We
-show that a model, pre-trained on the aforementioned corpora, when fine-tuned
-has higher performances on specific domains (such as predicting names in system
-utilites, malware, etc).
+In this paper we investigate the problem of automatically naming pieces of assembly code. Where by naming we mean assigning to an assembly function a string of words that would likely be assigned by a human reverse engineer. We formally and precisely define the framework in which our investigation takes place. That is we define the problem, we provide reasonable justifications for the choices that we made for the design of training and the tests. We performed an analysis on a large real-world corpora constituted by nearly 9 millions of functions taken from more than 22k softwares. In such framework we test baselines coming from the field of natural language processing (e.g., seq2seq networks and transformer). Interestingly, our evaluation shows promising results beating the state-of-the-art and reaching good performance. We investigate the applicability of tine-tuning (i.e., taking a model already trained on a large generic corpora and retraining it for a specific task). Such technique is popular and well-known in the nlp field. Our results confirm that fine-tuning is effective even when neural networks are applied to binaries. We show that a model, pre-trained on the aforementioned corpora, when fine-tuned has higher performances on specific domains (such as predicting names in system utilites, malware, etc).

@@ -1,16 +1,1 @@
-We investigate the theoretical predictions for thrust distribution in the
-electron positron annihilation to three-jets process at NNLO for different
-values of the number of flavors, $N_f$. To determine the distribution along the
-entire renormalization group flow from the highest energies to zero energy we
-consider the number of flavors near the upper boundary of the conformal window.
-In this regime of number of flavors the theory develops a perturbative infrared
-interacting fixed point. We then consider also the QED thrust obtained as the
-limit $N_c \rightarrow 0$ of the number of colors. In this case the low energy
-limit is governed by an infrared free theory. Using these quantum field
-theories limits as theoretical laboratories we arrive at an interesting
-comparison between the Conventional Scale Setting - (CSS) and the Principle of
-Maximum Conformality (PMC$_\infty$) methods. We show that within the
-perturbative regime of the conformal window the two methods yield similar
-results while reducing the number of flavors towards the active number of
-flavors in the Standard Model the PMC$_\infty$ method is the natural extension
-of the curves within the conformal window and best fits the data.
+We investigate the theoretical predictions for thrust distribution in the electron positron annihilation to three-jets process at nnlo for different values of the number of flavors, $n_f$. To determine the distribution along the entire renormalization group flow from the highest energies to zero energy we consider the number of flavors near the upper boundary of the conformal window. In this regime of number of flavors the theory develops a perturbative infrared interacting fixed point. We then consider also the qed thrust obtained as the limit $n_c \rightarrow 0$ of the number of colors. In this case the low energy limit is governed by an infrared free theory. Using these quantum field theories limits as theoretical laboratories we arrive at an interesting comparison between the conventional scale setting - (css) and the principle of maximum conformality (pmc$_\infty$) methods. We show that within the perturbative regime of the conformal window the two methods yield similar results while reducing the number of flavors towards the active number of flavors in the standard model the pmc$_\infty$ method is the natural extension of the curves within the conformal window and best fits the data.

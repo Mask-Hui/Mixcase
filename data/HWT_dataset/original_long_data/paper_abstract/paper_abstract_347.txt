@@ -1,13 +1,1 @@
-With Denmark dedicated to maintaining its leading position in the integration
-of massive shares of wind energy, the construction of new offshore energy
-islands has been recently approved by the Danish government. These new islands
-will be zero-inertia systems, meaning that no synchronous generation will be
-installed in the island and that power imbalances will be shared only among
-converters. To this end, this paper proposes a methodology to calculate and
-update the frequency droops gains of the offshore converters in compliance with
-the N-1 security criterion in case of converter outage. The frequency droop
-gains are calculated solving an optimization problem which takes into
-consideration the power limitations of the converters as well as the stability
-of the system. As a consequence, the proposed controller ensures safe operation
-of off-shore systems in the event of any power imbalance and allows for greater
-loadability at pre-fault state, as confirmed by the simulation results.
+With denmark dedicated to maintaining its leading position in the integration of massive shares of wind energy, the construction of new offshore energy islands has been recently approved by the danish government. These new islands will be zero-inertia systems, meaning that no synchronous generation will be installed in the island and that power imbalances will be shared only among converters. To this end, this paper proposes a methodology to calculate and update the frequency droops gains of the offshore converters in compliance with the n-1 security criterion in case of converter outage. The frequency droop gains are calculated solving an optimization problem which takes into consideration the power limitations of the converters as well as the stability of the system. As a consequence, the proposed controller ensures safe operation of off-shore systems in the event of any power imbalance and allows for greater loadability at pre-fault state, as confirmed by the simulation results.

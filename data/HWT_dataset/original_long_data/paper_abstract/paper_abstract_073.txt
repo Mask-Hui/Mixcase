@@ -1,13 +1,1 @@
-Unobserved spatial confounding variables are prevalent in environmental and
-ecological applications where the system under study is complex and the data
-are often observational. Instrumental variables (IVs) are a common way to
-address unobserved confounding; however, the efficacy of using IVs on spatial
-confounding is largely unknown. This paper explores the effectiveness of IVs in
-this situation -- with particular attention paid to the spatial scale of the
-instrument. We show that, in case of spatially-dependent treatments, IVs are
-most effective when they vary at a finer spatial resolution than the treatment.
-We investigate IV performance in extensive simulations and apply the model in
-the example of long term trends in the air pollution and cardiovascular
-mortality in the United States over 1990-2010. Finally, the IV approach is also
-extended to the spatial interference setting, in which treatments can affect
-nearby responses.
+Unobserved spatial confounding variables are prevalent in environmental and ecological applications where the system under study is complex and the data are often observational. Instrumental variables (ivs) are a common way to address unobserved confounding; however, the efficacy of using ivs on spatial confounding is largely unknown. This paper explores the effectiveness of ivs in this situation -- with particular attention paid to the spatial scale of the instrument. We show that, in case of spatially-dependent treatments, ivs are most effective when they vary at a finer spatial resolution than the treatment. We investigate iv performance in extensive simulations and apply the model in the example of long term trends in the air pollution and cardiovascular mortality in the united states over 1990-2010. Finally, the iv approach is also extended to the spatial interference setting, in which treatments can affect nearby responses.

@@ -1,7 +1,1 @@
-We perform explorative analyses of the 3D gluon content of the proton via a
-study of (un)polarized twist-2 gluon TMDs, calculated in a spectator model for
-the parent nucleon. Our approach encodes a flexible parametrization for the
-spectator-mass density, suited to describe both moderate and small-$x$ effects.
-All these prospective developments are relevant in the investigation of the
-gluon dynamics inside nucleons and nuclei, which constitutes one of the major
-goals of new-generation colliding machines, as the EIC, the HL-LHC and NICA.
+We perform explorative analyses of the 3d gluon content of the proton via a study of (un)polarized twist-2 gluon tmds, calculated in a spectator model for the parent nucleon. Our approach encodes a flexible parametrization for the spectator-mass density, suited to describe both moderate and small-$x$ effects. All these prospective developments are relevant in the investigation of the gluon dynamics inside nucleons and nuclei, which constitutes one of the major goals of new-generation colliding machines, as the eic, the hl-lhc and nica.

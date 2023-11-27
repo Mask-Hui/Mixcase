@@ -1,16 +1,1 @@
-We consider zero temperature packings of soft spheres, that undergo a jamming
-to unjamming transition as a function of packing fraction. We compare
-differences in the structure, as measured from the contact statistics, of a
-finite subsystem of a large packing to a whole packing with periodic boundaries
-of an equivalent size and pressure. We find that the fluctuations of the
-ensemble of whole packings are smaller than those of the ensemble of
-subsystems. Convergence of these two quantities appears to occur at very large
-systems, which are usually not attainable in numerical simulations. Finding
-differences between packings in two dimensions and three dimensions, we also
-consider four dimensions and mean-field models, and find that they show similar
-system size dependence. Mean-field critical exponents appear to be consistent
-with the 3d and 4d packings, suggesting they are above the upper critical
-dimension. We also find that the convergence as a function of system size to
-the thermodynamic limit is characterized by two different length scales. We
-argue that this is the result of the system being above the upper critical
-dimension.
+We consider zero temperature packings of soft spheres, that undergo a jamming to unjamming transition as a function of packing fraction. We compare differences in the structure, as measured from the contact statistics, of a finite subsystem of a large packing to a whole packing with periodic boundaries of an equivalent size and pressure. We find that the fluctuations of the ensemble of whole packings are smaller than those of the ensemble of subsystems. Convergence of these two quantities appears to occur at very large systems, which are usually not attainable in numerical simulations. Finding differences between packings in two dimensions and three dimensions, we also consider four dimensions and mean-field models, and find that they show similar system size dependence. Mean-field critical exponents appear to be consistent with the 3d and 4d packings, suggesting they are above the upper critical dimension. We also find that the convergence as a function of system size to the thermodynamic limit is characterized by two different length scales. We argue that this is the result of the system being above the upper critical dimension.

@@ -1,12 +1,1 @@
-We present a new training scheme for streaming automatic speech recognition
-(ASR) based on recurrent neural network transducers (RNN-T) which allows the
-encoder network to benefit from longer audio streams as input, while only
-requiring partial transcriptions of such streams during training. We show that
-this extension of the acoustic context during training and inference can lead
-to word error rate reductions of more than 6% in a realistic production
-setting. We investigate its effect on acoustically challenging data containing
-background speech and present data points which indicate that this approach
-helps the network learn both speaker and environment adaptation. Finally, we
-visualize RNN-T loss gradients with respect to the input features in order to
-illustrate the ability of a long short-term memory (LSTM) based ASR encoder to
-exploit long-term context.
+We present a new training scheme for streaming automatic speech recognition (asr) based on recurrent neural network transducers (rnn-t) which allows the encoder network to benefit from longer audio streams as input, while only requiring partial transcriptions of such streams during training. We show that this extension of the acoustic context during training and inference can lead to word error rate reductions of more than 6% in a realistic production setting. We investigate its effect on acoustically challenging data containing background speech and present data points which indicate that this approach helps the network learn both speaker and environment adaptation. Finally, we visualize rnn-t loss gradients with respect to the input features in order to illustrate the ability of a long short-term memory (lstm) based asr encoder to exploit long-term context.

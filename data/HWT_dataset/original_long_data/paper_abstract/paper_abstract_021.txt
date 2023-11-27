@@ -1,12 +1,1 @@
-Let $f\colon Y \to X$ be a proper flat morphism of locally noetherian
-schemes. Then, the locus in $X$ over which $f$ is smooth is stable under
-generization. We prove that under suitable assumptions on the formal fibers of
-$X$, the same property holds for other local properties of morphisms, even if
-$f$ is only closed and flat. Our proof of this statement reduces to a purely
-local question known as Grothendieck's localization problem. To answer
-Grothendieck's problem, we provide a general framework that gives a uniform
-treatment of previously known cases of this problem, and also solves this
-problem in new cases, namely for weak normality, seminormality, rational
-singularities, $F$-rationality, and the property "Cohen-Macaulay and
-$F$-injective." For the weak normality statement, we prove that weak normality
-always lifts from Cartier divisors.
+Let $f\colon y \to x$ be a proper flat morphism of locally noetherian schemes. Then, the locus in $x$ over which $f$ is smooth is stable under generization. We prove that under suitable assumptions on the formal fibers of $x$, the same property holds for other local properties of morphisms, even if $f$ is only closed and flat. Our proof of this statement reduces to a purely local question known as grothendieck's localization problem. To answer grothendieck's problem, we provide a general framework that gives a uniform treatment of previously known cases of this problem, and also solves this problem in new cases, namely for weak normality, seminormality, rational singularities, $f$-rationality, and the property "cohen-macaulay and $f$-injective." for the weak normality statement, we prove that weak normality always lifts from cartier divisors.

@@ -1,15 +1,1 @@
-The probabilistic nature of single-photon sources and photon-photon
-interactions encourages encoding as much quantum information as possible in
-every photon for the purpose of photonic quantum information processing. Here,
-by encoding high-dimensional units of information (qudits) in time and
-frequency degrees of freedom using on-chip sources, we report deterministic
-two-qudit gates in a single photon with fidelities exceeding 0.90 in the
-computational basis. Constructing a two-qudit modulo SUM gate, we generate and
-measure a single-photon state with non-separability between time and frequency
-qudits. We then employ this SUM operation on two frequency-bin entangled
-photons, each carrying two 32-dimensional qudits, to realize a four-party
-high-dimensional Greenberger-Horne-Zeilinger state, occupying a Hilbert space
-equivalent to that of 20 qubits. Although high-dimensional coding alone is
-ultimately not scalable for universal quantum computing, our design shows the
-potential of deterministic optical quantum operations in large encoding spaces
-for practical and compact quantum information processing protocols.
+The probabilistic nature of single-photon sources and photon-photon interactions encourages encoding as much quantum information as possible in every photon for the purpose of photonic quantum information processing. Here, by encoding high-dimensional units of information (qudits) in time and frequency degrees of freedom using on-chip sources, we report deterministic two-qudit gates in a single photon with fidelities exceeding 0.90 in the computational basis. Constructing a two-qudit modulo sum gate, we generate and measure a single-photon state with non-separability between time and frequency qudits. We then employ this sum operation on two frequency-bin entangled photons, each carrying two 32-dimensional qudits, to realize a four-party high-dimensional greenberger-horne-zeilinger state, occupying a hilbert space equivalent to that of 20 qubits. Although high-dimensional coding alone is ultimately not scalable for universal quantum computing, our design shows the potential of deterministic optical quantum operations in large encoding spaces for practical and compact quantum information processing protocols.

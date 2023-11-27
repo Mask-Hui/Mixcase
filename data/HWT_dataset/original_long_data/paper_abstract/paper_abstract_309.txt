@@ -1,15 +1,1 @@
-Numerical simulations have revealed a new type of turbulence of
-unidirectional waves in a plasma that is perpendicularly structured (Magyar et
-al. 2017), named uniturbulence. For this new type of turbulence, the transverse
-structuring modifies the upward propagating wave to have both Elsasser
-variables, leading to the well-known perpendicular cascade. In this paper, we
-study an analytical description of the non-linear evolution of kink waves in a
-cylindrical flux tube, which are prone to uniturbulence. We show that they lead
-to a non-linear cascade for both propagating and standing waves. We calculate
-explicit expressions for the wave pressure and energy cascade rate. The
-computed damping rate {\tau}/P depends on the density contrast of the flux tube
-and the background plasma and is inversely proportional to the amplitude of the
-kink wave. The dependence on the density contrast shows that it plays a role
-especially in the lower solar corona. These expressions may be added in Alfven
-wave driven models of the solar atmosphere (such as AWSOM, van der Holst et al.
-2014), modifying it to UAWSOM (Uniturbulence and Alfven Wave Solar Model).
+Numerical simulations have revealed a new type of turbulence of unidirectional waves in a plasma that is perpendicularly structured (magyar et al. 2017), named uniturbulence. For this new type of turbulence, the transverse structuring modifies the upward propagating wave to have both elsasser variables, leading to the well-known perpendicular cascade. In this paper, we study an analytical description of the non-linear evolution of kink waves in a cylindrical flux tube, which are prone to uniturbulence. We show that they lead to a non-linear cascade for both propagating and standing waves. We calculate explicit expressions for the wave pressure and energy cascade rate. The computed damping rate {\tau}/p depends on the density contrast of the flux tube and the background plasma and is inversely proportional to the amplitude of the kink wave. The dependence on the density contrast shows that it plays a role especially in the lower solar corona. These expressions may be added in alfven wave driven models of the solar atmosphere (such as awsom, van der holst et al. 2014), modifying it to uawsom (uniturbulence and alfven wave solar model).

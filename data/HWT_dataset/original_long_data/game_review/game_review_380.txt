@@ -1,1 +1,1 @@
-anyone having start up issues? I got a i3 6110, Evga nvidia 960 2gb and 8gb ram. When launches works fine, but I belive the recent nvidia update has affected the game. Although it starts up fine on my 2nd gen i5 2450m laptop with 4gb ram and intel 3000 graphics
+Anyone having start up issues? i got a i3 6110, evga nvidia 960 2gb and 8gb ram. When launches works fine, but i belive the recent nvidia update has affected the game. Although it starts up fine on my 2nd gen i5 2450m laptop with 4gb ram and intel 3000 graphics

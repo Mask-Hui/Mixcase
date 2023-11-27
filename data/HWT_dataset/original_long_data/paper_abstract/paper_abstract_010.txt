@@ -1,14 +1,1 @@
-Deep learning typically requires large data sets and much compute power for
-each new problem that is learned. Meta-learning can be used to learn a good
-prior that facilitates quick learning, thereby relaxing these requirements so
-that new tasks can be learned quicker; two popular approaches are MAML and the
-meta-learner LSTM. In this work, we compare the two and formally show that the
-meta-learner LSTM subsumes MAML. Combining this insight with recent empirical
-findings, we construct a new algorithm (dubbed TURTLE) which is simpler than
-the meta-learner LSTM yet more expressive than MAML. TURTLE outperforms both
-techniques at few-shot sine wave regression and image classification on
-miniImageNet and CUB without any additional hyperparameter tuning, at a
-computational cost that is comparable with second-order MAML. The key to
-TURTLE's success lies in the use of second-order gradients, which also
-significantly increases the performance of the meta-learner LSTM by 1-6%
-accuracy.
+Deep learning typically requires large data sets and much compute power for each new problem that is learned. Meta-learning can be used to learn a good prior that facilitates quick learning, thereby relaxing these requirements so that new tasks can be learned quicker; two popular approaches are maml and the meta-learner lstm. In this work, we compare the two and formally show that the meta-learner lstm subsumes maml. Combining this insight with recent empirical findings, we construct a new algorithm (dubbed turtle) which is simpler than the meta-learner lstm yet more expressive than maml. Turtle outperforms both techniques at few-shot sine wave regression and image classification on miniimagenet and cub without any additional hyperparameter tuning, at a computational cost that is comparable with second-order maml. The key to turtle's success lies in the use of second-order gradients, which also significantly increases the performance of the meta-learner lstm by 1-6% accuracy.

@@ -1,11 +1,1 @@
-In the quark sector, Jarlskog rephasing invariant $\rm{J_{CP}}$ has important
-implications for the CP violation as well as phase structure of the quark mass
-matrices. In fact all CP violating effects in this sector are proportional to
-the magnitude of the imaginary part of $\rm{J_{CP}}$.
-  With the observation of non-zero and relatively large reactor mixing angle
-$\theta_{13}$, it is widely believed that CP might be violated in the lepton
-sector. The recent global best fits of neutrino oscillation indicates the
-preference of CP violation over CP conservation at relatively large confidence
-level. These experimental observations warrant to re-investigate the CP-odd
-weak basis invariants at low energies, and also explore their implications for
-CP violation in the context of texture two zero neutrino mass matrix.
+In the quark sector, jarlskog rephasing invariant $\rm{j_{cp}}$ has important implications for the cp violation as well as phase structure of the quark mass matrices. In fact all cp violating effects in this sector are proportional to the magnitude of the imaginary part of $\rm{j_{cp}}$. With the observation of non-zero and relatively large reactor mixing angle $\theta_{13}$, it is widely believed that cp might be violated in the lepton sector. The recent global best fits of neutrino oscillation indicates the preference of cp violation over cp conservation at relatively large confidence level. These experimental observations warrant to re-investigate the cp-odd weak basis invariants at low energies, and also explore their implications for cp violation in the context of texture two zero neutrino mass matrix.

@@ -1,16 +1,1 @@
-In this chapter we review our work on the theory of quantum transport in
-topological insulator nanowires. We discuss both normal state properties and
-superconducting proximity effects, including the effects of magnetic fields and
-disorder. Throughout we assume that the bulk is insulating and inert, and work
-with a surface-only theory. The essential transport properties are understood
-in terms of three special modes: in the normal state, half a flux quantum along
-the length of the wire induces a perfectly transmitted mode protected by an
-effective time reversal symmetry; a transverse magnetic field induces chiral
-modes at the sides of the wire, with different chiralities residing on
-different sides protecting them from backscattering; and, finally, Majorana
-zero modes are obtained at the ends of a wire in a proximity to a
-superconductor, when combined with a flux along the wire. Some parts of our
-discussion have a small overlap with the discussion in the review [Bardarson
-and Moore, Rep. Prog. Phys., 76, 056501, (2013)]. We do not aim to give a
-complete review of the published literature, instead the focus is mainly on our
-own and directly related work.
+In this chapter we review our work on the theory of quantum transport in topological insulator nanowires. We discuss both normal state properties and superconducting proximity effects, including the effects of magnetic fields and disorder. Throughout we assume that the bulk is insulating and inert, and work with a surface-only theory. The essential transport properties are understood in terms of three special modes: in the normal state, half a flux quantum along the length of the wire induces a perfectly transmitted mode protected by an effective time reversal symmetry; a transverse magnetic field induces chiral modes at the sides of the wire, with different chiralities residing on different sides protecting them from backscattering; and, finally, majorana zero modes are obtained at the ends of a wire in a proximity to a superconductor, when combined with a flux along the wire. Some parts of our discussion have a small overlap with the discussion in the review [bardarson and moore, rep. Prog. Phys., 76, 056501, (2013)]. We do not aim to give a complete review of the published literature, instead the focus is mainly on our own and directly related work.

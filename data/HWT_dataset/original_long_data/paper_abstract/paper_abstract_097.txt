@@ -1,8 +1,1 @@
-A gauge-invariant mass term for nonabelian gauge fields in two dimensions can
-be expressed as the Wess-Zumino-Witten (WZW) action. Hard thermal loops in the
-gauge theory in four dimensions at finite temperatures generate a screening
-mass for some components of the gauge field. This can be expressed in terms of
-the WZW action using the bundle of complex structures (for Euclidean signature)
-or the bundle of lightcones over Minkowski space. We show that a dynamically
-generated mass term in three dimensions can be put within the same general
-framework using using the bundle of Sasakian structures.
+A gauge-invariant mass term for nonabelian gauge fields in two dimensions can be expressed as the wess-zumino-witten (wzw) action. Hard thermal loops in the gauge theory in four dimensions at finite temperatures generate a screening mass for some components of the gauge field. This can be expressed in terms of the wzw action using the bundle of complex structures (for euclidean signature) or the bundle of lightcones over minkowski space. We show that a dynamically generated mass term in three dimensions can be put within the same general framework using using the bundle of sasakian structures.

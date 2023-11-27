@@ -1,14 +1,1 @@
-We present the theory of many-body corrections to cyclotron transition
-energies in graphene in strong magnetic field due to Coulomb interaction,
-considered in terms of the renormalized Fermi velocity. A particular emphasis
-is made on the recent experiments where detailed dependencies of this velocity
-on the Landau level filling factor for individual transitions were measured.
-Taking into account the many-body exchange, excitonic corrections and
-interaction screening in the static random-phase approximation, we successfully
-explained the main features of the experimental data, in particular that the
-Fermi velocities have plateaus when the 0th Landau level is partially filled
-and rapidly decrease at higher carrier densities due to enhancement of the
-screening. We also explained the features of the nonmonotonous filling-factor
-dependence of the Fermi velocity observed in the earlier cyclotron resonance
-experiment with disordered graphene by taking into account the disorder-induced
-Landau level broadening.
+We present the theory of many-body corrections to cyclotron transition energies in graphene in strong magnetic field due to coulomb interaction, considered in terms of the renormalized fermi velocity. A particular emphasis is made on the recent experiments where detailed dependencies of this velocity on the landau level filling factor for individual transitions were measured. Taking into account the many-body exchange, excitonic corrections and interaction screening in the static random-phase approximation, we successfully explained the main features of the experimental data, in particular that the fermi velocities have plateaus when the 0th landau level is partially filled and rapidly decrease at higher carrier densities due to enhancement of the screening. We also explained the features of the nonmonotonous filling-factor dependence of the fermi velocity observed in the earlier cyclotron resonance experiment with disordered graphene by taking into account the disorder-induced landau level broadening.

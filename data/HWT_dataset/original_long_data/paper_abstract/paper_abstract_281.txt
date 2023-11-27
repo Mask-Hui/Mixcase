@@ -1,14 +1,1 @@
-Two-dimensional (2D) materials family with its many members and different
-properties has recently drawn great attention. Thanks to their atomic thickness
-and smooth surface, 2D materials can be constructed into heterostructures or
-homostructures in the fashion of out-of-plane perpendicular stacking or
-in-plane lateral stitching, resulting in unexpected physical and chemical
-properties and applications in many areas. In particular, 2D
-metal-semiconductor heterostructures or homostructures (MSHSs) which integrate
-2D metals and 2D semiconductors, have shown great promise in future integrated
-electronics and energy-related applications. In this review, MSHSs with
-different structures and dimensionalities are first introduced, followed by
-several ways to prepare them. Their applications in electronics and
-optoelectronics, energy storage and conversion, and their use as platforms to
-exploit new physics are then discussed. Finally, we give our perspectives about
-the challenges and future research directions in this emerging field.
+Two-dimensional (2d) materials family with its many members and different properties has recently drawn great attention. Thanks to their atomic thickness and smooth surface, 2d materials can be constructed into heterostructures or homostructures in the fashion of out-of-plane perpendicular stacking or in-plane lateral stitching, resulting in unexpected physical and chemical properties and applications in many areas. In particular, 2d metal-semiconductor heterostructures or homostructures (mshss) which integrate 2d metals and 2d semiconductors, have shown great promise in future integrated electronics and energy-related applications. In this review, mshss with different structures and dimensionalities are first introduced, followed by several ways to prepare them. Their applications in electronics and optoelectronics, energy storage and conversion, and their use as platforms to exploit new physics are then discussed. Finally, we give our perspectives about the challenges and future research directions in this emerging field.

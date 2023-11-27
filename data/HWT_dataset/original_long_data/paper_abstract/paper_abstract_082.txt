@@ -1,9 +1,1 @@
-We study the dynamics of the Peccei-Quinn (PQ) phase transition for the QCD
-axion. In weakly coupled models the transition is typically second order except
-in the region of parameters where the PQ symmetry is broken through the
-Coleman-Weinberg mechanism. In strongly coupled realizations the transition is
-often first order. We show examples where the phase transition leads to strong
-supercooling lowering the nucleation temperature and enhancing the stochastic
-gravitational wave signals. The models predict a frequency peak in the range
-100-1000 Hz with an amplitude that is already within the sensitivity of LIGO
-and can be thoroughly tested with future gravitational wave interferometers.
+We study the dynamics of the peccei-quinn (pq) phase transition for the qcd axion. In weakly coupled models the transition is typically second order except in the region of parameters where the pq symmetry is broken through the coleman-weinberg mechanism. In strongly coupled realizations the transition is often first order. We show examples where the phase transition leads to strong supercooling lowering the nucleation temperature and enhancing the stochastic gravitational wave signals. The models predict a frequency peak in the range 100-1000 hz with an amplitude that is already within the sensitivity of ligo and can be thoroughly tested with future gravitational wave interferometers.

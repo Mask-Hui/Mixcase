@@ -1,9 +1,1 @@
-At leading order, the $S$-matrices in QED and gravity are known to factorise,
-providing unambiguous determinations of the parts divergent due to infrared
-contributions. The soft $S$-matrices defined in this fashion are shown to be
-defined entirely in terms of $2$ dimensional models on the celestial sphere,
-involving two real scalar fields, allowing us to express the soft $S$-matrices
-for real as well as virtual divergences as two dimensional correlation
-functions. We discuss what this means for finding holographic representations
-of scattering amplitudes in QED and gravity and comment on simple double copy
-structures that arise during the analysis.
+At leading order, the $s$-matrices in qed and gravity are known to factorise, providing unambiguous determinations of the parts divergent due to infrared contributions. The soft $s$-matrices defined in this fashion are shown to be defined entirely in terms of $2$ dimensional models on the celestial sphere, involving two real scalar fields, allowing us to express the soft $s$-matrices for real as well as virtual divergences as two dimensional correlation functions. We discuss what this means for finding holographic representations of scattering amplitudes in qed and gravity and comment on simple double copy structures that arise during the analysis.

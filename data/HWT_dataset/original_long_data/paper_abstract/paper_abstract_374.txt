@@ -1,16 +1,1 @@
-Density-based clustering relies on the idea of linking groups to some
-specific features of the probability distribution underlying the data. The
-reference to a true, yet unknown, population structure allows to frame the
-clustering problem in a standard inferential setting, where the concept of
-ideal population clustering is defined as the partition induced by the true
-density function. The nonparametric formulation of this approach, known as
-modal clustering, draws a correspondence between the groups and the domains of
-attraction of the density modes. Operationally, a nonparametric density
-estimate is required and a proper selection of the amount of smoothing,
-governing the shape of the density and hence possibly the modal structure, is
-crucial to identify the final partition. In this work, we address the issue of
-density estimation for modal clustering from an asymptotic perspective. A
-natural and easy to interpret metric to measure the distance between
-density-based partitions is discussed, its asymptotic approximation explored,
-and employed to study the problem of bandwidth selection for nonparametric
-modal clustering.
+Density-based clustering relies on the idea of linking groups to some specific features of the probability distribution underlying the data. The reference to a true, yet unknown, population structure allows to frame the clustering problem in a standard inferential setting, where the concept of ideal population clustering is defined as the partition induced by the true density function. The nonparametric formulation of this approach, known as modal clustering, draws a correspondence between the groups and the domains of attraction of the density modes. Operationally, a nonparametric density estimate is required and a proper selection of the amount of smoothing, governing the shape of the density and hence possibly the modal structure, is crucial to identify the final partition. In this work, we address the issue of density estimation for modal clustering from an asymptotic perspective. A natural and easy to interpret metric to measure the distance between density-based partitions is discussed, its asymptotic approximation explored, and employed to study the problem of bandwidth selection for nonparametric modal clustering.

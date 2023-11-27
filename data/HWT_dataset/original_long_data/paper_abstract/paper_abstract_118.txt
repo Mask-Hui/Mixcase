@@ -1,14 +1,1 @@
-The second law of thermodynamics is a useful and universal tool to derive the
-generalizations of the Fourier's law. In many cases, only linear relations are
-considered between the thermodynamic fluxes and forces, i.e., the conduction
-coefficients are independent of the temperature. In the present paper, we
-investigate a particular nonlinearity in which the thermal conductivity depends
-on the temperature linearly. Also, that assumption is extended to the
-relaxation time, which appears in the hyperbolic generalization of Fourier's
-law, namely the Maxwell-Cattaneo-Vernotte (MCV) equation. Although such
-nonlinearity in the Fourier heat equation is well-known in the literature, its
-extension onto the MCV equation is rarely applied. Since these nonlinearities
-have significance from an experimental point of view, an efficient way is
-needed to solve the system of partial differential equations. In the following,
-we present a numerical method that is first developed for linear generalized
-heat equations. The related stability conditions are also discussed.
+The second law of thermodynamics is a useful and universal tool to derive the generalizations of the fourier's law. In many cases, only linear relations are considered between the thermodynamic fluxes and forces, i.e., the conduction coefficients are independent of the temperature. In the present paper, we investigate a particular nonlinearity in which the thermal conductivity depends on the temperature linearly. Also, that assumption is extended to the relaxation time, which appears in the hyperbolic generalization of fourier's law, namely the maxwell-cattaneo-vernotte (mcv) equation. Although such nonlinearity in the fourier heat equation is well-known in the literature, its extension onto the mcv equation is rarely applied. Since these nonlinearities have significance from an experimental point of view, an efficient way is needed to solve the system of partial differential equations. In the following, we present a numerical method that is first developed for linear generalized heat equations. The related stability conditions are also discussed.

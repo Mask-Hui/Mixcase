@@ -1,17 +1,1 @@
-Objective:Optoacoustic (photoacoustic) tomography is aimed at reconstructing
-maps of the initial pressure rise induced by the absorption of light pulses in
-tissue. In practice, due to inaccurate assumptions in the forward model, noise
-and other experimental factors, the images are often afflicted by artifacts,
-occasionally manifested as negative values. The aim of the work is to develop
-an inversion method which reduces the occurrence of negative values and
-improves the quantitative performance of optoacoustic imaging. Methods: We
-present a novel method for optoacoustic tomography based on an entropy
-maximization algorithm, which uses logarithmic regularization for attaining
-non-negative reconstructions. The reconstruction image quality is further
-improved using structural prior based fluence correction. Results: We report
-the performance achieved by the entropy maximization scheme on numerical
-simulation, experimental phantoms and in-vivo samples. Conclusion: The proposed
-algorithm demonstrates superior reconstruction performance by delivering
-non-negative pixel values with no visible distortion of anatomical structures.
-Significance: Our method can enable quantitative optoacoustic imaging, and has
-the potential to improve pre-clinical and translational imaging applications.
+Objective:optoacoustic (photoacoustic) tomography is aimed at reconstructing maps of the initial pressure rise induced by the absorption of light pulses in tissue. In practice, due to inaccurate assumptions in the forward model, noise and other experimental factors, the images are often afflicted by artifacts, occasionally manifested as negative values. The aim of the work is to develop an inversion method which reduces the occurrence of negative values and improves the quantitative performance of optoacoustic imaging. Methods: we present a novel method for optoacoustic tomography based on an entropy maximization algorithm, which uses logarithmic regularization for attaining non-negative reconstructions. The reconstruction image quality is further improved using structural prior based fluence correction. Results: we report the performance achieved by the entropy maximization scheme on numerical simulation, experimental phantoms and in-vivo samples. Conclusion: the proposed algorithm demonstrates superior reconstruction performance by delivering non-negative pixel values with no visible distortion of anatomical structures. Significance: our method can enable quantitative optoacoustic imaging, and has the potential to improve pre-clinical and translational imaging applications.

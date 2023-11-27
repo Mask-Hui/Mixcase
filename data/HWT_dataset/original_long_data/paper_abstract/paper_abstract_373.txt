@@ -1,12 +1,1 @@
-Gauge coupling unification in the Supersymmetric Standard Models strongly
-implies the Grand Unified Theories (GUTs). With the grand desert hypothesis, we
-show that the supersymmetric GUTs can be probed at the future proton-proton
-(pp) colliders and Hyper-Kamiokande experiment. For the GUTs with the GUT scale
-$M_{GUT} \le 1.0\times 10^{16}$ GeV, we can probe the dimension-six proton
-decay via heavy gauge boson exchange at the Hyper-Kamiokande experiment.
-Moreover, for the GUTs with $M_{GUT} \ge 1.0\times 10^{16}$ GeV, we for the
-first time study the upper bounds on the gaugino and sfermion masses. We show
-that the GUTs with anomaly and gauge mediated supersymmetry breakings are well
-within the reaches of the future 100 TeV pp colliders such as the ${\rm
-FCC}_{\rm hh}$ and SppC, and the supersymmetric GUTs with gravity mediated
-supersymmetry breaking can be probed at the future 160 TeV pp collider.
+Gauge coupling unification in the supersymmetric standard models strongly implies the grand unified theories (guts). With the grand desert hypothesis, we show that the supersymmetric guts can be probed at the future proton-proton (pp) colliders and hyper-kamiokande experiment. For the guts with the gut scale $m_{gut} \le 1.0\times 10^{16}$ gev, we can probe the dimension-six proton decay via heavy gauge boson exchange at the hyper-kamiokande experiment. Moreover, for the guts with $m_{gut} \ge 1.0\times 10^{16}$ gev, we for the first time study the upper bounds on the gaugino and sfermion masses. We show that the guts with anomaly and gauge mediated supersymmetry breakings are well within the reaches of the future 100 tev pp colliders such as the ${\rm fcc}_{\rm hh}$ and sppc, and the supersymmetric guts with gravity mediated supersymmetry breaking can be probed at the future 160 tev pp collider.

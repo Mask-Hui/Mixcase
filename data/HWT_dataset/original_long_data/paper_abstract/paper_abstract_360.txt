@@ -1,10 +1,1 @@
-We consider the latency minimization problem in a task-offloading scenario,
-where multiple servers are available to the user equipment for outsourcing
-computational tasks. To account for the temporally dynamic nature of the
-wireless links and the availability of the computing resources, we model the
-server selection as a multi-armed bandit (MAB) problem. In the considered MAB
-framework, rewards are characterized in terms of the end-to-end latency. We
-propose a novel online learning algorithm based on the principle of optimism in
-the face of uncertainty, which outperforms the state-of-the-art algorithms by
-up to ~1s. Our results highlight the significance of heavily discounting the
-past rewards in dynamic environments.
+We consider the latency minimization problem in a task-offloading scenario, where multiple servers are available to the user equipment for outsourcing computational tasks. To account for the temporally dynamic nature of the wireless links and the availability of the computing resources, we model the server selection as a multi-armed bandit (mab) problem. In the considered mab framework, rewards are characterized in terms of the end-to-end latency. We propose a novel online learning algorithm based on the principle of optimism in the face of uncertainty, which outperforms the state-of-the-art algorithms by up to ~1s. Our results highlight the significance of heavily discounting the past rewards in dynamic environments.

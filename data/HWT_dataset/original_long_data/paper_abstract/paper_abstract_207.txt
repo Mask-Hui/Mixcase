@@ -1,11 +1,1 @@
-We study the transport properties and superconducting proximity effect in NSN
-junctions formed by a time-reversal symmetry broken Weyl semimetal (WSM) in
-proximity to an $s$-wave superconductor. We find that the differential
-conductance and induced pairing amplitudes strongly depend on the angle between
-the junction direction in real space and the axis separating the Weyl nodes in
-momentum space. We identify the influence of a chiral chemical potential, i.e.,
-the electron population imbalance between Weyl nodes of opposite chirality, on
-the transport characteristics of the junction. Remarkably, we observe a net
-spin polarization of Cooper pairs that are generated via Andreev reflection in
-the two WSM regions. The spin polarization is opposite in the two WSM regions
-and highly sensitive to the chirality imbalance and excitation energy.
+We study the transport properties and superconducting proximity effect in nsn junctions formed by a time-reversal symmetry broken weyl semimetal (wsm) in proximity to an $s$-wave superconductor. We find that the differential conductance and induced pairing amplitudes strongly depend on the angle between the junction direction in real space and the axis separating the weyl nodes in momentum space. We identify the influence of a chiral chemical potential, i.e., the electron population imbalance between weyl nodes of opposite chirality, on the transport characteristics of the junction. Remarkably, we observe a net spin polarization of cooper pairs that are generated via andreev reflection in the two wsm regions. The spin polarization is opposite in the two wsm regions and highly sensitive to the chirality imbalance and excitation energy.

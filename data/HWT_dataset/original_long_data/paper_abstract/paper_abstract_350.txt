@@ -1,17 +1,1 @@
-This paper presents HoughNet, a one-stage, anchor-free, voting-based,
-bottom-up object detection method. Inspired by the Generalized Hough Transform,
-HoughNet determines the presence of an object at a certain location by the sum
-of the votes cast on that location. Votes are collected from both near and
-long-distance locations based on a log-polar vote field. Thanks to this voting
-mechanism, HoughNet is able to integrate both near and long-range,
-class-conditional evidence for visual recognition, thereby generalizing and
-enhancing current object detection methodology, which typically relies on only
-local evidence. On the COCO dataset, HoughNet's best model achieves $46.4$ $AP$
-(and $65.1$ $AP_{50}$), performing on par with the state-of-the-art in
-bottom-up object detection and outperforming most major one-stage and two-stage
-methods. We further validate the effectiveness of our proposal in other visual
-detection tasks, namely, video object detection, instance segmentation, 3D
-object detection and keypoint detection for human pose estimation, and an
-additional ``labels to photo`` image generation task, where the integration of
-our voting module consistently improves performance in all cases. Code is
-available at \url{https://github.com/nerminsamet/houghnet}.
+This paper presents houghnet, a one-stage, anchor-free, voting-based, bottom-up object detection method. Inspired by the generalized hough transform, houghnet determines the presence of an object at a certain location by the sum of the votes cast on that location. Votes are collected from both near and long-distance locations based on a log-polar vote field. Thanks to this voting mechanism, houghnet is able to integrate both near and long-range, class-conditional evidence for visual recognition, thereby generalizing and enhancing current object detection methodology, which typically relies on only local evidence. On the coco dataset, houghnet's best model achieves $46.4$ $ap$ (and $65.1$ $ap_{50}$), performing on par with the state-of-the-art in bottom-up object detection and outperforming most major one-stage and two-stage methods. We further validate the effectiveness of our proposal in other visual detection tasks, namely, video object detection, instance segmentation, 3d object detection and keypoint detection for human pose estimation, and an additional ``labels to photo`` image generation task, where the integration of our voting module consistently improves performance in all cases. Code is available at \url{https://github.com/nerminsamet/houghnet}.

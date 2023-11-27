@@ -1,17 +1,1 @@
-In Bayesian inference, predictive distributions are typically in the form of
-samples generated via Markov chain Monte Carlo (MCMC) or related algorithms. In
-this paper, we conduct a systematic analysis of how to make and evaluate
-probabilistic forecasts from such simulation output. Based on proper scoring
-rules, we develop a notion of consistency that allows to assess the adequacy of
-methods for estimating the stationary distribution underlying the simulation
-output. We then provide asymptotic results that account for the salient
-features of Bayesian posterior simulators, and derive conditions under which
-choices from the literature satisfy our notion of consistency. Importantly,
-these conditions depend on the scoring rule being used, such that the choices
-of approximation method and scoring rule are intertwined. While the logarithmic
-rule requires fairly stringent conditions, the continuous ranked probability
-score (CRPS) yields consistent approximations under minimal assumptions. These
-results are illustrated in a simulation study and an economic data example.
-Overall, mixture-of-parameters approximations which exploit the parametric
-structure of Bayesian models perform particularly well. Under the CRPS, the
-empirical distribution function is a simple and appealing alternative option.
+In bayesian inference, predictive distributions are typically in the form of samples generated via markov chain monte carlo (mcmc) or related algorithms. In this paper, we conduct a systematic analysis of how to make and evaluate probabilistic forecasts from such simulation output. Based on proper scoring rules, we develop a notion of consistency that allows to assess the adequacy of methods for estimating the stationary distribution underlying the simulation output. We then provide asymptotic results that account for the salient features of bayesian posterior simulators, and derive conditions under which choices from the literature satisfy our notion of consistency. Importantly, these conditions depend on the scoring rule being used, such that the choices of approximation method and scoring rule are intertwined. While the logarithmic rule requires fairly stringent conditions, the continuous ranked probability score (crps) yields consistent approximations under minimal assumptions. These results are illustrated in a simulation study and an economic data example. Overall, mixture-of-parameters approximations which exploit the parametric structure of bayesian models perform particularly well. Under the crps, the empirical distribution function is a simple and appealing alternative option.

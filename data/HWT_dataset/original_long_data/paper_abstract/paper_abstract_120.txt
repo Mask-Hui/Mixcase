@@ -1,15 +1,1 @@
-When a new user just signs up on a website, we usually have no information
-about him/her, i.e. no interaction with items, no user profile and no social
-links with other users. Under such circumstances, we still expect our
-recommender systems could attract the users at the first time so that the users
-decide to stay on the website and become active users. This problem falls into
-new user cold-start category and it is crucial to the development and even
-survival of a company. Existing works on user cold-start recommendation either
-require additional user efforts, e.g. setting up an interview process, or make
-use of side information [10] such as user demographics, locations, social
-relations, etc. However, users may not be willing to take the interview and
-side information on cold-start users is usually not available. Therefore, we
-consider a pure cold-start scenario where neither interaction nor side
-information is available and no user effort is required. Studying this setting
-is also important for the initialization of other cold-start solutions, such as
-initializing the first few questions of an interview.
+When a new user just signs up on a website, we usually have no information about him/her, i.e. No interaction with items, no user profile and no social links with other users. Under such circumstances, we still expect our recommender systems could attract the users at the first time so that the users decide to stay on the website and become active users. This problem falls into new user cold-start category and it is crucial to the development and even survival of a company. Existing works on user cold-start recommendation either require additional user efforts, e.g. Setting up an interview process, or make use of side information [10] such as user demographics, locations, social relations, etc. However, users may not be willing to take the interview and side information on cold-start users is usually not available. Therefore, we consider a pure cold-start scenario where neither interaction nor side information is available and no user effort is required. Studying this setting is also important for the initialization of other cold-start solutions, such as initializing the first few questions of an interview.

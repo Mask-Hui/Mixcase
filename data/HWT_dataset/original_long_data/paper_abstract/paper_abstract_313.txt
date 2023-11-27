@@ -1,14 +1,1 @@
-We aim to investigate the infrared regime in the effective theory of the new
-quadratic gauge in the physical compact space by defining it on 4-sphere.
-Abelian dominance is characterized by off-diagonal gluons acquiring dynamical
-masses and it hints at existence of confinement. We do observe Abelian
-dominance in the ghost condensed vacuum of this theory on 4-sphere. Along with
-this observation, we find an unusual result that mass of an off-diagonal gluon
-on 4-sphere is position dependent in this theory as a consequence of the curved
-geometry. This suggests that the curvature of 4-sphere does not change the
-infrared behaviour of present theory on 4-sphere from that of the theory with
-quadratic gauge in Euclidean spacetime as Abelian dominance is observed in
-Euclidean spacetime too while it has caused mass of an off-diagonal gluon on
-4-sphere to be position dependent. The effective action in the confined phase
-on 4-sphere and that in the 4-dim Euclidean space are found to be identical in
-a profound outcome.
+We aim to investigate the infrared regime in the effective theory of the new quadratic gauge in the physical compact space by defining it on 4-sphere. Abelian dominance is characterized by off-diagonal gluons acquiring dynamical masses and it hints at existence of confinement. We do observe abelian dominance in the ghost condensed vacuum of this theory on 4-sphere. Along with this observation, we find an unusual result that mass of an off-diagonal gluon on 4-sphere is position dependent in this theory as a consequence of the curved geometry. This suggests that the curvature of 4-sphere does not change the infrared behaviour of present theory on 4-sphere from that of the theory with quadratic gauge in euclidean spacetime as abelian dominance is observed in euclidean spacetime too while it has caused mass of an off-diagonal gluon on 4-sphere to be position dependent. The effective action in the confined phase on 4-sphere and that in the 4-dim euclidean space are found to be identical in a profound outcome.

@@ -1,11 +1,1 @@
-In any natural science, measurements are the essential link between theory
-and observable reality. Is it possible to obtain accurate and relevant
-information via measurement whose action on the probed system is unknown? In
-other words, can one be convinced to know something about the nature without
-knowing in detail how the information was obtained? In this paper, we show that
-the answer is surprisingly, yes. We construct and experimentally implement a
-quantum optical probing measurement where measurements on the probes, the
-photons' polarization states, are used to extract information on the systems,
-the frequency spectra of the same photons. Unlike the pre-existing probing
-protocols, our measurement does not require any knowledge of the interaction
-between the probe and the system.
+In any natural science, measurements are the essential link between theory and observable reality. Is it possible to obtain accurate and relevant information via measurement whose action on the probed system is unknown? in other words, can one be convinced to know something about the nature without knowing in detail how the information was obtained? in this paper, we show that the answer is surprisingly, yes. We construct and experimentally implement a quantum optical probing measurement where measurements on the probes, the photons' polarization states, are used to extract information on the systems, the frequency spectra of the same photons. Unlike the pre-existing probing protocols, our measurement does not require any knowledge of the interaction between the probe and the system.

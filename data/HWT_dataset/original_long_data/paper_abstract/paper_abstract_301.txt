@@ -1,10 +1,1 @@
-This work considers the problem of control and resource scheduling in
-networked systems. We present DIRA, a Deep reinforcement learning based
-Iterative Resource Allocation algorithm, which is scalable and control-aware.
-Our algorithm is tailored towards large-scale problems where control and
-scheduling need to act jointly to optimize performance. DIRA can be used to
-schedule general time-domain optimization based controllers. In the present
-work, we focus on control designs based on suitably adapted linear quadratic
-regulators. We apply our algorithm to networked systems with correlated fading
-communication channels. Our simulations show that DIRA scales well to large
-scheduling problems.
+This work considers the problem of control and resource scheduling in networked systems. We present dira, a deep reinforcement learning based iterative resource allocation algorithm, which is scalable and control-aware. Our algorithm is tailored towards large-scale problems where control and scheduling need to act jointly to optimize performance. Dira can be used to schedule general time-domain optimization based controllers. In the present work, we focus on control designs based on suitably adapted linear quadratic regulators. We apply our algorithm to networked systems with correlated fading communication channels. Our simulations show that dira scales well to large scheduling problems.

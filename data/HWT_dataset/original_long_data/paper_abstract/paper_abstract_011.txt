@@ -1,15 +1,1 @@
-The pileup of planets at periods of roughly one year and beyond is actually a
-bimodal peak with a wide, sharp gap splitting the peak of the pileup in a major
-population of large planets. Consisting of nearly 40\% of planets with periods
-past 200 days, the periods of the planets of metal-rich stars like the sun in
-surface gravity which do not have a stellar companion show two strong peaks
-separated by a sparsely populated region. Monte Carlo tests show that this
-structure is unlikely to occur in random distributions, and a comparison with
-objects from all the other populations show that this feature is unlikely to be
-due to observational effects. The peaks have their highest density next to the
-gap. These two peaks are most strongly seen in single-planet systems, though
-the gap persists in multiple planet systems. These features are likely
-characteristic of planets with masses not too much lower than Jupiter, and
-perhaps not too much higher. The presence of well-defined features in the
-period distribution show that planet formation may be much more uniform than
-previously expected.
+The pileup of planets at periods of roughly one year and beyond is actually a bimodal peak with a wide, sharp gap splitting the peak of the pileup in a major population of large planets. Consisting of nearly 40\% of planets with periods past 200 days, the periods of the planets of metal-rich stars like the sun in surface gravity which do not have a stellar companion show two strong peaks separated by a sparsely populated region. Monte carlo tests show that this structure is unlikely to occur in random distributions, and a comparison with objects from all the other populations show that this feature is unlikely to be due to observational effects. The peaks have their highest density next to the gap. These two peaks are most strongly seen in single-planet systems, though the gap persists in multiple planet systems. These features are likely characteristic of planets with masses not too much lower than jupiter, and perhaps not too much higher. The presence of well-defined features in the period distribution show that planet formation may be much more uniform than previously expected.

@@ -1,18 +1,1 @@
-What is the dimension of spacetime? We address this question in the context
-of the AdS/CFT Correspondence. We give a prescription for computing the number
-of large bulk dimensions, $D$, from strongly-coupled CFT$_d$ data, where
-"large" means parametrically of order the AdS scale. The idea is that unitarity
-of 1-loop AdS amplitudes, dual to non-planar CFT correlators, fixes $D$ in
-terms of tree-level data. We make this observation rigorous by deriving a
-positive-definite sum rule for the 1-loop double-discontinuity in the flat
-space/bulk-point limit. This enables us to prove an array of AdS/CFT folklore,
-and to infer new properties of large $N$ CFTs at strong coupling that ensure
-consistency of emergent large extra dimensions with string/M-theory. We
-discover an OPE universality at the string scale: to leading order in large
-$N$, heavy-heavy-light three-point functions, with heavy operators that are
-parametrically lighter than a power of $N$, are linear in the heavy conformal
-dimension. We explore its consequences for supersymmetric CFTs and explain how
-emergent large extra dimensions relate to a Sublattice Weak Gravity Conjecture
-for CFTs. Lastly, we conjecture, building on a claim of arXiv:0908.0756, that
-any CFT with large higher-spin gap and no global symmetries has a holographic
-hierarchy: $D=d+1$
+What is the dimension of spacetime? we address this question in the context of the ads/cft correspondence. We give a prescription for computing the number of large bulk dimensions, $d$, from strongly-coupled cft$_d$ data, where "large" means parametrically of order the ads scale. The idea is that unitarity of 1-loop ads amplitudes, dual to non-planar cft correlators, fixes $d$ in terms of tree-level data. We make this observation rigorous by deriving a positive-definite sum rule for the 1-loop double-discontinuity in the flat space/bulk-point limit. This enables us to prove an array of ads/cft folklore, and to infer new properties of large $n$ cfts at strong coupling that ensure consistency of emergent large extra dimensions with string/m-theory. We discover an ope universality at the string scale: to leading order in large $n$, heavy-heavy-light three-point functions, with heavy operators that are parametrically lighter than a power of $n$, are linear in the heavy conformal dimension. We explore its consequences for supersymmetric cfts and explain how emergent large extra dimensions relate to a sublattice weak gravity conjecture for cfts. Lastly, we conjecture, building on a claim of arxiv:0908.0756, that any cft with large higher-spin gap and no global symmetries has a holographic hierarchy: $d=d+1$

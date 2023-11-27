@@ -1,17 +1,1 @@
-In the past, the study of the divergence structure of the holographic
-entanglement entropy on singular boundary regions uncovered cut-off independent
-coefficients. These coefficients were shown to be universal and to encode
-important field theory data. Inspired by these lessons we study the UV
-divergences of subregion complexity-action (CA) in a region with corner (kink).
-We develop a systematic approach to study all the divergence structures, and we
-emphasize that the counter term that restores reparameterization invariance on
-the null boundaries plays a crucial role in simplifying the results and
-rendering them more transparent. We find that a general form of subregion CA
-contains a part dependent on the null generator normalizations and a part that
-is independent of them. The former includes a volume contribution as well as an
-area contribution. We comment on the origin of the area term as entanglement
-entropy, and point out that its presence constitutes a robust difference
-between the two prescriptions to calculate subregion complexity (-action v.s.
--volume). We also find universal $\log\delta$ divergence associated with the
-kink feature of the subregion. Similar flat angle limit as the subregion-CV
-result is obtained.
+In the past, the study of the divergence structure of the holographic entanglement entropy on singular boundary regions uncovered cut-off independent coefficients. These coefficients were shown to be universal and to encode important field theory data. Inspired by these lessons we study the uv divergences of subregion complexity-action (ca) in a region with corner (kink). We develop a systematic approach to study all the divergence structures, and we emphasize that the counter term that restores reparameterization invariance on the null boundaries plays a crucial role in simplifying the results and rendering them more transparent. We find that a general form of subregion ca contains a part dependent on the null generator normalizations and a part that is independent of them. The former includes a volume contribution as well as an area contribution. We comment on the origin of the area term as entanglement entropy, and point out that its presence constitutes a robust difference between the two prescriptions to calculate subregion complexity (-action v.s. -volume). We also find universal $\log\delta$ divergence associated with the kink feature of the subregion. Similar flat angle limit as the subregion-cv result is obtained.

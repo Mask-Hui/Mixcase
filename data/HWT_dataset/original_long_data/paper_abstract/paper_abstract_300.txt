@@ -1,16 +1,1 @@
-We present the first results from a study of TESS Sector 1 and 2 light curves
-for eight evolved massive stars in the LMC: six yellow supergiants (YSGs) and
-two luminous blue variables (LBVs), including S Doradus. We use an iterative
-prewhitening procedure to characterize the short-timescale variability in all
-eight stars. The periodogram of one of the YSGs, HD 269953, displays multiple
-strong peaks at higher frequencies than its fellows. While the field
-surrounding HD 269953 is quite crowded, it is the brightest star in the region,
-and has infrared colors indicating it is dusty. We suggest HD 269953 may be in
-a post-red supergiant evolutionary phase. We find a signal with a period of
-$\sim5$ days for the LBV HD 269582. The periodogram of S Doradus shows a
-complicated structure, with peaks below frequencies of 1.5 cycles per day. We
-fit the shape of the background noise of all eight light curves, and find a red
-noise component in all of them. However, the power law slope of the red noise
-and the timescale over which coherent structures arise changes from star to
-star. Our results highlight the potential for studying evolved massive stars
-with TESS.
+We present the first results from a study of tess sector 1 and 2 light curves for eight evolved massive stars in the lmc: six yellow supergiants (ysgs) and two luminous blue variables (lbvs), including s doradus. We use an iterative prewhitening procedure to characterize the short-timescale variability in all eight stars. The periodogram of one of the ysgs, hd 269953, displays multiple strong peaks at higher frequencies than its fellows. While the field surrounding hd 269953 is quite crowded, it is the brightest star in the region, and has infrared colors indicating it is dusty. We suggest hd 269953 may be in a post-red supergiant evolutionary phase. We find a signal with a period of $\sim5$ days for the lbv hd 269582. The periodogram of s doradus shows a complicated structure, with peaks below frequencies of 1.5 cycles per day. We fit the shape of the background noise of all eight light curves, and find a red noise component in all of them. However, the power law slope of the red noise and the timescale over which coherent structures arise changes from star to star. Our results highlight the potential for studying evolved massive stars with tess.

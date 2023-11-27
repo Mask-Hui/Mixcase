@@ -1,18 +1,1 @@
-The increasing integration of world economies, which organize in complex
-multilayer networks of interactions, is one of the critical factors for the
-global propagation of economic crises. We adopt the network science approach to
-quantify shock propagation on the global trade-investment multiplex network. To
-this aim, we propose a model that couples a Susceptible-Infected-Recovered
-epidemic spreading dynamics, describing how economic distress propagates
-between connected countries, with an internal contagion mechanism, describing
-the spreading of such economic distress within a given country. At the local
-level, we find that the interplay between trade and financial interactions
-influences the vulnerabilities of countries to shocks. At the large scale, we
-find a simple linear relation between the relative magnitude of a shock in a
-country and its global impact on the whole economic system, albeit the strength
-of internal contagion is country-dependent and the intercountry propagation
-dynamics is non-linear. Interestingly, this systemic impact can be predicted on
-the basis of intra-layer and inter-layer scale factors that we name network
-multipliers, that are independent of the magnitude of the initial shock. Our
-model sets-up a quantitative framework to stress-test the robustness of
-individual countries and of the world economy to propagating crashes.
+The increasing integration of world economies, which organize in complex multilayer networks of interactions, is one of the critical factors for the global propagation of economic crises. We adopt the network science approach to quantify shock propagation on the global trade-investment multiplex network. To this aim, we propose a model that couples a susceptible-infected-recovered epidemic spreading dynamics, describing how economic distress propagates between connected countries, with an internal contagion mechanism, describing the spreading of such economic distress within a given country. At the local level, we find that the interplay between trade and financial interactions influences the vulnerabilities of countries to shocks. At the large scale, we find a simple linear relation between the relative magnitude of a shock in a country and its global impact on the whole economic system, albeit the strength of internal contagion is country-dependent and the intercountry propagation dynamics is non-linear. Interestingly, this systemic impact can be predicted on the basis of intra-layer and inter-layer scale factors that we name network multipliers, that are independent of the magnitude of the initial shock. Our model sets-up a quantitative framework to stress-test the robustness of individual countries and of the world economy to propagating crashes.

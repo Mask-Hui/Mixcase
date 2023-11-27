@@ -1,13 +1,1 @@
-In this paper, we study the landscape of the population negative
-log-likelihood function of Gaussian Mixture Models with a general number of
-components. Due to nonconvexity, there exist multiple local minima that are not
-globally optimal, even when the mixture is well-separated. We show that all
-local minima share the same form of structure that partially identifies the
-component centers of the true mixture, in the sense that each local minimum
-involves a non-overlapping combination of fitting multiple Gaussians to a
-single true component and fitting a single Gaussian to multiple true
-components. Our results apply to the setting where the true mixture components
-satisfy a certain separation condition, and are valid even when the number of
-components is over-or under-specified. For Gaussian mixtures with three
-components, we obtain sharper results in terms of the scaling with the
-separation between the components.
+In this paper, we study the landscape of the population negative log-likelihood function of gaussian mixture models with a general number of components. Due to nonconvexity, there exist multiple local minima that are not globally optimal, even when the mixture is well-separated. We show that all local minima share the same form of structure that partially identifies the component centers of the true mixture, in the sense that each local minimum involves a non-overlapping combination of fitting multiple gaussians to a single true component and fitting a single gaussian to multiple true components. Our results apply to the setting where the true mixture components satisfy a certain separation condition, and are valid even when the number of components is over-or under-specified. For gaussian mixtures with three components, we obtain sharper results in terms of the scaling with the separation between the components.

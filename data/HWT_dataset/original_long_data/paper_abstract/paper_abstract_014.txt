@@ -1,8 +1,1 @@
-We find the most general solution to Chern-Simons AdS$_3$ gravity in
-Fefferman-Graham gauge. The connections are equivalent to geometries that have
-a non-trivial curved boundary, characterized by a 2-dimensional vielbein and a
-spin connection. We define a variational principle for Dirichlet boundary
-conditions and find the boundary stress tensor in the Chern-Simons formalism.
-Using this variational principle as the departure point, we show how to treat
-other choices of boundary conditions in this formalism, such as, including the
-mixed boundary conditions corresponding to a $T \bar T$-deformation.
+We find the most general solution to chern-simons ads$_3$ gravity in fefferman-graham gauge. The connections are equivalent to geometries that have a non-trivial curved boundary, characterized by a 2-dimensional vielbein and a spin connection. We define a variational principle for dirichlet boundary conditions and find the boundary stress tensor in the chern-simons formalism. Using this variational principle as the departure point, we show how to treat other choices of boundary conditions in this formalism, such as, including the mixed boundary conditions corresponding to a $t \bar t$-deformation.

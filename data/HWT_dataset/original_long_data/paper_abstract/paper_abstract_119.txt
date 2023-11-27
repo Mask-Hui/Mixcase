@@ -1,12 +1,1 @@
-This work analyses the performance-complexity tradeoff for different
-direction of arrival (DoA) estimation techniques. Such tradeoff is investigated
-taking into account uniform linear array structures. Several DoA estimation
-techniques have been compared, namely the conventional Delay-and-Sum (DS),
-Minimum Variance Distortionless Response (MVDR), Multiple Signal Classifier
-(MUSIC) subspace, Estimation of Signal Parameters via Rotational Invariance
-Technique (ESPRIT), Unitary-ESPRIT and Fourier Transform method (FT-DoA). The
-analytical formulation of each estimation technique as well the comparative
-numerical results are discussed focused on the estimation accuracy versus
-complexity tradeoff. The present study reveals the behavior of seven
-techniques, demonstrating promising ones for current and future location
-applications involving DoA estimation, especially for 5G massive MIMO systems.
+This work analyses the performance-complexity tradeoff for different direction of arrival (doa) estimation techniques. Such tradeoff is investigated taking into account uniform linear array structures. Several doa estimation techniques have been compared, namely the conventional delay-and-sum (ds), minimum variance distortionless response (mvdr), multiple signal classifier (music) subspace, estimation of signal parameters via rotational invariance technique (esprit), unitary-esprit and fourier transform method (ft-doa). The analytical formulation of each estimation technique as well the comparative numerical results are discussed focused on the estimation accuracy versus complexity tradeoff. The present study reveals the behavior of seven techniques, demonstrating promising ones for current and future location applications involving doa estimation, especially for 5g massive mimo systems.

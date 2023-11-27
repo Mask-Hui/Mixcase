@@ -1,16 +1,1 @@
-We examine the detection prospects for a long-lived bi$\nu$o, a pseudo-Dirac
-bino which is responsible for neutrino masses, at the LHC and at dedicated
-long-lived particle detectors. The bi$\nu$o arises in $U(1)_R$-symmetric
-supersymmetric models where the neutrino masses are generated through higher
-dimensional operators in an inverse seesaw mechanism. At the LHC the bi$\nu$o
-is produced through squark decays and it subsequently decays to quarks, charged
-leptons and missing energy via its mixing with the Standard Model neutrinos. We
-consider long-lived bi$\nu$os which escape the ATLAS or CMS detectors as
-missing energy and decay to charged leptons inside the proposed long-lived
-particle detectors FASER, CODEX-b, and MATHUSLA. We find the currently allowed
-region in the squark-bi$\nu$o mass parameter space by recasting most recent LHC
-searches for jets+MET. We also determine the reach of MATHUSLA, CODEX-b and
-FASER. We find that a large region of parameter space involving squark masses,
-bi$\nu$o mass and the messenger scale can be probed with MATHUSLA, ranging from
-bi$\nu$o masses of 10 GeV-2 TeV and messenger scales $10^{2-11}$ TeV for a
-range of squark masses.
+We examine the detection prospects for a long-lived bi$\nu$o, a pseudo-dirac bino which is responsible for neutrino masses, at the lhc and at dedicated long-lived particle detectors. The bi$\nu$o arises in $u(1)_r$-symmetric supersymmetric models where the neutrino masses are generated through higher dimensional operators in an inverse seesaw mechanism. At the lhc the bi$\nu$o is produced through squark decays and it subsequently decays to quarks, charged leptons and missing energy via its mixing with the standard model neutrinos. We consider long-lived bi$\nu$os which escape the atlas or cms detectors as missing energy and decay to charged leptons inside the proposed long-lived particle detectors faser, codex-b, and mathusla. We find the currently allowed region in the squark-bi$\nu$o mass parameter space by recasting most recent lhc searches for jets+met. We also determine the reach of mathusla, codex-b and faser. We find that a large region of parameter space involving squark masses, bi$\nu$o mass and the messenger scale can be probed with mathusla, ranging from bi$\nu$o masses of 10 gev-2 tev and messenger scales $10^{2-11}$ tev for a range of squark masses.

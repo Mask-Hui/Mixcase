@@ -1,16 +1,1 @@
-We demonstrated broadband highly efficient optical nonlinear processes in
-on-chip integrated lithium niobate (LN) microdisk resonators. The Q factors of
-the micro-resonators fabricated by femtosecond laser writing and
-chemo-mechanical polishing are reliably above 10^8, approaching the intrinsic
-material absorption limit of LN. Broadband nonlinear processes, including
-optical parametric oscillation (OPO), second harmonic generation (SHG), third
-harmonic generation, and fourth harmonic generation, were observed with
-ultrahigh efficiencies in the same LN microdisk without introducing domain
-inversion, thanks to the natural quasi phase-matching and the dense spectral
-modes of the X-cut LN microdisk with millimeter diameter. The threshold of OPO
-and the absolute conversion efficiency of SHG are 19.6 microwatt and 66%, both
-surpass the state-of-the-art values among on-chip LN micro-resonators
-demonstrated so far. The broadband and highly efficient nonlinear frequency
-conversions achieved with the ultrahigh-Q LN microdisk resonators promise
-high-density integration of nonlinear photonic devices such as frequency
-convertors and entangled photon sources.
+We demonstrated broadband highly efficient optical nonlinear processes in on-chip integrated lithium niobate (ln) microdisk resonators. The q factors of the micro-resonators fabricated by femtosecond laser writing and chemo-mechanical polishing are reliably above 10^8, approaching the intrinsic material absorption limit of ln. Broadband nonlinear processes, including optical parametric oscillation (opo), second harmonic generation (shg), third harmonic generation, and fourth harmonic generation, were observed with ultrahigh efficiencies in the same ln microdisk without introducing domain inversion, thanks to the natural quasi phase-matching and the dense spectral modes of the x-cut ln microdisk with millimeter diameter. The threshold of opo and the absolute conversion efficiency of shg are 19.6 microwatt and 66%, both surpass the state-of-the-art values among on-chip ln micro-resonators demonstrated so far. The broadband and highly efficient nonlinear frequency conversions achieved with the ultrahigh-q ln microdisk resonators promise high-density integration of nonlinear photonic devices such as frequency convertors and entangled photon sources.

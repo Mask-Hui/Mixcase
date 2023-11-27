@@ -1,12 +1,1 @@
-In this paper I report, exchange bias effect in a bilayer thin film of
-amorphous zinc ferrite and nanocrystalline gallium ferrite. The amorphous zinc
-ferrite layer was deposited at room temperature (Ts = RT) on top of a
-nanocrystalline gallium ferrite thin film using a pulsed laser. This bilayer
-film showed large exchange bias effect (He ~ 418 Oe at 2 K). The exchange bias
-shift decreased exponentially as the temperature increased and disappeared for
-T > 30 K. Along with the exchange bias shift the film also showed enhanced
-magnetization in Field Cooled (FC) measurements as compared to the Zero Field
-Cooled (ZFC) magnetization. The bilayer film also showed training effect at 2
-K, which followed spin configurational relaxation model. The observed exchange
-bias effect could be attributed to the pinning anisotropy of the spin glass
-amorphous zinc ferrite layer pinned at the interface of gallium ferrite.
+In this paper i report, exchange bias effect in a bilayer thin film of amorphous zinc ferrite and nanocrystalline gallium ferrite. The amorphous zinc ferrite layer was deposited at room temperature (ts = rt) on top of a nanocrystalline gallium ferrite thin film using a pulsed laser. This bilayer film showed large exchange bias effect (he ~ 418 oe at 2 k). The exchange bias shift decreased exponentially as the temperature increased and disappeared for t > 30 k. Along with the exchange bias shift the film also showed enhanced magnetization in field cooled (fc) measurements as compared to the zero field cooled (zfc) magnetization. The bilayer film also showed training effect at 2 k, which followed spin configurational relaxation model. The observed exchange bias effect could be attributed to the pinning anisotropy of the spin glass amorphous zinc ferrite layer pinned at the interface of gallium ferrite.

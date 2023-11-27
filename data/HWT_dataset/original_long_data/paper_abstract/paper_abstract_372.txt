@@ -1,18 +1,1 @@
-The nonlinear interaction of a time-harmonic acoustic wave with an
-anisotropic particle gives rise to the radiation force and torque effects.
-These phenomena are at the heart of the acoustofluidics technology, where
-microparticles such as cells and microorganisms are acoustically manipulated.
-We present a theoretical model considering a generic acoustic beam interacting
-with a subwavelength spheroidal particle in a nonviscous fluid. Concise
-analytical expressions of the radiation force and torque are obtained in the
-scattering dipole approximation. The radiation force is given in terms of a
-gradient and scattering force; while the radiation torque has two fundamental
-contributions, namely, the momentum arm and acoustic spin (spin-torque effect).
-As a practical example, we use the theory to describe the interaction of two
-crossed plane waves and a prolate spheroidal particle. The results reveal the
-particle is transversely trapped in a pressure node and is axially pushed by
-the radiation force. Also, the momentum arm aligns the particle in the axial
-direction. At certain specific positions, only the spin-torque occurs. Our
-findings are remarkably consistent with finite-element simulations. The success
-of our model enables its use as an investigation tool for the manipulation of
-anisotropic microparticles in acoustofluidics.
+The nonlinear interaction of a time-harmonic acoustic wave with an anisotropic particle gives rise to the radiation force and torque effects. These phenomena are at the heart of the acoustofluidics technology, where microparticles such as cells and microorganisms are acoustically manipulated. We present a theoretical model considering a generic acoustic beam interacting with a subwavelength spheroidal particle in a nonviscous fluid. Concise analytical expressions of the radiation force and torque are obtained in the scattering dipole approximation. The radiation force is given in terms of a gradient and scattering force; while the radiation torque has two fundamental contributions, namely, the momentum arm and acoustic spin (spin-torque effect). As a practical example, we use the theory to describe the interaction of two crossed plane waves and a prolate spheroidal particle. The results reveal the particle is transversely trapped in a pressure node and is axially pushed by the radiation force. Also, the momentum arm aligns the particle in the axial direction. At certain specific positions, only the spin-torque occurs. Our findings are remarkably consistent with finite-element simulations. The success of our model enables its use as an investigation tool for the manipulation of anisotropic microparticles in acoustofluidics.

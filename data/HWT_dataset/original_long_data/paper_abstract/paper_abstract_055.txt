@@ -1,15 +1,1 @@
-A common practice in many auctions is to offer bidders an opportunity to
-improve their bids, known as a Best and Final Offer (BAFO) stage. This final
-bid can depend on new information provided about either the asset or the
-competitors. This paper examines the effects of new information regarding
-competitors, seeking to determine what information the auctioneer should
-provide assuming the set of allowable bids is discrete. The rational strategy
-profile that maximizes the revenue of the auctioneer is the one where each
-bidder makes the highest possible bid that is lower than his valuation of the
-item. This strategy profile is an equilibrium for a large enough number of
-bidders, regardless of the information released. We compare the number of
-bidders needed for this profile to be an equilibrium under different
-information settings. We find that it becomes an equilibrium with fewer bidders
-when less additional information is made available to the bidders regarding the
-competition. It follows that when the number of bidders is a priori unknown,
-there are some advantages to the auctioneer to not reveal information.
+A common practice in many auctions is to offer bidders an opportunity to improve their bids, known as a best and final offer (bafo) stage. This final bid can depend on new information provided about either the asset or the competitors. This paper examines the effects of new information regarding competitors, seeking to determine what information the auctioneer should provide assuming the set of allowable bids is discrete. The rational strategy profile that maximizes the revenue of the auctioneer is the one where each bidder makes the highest possible bid that is lower than his valuation of the item. This strategy profile is an equilibrium for a large enough number of bidders, regardless of the information released. We compare the number of bidders needed for this profile to be an equilibrium under different information settings. We find that it becomes an equilibrium with fewer bidders when less additional information is made available to the bidders regarding the competition. It follows that when the number of bidders is a priori unknown, there are some advantages to the auctioneer to not reveal information.

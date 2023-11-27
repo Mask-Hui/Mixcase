@@ -1,11 +1,1 @@
-Aiming to estimate extreme precipitation forecast quantiles, we propose a
-nonparametric regression model that features a constant extreme value index.
-Using local linear quantile regression and an extrapolation technique from
-extreme value theory, we develop an estimator for conditional quantiles
-corresponding to extreme high probability levels. We establish uniform
-consistency and asymptotic normality of the estimators. In a simulation study,
-we examine the performance of our estimator on finite samples in comparison
-with a method assuming linear quantiles. On a precipitation data set in the
-Netherlands, these estimators have greater predictive skill compared to the
-upper member of ensemble forecasts provided by a numerical weather prediction
-model.
+Aiming to estimate extreme precipitation forecast quantiles, we propose a nonparametric regression model that features a constant extreme value index. Using local linear quantile regression and an extrapolation technique from extreme value theory, we develop an estimator for conditional quantiles corresponding to extreme high probability levels. We establish uniform consistency and asymptotic normality of the estimators. In a simulation study, we examine the performance of our estimator on finite samples in comparison with a method assuming linear quantiles. On a precipitation data set in the netherlands, these estimators have greater predictive skill compared to the upper member of ensemble forecasts provided by a numerical weather prediction model.

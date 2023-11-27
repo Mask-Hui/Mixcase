@@ -1,13 +1,1 @@
-The spatial localization of quantum states plays a central role in
-condensed-matter phenomena, ranging from many-body localization to topological
-matter. Building on the dissipation-fluctuation theorem, we propose that the
-localization properties of a quantum-engineered system can be probed by
-spectroscopy, namely, by measuring its excitation rate upon a periodic drive.
-We apply this method to various examples that are of direct experimental
-relevance in ultracold atomic gases, including Anderson localization,
-topological edge modes, and interacting particles in a harmonic trap. Moreover,
-inspired by a relation between quantum fluctuations and the quantum metric, we
-describe how our scheme can be generalized in view of extracting the full
-quantum-geometric tensor of many-body systems. Our approach opens an avenue for
-probing localization, as well as quantum fluctuations, geometry and
-entanglement, in synthetic quantum matter.
+The spatial localization of quantum states plays a central role in condensed-matter phenomena, ranging from many-body localization to topological matter. Building on the dissipation-fluctuation theorem, we propose that the localization properties of a quantum-engineered system can be probed by spectroscopy, namely, by measuring its excitation rate upon a periodic drive. We apply this method to various examples that are of direct experimental relevance in ultracold atomic gases, including anderson localization, topological edge modes, and interacting particles in a harmonic trap. Moreover, inspired by a relation between quantum fluctuations and the quantum metric, we describe how our scheme can be generalized in view of extracting the full quantum-geometric tensor of many-body systems. Our approach opens an avenue for probing localization, as well as quantum fluctuations, geometry and entanglement, in synthetic quantum matter.

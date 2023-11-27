@@ -1,16 +1,1 @@
-Topological transforms are parametrized families of topological invariants,
-which, by analogy with transforms in signal processing, are much more
-discriminative than single measurements. The first two topological transforms
-to be defined were the Persistent Homology Transform and Euler Characteristic
-Transform, both of which apply to shapes embedded in Euclidean space. The
-contribution of this paper is to define topological transforms that depend only
-on the intrinsic geometry of a shape, and hence are invariant to the choice of
-embedding. To that end, given an abstract metric measure space, we define an
-integral operator whose eigenfunctions are used to compute sublevel set
-persistent homology. We demonstrate that this operator, which we call the
-distance kernel operator, enjoys desirable stability properties, and that its
-spectrum and eigenfunctions concisely encode the large-scale geometry of our
-metric measure space. We then define a number of topological transforms using
-the eigenfunctions of this operator, and observe that these transforms inherit
-many of the stability and injectivity properties of the distance kernel
-operator.
+Topological transforms are parametrized families of topological invariants, which, by analogy with transforms in signal processing, are much more discriminative than single measurements. The first two topological transforms to be defined were the persistent homology transform and euler characteristic transform, both of which apply to shapes embedded in euclidean space. The contribution of this paper is to define topological transforms that depend only on the intrinsic geometry of a shape, and hence are invariant to the choice of embedding. To that end, given an abstract metric measure space, we define an integral operator whose eigenfunctions are used to compute sublevel set persistent homology. We demonstrate that this operator, which we call the distance kernel operator, enjoys desirable stability properties, and that its spectrum and eigenfunctions concisely encode the large-scale geometry of our metric measure space. We then define a number of topological transforms using the eigenfunctions of this operator, and observe that these transforms inherit many of the stability and injectivity properties of the distance kernel operator.

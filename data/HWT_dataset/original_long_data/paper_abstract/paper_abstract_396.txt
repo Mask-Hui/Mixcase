@@ -1,10 +1,1 @@
-We consider alignment-dependent spin and heat transport across a magnon spin
-valve in the tunneling regime, i.e., a junction consisting of two weakly
-coupled ferromagnetic insulators. We determine the difference in spin and heat
-conductance between the parallel and antiparallel configuration of the
-magnetization direction. The dependence of these conductances on both the
-Gilbert damping and ellipticity is studied. We find that both magnon
-ellipticity and dissipation open channels for magnons to tunnel through in the
-antiparallel configuration. Our results highlight an important difference
-between electronic and magnon spin transport in spin-valve structures and may
-be important for the development of devices based on magnetic insulators.
+We consider alignment-dependent spin and heat transport across a magnon spin valve in the tunneling regime, i.e., a junction consisting of two weakly coupled ferromagnetic insulators. We determine the difference in spin and heat conductance between the parallel and antiparallel configuration of the magnetization direction. The dependence of these conductances on both the gilbert damping and ellipticity is studied. We find that both magnon ellipticity and dissipation open channels for magnons to tunnel through in the antiparallel configuration. Our results highlight an important difference between electronic and magnon spin transport in spin-valve structures and may be important for the development of devices based on magnetic insulators.

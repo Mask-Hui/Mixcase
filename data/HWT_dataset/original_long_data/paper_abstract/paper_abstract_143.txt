@@ -1,10 +1,1 @@
-Young stars are surrounded by a circumstellar disk of gas and dust, within
-which planet formation can occur. Gravitational forces in multiple star systems
-can disrupt the disk. Theoretical models predict that if the disk is misaligned
-with the orbital plane of the stars, the disk should warp and break into
-precessing rings, a phenomenon known as disk tearing. We present observations
-of the triple star system GWOrionis, finding evidence for disk tearing. Our
-images show an eccentric ring that is misaligned with the orbital planes and
-the outer disk. The ring casts shadows on a strongly warped intermediate region
-of the disk. If planets can form within the warped disk, disk tearing could
-provide a mechanism for forming wide-separation planets on oblique orbits.
+Young stars are surrounded by a circumstellar disk of gas and dust, within which planet formation can occur. Gravitational forces in multiple star systems can disrupt the disk. Theoretical models predict that if the disk is misaligned with the orbital plane of the stars, the disk should warp and break into precessing rings, a phenomenon known as disk tearing. We present observations of the triple star system gworionis, finding evidence for disk tearing. Our images show an eccentric ring that is misaligned with the orbital planes and the outer disk. The ring casts shadows on a strongly warped intermediate region of the disk. If planets can form within the warped disk, disk tearing could provide a mechanism for forming wide-separation planets on oblique orbits.

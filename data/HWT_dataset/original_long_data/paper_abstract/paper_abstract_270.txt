@@ -1,8 +1,1 @@
-This paper is a short exposition of Stein's method of normal approximation
-from my personal perspective. It focuses mainly on the characterization of the
-normal distribution and the construction of Stein identities. Through examples,
-it provides glimpses into the many approaches to constructing Stein identities
-and the diverse applications of Stein's method to mathematical problems. It
-also includes anecdotes of historical interest, including how Stein discovered
-his method and how I found an unpublished proof of his of the Berry-Esseen
-theorem.
+This paper is a short exposition of stein's method of normal approximation from my personal perspective. It focuses mainly on the characterization of the normal distribution and the construction of stein identities. Through examples, it provides glimpses into the many approaches to constructing stein identities and the diverse applications of stein's method to mathematical problems. It also includes anecdotes of historical interest, including how stein discovered his method and how i found an unpublished proof of his of the berry-esseen theorem.

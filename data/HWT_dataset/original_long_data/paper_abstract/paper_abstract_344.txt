@@ -1,10 +1,1 @@
-We provide a method to construct finite abstractions exactly bisimilar to
-linear systems under a modified periodic event-triggered control (PETC), when
-considering as output the inter-event times they generate. Assuming that the
-initial state lies on a known compact set, these finite-state models can
-exactly predict all sequences of sampling times until a specified Lyapunov
-sublevel set is reached. Based on these results, we provide a way to build
-tight models simulating the traffic of conventional PETC. These models allow
-computing tight bounds of the PETC average frequency and global exponential
-stability (GES) decay rate. Our results are demonstrated through a numerical
-case study.
+We provide a method to construct finite abstractions exactly bisimilar to linear systems under a modified periodic event-triggered control (petc), when considering as output the inter-event times they generate. Assuming that the initial state lies on a known compact set, these finite-state models can exactly predict all sequences of sampling times until a specified lyapunov sublevel set is reached. Based on these results, we provide a way to build tight models simulating the traffic of conventional petc. These models allow computing tight bounds of the petc average frequency and global exponential stability (ges) decay rate. Our results are demonstrated through a numerical case study.

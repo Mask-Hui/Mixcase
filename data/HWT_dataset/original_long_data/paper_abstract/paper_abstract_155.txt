@@ -1,8 +1,1 @@
-In this talk, we have reviewed the recent development on the time evolution
-of lepton family number carried by Majorana neutrinos \cite{Adam:2021qiq}. This
-article focuses on the subtle points of the derivation of the lepton family
-numbers and their time evolution. We also show how the time evolution is
-sensitive to $m_{ee}$ and $m_{e\mu}$ components of the effective Majorana mass
-matrix by applying the formula to the two family case. The dependence on the
-Majorana phase is clarified and the implication on CNB (cosmic neutrino
-background) is also discussed.
+In this talk, we have reviewed the recent development on the time evolution of lepton family number carried by majorana neutrinos \cite{adam:2021qiq}. This article focuses on the subtle points of the derivation of the lepton family numbers and their time evolution. We also show how the time evolution is sensitive to $m_{ee}$ and $m_{e\mu}$ components of the effective majorana mass matrix by applying the formula to the two family case. The dependence on the majorana phase is clarified and the implication on cnb (cosmic neutrino background) is also discussed.

@@ -1,16 +1,1 @@
-Photonics offers unique advantages as a substrate for quantum information
-processing, but imposes fundamental scalability challenges. Nondeterministic
-schemes impose massive resource overheads, while deterministic schemes require
-prohibitively many identical quantum emitters to realize sizeable quantum
-circuits. Here we propose a scalable architecture for a photonic quantum
-computer which needs minimal quantum resources to implement any quantum
-circuit: a single coherently controlled atom. Optical switches endow a photonic
-quantum state with a synthetic time dimension by modulating photon-atom
-couplings. Quantum operations applied to the atomic qubit can be teleported
-onto the photonic qubits via projective measurement, and arbitrary quantum
-circuits can be compiled into a sequence of these teleported operators. This
-design negates the need for many identical quantum emitters to be integrated
-into a photonic circuit and allows effective all-to-all connectivity between
-photonic qubits. The proposed device has a machine size which is independent of
-quantum circuit depth, does not require single-photon detectors, operates
-deterministically, and is robust to experimental imperfections.
+Photonics offers unique advantages as a substrate for quantum information processing, but imposes fundamental scalability challenges. Nondeterministic schemes impose massive resource overheads, while deterministic schemes require prohibitively many identical quantum emitters to realize sizeable quantum circuits. Here we propose a scalable architecture for a photonic quantum computer which needs minimal quantum resources to implement any quantum circuit: a single coherently controlled atom. Optical switches endow a photonic quantum state with a synthetic time dimension by modulating photon-atom couplings. Quantum operations applied to the atomic qubit can be teleported onto the photonic qubits via projective measurement, and arbitrary quantum circuits can be compiled into a sequence of these teleported operators. This design negates the need for many identical quantum emitters to be integrated into a photonic circuit and allows effective all-to-all connectivity between photonic qubits. The proposed device has a machine size which is independent of quantum circuit depth, does not require single-photon detectors, operates deterministically, and is robust to experimental imperfections.

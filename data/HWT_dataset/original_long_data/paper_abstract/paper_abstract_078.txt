@@ -1,18 +1,1 @@
-PrCo$_2$Ga$_8$ is an orthorhombic quasi-skutterudite type compound which
-crystallizes in the CaCo$_2$Al$_8$ structure type, with space group $Pbam$ (No.
-55). The Pr$^{3+}$ ion has a site symmetry of $C_s$ which predicts a crystal
-electric field (CEF) level splitting into 9 singlets for $J$ = 4. However, a
-phase transition at $T_m$ = 1.28~K is observed in electrical resistivity and
-specific heat results and is reported in this paper. The electrical resistivity
-shows an upturn below $T_m$ due to the superzone-gap formation. This transition
-is tuneable in fields and is suppressed to lower temperatures with applied
-magnetic fields. The electronic specific heat $C_{p}(T)/T$ increases below
-$T_m$ and reaches a value of 7.37 J/(mol K$^2$) at 0.4~K. The Sommerfeld
-coefficient, $\gamma$ extracted from the low temperature analysis of
-$C_\mathrm{4f}(T)/T$ is 637 mJ/(mol K$^2$) indicating a possible mass
-enhancement of the quasiparticles. The calculated entropy value of 3.05 J/(mol
-K) is recovered around $T_m$ exhibiting almost 53% of Rln2, where R is the
-universal gas constant. Magnetic susceptibility results obeys the Curie-Weiss
-law for data above 100 K with an estimated effective magnetic moment,
-$\mu_\mathrm{eff}$ = 3.37 $\mu_B$/Pr and Weiss temperature, $\theta_p$ = $-$124
-K.
+Prco$_2$ga$_8$ is an orthorhombic quasi-skutterudite type compound which crystallizes in the caco$_2$al$_8$ structure type, with space group $pbam$ (no. 55). The pr$^{3+}$ ion has a site symmetry of $c_s$ which predicts a crystal electric field (cef) level splitting into 9 singlets for $j$ = 4. However, a phase transition at $t_m$ = 1.28~k is observed in electrical resistivity and specific heat results and is reported in this paper. The electrical resistivity shows an upturn below $t_m$ due to the superzone-gap formation. This transition is tuneable in fields and is suppressed to lower temperatures with applied magnetic fields. The electronic specific heat $c_{p}(t)/t$ increases below $t_m$ and reaches a value of 7.37 j/(mol k$^2$) at 0.4~k. The sommerfeld coefficient, $\gamma$ extracted from the low temperature analysis of $c_\mathrm{4f}(t)/t$ is 637 mj/(mol k$^2$) indicating a possible mass enhancement of the quasiparticles. The calculated entropy value of 3.05 j/(mol k) is recovered around $t_m$ exhibiting almost 53% of rln2, where r is the universal gas constant. Magnetic susceptibility results obeys the curie-weiss law for data above 100 k with an estimated effective magnetic moment, $\mu_\mathrm{eff}$ = 3.37 $\mu_b$/pr and weiss temperature, $\theta_p$ = $-$124 k.

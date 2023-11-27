@@ -1,8 +1,1 @@
-The lambda deformation of the pure spinor formalism of the superstring in the
-$AdS_{5}\times S^{5}$ background is introduced. It is shown that the
-deformation preserves the integrability as well as the one-loop conformal
-invariance of its parent theory. It is also shown that the effective action
-takes the standard form of the Berkovits-Howe action functional, allowing to
-calculate the deformed background supergeometry in a straightforward way. The
-background fields coincide with those of the lambda model of the Green-Schwarz
-formalism, hence satisfying the same set of supergravity equations of motion.
+The lambda deformation of the pure spinor formalism of the superstring in the $ads_{5}\times s^{5}$ background is introduced. It is shown that the deformation preserves the integrability as well as the one-loop conformal invariance of its parent theory. It is also shown that the effective action takes the standard form of the berkovits-howe action functional, allowing to calculate the deformed background supergeometry in a straightforward way. The background fields coincide with those of the lambda model of the green-schwarz formalism, hence satisfying the same set of supergravity equations of motion.

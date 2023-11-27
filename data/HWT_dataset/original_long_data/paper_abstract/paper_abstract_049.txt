@@ -1,12 +1,1 @@
-High dimensionality poses many challenges to the use of data, from
-visualization and interpretation, to prediction and storage for historical
-preservation. Techniques abound to reduce the dimensionality of fixed-length
-sequences, yet these methods rarely generalize to variable-length sequences. To
-address this gap, we extend existing methods that rely on the use of kernels to
-variable-length sequences via use of the Recurrent Neural Tangent Kernel
-(RNTK). Since a deep neural network with ReLu activation is a Max-Affine Spline
-Operator (MASO), we dub our approach Max-Affine Spline Kernel (MASK). We
-demonstrate how MASK can be used to extend principal components analysis (PCA)
-and t-distributed stochastic neighbor embedding (t-SNE) and apply these new
-algorithms to separate synthetic time series data sampled from second-order
-differential equations.
+High dimensionality poses many challenges to the use of data, from visualization and interpretation, to prediction and storage for historical preservation. Techniques abound to reduce the dimensionality of fixed-length sequences, yet these methods rarely generalize to variable-length sequences. To address this gap, we extend existing methods that rely on the use of kernels to variable-length sequences via use of the recurrent neural tangent kernel (rntk). Since a deep neural network with relu activation is a max-affine spline operator (maso), we dub our approach max-affine spline kernel (mask). We demonstrate how mask can be used to extend principal components analysis (pca) and t-distributed stochastic neighbor embedding (t-sne) and apply these new algorithms to separate synthetic time series data sampled from second-order differential equations.

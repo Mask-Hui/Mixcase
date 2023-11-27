@@ -1,12 +1,1 @@
-Dual phase xenon detectors are widely used in experimental searches for
-galactic darkmatter particles. The origin of single electron backgrounds
-following prompt scintillation and proportional scintillation signals in these
-detectors is not fully understood, although there has been progress in recent
-years. In this paper, we describe single electron backgrounds in ${}^{83m}Kr$
-calibration events and their correlation with drift and extraction fields,
-using the Particle Identification in Xenon at Yale (PIXeY) dual-phase xenon
-time projection chamber. The single electron background induced by the
-Fowler-Nordheim (FN) effect is measured, and its electric field dependence is
-quantified. The photoionization of grids and impurities by prompt scintillation
-and proportional scintillation also contributes to the single electron
-background.
+Dual phase xenon detectors are widely used in experimental searches for galactic darkmatter particles. The origin of single electron backgrounds following prompt scintillation and proportional scintillation signals in these detectors is not fully understood, although there has been progress in recent years. In this paper, we describe single electron backgrounds in ${}^{83m}kr$ calibration events and their correlation with drift and extraction fields, using the particle identification in xenon at yale (pixey) dual-phase xenon time projection chamber. The single electron background induced by the fowler-nordheim (fn) effect is measured, and its electric field dependence is quantified. The photoionization of grids and impurities by prompt scintillation and proportional scintillation also contributes to the single electron background.

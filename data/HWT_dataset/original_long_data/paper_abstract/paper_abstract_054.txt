@@ -1,11 +1,1 @@
-When forecasting time series with a hierarchical structure, the existing
-state of the art is to forecast each time series independently, and, in a
-post-treatment step, to reconcile the time series in a way that respects the
-hierarchy (Hyndman et al., 2011; Wickramasuriya et al., 2018). We propose a new
-loss function that can be incorporated into any maximum likelihood objective
-with hierarchical data, resulting in reconciled estimates with confidence
-intervals that correctly account for additional uncertainty due to imperfect
-reconciliation. We evaluate our method using a non-linear model and synthetic
-data on a counterfactual forecasting problem, where we have access to the
-ground truth and contemporaneous covariates, and show that we largely improve
-over the existing state-of-the-art method.
+When forecasting time series with a hierarchical structure, the existing state of the art is to forecast each time series independently, and, in a post-treatment step, to reconcile the time series in a way that respects the hierarchy (hyndman et al., 2011; wickramasuriya et al., 2018). We propose a new loss function that can be incorporated into any maximum likelihood objective with hierarchical data, resulting in reconciled estimates with confidence intervals that correctly account for additional uncertainty due to imperfect reconciliation. We evaluate our method using a non-linear model and synthetic data on a counterfactual forecasting problem, where we have access to the ground truth and contemporaneous covariates, and show that we largely improve over the existing state-of-the-art method.

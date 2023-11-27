@@ -1,10 +1,1 @@
-This article proposes a methodology for the development of adaptive traffic
-signal controllers using reinforcement learning. Our methodology addresses the
-lack of standardization in the literature that renders the comparison of
-approaches in different works meaningless, due to differences in metrics,
-environments, and even experimental design and methodology. The proposed
-methodology thus comprises all the steps necessary to develop, deploy and
-evaluate an adaptive traffic signal controller -- from simulation setup to
-problem formulation and experimental design. We illustrate the proposed
-methodology in two simple scenarios, highlighting how its different steps
-address limitations found in the current literature.
+This article proposes a methodology for the development of adaptive traffic signal controllers using reinforcement learning. Our methodology addresses the lack of standardization in the literature that renders the comparison of approaches in different works meaningless, due to differences in metrics, environments, and even experimental design and methodology. The proposed methodology thus comprises all the steps necessary to develop, deploy and evaluate an adaptive traffic signal controller -- from simulation setup to problem formulation and experimental design. We illustrate the proposed methodology in two simple scenarios, highlighting how its different steps address limitations found in the current literature.

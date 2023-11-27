@@ -1,8 +1,1 @@
-We describe a superconducting circuit consisting of a Josephson junction in
-parallel with a quantum phase slip wire, which implements a Hamiltonian that is
-periodic in both charge and flux. This Hamiltonian is exactly diagonalisable in
-a double-Bloch band, and the eigenstates are shown to be code states of the
-Gottesman-Kitaev-Preskill quantum error correcting code. The eigenspectrum has
-several critical points, where the linear sensitivity to external charge and
-flux noise vanishes. The states at these critical points thus hold promise as
-qubit states that are insensitive to external noise sources.
+We describe a superconducting circuit consisting of a josephson junction in parallel with a quantum phase slip wire, which implements a hamiltonian that is periodic in both charge and flux. This hamiltonian is exactly diagonalisable in a double-bloch band, and the eigenstates are shown to be code states of the gottesman-kitaev-preskill quantum error correcting code. The eigenspectrum has several critical points, where the linear sensitivity to external charge and flux noise vanishes. The states at these critical points thus hold promise as qubit states that are insensitive to external noise sources.

@@ -1,11 +1,1 @@
-Following the suggestion from the Monte--Carlo experiments in Jim\'enez, J.
-of Turbul. 2020), that dipoles are as important to the dynamics of decaying
-two-dimensional turbulence as individual vortex cores, it is found that the
-kinetic energy of this flow is carried by elongated streams formed by the
-concatenation of dipoles. Vortices separate into a family of small fast-moving
-cores, and another family of larger slowly moving ones, which can be described
-as `frozen' into a slowly evolving `crystal'. The kinematics of both families
-are very different, and only the former is self-similar. The latter is
-responsible for most of the kinetic energy of the flow, and its vortices form
-the dipoles and the streams. Mechanisms are discussed for the growth of this
-slow component.
+Following the suggestion from the monte--carlo experiments in jim\'enez, j. Of turbul. 2020), that dipoles are as important to the dynamics of decaying two-dimensional turbulence as individual vortex cores, it is found that the kinetic energy of this flow is carried by elongated streams formed by the concatenation of dipoles. Vortices separate into a family of small fast-moving cores, and another family of larger slowly moving ones, which can be described as `frozen' into a slowly evolving `crystal'. The kinematics of both families are very different, and only the former is self-similar. The latter is responsible for most of the kinetic energy of the flow, and its vortices form the dipoles and the streams. Mechanisms are discussed for the growth of this slow component.

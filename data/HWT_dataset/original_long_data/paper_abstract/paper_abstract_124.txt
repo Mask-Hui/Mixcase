@@ -1,18 +1,1 @@
-The electric quadrupole-quadrupole ($\mathcal{E}_{qq}$) interaction is
-believed to play an important role in the broken symmetry transition from Phase
-I to II in solid hydrogen. To evaluate this, we study structures adopted by
-purely classical quadrupoles using Markov Chain Monte Carlo simulations of fcc
-and hcp quadrupolar lattices. Both undergo first-order phase transitions from
-rotationally ordered to disordered structures, as indicated by a discontinuity
-in both quadrupole interaction energy ($\mathcal{E}_{qq}$) and its heat
-capacity. Cooling fcc reliably induced a transition to the P$a3$ structure,
-whereas cooling hcp gave inconsistent, frustrated and $c/a$-ratio-dependent
-broken symmetry states. Analysing the lowest-energy hcp states using simulated
-annealing, we found P$6_3/m$ and P$ca2_1$ structures found previously as
-minimum-energy structures in full electronic structure calculations. The
-candidate structures for hydrogen Phases III-V were not observed. This
-demonstrates that $\mathcal{E}_{qq}$ is the dominant interaction determining
-the symmetry breaking in Phase II. The disorder transition occurs at
-significantly lower temperature in hcp than fcc, showing that the
-$\mathcal{E}_{qq}$ cannot be responsible for hydrogen Phase II being based on
-hcp.
+The electric quadrupole-quadrupole ($\mathcal{e}_{qq}$) interaction is believed to play an important role in the broken symmetry transition from phase i to ii in solid hydrogen. To evaluate this, we study structures adopted by purely classical quadrupoles using markov chain monte carlo simulations of fcc and hcp quadrupolar lattices. Both undergo first-order phase transitions from rotationally ordered to disordered structures, as indicated by a discontinuity in both quadrupole interaction energy ($\mathcal{e}_{qq}$) and its heat capacity. Cooling fcc reliably induced a transition to the p$a3$ structure, whereas cooling hcp gave inconsistent, frustrated and $c/a$-ratio-dependent broken symmetry states. Analysing the lowest-energy hcp states using simulated annealing, we found p$6_3/m$ and p$ca2_1$ structures found previously as minimum-energy structures in full electronic structure calculations. The candidate structures for hydrogen phases iii-v were not observed. This demonstrates that $\mathcal{e}_{qq}$ is the dominant interaction determining the symmetry breaking in phase ii. The disorder transition occurs at significantly lower temperature in hcp than fcc, showing that the $\mathcal{e}_{qq}$ cannot be responsible for hydrogen phase ii being based on hcp.

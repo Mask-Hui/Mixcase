@@ -1,10 +1,1 @@
-Based on the numerical method proposed in [G. Hu, X. Xie, F. Xu, J. Comput.
-Phys., 355 (2018), 436-449.] for Kohn-Sham equation, further improvement on the
-efficiency is obtained in this paper by i). designing a numerical method with
-the strategy of separately handling the nonlinear Hartree potential and
-exchange-correlation potential, and ii).parallelizing the algorithm in an
-eigenpairwise approach. The feasibility of two approaches are analyzed in
-detail, and the new algorithm is described completely. Compared with previous
-results, a significant improvement of numerical efficiency can be observed from
-plenty of numerical experiments, which make the new method more suitable for
-the practical problems.
+Based on the numerical method proposed in [g. Hu, x. Xie, f. Xu, j. Comput. Phys., 355 (2018), 436-449.] for kohn-sham equation, further improvement on the efficiency is obtained in this paper by i). Designing a numerical method with the strategy of separately handling the nonlinear hartree potential and exchange-correlation potential, and ii).parallelizing the algorithm in an eigenpairwise approach. The feasibility of two approaches are analyzed in detail, and the new algorithm is described completely. Compared with previous results, a significant improvement of numerical efficiency can be observed from plenty of numerical experiments, which make the new method more suitable for the practical problems.

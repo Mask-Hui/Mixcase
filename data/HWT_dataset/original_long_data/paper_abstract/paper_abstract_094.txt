@@ -1,12 +1,1 @@
-Pascal's Theorem gives a synthetic geometric condition for six points
-$a,\ldots,f$ in $\mathbb{P}^2$ to lie on a conic. Namely, that the intersection
-points $\overline{ab}\cap\overline{de}$, $\overline{af}\cap\overline{dc}$,
-$\overline{ef}\cap\overline{bc}$ are aligned. One could ask an analogous
-question in higher dimension: is there a coordinate-free condition for $d+4$
-points in $\mathbb{P}^d$ to lie on a degree $d$ rational normal curve? In this
-paper we find many of these conditions by writing in the Grassmann-Cayley
-algebra the defining equations of the parameter space of $d+4$ ordered points
-in $\mathbb{P}^d$ that lie on a rational normal curve. These equations were
-introduced and studied in a previous joint work of the authors with
-Giansiracusa and Moon. We conclude with an application in the case of seven
-points on a twisted cubic.
+Pascal's theorem gives a synthetic geometric condition for six points $a,\ldots,f$ in $\mathbb{p}^2$ to lie on a conic. Namely, that the intersection points $\overline{ab}\cap\overline{de}$, $\overline{af}\cap\overline{dc}$, $\overline{ef}\cap\overline{bc}$ are aligned. One could ask an analogous question in higher dimension: is there a coordinate-free condition for $d+4$ points in $\mathbb{p}^d$ to lie on a degree $d$ rational normal curve? in this paper we find many of these conditions by writing in the grassmann-cayley algebra the defining equations of the parameter space of $d+4$ ordered points in $\mathbb{p}^d$ that lie on a rational normal curve. These equations were introduced and studied in a previous joint work of the authors with giansiracusa and moon. We conclude with an application in the case of seven points on a twisted cubic.

@@ -1,18 +1,1 @@
-Deep learning has solved many problems that are out of reach of heuristic
-algorithms. It has also been successfully applied in wireless communications,
-even though the current radio systems are well-understood and optimal
-algorithms exist for many tasks. While some gains have been obtained by
-learning individual parts of a receiver, a better approach is to jointly learn
-the whole receiver. This, however, often results in a challenging nonlinear
-problem, for which the optimal solution is infeasible to implement. To this
-end, we propose a deep fully convolutional neural network, DeepRx, which
-executes the whole receiver pipeline from frequency domain signal stream to
-uncoded bits in a 5G-compliant fashion. We facilitate accurate channel
-estimation by constructing the input of the convolutional neural network in a
-very specific manner using both the data and pilot symbols. Also, DeepRx
-outputs soft bits that are compatible with the channel coding used in 5G
-systems. Using 3GPP-defined channel models, we demonstrate that DeepRx
-outperforms traditional methods. We also show that the high performance can
-likely be attributed to DeepRx learning to utilize the known constellation
-points of the unknown data symbols, together with the local symbol
-distribution, for improved detection accuracy.
+Deep learning has solved many problems that are out of reach of heuristic algorithms. It has also been successfully applied in wireless communications, even though the current radio systems are well-understood and optimal algorithms exist for many tasks. While some gains have been obtained by learning individual parts of a receiver, a better approach is to jointly learn the whole receiver. This, however, often results in a challenging nonlinear problem, for which the optimal solution is infeasible to implement. To this end, we propose a deep fully convolutional neural network, deeprx, which executes the whole receiver pipeline from frequency domain signal stream to uncoded bits in a 5g-compliant fashion. We facilitate accurate channel estimation by constructing the input of the convolutional neural network in a very specific manner using both the data and pilot symbols. Also, deeprx outputs soft bits that are compatible with the channel coding used in 5g systems. Using 3gpp-defined channel models, we demonstrate that deeprx outperforms traditional methods. We also show that the high performance can likely be attributed to deeprx learning to utilize the known constellation points of the unknown data symbols, together with the local symbol distribution, for improved detection accuracy.

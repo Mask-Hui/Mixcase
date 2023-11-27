@@ -1,12 +1,1 @@
-Quantum Fisher information (QFI) and skew information (SI) plays a key role
-in the quantum resource theory. Understanding these measures in the physical
-system has practical significance in the state parameter estimation and quantum
-metrology. In this article, we consider a pair ofspin-1/2 particles coupled
-with dipolar and Dzyaloshinsky-Moriya (DM) interactions, serving as the
-physical carrier of quantum information. We examine the bipartite nonlocal
-correlations of pair of spin-1/2 particle system for the thermal equilibrium
-states, characterized by local quantum uncertainty (LQU) and local quantum
-Fisher information (lQFI). The effects of dipolar coupling constants on quantum
-correlation quantifiers are studied. The DM interaction greatly enhances the
-quantum correlation in the system whereas the temperature tends to annihilate
-the amount of quantum correlations.
+Quantum fisher information (qfi) and skew information (si) plays a key role in the quantum resource theory. Understanding these measures in the physical system has practical significance in the state parameter estimation and quantum metrology. In this article, we consider a pair ofspin-1/2 particles coupled with dipolar and dzyaloshinsky-moriya (dm) interactions, serving as the physical carrier of quantum information. We examine the bipartite nonlocal correlations of pair of spin-1/2 particle system for the thermal equilibrium states, characterized by local quantum uncertainty (lqu) and local quantum fisher information (lqfi). The effects of dipolar coupling constants on quantum correlation quantifiers are studied. The dm interaction greatly enhances the quantum correlation in the system whereas the temperature tends to annihilate the amount of quantum correlations.

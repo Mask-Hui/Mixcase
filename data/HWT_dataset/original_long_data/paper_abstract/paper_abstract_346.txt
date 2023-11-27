@@ -1,14 +1,1 @@
-Making the most of multispectral image time-series is a promising but still
-relatively under-explored research direction because of the complexity of
-jointly analyzing spatial, spectral and temporal information. Capturing and
-characterizing temporal dynamics is one of the important and challenging
-issues. Our new method paves the way to capture real data dynamics and should
-eventually benefit applications like unmixing or classification. Dealing with
-time-series dynamics classically requires the knowledge of a dynamical model
-and an observation model. The former may be incorrect or computationally hard
-to handle, thus motivating data-driven strategies aiming at learning dynamics
-directly from data. In this paper, we adapt neural network architectures to
-learn periodic dynamics of both simulated and real multispectral time-series.
-We emphasize the necessity of choosing the right state variable to capture
-periodic dynamics and show that our models can reproduce the average seasonal
-dynamics of vegetation using only one year of training data.
+Making the most of multispectral image time-series is a promising but still relatively under-explored research direction because of the complexity of jointly analyzing spatial, spectral and temporal information. Capturing and characterizing temporal dynamics is one of the important and challenging issues. Our new method paves the way to capture real data dynamics and should eventually benefit applications like unmixing or classification. Dealing with time-series dynamics classically requires the knowledge of a dynamical model and an observation model. The former may be incorrect or computationally hard to handle, thus motivating data-driven strategies aiming at learning dynamics directly from data. In this paper, we adapt neural network architectures to learn periodic dynamics of both simulated and real multispectral time-series. We emphasize the necessity of choosing the right state variable to capture periodic dynamics and show that our models can reproduce the average seasonal dynamics of vegetation using only one year of training data.

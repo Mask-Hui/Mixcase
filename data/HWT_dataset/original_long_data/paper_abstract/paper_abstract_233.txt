@@ -1,16 +1,1 @@
-This paper proposes a fully automated atlas-based pancreas segmentation
-method from CT volumes utilizing atlas localization by regression forest and
-atlas generation using blood vessel information. Previous probabilistic
-atlas-based pancreas segmentation methods cannot deal with spatial variations
-that are commonly found in the pancreas well. Also, shape variations are not
-represented by an averaged atlas. We propose a fully automated pancreas
-segmentation method that deals with two types of variations mentioned above.
-The position and size of the pancreas is estimated using a regression forest
-technique. After localization, a patient-specific probabilistic atlas is
-generated based on a new image similarity that reflects the blood vessel
-position and direction information around the pancreas. We segment it using the
-EM algorithm with the atlas as prior followed by the graph-cut. In evaluation
-results using 147 CT volumes, the Jaccard index and the Dice overlap of the
-proposed method were 62.1% and 75.1%, respectively. Although we automated all
-of the segmentation processes, segmentation results were superior to the other
-state-of-the-art methods in the Dice overlap.
+This paper proposes a fully automated atlas-based pancreas segmentation method from ct volumes utilizing atlas localization by regression forest and atlas generation using blood vessel information. Previous probabilistic atlas-based pancreas segmentation methods cannot deal with spatial variations that are commonly found in the pancreas well. Also, shape variations are not represented by an averaged atlas. We propose a fully automated pancreas segmentation method that deals with two types of variations mentioned above. The position and size of the pancreas is estimated using a regression forest technique. After localization, a patient-specific probabilistic atlas is generated based on a new image similarity that reflects the blood vessel position and direction information around the pancreas. We segment it using the em algorithm with the atlas as prior followed by the graph-cut. In evaluation results using 147 ct volumes, the jaccard index and the dice overlap of the proposed method were 62.1% and 75.1%, respectively. Although we automated all of the segmentation processes, segmentation results were superior to the other state-of-the-art methods in the dice overlap.

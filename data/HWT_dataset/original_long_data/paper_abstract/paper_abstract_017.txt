@@ -1,15 +1,1 @@
-Extreme Mass Ratio Inspirals (EMRIs) can be classified as dry EMRIs and wet
-EMRIs based on their formation mechanisms. Dry (or the "loss-cone") EMRIs,
-previsouly considered as the main EMRI sources for the Laser Interferometer
-Space Antenna, are primarily produced by multi-body scattering in the nuclear
-star cluster and gravitational capture. In this Letter, we highlight an
-alternative EMRI formation channel: (wet) EMRI formation assisted by the
-accretion flow around accreting galactic-center massive black holes (MBHs). In
-this channel, the accretion disk captures stellar-mass black holes that are
-intially moving on inclined orbits, and subsequently drives them to migrate
-towards the MBH - this process boosts the formation rate of EMRIs in such
-galaxies by orders of magnitude. Taking into account the fraction ($\mathcal
-O(10^{-2}-10^{-1})$) of active galactic nuclei where the MBHs are expected to
-be rapidly accreting, we forecast that wet EMRIs will contribute an important
-fraction of all EMRIs observed by spaceborne gravitational wave detectors and
-likely dominate for MBH hosts heavier than a few $10^5 M_\odot$.
+Extreme mass ratio inspirals (emris) can be classified as dry emris and wet emris based on their formation mechanisms. Dry (or the "loss-cone") emris, previsouly considered as the main emri sources for the laser interferometer space antenna, are primarily produced by multi-body scattering in the nuclear star cluster and gravitational capture. In this letter, we highlight an alternative emri formation channel: (wet) emri formation assisted by the accretion flow around accreting galactic-center massive black holes (mbhs). In this channel, the accretion disk captures stellar-mass black holes that are intially moving on inclined orbits, and subsequently drives them to migrate towards the mbh - this process boosts the formation rate of emris in such galaxies by orders of magnitude. Taking into account the fraction ($\mathcal o(10^{-2}-10^{-1})$) of active galactic nuclei where the mbhs are expected to be rapidly accreting, we forecast that wet emris will contribute an important fraction of all emris observed by spaceborne gravitational wave detectors and likely dominate for mbh hosts heavier than a few $10^5 m_\odot$.

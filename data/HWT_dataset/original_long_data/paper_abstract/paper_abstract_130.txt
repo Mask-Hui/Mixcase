@@ -1,16 +1,1 @@
-In this paper, we propose several rules to tune the gains for a class of
-passivity-based controllers for nonlinear mechanical systems. Such tuning rules
-prescribe a desired local transient response behavior to the closed-loop
-system. To establish the tuning rules, we implement a PID passivity-based
-controller. Then, we linearize the closed-loop system, and we transform the
-matrix of the resulting system into a class of saddle point matrices to analyze
-the influence of the control gains, in terms of the oscillations and the rise
-time, on the transient response of the closed-loop system. Hence, the resulting
-controllers stabilize the plant and simultaneously address the performance of
-the closed-loop system. Moreover, our analysis provides a clear insight into
-how the kinetic energy, the potential energy, and the damping of the mechanical
-system are related to its transient response, endowing in this way the tuning
-rules with a physical interpretation. Additionally, we corroborate the
-analytical results through the practical implementation of a controller that
-stabilizes a two degrees-of-freedom (DoF) planar manipulator, where the control
-gains are tuned following the proposed rules.
+In this paper, we propose several rules to tune the gains for a class of passivity-based controllers for nonlinear mechanical systems. Such tuning rules prescribe a desired local transient response behavior to the closed-loop system. To establish the tuning rules, we implement a pid passivity-based controller. Then, we linearize the closed-loop system, and we transform the matrix of the resulting system into a class of saddle point matrices to analyze the influence of the control gains, in terms of the oscillations and the rise time, on the transient response of the closed-loop system. Hence, the resulting controllers stabilize the plant and simultaneously address the performance of the closed-loop system. Moreover, our analysis provides a clear insight into how the kinetic energy, the potential energy, and the damping of the mechanical system are related to its transient response, endowing in this way the tuning rules with a physical interpretation. Additionally, we corroborate the analytical results through the practical implementation of a controller that stabilizes a two degrees-of-freedom (dof) planar manipulator, where the control gains are tuned following the proposed rules.
