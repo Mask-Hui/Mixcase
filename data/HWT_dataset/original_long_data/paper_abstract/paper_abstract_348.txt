@@ -1,0 +1,13 @@
+We compute the conservative van-der-Waals forces between two atoms, one of
+which is initially excited, in the limit of identical atoms. Starting with the
+perturbative calculation of the interaction between two dissimilar atoms, we
+show that a time-dependent approach in the weak-interaction approximation is
+essential in considering the identical atoms limit in the perturbative regime.
+In this limit we find that, at leading order, the van-der-Waals forces are
+fully-resonant and grow linearly in time, being different upon each atom. The
+resultant net force upon the two-atom system is related to the directionality
+of spontaneous emission, which results from the violation of parity symmetry.
+In contrast to the usual stationary van-der-Waals forces, the time-dependent
+conservative forces cannot be written as the gradients of the expectation
+values of the interaction potentials, but as the expectation values of the
+gradients of the interaction potentials only.

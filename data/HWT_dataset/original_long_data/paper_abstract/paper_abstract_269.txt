@@ -1,0 +1,19 @@
+Negative refraction usually demands complex structure engineering while it is
+very natural for massless Dirac fermions (MDFs) across the \textit{p-n}
+junction, this leads to Dirac electron optics. The emergent Dirac materials may
+exhibit hitherto unidentified phenomenon due to their nontrivial band
+structures in contrast to the isotropic MDFs in graphene. Here, as a specific
+example, we explore the negative refraction induced caustics and Veselago
+focusing of tilted MDFs across 8-\textit{Pmmn} borophene \textit{p-n}
+junctions. To this aim, we develop a technique to effectively construct the
+electronic Green's function in \textit{p-n} junctions with arbitrary junction
+directions. Based on analytical discussions and numerical calculations, we
+demonstrate the strong dependence of interference pattern on the junction
+direction. As the junction direction perpendicular to the tilt direction,
+Veselago focusing or normal caustics (similar to that in graphene) appears
+resting on the doping configuration of the \textit{p-n} junctions, otherwise
+anomalous caustics (different from that in graphene) occurs which is
+manipulated by the junction direction and the doping configuration. Finally,
+the developed Green's function technique is generally promising to uncover the
+unique transport of emergent MDFs, and the discovered anomalous caustics makes
+tilted MDFs potential applications in Dirac electron optics.

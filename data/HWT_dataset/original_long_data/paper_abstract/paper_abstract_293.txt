@@ -1,0 +1,20 @@
+The extended Kepler mission (K2) has revealed more than 500 transiting
+planets in roughly 500,000 stellar light curves. All of these were found either
+with the box least-squares algorithm or by visual inspection. Here we use our
+new transit least-squares (TLS) algorithm to search for additional planets
+around all K2 stars that are currently known to host at least one planet. We
+discover and statistically validate 17 new planets with radii ranging from
+about 0.7 Earth radii to roughly 2.2 Earth radii and a median radius of 1.18
+Earth radii. EPIC201497682.03, with a radius of 0.692 (-0.048, +0.059) Earth
+radii, is the second smallest planet ever discovered with K2. The transit
+signatures of these 17 planets are typically 200 ppm deep (ranging from 100 ppm
+to 2000 ppm), and their orbital periods extend from about 0.7 d to 34 d with a
+median value of about 4 d. Fourteen of these 17 systems only had one known
+planet before, and they now join the growing number of multi-planet systems.
+Most stars in our sample have subsolar masses and radii. The small planetary
+radii in our sample are a direct result of the higher signal detection
+efficiency that TLS has compared to box-fitting algorithms in the
+shallow-transit regime. Our findings help in populating the period-radius
+diagram with small planets. Our discovery rate of about 3.7 % within the group
+of previously known K2 systems suggests that TLS can find over 100 additional
+Earth-sized planets in the data of the Kepler primary mission.

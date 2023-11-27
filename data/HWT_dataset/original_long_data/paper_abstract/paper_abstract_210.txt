@@ -1,0 +1,20 @@
+In regression analysis under artificial neural networks, the prediction
+performance depends on determining the appropriate weights between layers. As
+randomly initialized weights are updated during back-propagation using the
+gradient descent procedure under a given loss function, the loss function
+structure can affect the performance significantly. In this study, we
+considered the distribution error, i.e., the inconsistency of two distributions
+(those of the predicted values and label), as the prediction error, and
+proposed weighted empirical stretching (WES) as a novel loss function to
+increase the overlap area of the two distributions. The function depends on the
+distribution of a given label, thus, it is applicable to any distribution
+shape. Moreover, it contains a scaling hyperparameter such that the appropriate
+parameter value maximizes the common section of the two distributions. To test
+the function capability, we generated ideal distributed curves (unimodal,
+skewed unimodal, bimodal, and skewed bimodal) as the labels, and used the
+Fourier-extracted input data from the curves under a feedforward neural
+network. In general, WES outperformed loss functions in wide use, and the
+performance was robust to the various noise levels. The improved results in
+RMSE for the extreme domain (i.e., both tail regions of the distribution) are
+expected to be utilized for prediction of abnormal events in non-linear complex
+systems such as natural disaster and financial crisis.

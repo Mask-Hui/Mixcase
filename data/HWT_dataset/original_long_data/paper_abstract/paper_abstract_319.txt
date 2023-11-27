@@ -1,0 +1,15 @@
+Certain type of documents such as tweets are collected by specifying a set of
+keywords. As topics of interest change with time it is beneficial to adjust
+keywords dynamically. The challenge is that these need to be specified ahead of
+knowing the forthcoming documents and the underlying topics. The future topics
+should mimic past topics of interest yet there should be some novelty in them.
+We develop a keyword-based topic model that dynamically selects a subset of
+keywords to be used to collect future documents. The generative process first
+selects keywords and then the underlying documents based on the specified
+keywords. The model is trained by using a variational lower bound and
+stochastic gradient optimization. The inference consists of finding a subset of
+keywords where given a subset the model predicts the underlying topic-word
+matrix for the unknown forthcoming documents. We compare the keyword topic
+model against a benchmark model using viral predictions of tweets combined with
+a topic model. The keyword-based topic model outperforms this sophisticated
+baseline model by 67%.

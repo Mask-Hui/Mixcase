@@ -1,0 +1,17 @@
+An important problem in space-time adaptive detection is the estimation of
+the large p-by-p interference covariance matrix from training signals. When the
+number of training signals n is greater than 2p, existing estimators are
+generally considered to be adequate, as demonstrated by fixed-dimensional
+asymptotics. But in the low-sample-support regime (n < 2p or even n < p)
+fixed-dimensional asymptotics are no longer applicable. The remedy undertaken
+in this paper is to consider the "large dimensional limit" in which n and p go
+to infinity together. In this asymptotic regime, a new type of estimator is
+defined (Definition 2), shown to exist (Theorem 1), and shown to be
+detection-theoretically ideal (Theorem 2). Further, asymptotic conditional
+detection and false-alarm rates of filters formed from this type of estimator
+are characterized (Theorems 3 and 4) and shown to depend only on data that is
+given, even for non-Gaussian interference statistics. The paper concludes with
+several Monte Carlo simulations that compare the performance of the estimator
+in Theorem 1 to the predictions of Theorems 2-4, showing in particular higher
+detection probability than Steiner and Gerlach's Fast Maximum Likelihood
+estimator.

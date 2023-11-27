@@ -1,0 +1,21 @@
+This study aimed at estimating total forest above-ground net change (Delta
+AGB, Mt) over five years (2014-2019) based on model-assisted estimation
+utilizing freely available satellite imagery. The study was conducted for a
+boreal forest area (approx. 1.4 Mill hectares) in Norway where bi-temporal
+national forest inventory (NFI), Sentinel-2, and Landsat data were available.
+Biomass change was modelled based on a direct approach. The precision of
+estimates using only the NFI data in a basic expansion estimator were compared
+to four different alternative model-assisted estimates using 1) Sentinel-2 or
+Landsat data, and 2) using bi- or uni-temporal remotely sensed data. We found
+that the use of remotely sensed data improved the precision of the purely
+field-based estimates by a factor of up to three. The most precise estimates
+were found for the model-assisted estimation using bi-temporal Sentinel-2
+(standard error; SE= 1.7 Mt). However, the decrease in precision when using
+Landsat data was small (SE= 1.92 Mt). In addition, we found that Delta AGB
+could be precisely estimated also when remotely sensed data were available only
+at the end of the monitoring period. We conclude that satellite optical data
+can considerably improve Delta AGB estimates, even in those cases where
+repeated and coincident NFI data are available. The free availability, global
+coverage, frequent update, and long-term time horizon make data from programs
+such as Sentinel-2 and Landsat a valuable data source for a consistent and
+durable monitoring of forest carbon dynamics.

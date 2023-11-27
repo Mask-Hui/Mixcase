@@ -1,0 +1,21 @@
+We explore the prospects of detecting of Galactic double white dwarf (DWD)
+binaries with the space-based gravitational wave (GW) observatory TianQin. In
+this work, we analyze both a sample of currently known DWDs and a realistic
+synthetic population of DWDs to assess the number of guaranteed detections and
+the full capacity of the mission. We find that TianQin can detect 12 out of
+$\sim100$ known DWDs; GW signals of these binaries can be modeled in detail
+ahead of the mission launch, and therefore they can be used as verification
+sources. Besides we estimate that TianQin has potential to detect as many as
+$10^4$ DWDs in the Milky Way. TianQin is expected to measure their orbital
+periods and amplitudes with accuracies of $\sim10^{-7}$ and $\sim0.2$,
+respectively, and to localize on the sky a large fraction (39%) of the detected
+population to better than 1 deg$^2$. We conclude that TianQin has the potential
+to significantly advance our knowledge on Galactic DWDs by increasing the
+sample up to 2 orders of magnitude, and will allow their multi-messenger
+studies in combination with electromagnetic telescopes. We also test the
+possibilities of different configurations of TianQin: (1) the same mission with
+a different orientation, (2) two perpendicular constellations combined into a
+network, and (3) the combination of the network with the ESA-led Laser
+Interferometer Space Antenna. We find that the network of detectors boosts the
+accuracy on the measurement of source parameters by 1-2 orders of magnitude,
+with the improvement on sky localization being the most significant.

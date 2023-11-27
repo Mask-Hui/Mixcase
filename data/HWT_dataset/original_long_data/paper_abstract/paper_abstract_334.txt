@@ -1,0 +1,15 @@
+AU Mic is a young, very active M dwarf star with a debris disk and at least
+one transiting Neptune-size planet. Here we present detailed analysis of the
+magnetic field of AU Mic based on previously unpublished high-resolution
+optical and near-infrared spectropolarimetric observations. We report a
+systematic detection of circular and linear polarization signatures in the
+stellar photospheric lines. Tentative Zeeman Doppler imaging modeling of the
+former data suggests a non-axisymmetric global field with a surface-averaged
+strength of about 90 G. At the same time, linear polarization observations
+indicate the presence of a much stronger $\approx$2 kG axisymmetric dipolar
+field, which contributes no circular polarization signal due to the equator-on
+orientation of AU Mic. A separate Zeeman broadening and intensification
+analysis allowed us to determine a mean field modulus of 2.3 and 2.1 kG from
+the Y- and K-band atomic lines respectively. These magnetic field measurements
+are essential for understanding environmental conditions within the AU Mic
+planetary system.

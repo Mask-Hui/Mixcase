@@ -1,0 +1,14 @@
+Bluetooth Low Energy (BLE) is a short-range data transmission technology that
+is used for multimedia file sharing, home automation, and internet-of-things
+application. In this work, we perform packet error rate (PER) measurement and
+RF testing of BLE receiver in the harsh electromagnetic environment and in
+presence of RF interference. We check the PER performance in the line-of-sight
+(LOS) and non-line-of-sight (NLOS) scenario in absence of any interfering
+signal and in presence of wideband WLAN interference. The BLE PER measurements
+are conducted in a large reverberation chamber which is a rich scattering
+environment. Software-defined-radio has been used to create BLE communication
+link for PER measurement in LOS and NLOS configuration. The BLE PER is measured
+both in the presence and in absence of WLAN interference. Our measurement
+results show a higher PER for uncoded BLE PHY modes in NLOS channel condition
+and in presence of wideband interference. Whereas coded BLE PHY modes i.e.
+LE500K and LE125K are robust to interference with lower PER measurements.

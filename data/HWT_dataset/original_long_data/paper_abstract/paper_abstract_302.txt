@@ -1,0 +1,7 @@
+We designed, fabricated and characterized a flat multi-level diffractive lens
+(MDL) comprised of only silicon with diameter = 15.2mm, focal length of 19mm,
+and operating over the longwave infrared (LWIR) spectrum of 8um to 14um. We
+experimentally demonstrated field of view of 46deg, depth of focus >7mm and
+wavelength-averaged Strehl ratio of 0.46. All these metrics were comparable to
+those of a conventional refractive lens. The active device thickness is only
+8um and its weight (including the silicon substrate) is less than 0.2g.

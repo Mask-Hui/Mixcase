@@ -1,0 +1,11 @@
+Difference-in-differences analysis with a control group that differs
+considerably from a treated group is vulnerable to bias from historical events
+that have different effects on the groups. Constructing a more closely matched
+control group by matching a subset of the overall control group to the treated
+group may result in less bias. We study this phenomenon in simulation studies.
+We study the effect of mountaintop removal mining (MRM) on mortality using a
+difference-in-differences analysis that makes use of the increase in MRM
+following the 1990 Clean Air Act Amendments. For a difference-in-differences
+analysis of the effect of MRM on mortality, we constructed a more closely
+matched control group and found a 95\% confidence interval that contains
+substantial adverse effects along with no effect and small beneficial effects.

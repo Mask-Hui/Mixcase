@@ -1,0 +1,12 @@
+A new analysis is presented of the angular correlation function $C(\Theta)$
+of cosmic microwave background (CMB) temperature at large angular separation,
+based on published maps derived from {\sl WMAP} and {\sl Planck} satellite
+data, using different models of astrophysical foregrounds. It is found that
+using a common analysis, the results from the two satellites are very similar.
+In particular, it is found that previously published differences between
+measured values of $C(\Theta)$ near $\Theta=90^\circ$ arise mainly from
+different choices of masks in regions of largest Galactic emissions, and that
+demonstrated measurement biases are reduced by eliminating masks altogether.
+Maps from both satellites are shown to agree with $C(90^\circ)=0$ to within
+estimated statistical and systematic errors, consistent with an exact symmetry
+predicted in a new holographic quantum model of inflation.

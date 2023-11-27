@@ -1,0 +1,13 @@
+Low-symmetry 2D materials---such as ReS$_2$ and ReSe$_2$ monolayers, black
+phosphorus monolayers, group-IV monochalcogenide monolayers, borophene, among
+others---have more complex atomistic structures than the honeycomb lattices of
+graphene, hexagonal boron nitride, and transition metal dichalcogenides. The
+reduced symmetries of these emerging materials give rise to inhomogeneous
+electron, optical, valley, and spin responses, as well as entirely new
+properties such as ferroelasticity, ferroelectricity, magnetism, spin-wave
+phenomena, large nonlinear optical properties, photogalvanic effects, and
+superconductivity. Novel electronic topological properties, nonlinear elastic
+properties, and structural phase transformations can also take place due to low
+symmetry. The "Beyond Graphene: Low-Symmetry and Anisotropic 2D Materials"
+Special Topic was assembled to highlight recent experimental and theoretical
+research on these emerging materials.

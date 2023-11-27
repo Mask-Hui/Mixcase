@@ -1,0 +1,14 @@
+We revisit the problem of estimating the mean of a real-valued distribution,
+presenting a novel estimator with sub-Gaussian convergence: intuitively, "our
+estimator, on any distribution, is as accurate as the sample mean is for the
+Gaussian distribution of matching variance." Crucially, in contrast to prior
+works, our estimator does not require prior knowledge of the variance, and
+works across the entire gamut of distributions with bounded variance, including
+those without any higher moments. Parameterized by the sample size $n$, the
+failure probability $\delta$, and the variance $\sigma^2$, our estimator is
+accurate to within $\sigma\cdot(1+o(1))\sqrt{\frac{2\log\frac{1}{\delta}}{n}}$,
+tight up to the $1+o(1)$ factor. Our estimator construction and analysis gives
+a framework generalizable to other problems, tightly analyzing a sum of
+dependent random variables by viewing the sum implicitly as a 2-parameter
+$\psi$-estimator, and constructing bounds using mathematical programming and
+duality techniques.

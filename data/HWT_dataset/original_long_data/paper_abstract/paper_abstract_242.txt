@@ -1,0 +1,18 @@
+Various IoT applications demand resource-constrained machine learning
+mechanisms for different applications such as pervasive healthcare, activity
+monitoring, speech recognition, real-time computer vision, etc. This
+necessitates us to leverage information from multiple devices with few
+communication overheads. Federated Learning proves to be an extremely viable
+option for distributed and collaborative machine learning. Particularly,
+on-device federated learning is an active area of research, however, there are
+a variety of challenges in addressing statistical (non-IID data) and model
+heterogeneities. In addition, in this paper we explore a new challenge of
+interest -- to handle label heterogeneities in federated learning. To this end,
+we propose a framework with simple $\alpha$-weighted federated aggregation of
+scores which leverages overlapping information gain across labels, while saving
+bandwidth costs in the process. Empirical evaluation on Animals-10 dataset
+(with 4 labels for effective elucidation of results) indicates an average
+deterministic accuracy increase of at least ~16.7%. We also demonstrate the
+on-device capabilities of our proposed framework by experimenting with
+federated learning and inference across different iterations on a Raspberry Pi
+2, a single-board computing platform.

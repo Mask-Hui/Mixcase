@@ -1,0 +1,13 @@
+We extend the standard model fermions by a mirror copy to realize a
+left-right symmetry. During a strongly first order phase transition of the
+spontaneous left-right symmetry breaking, the CP-violating reflections of the
+mirror fermions off the mirror Higgs bubbles can generate a mirror lepton
+asymmetry and an equal mirror baryon asymmetry. We then can obtain an ordinary
+baryon asymmetry through the mirror fermion decays where a dark matter scalar
+plays an essential role. Benefitted from a parity symmetry for solving the
+strong CP problem, the cosmic baryon asymmetry can be well described by the
+ordinary lepton mass matrices up to an overall factor. In this scenario, the
+Dirac CP phase in the Majorana neutrino mass matrix can provide a unique source
+for the required CP violation. Furthermore, the Higgs triplet for type-II
+seesaw as well as the first generation of mirror charged fermions can be
+allowed at the TeV scale.

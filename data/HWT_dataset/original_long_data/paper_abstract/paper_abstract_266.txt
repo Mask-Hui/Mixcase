@@ -1,0 +1,20 @@
+We report a combined theoretical and experimental investigation of
+half-metallic ferromagnetism in equiatomic quaternary Heusler alloy CoRuMnSi.
+Room temperature XRD analysis reveals that the alloy crystallizes in L21
+disorder instead of pristine Y-type structure due to 50% swap disorder between
+the tetrahedral sites, i.e., Co and Ru atoms. Magnetization measurements reveal
+a net magnetization of 4 $\mu_B$ with Curie temperature of ~780 K. Resistivity
+measurement reveals the presence of localization effect below 35 K while above
+100 K, a linear dependence is observed. Resistivity behavior indicates the
+absence of single magnon scattering, which indirectly supports the
+half-metallic nature. The majority spin band near the Fermi level clearly
+indicates the overlap of flat eg bands with sharply varying conduction bands
+that are responsible for the localization. In-depth analysis of the projected
+atomic d-orbital character of band structure reveals unusual bonding, giving
+rise to the flat eg bands purely arising out of Ru ions. Co-Ru swap disorder
+calculations indicate the robustness of half-metallic nature, even when the
+structure changes from Y-type to L21-type, with no major change in the net
+magnetization of the system. Thus, robust half-metallic nature, stable
+structure, and high Curie temperature make this alloy quite a promising
+candidate to be used as a source of highly spin-polarized currents in
+spintronic applications.

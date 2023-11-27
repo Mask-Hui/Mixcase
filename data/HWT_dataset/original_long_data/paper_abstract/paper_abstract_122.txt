@@ -1,0 +1,13 @@
+While software development productivity has grown rapidly, the weight values
+assigned to count standard Function Point (FP) created at IBM twenty-five years
+ago have never been updated. This obsolescence raises critical questions about
+the validity of the weight values; it also creates other problems such as
+ambiguous classification, crisp boundary, as well as subjective and locally
+defined weight values. All of these challenges reveal the need to calibrate FP
+in order to reflect both the specific software application context and the
+trend of todays software development techniques more accurately. We have
+created a FP calibration model that incorporates the learning ability of neural
+networks as well as the capability of capturing human knowledge using fuzzy
+logic. The empirical validation using ISBSG Data Repository (release 8) shows
+an average improvement of 22% in the accuracy of software effort estimations
+with the new calibration.

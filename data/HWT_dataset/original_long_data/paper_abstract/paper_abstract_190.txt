@@ -1,0 +1,19 @@
+Long-distance entanglement is a very precious resource, but its distribution
+is very difficult due to the exponential losses of light in optical fibres. A
+possible solution consists in the use of quantum repeaters, based on
+entanglement swapping or quantum error correction. Alternatively,
+satellite-based free-space optical links can be exploited, achieving better
+loss-distance scaling. We propose to combine these two ingredients, quantum
+repeaters and satellite-based links, into a scheme that allows to achieve
+entanglement distribution over global distances with a small number of
+intermediate untrusted nodes. The entanglement sources, placed on satellites,
+send quantum states encoded in photons towards orbiting quantum repeater
+stations, where entanglement swapping is performed. The performance of this
+repeater chain is assessed in terms of the secret key rate achievable by the
+BB-84 cryptographic protocol. We perform a comparison with other repeater chain
+architectures and show that our scheme is superior in almost every situation,
+achieving higher key rates, reliability and flexibility. Finally, we analyse
+the feasibility of the implementation in the mid-term future and discuss
+exemplary orbital configurations. The integration of satellite-based links with
+ground repeater networks can be envisaged to represent the backbone of the
+future Quantum Internet.

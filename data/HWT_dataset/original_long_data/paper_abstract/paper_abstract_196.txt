@@ -1,0 +1,18 @@
+Self-checksumming (SC) is a tamper-proofing technique that ensures certain
+program segments (code) in memory hash to known values at runtime. SC has few
+restrictions on application and hence can protect a vast majority of programs.
+The code verification in SC requires computation of the expected hashes after
+compilation, as the machine-code is not known before. This means the expected
+hash values need to be adjusted in the binary executable, hence combining SC
+with other protections is limited due to this adjustment step. However,
+obfuscation protections are often necessary, as SC protections can be otherwise
+easily detected and disabled via pattern matching. In this paper, we present a
+layered protection using virtualization obfuscation, yielding an
+architecture-agnostic SC protection that requires no post-compilation
+adjustment. We evaluate the performance of our scheme using a dataset of 25
+real-world programs (MiBench and 3 CLI games). Our results show that the SC
+scheme induces an average overhead of 43% for a complete protection (100%
+coverage). The overhead is tolerable for less CPU-intensive programs (e.g.
+games) and when only parts of programs (e.g. license checking) are protected.
+However, large overheads stemming from the virtualization obfuscation were
+encountered.

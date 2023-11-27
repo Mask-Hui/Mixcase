@@ -1,0 +1,11 @@
+Melting kinetics of polycrystalline materials is analyzed on the basis of a
+new model which explicitly couples homogeneous and heterogeneous melting
+mechanisms. The distinct feature of this approach lies in its ability to
+evaluate not only grain-size-distribution effects on the overall melting
+kinetics but also competitions between the two melting mechanisms. For the
+first time, we reveal the three-part structure of
+temperature-time-transformation diagrams for melting of polycrystalline
+materials, through which it is possible to determine a critical temperature
+across which the dominant melting mechanism switches. The critical temperature
+increases as the mean-grain-diameter decreases following a negative power-law.
+The results are qualitatively consistent with experimental observations.

@@ -1,0 +1,8 @@
+The supermeasure whose integral is the genus $g$ vacuum amplitude of
+superstring theory is potentially singular on the locus in the moduli space of
+supercurves where the corresponding even theta-characteristic has nontrivial
+sections. We show that the supermeasure is actually regular for $g\leq 11$. The
+result relies on the study of the superperiod map. We also show that the
+minimal power of the classical Schottky ideal that annihilates the image of the
+superperiod map is equal to $g$ if $g$ is odd and is equal to $g$ or $g-1$ if
+$g$ is even.

@@ -1,0 +1,10 @@
+We consider linear magneto-quasistatic field equations which arise in
+simulation of low-frequency electromagnetic devices coupled to electrical
+circuits. A finite element discretization of such equations on 3D domains leads
+to a singular system of differential-algebraic equations. First, we study the
+structural properties of such a system and present a new regularization
+approach based on projecting out the singular state components. Furthermore, we
+present a Lyapunov-based balanced truncation model reduction method which
+preserves stability and passivity. By making use of the underlying structure of
+the problem, we develop an efficient model reduction algorithm. Numerical
+experiments demonstrate its performance on a test example.

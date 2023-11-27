@@ -1,0 +1,10 @@
+Thermoelectric properties of Graphene Nanoribbons doped by magnetic
+impurities Fe and Co are carried out in room temperature. We report on a study
+of the band structure dependent properties such as electrical conductivity,
+charge of carriers and Seebeck coefficients. We investigate the thermoelectric
+properties using the Semi-classical Boltzmann method. The electronic band
+structure of doped nanoribbons are evaluated by using density-functional theory
+in which the Hubbard interaction is considered. In this work we compare the
+different types of the nanoribbons and their thermoelectric features in the
+presence and absence of the magnetic impurities and discuss the importance of
+the distance between impurities and the edge of the nanoribbons.

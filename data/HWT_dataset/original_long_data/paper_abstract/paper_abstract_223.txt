@@ -1,0 +1,13 @@
+Multi-Party Computation (MPC) is a technique enabling data from several
+sources to be used in a secure computation revealing only the result while
+protecting the original data, facilitating shared utilization of data sets
+gathered by different entities. The presence of Field Programmable Gate Array
+(FPGA) hardware in datacenters can provide accelerated computing as well as low
+latency, high bandwidth communication that bolsters the performance of MPC and
+lowers the barrier to using MPC for many applications. In this work, we propose
+a Secret Sharing FPGA design based on the protocol described by Araki et al. We
+compare our hardware design to the original authors' software implementations
+of Secret Sharing and to work accelerating MPC protocols based on Garbled
+Circuits with FPGAs. Our conclusion is that Secret Sharing in the datacenter is
+competitive and when implemented on FPGA hardware was able to use at least
+10$\times$ fewer computer resources than the original work using CPUs.

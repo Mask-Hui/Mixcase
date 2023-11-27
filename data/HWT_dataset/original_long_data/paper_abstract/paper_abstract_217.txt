@@ -1,0 +1,18 @@
+Sampling is a widely used graph reduction technique to accelerate graph
+computations and simplify graph visualizations. By comprehensively analyzing
+the literature on graph sampling, we assume that existing algorithms cannot
+effectively preserve minority structures that are rare and small in a graph but
+are very important in graph analysis. In this work, we initially conduct a
+pilot user study to investigate representative minority structures that are
+most appealing to human viewers. We then perform an experimental study to
+evaluate the performance of existing graph sampling algorithms regarding
+minority structure preservation. Results confirm our assumption and suggest key
+points for designing a new graph sampling approach named mino-centric graph
+sampling (MCGS). In this approach, a triangle-based algorithm and a
+cut-point-based algorithm are proposed to efficiently identify minority
+structures. A set of importance assessment criteria are designed to guide the
+preservation of important minority structures. Three optimization objectives
+are introduced into a greedy strategy to balance the preservation between
+minority and majority structures and suppress the generation of new minority
+structures. A series of experiments and case studies are conducted to evaluate
+the effectiveness of the proposed MCGS.

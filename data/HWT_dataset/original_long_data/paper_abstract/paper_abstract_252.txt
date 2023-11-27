@@ -1,0 +1,8 @@
+For SCFTs with an $SU(2)$ R-symmetry, we determine the superconformal blocks
+that contribute to the four-point correlation function of a priori distinct
+half-BPS superconformal primaries as an expansion in terms of the relevant
+bosonic conformal blocks. This is achieved by using the superconformal Casimir
+equation and the superconformal Ward identity to fix the coefficients of the
+bosonic blocks uniquely in a dimension-independent way. In addition we find
+that many of the resulting coefficients are related through a web of linear
+transformations of the conformal data.

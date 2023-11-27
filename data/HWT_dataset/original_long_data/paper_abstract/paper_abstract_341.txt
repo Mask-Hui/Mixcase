@@ -1,0 +1,9 @@
+The Mittag-Leffler function is universally acclaimed as the Queen function of
+fractional calculus. The aim of this work is to survey the key results and
+applications emerging from the three-parameter generalization of this function,
+known as the Prabhakar function. Specifically, after reviewing key historical
+events that led to the discovery and modern development of this peculiar
+function, we discuss how the latter allows one to introduce an enhanced scheme
+for fractional calculus. Then, we summarize the progress in the application of
+this new general framework to physics and renewal processes. We also provide a
+collection of results on the numerical evaluation of the Prabhakar function.

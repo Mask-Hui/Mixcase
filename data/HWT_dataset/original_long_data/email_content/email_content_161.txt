@@ -1,0 +1,20 @@
+sscott5 (Non-Privileged).pst
+
+FYI - Below are procedures for populating the curve validation templates.  All templates have now been loaded with curve information and are now ready for the broker quotes.  Could you please also keep me informed of where you stand in the process of completing these.
+
+Thanks, 
+
+Kathy Kelly
+
+ -----Original Message-----
+From: 	Bowler, Tim  
+Sent:	Tuesday, February 12, 2002 10:25 PM
+To:	Considine, Keith; 'mark.allan.smith@us.pwcglobal.com'
+Cc:	Kelly, Katherine L.; Barone, Michael
+Subject:	Natural Gas Trader procedures
+
+All,
+
+Attached is the preliminary draft of the Natural Gas procedures for Trader actions in populating the template.
+
+Kathy, I'm getting this to you as a heads-up.  There are specific actions the traders need to take in order to populate the templates accurately.  Please share this info. with them; they shouldn't wait on us for the final copy.

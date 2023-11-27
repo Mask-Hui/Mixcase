@@ -1,0 +1,10 @@
+We study the classical problem of recovering a multidimensional source
+process from observations of nonlinear mixtures of this process. Assuming
+statistical independence of the coordinate processes of the source, we show
+that this recovery is possible for many popular models of stochastic processes
+(up to order and monotone scaling of their coordinates) if the mixture is given
+by a sufficiently differentiable, invertible function. Key to our approach is
+the combination of tools from stochastic analysis and recent contrastive
+learning approaches to nonlinear ICA. This yields a scalable method with widely
+applicable theoretical guarantees for which our experiments indicate good
+performance.

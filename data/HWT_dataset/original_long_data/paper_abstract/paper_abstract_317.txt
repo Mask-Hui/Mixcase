@@ -1,0 +1,22 @@
+Supermassive black holes (BHs) of millions solar masses and above reside in
+the center of most local galaxies, but they also power active galactic nuclei
+and quasars, detected up to z=7. This observational evidence puts strong
+constraints on the BH growth and the mass of the first BH seeds. The scenario
+of "direct collapse" is very appealing as it leads to the formation of large
+mass BH seeds in the range 10^4-10^6 Msun, which eases explaining how quasars
+at z=6-7 are powered by BHs with masses >10^9 Msun. Direct collapse, however,
+appears to be rare, as the conditions required by the scenario are that gas is
+metal-free, the presence of a strong photo-dissociating Lyman-Werner flux, and
+large inflows of gas at the center of the halo, sustained for 10-100 Myr. We
+performed several cosmological hydrodynamical simulations that cover a large
+range of box sizes and resolutions, thus allowing us to understand the impact
+of several physical processes on the distribution of direct collapse BHs. We
+identify halos where direct collapse can happen, and derive the number density
+of BHs. We also investigate the discrepancies between hydrodynamical
+simulations, direct or post-processed, and semi-analytical studies. We find
+that for direct collapse to account for BHs in normal galaxies, the critical
+Lyman-Werner flux required for direct collapse must be much less than predicted
+by 3D simulations that include detailed chemical models. However, when
+supernova feedback is relatively weak, enough direct collapse BHs to explain
+z=6-7 quasars can be obtained for more realistic values of the critical Lyman
+Werner flux.

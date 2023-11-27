@@ -1,0 +1,28 @@
+lcampbel.nsf
+
+pmorrison@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List:
+
+
+
+
+Dear Market Participants,
+
+- At about 6:30PM (1830) on November 22, 2000 the Production
+Mainframe was restarted at the request of the Shift Supervisor
+(for time not updating on screens).
+
+- The Mainframe-Spider Data Exchange (DEX) did not initialize
+correctly at that time causing a failure to send any 5-min data
+(MWs and LBMPs)  to the MIS.
+
+- The problem was finally corrected at approximately 7:15PM (1914)
+which re-established the DEX.
+
+- We have been able to reconstruct the LBMPs that were calculated
+during this problem period, as well as the PTS data.
+
+- This data was posted and the final billing for Nov will include this data.
+
+Regards,
+Customer Relations
+518-356-6060

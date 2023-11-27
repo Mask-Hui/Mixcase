@@ -1,0 +1,10 @@
+Manganese, in the a-Mn structure, has been studied using synchrotron powder
+x-ray diffraction in a diamond anvil cell up to 220 GPa at room temperature
+combined with density functional calculations (DFT). The experiment reveals an
+extended pressure stability of the a-Mn phase up to the highest pressure of
+this study, in contrast with previous experimental and theoretical studies. On
+the other hand, calculations reveal that the previously predicted hcp-Mn phase
+becomes lower in enthalpy than the a-Mn phase above 160 GPa. The apparent
+discrepancy is explained due to a substantial electron transfer between Mn
+ions, which stabilizes the a-Mn phase through the formation of ionic bonding
+between monatomic ions under pressure.

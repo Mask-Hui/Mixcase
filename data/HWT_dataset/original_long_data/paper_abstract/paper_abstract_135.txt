@@ -1,0 +1,16 @@
+We study the free-streaming effect in a light freeze-in dark matter model.
+Naturally in the dark sector one can find dark matter related coupling, and
+such coupling may induce dark matter self-scattering. In case that such
+scattering is subdominant, the dark matter partition function is not thermal
+but determined by the freeze-in process, yet its high momentum side is
+generally also Boltzmann suppressed. We show that the matter power spectrum is
+very similar to a warm dark matter one in shape. When matched to the current
+WDM bound, a $24$~keV freeze-in dark matter is ruled out at $2\sigma$
+confidence level. In case that the dark matter self-scattering is strong and
+decouples at a very late time, by a new numerical calculation we show that the
+early stage Brownian motion indeed protects the power spectrum against
+free-streaming suppression. However, such an effect cannot be characterized by
+a free-streaming length alone; we find that the self-scattering decoupling time
+is another necessary parameter. The currently interested dark matter
+self-interaction cross section $\sim\text{cm}^2/\text{g}$ is just marginal for
+such protection to be effective.

@@ -1,0 +1,14 @@
+Metal ion implantation into ceramics has been demonstrated to be an effective
+and controllable technique for tailoring the surface electrical conductivity of
+the ceramic piece, and this approach has been used in a number of applications.
+Importantly, it provides a method for grading the voltage drop across high
+voltage insulators, and thereby increasing the maximum operational voltage that
+can be applied across the insulator without surface flashover. However a
+concern for the use of the method is the long term stability of the
+implantation-induced conductivity, this especially so if the implanted metal
+species is readily oxidized. Here we report on our examination of the long-term
+behavior of the surface conductivity of titanium-implanted alumina. The results
+indicate that after an initial drop of as much as 40% in the first few weeks
+after implantation, the conductivity shows only a very slow decrease of about
+10% over the following year. This degree of change should be quite sufficiently
+small to be unimportant for all but the most demanding situations.

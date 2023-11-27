@@ -1,0 +1,20 @@
+Numerous theories extending beyond the standard model of particle physics
+predict the existence of bosons that could constitute the dark matter (DM)
+permeating the universe. In the standard halo model (SHM) of galactic dark
+matter the velocity distribution of the bosonic DM field defines a
+characteristic coherence time $\tau_c$. Until recently, laboratory experiments
+searching for bosonic DM fields have been in the regime where the measurement
+time $T$ significantly exceeds $\tau_c$, so null results have been interpreted
+as constraints on the coupling of bosonic DM to standard model particles with a
+bosonic DM field amplitude $\Phi_0$ fixed by the average local DM density.
+However, motivated by new theoretical developments, a number of recent searches
+probe the regime where $T\ll\tau_c$. Here we show that experiments operating in
+this regime do not sample the full distribution of bosonic DM field amplitudes
+and therefore it is incorrect to assume a fixed value of $\Phi_0$ when
+inferring constraints on the coupling strength of bosonic DM to standard model
+particles. Instead, in order to interpret laboratory measurements (even in the
+event of a discovery), it is necessary to account for the stochastic nature of
+such a virialized ultralight field (VULF). The constraints inferred from
+several previous null experiments searching for ultralight bosonic DM were
+overestimated by factors ranging from 3 to 10 depending on experimental
+details, model assumptions, and choice of inference framework.

@@ -1,0 +1,12 @@
+In this paper, we regard the $T\bar{T}$/$J\bar{T}$-deformed CFTs as
+perturbation theories and calculate the first order correction of the
+correlation functions due to the $T\bar{T}$/$J\bar{T}$-deformation. As
+applications, we study the R\'enyi entanglement entropy of excited state in the
+$T\bar{T}$/$J\bar{T}$-deformed two-dimensional CFTs. We find, up to the
+perturbation first order of the deformation, the R\'enyi entanglement entropy
+of locally excited states will acquire a non-trivial time dependence. The
+excess of the R\'enyi entanglement entropy of locally excited state will also
+be dramatically changed up to order ${\cal O}(c)$. Furthermore, the out of time
+ordered correlation function is investigated to confirm that the
+$T\bar{T}$/$J\bar{T}$-deformations do not change the maximal chaotic behavior
+of holographic CFTs up to the first order of the deformations.

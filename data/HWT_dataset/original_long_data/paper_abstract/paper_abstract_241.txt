@@ -1,0 +1,9 @@
+We give a very simple derivation of the Atiyah-Patodi-Singer (APS) index
+theorem and its small generalization by using the path integral of massless
+Dirac fermions. It is based on the Fujikawa's argument for the relation between
+the axial anomaly and the Atiyah-Singer index theorem, and only a minor
+modification of that argument is sufficient to show the APS index theorem. The
+key ingredient is the identification of the APS boundary condition and its
+generalization as physical state vectors in the Hilbert space of the massless
+fermion theory. The APS $\eta$-invariant appears as the axial charge of the
+physical states.

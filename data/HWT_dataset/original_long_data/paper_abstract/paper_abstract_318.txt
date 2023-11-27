@@ -1,0 +1,10 @@
+In this work we use the string/gauge duality within the Softwall Model (SW).
+In this model a dilaton field is introduced in the action for the fields
+playing the role of a soft infrared (IR) cutoff. The SW model is very useful as
+it provides linear Regge trajectories for mesons. Here, using a
+$10-$dimensional SW model, we calculate the corresponding structure functions
+for deep inelastic scattering (DIS) in which electrons are scattered off
+hadrons in a kinematical regime where the hadrons are broken apart, with high
+virtuality $q$, in the exponentially small $x$ (Bjorken parameter) regime. Our
+results for this regime are consistent with those achieved using other
+holographic and non-holographic approaches.

@@ -1,0 +1,8 @@
+In this article we present a methodology to estimate the Transfer Entropy
+Rate between two systems through the Lempel-Ziv complexity. This methodology
+carries a set of practical advantages: it can be estimated from two single
+discrete series of measures, it is not computationally expensive and it does
+not assume any model for the data. The results of simulations over three
+different unidirectional coupled systems, suggest that this methodology can be
+used to assess the direction and strength of the information flow between
+systems.

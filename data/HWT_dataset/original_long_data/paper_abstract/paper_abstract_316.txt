@@ -1,0 +1,20 @@
+A unifying mathematical formulation is needed to move from one-off digital
+twins built through custom implementations to robust digital twin
+implementations at scale. This work proposes a probabilistic graphical model as
+a formal mathematical representation of a digital twin and its associated
+physical asset. We create an abstraction of the asset-twin system as a set of
+coupled dynamical systems, evolving over time through their respective
+state-spaces and interacting via observed data and control inputs. The formal
+definition of this coupled system as a probabilistic graphical model enables us
+to draw upon well-established theory and methods from Bayesian statistics,
+dynamical systems, and control theory. The declarative and general nature of
+the proposed digital twin model make it rigorous yet flexible, enabling its
+application at scale in a diverse range of application areas. We demonstrate
+how the model is instantiated to enable a structural digital twin of an
+unmanned aerial vehicle (UAV). The digital twin is calibrated using
+experimental data from a physical UAV asset. Its use in dynamic decision making
+is then illustrated in a synthetic example where the UAV undergoes an in-flight
+damage event and the digital twin is dynamically updated using sensor data. The
+graphical model foundation ensures that the digital twin calibration and
+updating process is principled, unified, and able to scale to an entire fleet
+of digital twins.

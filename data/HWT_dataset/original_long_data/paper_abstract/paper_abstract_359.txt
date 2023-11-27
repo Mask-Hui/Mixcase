@@ -1,0 +1,15 @@
+Many natural optimization problems are NP-hard, which implies that they are
+probably hard to solve exactly in the worst-case. However, it suffices to get
+reasonably good solutions for all (or even most) instances in practice. This
+paper presents a new algorithm for computing approximate solutions in
+${\Theta(N})$ for the Maximum Exact 3-Satisfiability (MAX-E-$3$-SAT) problem by
+using deep learning methodology. This methodology allows us to create a
+learning algorithm able to fix Boolean variables by using local information
+obtained by the Survey Propagation algorithm. By performing an accurate
+analysis, on random CNF instances of the MAX-E-$3$-SAT with several Boolean
+variables, we show that this new algorithm, avoiding any decimation strategy,
+can build assignments better than a random one, even if the convergence of the
+messages is not found. Although this algorithm is not competitive with
+state-of-the-art Maximum Satisfiability (MAX-SAT) solvers, it can solve
+substantially larger and more complicated problems than it ever saw during
+training.

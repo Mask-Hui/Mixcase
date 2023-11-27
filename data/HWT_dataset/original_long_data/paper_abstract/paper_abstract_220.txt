@@ -1,0 +1,13 @@
+Open-system dynamics play a key role in the experimental and theoretical
+study of cavity optomechanical systems. In many cases, the quantum Langevin
+equations have enabled excellent models for optical decoherence, yet a master
+equation approach for the fully nonlinear optomechanical Hamiltonian has thus
+far proven more elusive. To address this outstanding question and broaden the
+mathematical toolset available, we derive a solution to the Lindblad master
+equation that models optical decoherence for a system evolving with the
+nonlinear optomechanical Hamiltonian. The method combines a Lie-algebra
+solution to the unitary dynamics with a vectorization of the Lindblad equation,
+and we demonstrate its applicability by considering the preparation of optical
+cat-states via the optomechanical nonlinearity in the presence of optical loss.
+Our results provide a direct way of analytically assessing the impact of
+optical decoherence on the optomechanical intracavity state.

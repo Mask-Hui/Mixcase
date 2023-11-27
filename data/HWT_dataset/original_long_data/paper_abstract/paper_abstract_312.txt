@@ -1,0 +1,11 @@
+Using the principles of the modern scattering amplitudes programme, we
+develop a formalism for constructing the amplitudes of three-dimensional
+topologically massive gauge theories and gravity. Inspired by recent
+developments in four dimensions, we construct the three-dimensional equivalent
+of $x$-variables for conserved matter currents coupled to topologically massive
+gauge bosons or gravitons. Using these, we bootstrap various matter-coupled
+gauge-theory and gravitational scattering amplitudes, and conjecture that
+topologically massive gauge theory and topologically massive gravity are
+related by the double copy. To motivate this idea further, we show explicitly
+that the Landau gauge propagator on the gauge theory side double copies to the
+de Donder gauge propagator on the gravity side.

@@ -1,0 +1,17 @@
+We introduce a theory for the development of a transitional column density
+$\Sigma_{\rm TP}$ between the lognormal and the power-law forms of the
+probability distribution function (PDF) in a molecular cloud. Our turbulent
+magnetohydrodynamic simulations show that the value of $\Sigma_{\rm TP}$
+increases as the strength of both the initial magnetic field and turbulence
+increases. We develop an analytic expression for $\Sigma_{\rm TP}$ based on the
+interplay of turbulence, a (strong) magnetic field, and gravity. The transition
+value $\Sigma_{\rm TP}$ scales with $\mathcal{M}^2_{\rm 0}$, the square of the
+initial sonic Mach number, and $\beta_{0}$, the initial ratio of gas pressure
+to magnetic pressure. We fit the variation of $\Sigma_{\rm TP}$ among different
+model clouds as a function of $\mathcal{M}^2_{\rm 0} \beta_{0}$, or
+equivalently the square of the initial Alfv\'enic Mach number
+$\mathcal{M}^2_{\rm A0}$. This implies that the transition value $\Sigma_{\rm
+TP}$ is an imprint of cloud initial conditions and is set by turbulent
+compression of a magnetic cloud. Physically, the value of $\Sigma_{\rm TP}$
+denotes the boundary above which the mass-to-flux ratio becomes supercritical
+and gravity drives the evolution.

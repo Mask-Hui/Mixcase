@@ -1,0 +1,15 @@
+We show that heavy ion collisions at the LHC provide a promising environment
+to search for new long lived particles in well-motivated New Physics scenarios.
+One advantage lies in the possibility to operate the main detectors with looser
+triggers, which can increase the number of observable events by orders of
+magnitude if the long lived particles are produced with low transverse
+momentum. In addition, the absence of pileup in heavy ion collisions can avoid
+systematic nuisances that will be present in future proton runs, such as the
+problem of vertex mis-identification. Finally, there are new production
+mechanisms that are absent or inefficient in proton collisions. We show that
+the looser triggers alone can make searches in heavy ion data competitive with
+proton data for the specific example of heavy neutrinos in the Neutrino Minimal
+Standard Model, produced in the decay of B mesons. Our results suggest that
+collisions of ions lighter than lead, which are currently under discussion in
+the heavy ion community, are well-motivated from the viewpoint of searches for
+New Physics.

@@ -1,0 +1,10 @@
+Recently there is a surge of interest in network geometry and topology. Here
+we show that the spectral dimension plays a fundamental role in establishing a
+clear relation between the topological and geometrical properties of a network
+and its dynamics. Specifically we explore the role of the spectral dimension in
+determining the synchronization properties of the Kuramoto model. We show that
+the synchronized phase can only be thermodynamically stable for spectral
+dimensions above four and that phase entrainment of the oscillators can only be
+found for spectral dimensions greater than two. We numerically test our
+analytical predictions on the recently introduced model of network geometry
+called Complex Network Manifolds which displays a tunable spectral dimension.

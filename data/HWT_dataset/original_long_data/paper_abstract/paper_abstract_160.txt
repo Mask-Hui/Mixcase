@@ -1,0 +1,12 @@
+Elliptical galaxies have dynamically hot ($\sigma_{\rm 1D}$ ~ 100--300 km
+s$^{-1}$) populations of stars, and presumably, smaller objects like comets.
+Because interstellar minor bodies are moving much faster, they hit planets
+harder and more often than in the local Galaxy. I estimate the rates for
+Chicxulub-scale impacts on an Earth-size planet in elliptical galaxies as a
+potential habitability constraint on intelligent life. Around most stars in a
+normal elliptical galaxy, these planets receive only ~ 0.01--0.1 Gyr$^{-1}$,
+although hazardous rates may be common in certain compact early-type galaxies.
+About ~10% of the stellar mass is in a region where the rate is >10 Gyr$^{-1}$,
+large enough to dominate the mass extinction rate. This suggests that
+elliptical galaxies have an exclusion zone several hundred parsecs in radius
+around their centers for the evolution of intelligent life.

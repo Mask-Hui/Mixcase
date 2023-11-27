@@ -1,0 +1,14 @@
+Many existing or proposed intensity-frontier search experiments look for
+decay signatures of light long-lived particles (LLPs), highly displaced from
+the interaction point, in a distant detector that is well-shielded from SM
+background. This approach is, however, limited to new particles with decay
+lengths similar to or larger than the baseline of those experiments. In this
+study, we discuss how this basic constraint can be overcome in BSM models that
+go beyond the simplest scenarios. If more than one light new particle is
+present in the model, an additional secondary production of LLPs may take place
+right in front of the detector, opening this way a new lifetime regime to be
+probed. We illustrate the prospects of such searches in the future experiments
+FASER, MATHUSLA and SHiP, for representative models, emphasizing possible
+connections to dark matter or an anomalous magnetic moment of muon. We also
+analyze additional advantages from employing dedicated neutrino detectors
+placed in front of the main decay volume.

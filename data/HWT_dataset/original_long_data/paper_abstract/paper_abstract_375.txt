@@ -1,0 +1,18 @@
+Using commodity WiFi data for applications such as indoor localization,
+object identification and tracking and channel sounding has recently gained
+considerable attention. We study the problem of channel impulse response (CIR)
+estimation from commodity WiFi channel state information (CSI). The accuracy of
+a CIR estimation method in this setup is limited by both the available channel
+bandwidth as well as various CSI distortions induced by the underlying
+hardware. We propose a multi-band splicing method that increases channel
+bandwidth by combining CSI data across multiple frequency bands. In order to
+compensate for the CSI distortions, we develop a per-band processing algorithm
+that is able to estimate the distortion parameters and remove them to yield the
+"clean" CSI. This algorithm incorporates the atomic norm denoising sparse
+recovery method to exploit channel sparsity. Splicing clean CSI over M
+frequency bands, we use orthogonal matching pursuit (OMP) as an estimation
+method to recover the sparse CIR with high (M-fold) resolution. Unlike previous
+works in the literature, our method does not appeal to any limiting assumption
+on the CIR (other than the widely accepted sparsity assumption) or any ad hoc
+processing for distortion removal. We show, empirically, that the proposed
+method outperforms the state of the art in terms of localization accuracy.

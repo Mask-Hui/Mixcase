@@ -1,0 +1,18 @@
+Controlling interfacial interactions in magnetic/topological insulator
+heterostructures is a major challenge for the emergence of novel spin-dependent
+electronic phenomena. As for any rational design of heterostructures that rely
+on proximity effects, one should ideally retain the overall properties of each
+component while tuning interactions at the interface. However, in most
+inorganic interfaces interactions are too strong, consequently perturbing, and
+even quenching, both the magnetic moment and the topological surface states at
+each side of the interface. Here we show that these properties can be preserved
+by using ligand chemistry to tune the interaction of magnetic ions with the
+surface states. By depositing Co-based porphyrin and phthalocyanine monolayers
+on the surface of Bi$_2$Te$_3$ thin films, robust interfaces are formed that
+preserve undoped topological surface states as well as the pristine magnetic
+moment of the divalent Co ions. The selected ligands allow us to tune the
+interfacial hybridization within this weak interaction regime. These results,
+which are in stark contrast with the observed suppression of the surface state
+at the first quintuple layer of Bi$_2$Se$_3$ induced by the interaction with Co
+phthalocyanines, demonstrate the capability of planar metal-organic molecules
+to span interactions from the strong to the weak limit.

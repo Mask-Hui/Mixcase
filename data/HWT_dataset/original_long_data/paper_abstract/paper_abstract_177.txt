@@ -1,0 +1,20 @@
+The Two-body problem of $M31$ and the Milky Way (MW) galaxies with a
+Cosmological Constant background is studied, with emphasis on the possibility
+that they experienced Past Encounters. By implementing the Timing Argument
+(TA), it is shown that if $M{31}$ and the MW have had more than one encounter
+then the deduced mass of the Local Group (LG) would be larger. Past encounters
+are possible only for non-zero transverse velocity, and their viability is
+subject to observations of the imprints of such near collisions. Using a recent
+$Gaia$ - based measurement of the transverse velocity we show that the presence
+of the Cosmological Constant requires the mass for the LG to be $35\%$ higher:
+$3.36^{+1.14}_{-0.70} \cdot 10^{12} M_{\odot}$ with no Cosmological Constant or
+$4.54^{+1.20}_{-0.75} \cdot 10^{12} M_{\odot}$ with a Cosmological Constant
+background. If the LG has had one past encounter, the LG mass is
+$9.99^{+2.22}_{-1.58}\cdot 10^{12} M_{\odot}$ with a Cosmological Constant
+background. Modified Newtonian Dynamics (MOND) is studied as the accelerations
+of the Local Group are fully in the deep-MOND regime. MOND yields the order of
+magnitude for the expected baryonic mass only if at least one encounter
+occurred. While we only consider the LG as two point masses, our calculations
+provide a benchmark for future work with simulations to test Dynamical Friction
+and other effects. This model can be also used to test screening mechanisms and
+alternative theories of gravity.

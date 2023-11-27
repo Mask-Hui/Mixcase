@@ -1,0 +1,19 @@
+The secondary Bjerknes force plays a significant role in the evolution of
+bubble clusters. However, due to the complex dependence of the force on
+multiple parameters, it is highly non-trivial to include the effects of this
+force in the simulations of bubble clusters. In this paper, machine learning is
+used to develop a data-driven model for the secondary Bjerknes force between
+two insonated bubbles as a function of the equilibrium radii of the bubbles,
+the distance between the bubbles, the amplitude and the frequency of the
+pressure. The force varies over several orders of magnitude, which poses a
+serious challenge for the usual machine learning models. To overcome this
+difficulty, the magnitudes and the signs of the force are separated and
+modelled separately. A nonlinear regression is obtained with a feed-forward
+network model for the logarithm of the magnitude, whereas the sign is modelled
+by a support-vector machine model. The principle, the practical aspects related
+to the training and validation of the machine models are introduced. The
+predictions from the models are checked against the values computed from the
+Keller-Miksis equations. The results show that the models are extremely
+efficient while providing accurate estimate of the force. The models make it
+computationally feasible for the future simulations of the bubble clusters to
+include the effects of the secondary Bjerknes force.

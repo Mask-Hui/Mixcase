@@ -1,0 +1,20 @@
+Here, we present a kinematical analysis of the Virgo cluster ultra-diffuse
+galaxy (UDG) VCC 1287 based on data taken with the Keck Cosmic Web Imager
+(KCWI). We confirm VCC 1287's association both with the Virgo cluster and its
+globular cluster (GC) system, measuring a recessional velocity of $1116 \pm 2\
+\mathrm{km\ s^{-1}}$. We measure a stellar velocity dispersion ($19 \pm 6\
+\mathrm{km\ s^{-1}}$) and infer both a dynamical mass ($1.11^{+0.81}_{-0.81}
+\times 10^{9} \ \mathrm{M_{\odot}}$) and mass to light ratio ($13^{+11}_{-11}$)
+within the half light radius (4.4 kpc). This places VCC 1287 slightly above the
+well established relation for normal galaxies, with a higher mass to light
+ratio for its dynamical mass than normal galaxies. We use our dynamical mass,
+and an estimate of GC system richness, to place VCC 1287 on the GC number --
+dynamical mass relation, finding good agreement with a sample of normal
+galaxies. Based on a total halo mass derived from GC counts, we then infer that
+VCC 1287 likely resides in a cored or low concentration dark matter halo. Based
+on the comparison of our measurements to predictions from simulations, we find
+that strong stellar feedback and/or tidal effects are plausibly the dominant
+mechanisms in the formation of VCC 1287. Finally, we compare our measurement of
+the dynamical mass with those for other UDGs. These dynamical mass estimates
+suggest relatively massive halos and a failed galaxy origin for at least some
+UDGs.

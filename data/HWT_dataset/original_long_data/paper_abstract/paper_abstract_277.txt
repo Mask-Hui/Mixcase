@@ -1,0 +1,12 @@
+In this paper, we propose a stochastic dynamic model for earthquake rupture
+and suggest that the Langevin equation of frictions may be used for
+interpreting the slip distributions of rupture processes in earthquakes. The
+steady-state solution of the derived Langevin equation analytically attains the
+truncated exponential (TEX) distribution that is empirically characterized in
+many rupture models of earthquake events worldwide, as demonstrated by
+Thingbaijam and Mai (2016, https://doi.org/10.1785/0120150291). Our proposed
+stochastic dynamic faulting model for earthquake rupture intrinsically includes
+fluctuations and uncertainties in the heterogeneity of faulting planes as
+random variables. Specifically, we related the characteristic parameter u_c in
+TEX functions to the ratio of diffusion and friction coefficients D and \gamma
+of the Langevin equation.

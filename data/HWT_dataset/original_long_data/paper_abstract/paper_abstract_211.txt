@@ -1,0 +1,12 @@
+Continuous-time quantum walks have proven to be an extremely useful framework
+for the design of several quantum algorithms. Often, the running time of
+quantum algorithms in this framework is characterized by the quantum hitting
+time: the time required by the quantum walk to find a vertex of interest with a
+high probability. In this article, we provide improved upper bounds for the
+quantum hitting time that can be applied to several CTQW-based quantum
+algorithms. In particular, we apply our techniques to the glued-trees problem,
+improving their hitting time upper bound by a polynomial factor: from $O(n^5)$
+to $O(n^2\log n)$. Furthermore, our methods also help to exponentially improve
+the dependence on precision of the continuous-time quantum walk based algorithm
+to find a marked node on any ergodic, reversible Markov chain by Chakraborty et
+al. [PRA 102, 022227 (2020)].

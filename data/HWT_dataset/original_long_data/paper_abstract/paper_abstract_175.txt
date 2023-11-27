@@ -1,0 +1,21 @@
+It has been recently shown that the orbital angular momentum (OAM) and
+temporal degrees of freedom in ultrafast (few-cycle) vortices are coupled. This
+coupling manifests itself with different effects in different parts of the
+vortex, as has been shown for the ring surrounding the vortex where the pulse
+energy is maximum, and also in the immediate vicinity of the vortex center. In
+may applications, however, the ring of maximum energy is not of primary
+interest, but that where the pulse peak intensity is maximum, which is
+particularly true in nonlinear optics applications such as the experiments with
+ultrafast vortices exciting high harmonics and attosecond pulses carrying also
+OAM. This article describes the effects of the OAM-temporal coupling at the
+ring of maximum pulse peak intensity, which does not always coincide with the
+ring of maximum pulse energy. We find that there exists an upper bound to the
+magnitude of the topological charge that an ultrafast vortex with prescribed
+pulse shape at its most intense ring can carry, and vice versa, a lower bound
+to the duration of the pulse at the most intense ring for a given magnitude of
+the topological charge. These bounds imply that with a given laser source
+spectrum, the duration of the synthesized ultrafast vortex increases with the
+magnitude of the topological charge. Explicit analytical expressions of
+ultrafast vortices containing these OAM-temporal couplings are given that can
+be of interest in a variety of applications, particularly in the study of their
+propagation and interaction with matter.

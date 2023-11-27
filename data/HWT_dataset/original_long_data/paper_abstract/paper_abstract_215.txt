@@ -1,0 +1,20 @@
+The inverse magnetocaloric effect (MCE) in Ni-Mn-based Heusler compounds
+occurs during the magnetostructural transition between low-temperature,
+low-magnetization martensite and high-temperature, high-magnetization
+austenite. In this study, we analyze the metamagnetic transformation of a
+$Ni_{49.8}Mn_{35}In_{15.2}$ compound by simultaneous adiabatic temperature
+change and strain measurements in pulsed magnetic fields up to 10 T. We observe
+an adiabatic temperature change of -10 K and a strain of -0.22 % when the
+reverse martensitic transition is fully induced at a starting temperature of
+285 K. By a variation of the magnetic field-sweep rates between 316 Ts$^{-1}$,
+865 Ts$^{-1}$ and 1850 Ts$^{-1}$, the transitional dynamics of the reverse
+martensitic transformation have been investigated. Our experiments reveal an
+apparent delay upon the end of the reverse martensitic transformation at field
+rates exceeding 865 Ts$^{-1}$ which is related to the annihilation of retained
+martensite. As a consequence, the field hysteresis increases and higher fields
+are required to saturate the transition. In contrast, no time-dependent effects
+on the onset of the reverse martensitic transformation were observed in the
+studied field-sweep range. Our results demonstrate that kinetic effects in
+Heusler compounds strongly affect the magnetic cooling cycle, especially when
+utilising a multicaloric "exploiting-hysteresis cycle" where high magnetic
+field-sweep rates are employed.

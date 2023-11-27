@@ -1,0 +1,10 @@
+We observe a novel type of shear banding in the rheology of thixotropic
+yield-stress fluids that is due to the coupling of both non-locality and
+thixotropy. The latter is known to lead to shear banding even in homogeneous
+stress fields, but the bands observed in the presence of non-local effects
+appear different as the shear rate varies continuously over the shear band.
+Here, we introduce a simple non-local model for the shear banding (NL-SB), and
+we implement it for the analysis of micron-scale rheo-MRI velocimetry
+measurements of a milk microgel suspension in a cone-and-plate geometry. The
+proposed NL-SB model accurately quantifies the cooperativity length and yields
+values in the order of the aggregate size in the microgel.

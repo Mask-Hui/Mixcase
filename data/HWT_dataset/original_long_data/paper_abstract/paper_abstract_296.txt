@@ -1,0 +1,21 @@
+Classical multivariate statistics measures the outlyingness of a point by its
+Mahalanobis distance from the mean, which is based on the mean and the
+covariance matrix of the data. A multivariate depth function is a function
+which, given a point and a distribution in d-space, measures centrality by a
+number between 0 and 1, while satisfying certain postulates regarding
+invariance, monotonicity, convexity and continuity. Accordingly, numerous
+notions of multivariate depth have been proposed in the literature, some of
+which are also robust against extremely outlying data. The departure from
+classical Mahalanobis distance does not come without cost. There is a trade-off
+between invariance, robustness and computational feasibility. In the last few
+years, efficient exact algorithms as well as approximate ones have been
+constructed and made available in R-packages. Consequently, in practical
+applications the choice of a depth statistic is no more restricted to one or
+two notions due to computational limits; rather often more notions are
+feasible, among which the researcher has to decide. The article debates
+theoretical and practical aspects of this choice, including invariance and
+uniqueness, robustness and computational feasibility. Complexity and speed of
+exact algorithms are compared. The accuracy of approximate approaches like the
+random Tukey depth is discussed as well as the application to large and
+high-dimensional data. Extensions to local and functional depths and
+connections to regression depth are shortly addressed.

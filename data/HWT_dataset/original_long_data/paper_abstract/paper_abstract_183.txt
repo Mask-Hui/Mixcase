@@ -1,0 +1,19 @@
+The estimation of the intrinsic dimension of a dataset is a fundamental step
+in most dimensionality reduction techniques. This article illustrates
+intRinsic, an R package that implements novel state-of-the-art likelihood-based
+estimators of the intrinsic dimension of a dataset. In detail, the methods
+included in this package are the TWO-NN, Gride, and Hidalgo models. To allow
+these novel estimators to be easily accessible, the package contains a few
+high-level, intuitive functions that rely on a broader set of efficient,
+low-level routines. intRinsic encompasses models that fall into two categories:
+homogeneous and heterogeneous intrinsic dimension estimators. The first
+category contains the TWO-NN and Gride models. The functions dedicated to these
+two methods carry out inference under both the frequentist and Bayesian
+frameworks. In the second category we find Hidalgo, a Bayesian mixture model,
+for which an efficient Gibbs sampler is implemented. After discussing the
+theoretical background, we demonstrate the performance of the models on
+simulated datasets. This way, we can assess the results by comparing them with
+the ground truth. Then, we employ the package to study the intrinsic dimension
+of the Alon dataset, obtained from a famous microarray experiment. We show how
+the estimation of homogeneous and heterogeneous intrinsic dimensions allows us
+to gain valuable insights about the topological structure of a dataset.

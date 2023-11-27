@@ -1,0 +1,7 @@
+We present time-lapse spectroscopy of a classical nova explosion commencing 9
+days after discovery. These data reveal the appearance of a transient feature
+in Fe II and [O I]. We explore different models for this feature and conclude
+that it is best explained by a circumbinary disc shock-heated following the
+classical nova event. Circumbinary discs may play an important role in novae in
+accounting for the absorption systems known as THEA, the transfer of angular
+momentum, and the possible triggering of the nova event itself.

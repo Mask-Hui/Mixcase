@@ -1,0 +1,13 @@
+The perturbation method is an approximation scheme with a solvable
+leading-order. The standard way is to choose a non-interacting sector for the
+leading order. The adaptive perturbation method improves the solvable part in
+bosonic systems by using all diagonal elements of the Fock state. We consider
+the harmonic oscillator with the interacting term,
+$\lambda_1x^4/6+\lambda_2x^6/120$, where $\lambda_1$ and $\lambda_2$ are
+coupling constants, and $x$ is the position operator. The spectrum shows a
+quantitative result, less than 1 percent error, compared to a numerical
+solution when we use the adaptive perturbation method up to the second-order
+and turn off the $\lambda_2$. When we turn on the $\lambda_2$, the deviation
+becomes larger, but the error is still less than 2 percent error. Our
+qualitative results are demonstrated in different values of coupling constants,
+not only focused on a weakly coupled region.

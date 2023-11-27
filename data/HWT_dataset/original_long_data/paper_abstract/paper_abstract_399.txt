@@ -1,0 +1,21 @@
+Galaxies change their properties as they assemble into clusters. In order to
+understand the physics behind that, we need to go back in time and observe
+directly what is occurring in galaxies as they fall into a cluster. We have
+conducted a narrow-band and $J$-band imaging survey on a cluster CL1604-D at
+$z=0.923$ using a new infrared instrument SWIMS installed at the Subaru
+Telescope. The narrow-band filter, NB1261, matches to H$\alpha$ emission from
+the cluster at $z=0.923$. Combined with a wide range of existing data from
+various surveys, we have investigated galaxy properties in and around this
+cluster in great detail. We have identified 27 H$\alpha$ emitters associated
+with the cluster. They have significant overlap with MIPS 24$\mu$m sources and
+are located exclusively in the star forming regime on the rest-frame $UVJ$
+diagram. We have identified two groups of galaxies near the cluster in the 2D
+spatial distribution and the phase-space diagram, which are likely to be
+in-falling to the cluster main body. We have compared various physical
+properties of star forming galaxies, such as specific star formation rates
+(burstiness) and morphologies (merger) as a function of environment; cluster
+center, older group, younger group, and the field. As a result, a global
+picture has emerged on how the galaxy properties are altered as they assemble
+into a denser region. This includes the occurrence of mergers, enhancement of
+star formation activity, excursion to the dusty starburst phase, and eventual
+quenching to a passive phase.

@@ -1,0 +1,17 @@
+Spin waves, the collective excitations of the magnetic order parameter, and
+magnons, the associated quasiparticles, are envisioned as possible data
+carriers in future wave-based computing architectures. On the road towards
+spin-wave computing, the development of a diode-like device capable of
+transmitting spin waves in only one direction, thus allowing controlled signal
+routing, is an essential step. Here, we report on the design and experimental
+realization of a microstructured magnonic diode in a ferromagnetic bilayer
+system. Effective unidirectional propagation of spin waves is achieved by
+taking advantage of nonreciprocities produced by dynamic dipolar interactions
+in transversally magnetized media, which lack symmetry about their horizontal
+midplane. More specifically, dipolar-induced nonreciprocities are used to
+engineer the spin-wave dispersion relation of the bilayer system so that the
+group velocity is reduced to very low values for one direction of propagation,
+and not for the other, thus producing unidirectional slow spin waves. Brillouin
+light scattering and propagating spin-wave spectroscopy are used to demonstrate
+the diode-like behavior of the device, the composition of which was previously
+optimized through micromagnetic simulations. simulations.

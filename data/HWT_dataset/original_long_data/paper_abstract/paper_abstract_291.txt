@@ -1,0 +1,14 @@
+Spintronic nanodevices have ultrafast nonlinear dynamic and recurrence
+behaviors on a nanosecond scale that promises to enable spintronic reservoir
+computing (RC) system. Here two physical RC systems based on a single magnetic
+skyrmion memristor (MSM) and 24 spin-torque nano-oscillators (STNOs) were
+proposed and modeled to process image classification task and nonlinear dynamic
+system prediction, respectively. Based on our micromagnetic simulation results
+on the nonlinear responses of MSM and STNO with current pulses stimulation, the
+handwritten digits recognition task domesticates that an RC system using one
+single MSM has the outstanding performance on image classification. In
+addition, the complex unknown nonlinear dynamic problems can also be well
+solved by a physical RC system consisted of 24 STNOs confirmed in a
+second-order nonlinear dynamic system and NARMA10 tasks. The capability of both
+high accuracy and fast information processing promises to enable one type of
+brain-like chip based on spintronics for various artificial intelligence tasks.

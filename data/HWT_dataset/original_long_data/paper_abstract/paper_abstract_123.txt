@@ -1,0 +1,18 @@
+Functional linear regression is an important topic in functional data
+analysis. It is commonly assumed that samples of the functional predictor are
+independent realizations of an underlying stochastic process, and are observed
+over a grid of points contaminated by i.i.d. measurement errors. In practice,
+however, the dynamical dependence across different curves may exist and the
+parametric assumption on the error covariance structure could be unrealistic.
+In this paper, we consider functional linear regression with serially dependent
+observations of the functional predictor, when the contamination of the
+predictor by the white noise is genuinely functional with fully nonparametric
+covariance structure. Inspired by the fact that the autocovariance function of
+observed functional predictors automatically filters out the impact from the
+unobservable noise term, we propose a novel autocovariance-based generalized
+method-of-moments estimate of the slope function. We also develop a
+nonparametric smoothing approach to handle the scenario of partially observed
+functional predictors. The asymptotic properties of the resulting estimators
+under different scenarios are established. Finally, we demonstrate that our
+proposed method significantly outperforms possible competing methods through an
+extensive set of simulations and an analysis of a public financial dataset.

@@ -1,0 +1,15 @@
+Supernovae (SNe) are the most brilliant optical stellar-class explosions.
+Over the past two decades, several optical transient survey projects discovered
+more than $\sim 100$ so-called superluminous supernovae (SLSNe) whose peak
+luminosities and radiated energy are $\gtrsim 7\times 10^{43}$ erg s$^{-1}$ and
+$\gtrsim 10^{51}$ erg, at least an order of magnitude larger than that of
+normal SNe. According to their optical spectra features, SLSNe have been split
+into two broad categories of type I that are hydrogen-deficient and type II
+that are hydrogen-rich. Investigating and determining the energy sources of
+SLSNe would be of outstanding importance for understanding the stellar
+evolution and explosion mechanisms. The energy sources of SLSNe can be
+determined by analyzing their light curves (LCs) and spectra. The most
+prevailing models accounting for the SLSN LCs are the $^{56}$Ni cascade decay
+model, the magnetar spin-down model, the ejecta-CSM interaction model, and the
+jet-ejecta interaction model. In this \textit{review}, we present several
+energy-source models and their different combinations.

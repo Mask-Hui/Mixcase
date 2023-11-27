@@ -1,0 +1,8 @@
+Contrary to what is usually known for the Casas-Ibarra parametrization of the
+Dirac neutrino mass matrix in the type-I seesaw model, the PMNS neutrino mixing
+matrix $U$ may get involved in the treatment of the leptogenesis process when
+the renormalization group running effect is taken into account. In this paper,
+we investigate such renormalization group assisted leptogenesis in the
+economical and predictive minimal type-I seesaw model. Our attention will be
+devoted to the interesting possibility that the CP violation necessary for a
+successful leptogenesis is exclusively owing to the CP phases in $U$.

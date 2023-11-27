@@ -1,0 +1,9 @@
+Classical dynamical systems close to a critical point are known to act as
+efficient sensors due to a strongly nonlinear response. We explore such systems
+in the quantum regime by modeling a quantum version of a driven van der Pol
+oscillator. We find the classical response survives down to one excitation
+quantum. At very weak drives, genuine quantum features arise, including
+diverging and negative susceptibilities. Further, the linear response is
+greatly enhanced by using a strong incoherent pump. These results are largely
+generic and can be probed in current experimental platforms suited for quantum
+sensing.

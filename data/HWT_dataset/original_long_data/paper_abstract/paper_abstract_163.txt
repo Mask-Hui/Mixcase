@@ -1,0 +1,12 @@
+Scanning tunneling microscopy (STM) is a fundamental tool for determination
+of the surface atomic structure. However, the interpretation of high resolution
+microscopy images is not straightforward. In this paper we provide a physical
+insight on how STM images can suggest atomic locations which are distinctively
+different from the real ones. This effect should be taken into account when
+interpreting high-resolution STM images obtained on surfaces with directional
+bonds. It is shown that spurious images are formed in the presence of polarized
+surface radicals showing a pronounced angle with respect to the surface normal.
+This issue has been overlooked within the surface science community and often
+disregarded by experimentalists working with STM. Without loss of generality,
+we illustrate this effect by the magnification observed for pentamer-like
+structures on (110), (113) and (331) surfaces of silicon and germanium.

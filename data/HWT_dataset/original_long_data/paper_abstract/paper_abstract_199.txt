@@ -1,0 +1,15 @@
+Shock electrodialysis is a recently developed electrochemical water treatment
+method which shows promise for water deionization and ionic separations.
+Although simple models and scaling laws have been proposed, a predictive theory
+has not yet emerged to fit experimental data and enable system design. Here, we
+extend and analyze existing "leaky membrane" models for the canonical case of a
+steady shock in cross flow, as in recent experimental prototypes.
+Two-dimensional numerical solutions are compared with analytical boundary-layer
+approximations and experimental data. The boundary-layer theory accurately
+reproduces the simulation results for desalination, and both models predict the
+data collapse of the desalination factor with dimensionless current, scaled to
+the incoming convective flux of cations. The numerical simulation also predicts
+the water recovery increase with current. Nevertheless, both approaches cannot
+quantitatively fit the transition from normal to over-limiting current, which
+suggests gaps in our understanding of extreme electrokinetic phenomena in
+porous media.

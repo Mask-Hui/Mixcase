@@ -1,0 +1,16 @@
+A novel rate splitting space division multiple access (SDMA) scheme based on
+grouped code index modulation (GrCIM) is proposed for the sixth generation (6G)
+downlink transmission. The proposed RSMA-GrCIM scheme transmits information to
+multiple user equipments (UEs) through the space division multiple access
+(SDMA) technique, and exploits code index modulation for rate splitting. Since
+the CIM scheme conveys information bits via the index of the selected Walsh
+code and binary phase shift keying (BPSK) signal, our RSMA scheme transmits the
+private messages of each user through the indices, and the common messages via
+the BPSK signal. Moreover, the Walsh code set is grouped into several
+orthogonal subsets to eliminate the interference from other users. A maximum
+likelihood (ML) detector is used to recovery the source bits, and a
+mathematical analysis is provided for the upper bound bit error ratio (BER) of
+each user. Comparisons are also made between our proposed scheme and the
+traditional SDMA scheme in spectrum utilization, number of available UEs, etc.
+Numerical results are given to verify the effectiveness of the proposed
+SDMA-GrCIM scheme.

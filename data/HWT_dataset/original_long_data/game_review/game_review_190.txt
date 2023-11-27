@@ -1,0 +1,1 @@
+So far fun game like its predacesors however I am getting a lot of studdering and pauses during gameplay with settings at minimal.   Running FX8350, GTX 770, and 16GB ram, so I am above the minimal settings. Waiting for hotfix to smooth out these lag issues.

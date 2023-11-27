@@ -1,0 +1,8 @@
+Spin sum rules depend on the choice of a pivot, i.e. the point about which
+the angular momentun is defined, usually identified with the center of the
+nucleon. The latter is however not unique in a relativistic theory and has led
+to apparently contradictory results in the literature. Using the recently
+developed phase-space approach, we compute for the first time the contribution
+associated with the motion of the center of the nucleon, and we derive a
+general spin sum rule which reduces to established results after appropriate
+choices for the pivot and the spin component.

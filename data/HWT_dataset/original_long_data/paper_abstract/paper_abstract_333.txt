@@ -1,0 +1,21 @@
+The generalized hydrodynamic (GHD) approach has been extremely successful in
+describing the out-of-equilibrium properties of a great variety of integrable
+many-body quantum systems. It naturally extracts the large-scale dynamical
+degrees of freedom of the system, and is thus a particularly good probe for
+emergent phenomena. One such phenomenon is the presence of unstable particles,
+traditionally seen via special analytic structures of the scattering matrix.
+Because of their finite lifetime and energy threshold, these are especially
+hard to study. In this paper we apply the GHD approach to a model possessing
+both unstable excitations and quantum integrability. The largest family of
+relativistic integrable quantum field theories known to have these features are
+the homogeneous sine-Gordon models. We consider the simplest non-trivial
+example of such theories and investigate the effect of an unstable excitation
+on various physical quantities, both at equilibrium and in the non-equilibrium
+state arising from the partitioning protocol. The hydrodynamic approach sheds
+new light onto the physics of the unstable particle, going much beyond its
+definition via the analytic structure of the scattering matrix, and clarifies
+its effects both on the equilibrium and out-of-equilibrium properties of the
+theory. Crucially, within this dynamical perspective, we identify unstable
+particles as finitely-lived bound states of co-propagating stable particles of
+different types, and observe how stable populations of unstable particles
+emerge in large-temperature thermal baths.

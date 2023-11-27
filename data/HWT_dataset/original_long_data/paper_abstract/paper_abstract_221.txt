@@ -1,0 +1,16 @@
+Let $\text{Emb}_{\mathbb{Z}}^+(\mathrm{O})$ denote $\mathbb{Z}-$linear formal
+sums of equivalence classes of optimal embeddings of real quadratic orders into
+$\mathrm{O}$, an Eichler order of level $\mathfrak{M}$ in an indefinite
+quaternion algebra over $\mathbb{Q}$. For all positive integers $n$ coprime to
+$\mathfrak{M}$, we define an operator
+$T_n:\text{Emb}_{\mathbb{Z}}^+(\mathrm{O})\rightarrow
+\text{Emb}_{\mathbb{Z}}^+(\mathrm{O})$, which we refer to as a Hecke operator.
+We introduce the "prime power Hecke graph", and show how it can be used to
+determine the effect of $T_p$ on a single optimal embedding. To justify the
+name of the operator, we associate an optimal embedding equivalence class to a
+closed geodesic on the corresponding Shimura curve. By considering the signed
+intersection number of pairs of geodesics, we use the operators $T_n$ to define
+formal power series. In showing that the action of Hecke operators on the
+homology of the curve commutes with our definition, we prove that the formal
+power series agree with weight two cusp forms for $\Gamma_0(N)$ on all
+coefficients of exponents coprime to $\mathfrak{M}$.

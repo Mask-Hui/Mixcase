@@ -1,0 +1,21 @@
+We present quantum algorithms for adiabatic state preparation on a gate-based
+quantum computer, with complexity polylogarithmic in the inverse error. This
+constitutes an exponential improvement over existing methods, which achieve
+subpolynomial error dependence. Our first algorithm digitally simulates the
+adiabatic evolution between two self-adjoint operators $H_0$ and $H_1$,
+exponentially suppressing the diabatic error by harnessing the theoretical
+concept of quasi-adiabatic continuation as an algorithmic tool. Given an upper
+bound $\alpha$ on $\|H_0\|$ and $\|H_1\|$ along with the promise that the $k$th
+eigenstate $|\psi_k(s)\rangle$ of $H(s) \equiv (1-s)H_0 + sH_1$ is separated
+from the rest of the spectrum by a gap of at least $\gamma > 0$ for all $s \in
+[0,1]$, this algorithm implements an operator $\widetilde{U}$ such that $\|
+|\psi_k(1)\rangle - \widetilde{U}|\psi_k(s)\rangle\| \leq \epsilon$ using
+$\mathcal{O}(({\alpha^2}/{\gamma^2})\mathrm{polylog}(\alpha/\gamma\epsilon))$
+queries to block-encodings of $H_0$ and $H_1$. Our second algorithm is
+applicable only to ground states and requires multiple queries to an oracle
+that prepares $|\psi_0(0)\rangle$, but has slightly better scaling in all
+parameters. We also show that the costs of both algorithms can be further
+reduced under certain reasonable conditions, such as when $\|H_1 - H_0\|$ is
+small compared to $\alpha$, or when more information about the gap of $H(s)$ is
+available. For certain problems, the scaling can even be improved to linear in
+$\|H_1 - H_0\|/\gamma$ up to polylogarithmic factors.

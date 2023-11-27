@@ -1,0 +1,16 @@
+A method to diagnose the gas distribution in the Galactic halo using a shock
+wave from the Galactic Centre (GC) is presented. Propagation of a shock wave
+caused by central explosion with released energy $\sim 10^{55}$ erg is
+calculated for various models of the gaseous halo, and the shock front
+morphology is compared with the observed North- (NPS) and South-Polar Spurs
+(SPS). The observed bipolar hyper-shell (BHS) structure of the spurs is
+reproduced, when a semi-exponential halo model with radially-variable scale
+height is adopted. A spherical halo model ($\beta$ model) is shown to be not
+appropriate to explain the observed BHS shape. Asymmetry of the spurs with
+respect to the rotation axis and to the galactic plane is explained by
+large-scale density gradient in the halo across the Galaxy. Such gradient may
+be produced by ram pressure of the IGM during motion of the Galaxy in the Local
+Group. A halo model having sinusoidal density fluctuations (clouds) can also
+explain the asymmetry, given appropriate cloud parameters are chosen. Further
+irregular features such as filaments and multiple curvatures superposed on the
+spurs are also understood as due to density fluctuations in the halo.

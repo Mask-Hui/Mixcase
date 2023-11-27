@@ -1,0 +1,8 @@
+This article investigates the Mahler measure of a family of 2-variate
+polynomials, denoted by $P_d, d\geq 1$, unbounded in both degree and genus. By
+using a closed formula for the Mahler measure introduced in "Volume function
+and Mahler measure of exact polynomials" (by Guilloux and March\'e), we are
+able to compute $m(P_d)$, for arbitrary $d$, as a sum of the values of
+dilogarithm at special roots of unity. We prove that $m(P_d)$ converges and the
+limit is proportional to $\zeta(3)$, where $\zeta$ is the Riemann zeta
+function.

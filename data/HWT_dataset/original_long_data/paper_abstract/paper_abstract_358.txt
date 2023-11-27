@@ -1,0 +1,16 @@
+The $\mu$-RWELL is a single-amplification stage resistive Micro-Pattern
+Gaseous Detector (MPGD). The detector amplification element is realized with a
+single copper-clad polyimide foil micro-patterned with a blind hole (well)
+matrix and embedded in the readout PCB through a thin Diamond-Like-Carbon (DLC)
+sputtered resistive film. The introduction of the resistive layer, suppressing
+the transition from streamer to spark, allows to achieve large gains
+($\geq$10$^4$) with a single amplification stage, while partially reducing the
+capability to stand high particle fluxes. The simplest resistive layout,
+designed for low-rate applications, is based on a single-resistive layer with
+edge grounding. At high particle fluxes this layout suffers of a non-uniform
+response. In order to get rid of such a limitation different current evacuation
+geometries have been designed. In this work we report the study of the
+performance of several high rate resistive layouts tested at the CERN H8-SpS
+and PSI $\pi$M1 beam test facilities. These layouts fulfill the requirements
+for the detectors at the HL-LHC and for the experiments at the next generation
+colliders FCC-ee/hh and CepC.

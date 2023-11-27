@@ -1,0 +1,20 @@
+We analyze the stability of a nonlinear dynamical model describing the
+noncooperative strategic interactions among the agents of a finite collection
+of populations. Each agent selects one strategy at a time and revises it
+repeatedly according to a protocol that typically prioritizes strategies whose
+payoffs are either higher than that of the current strategy or exceed the
+population average. The model is predicated on well-established research in
+population and evolutionary games, and has two sub-components. The first is the
+payoff dynamics model (PDM), which ascribes the payoff to each strategy
+according to the proportions of every population adopting the available
+strategies. The second sub-component is the evolutionary dynamics model (EDM)
+that accounts for the revision process. In our model, the social state at
+equilibrium is a best response to the payoff, and can be viewed as a Nash-like
+solution that has predictive value when it is globally asymptotically stable
+(GAS). We present a systematic methodology that ascertains GAS by checking
+separately whether the EDM and PDM satisfy appropriately defined
+system-theoretic dissipativity properties. Our work generalizes pioneering
+methods based on notions of contractivity applicable to memoryless PDMs, and
+more general system-theoretic passivity conditions. As demonstrated with
+examples, the added flexibility afforded by our approach is particularly useful
+when the contraction properties of the PDM are unequal across populations.

@@ -1,0 +1,9 @@
+The upper critical field in type II superconductors is limited by the Pauli
+paramagnetic limit. In superconductors with strong Rashba spin-orbit coupling
+this limit can be overcome by forming a helical state. Here we quantitatively
+study the magnetic field-temperature phase diagram of finite-size
+superconductors with Rashba spin-orbit coupling. We discuss the effect of
+finite size and shape anisotropy. We demonstrate that the critical field is
+controllable by intrinsic parameters such as spin-orbit coupling strength and
+tunable parameters such as sample geometry and applied field direction. Our
+study opens new avenues for the design of superconducting spin-valves.

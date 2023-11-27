@@ -1,0 +1,22 @@
+The early third data release (EDR3) of the European Space Agency satellite
+Gaia provides coordinates, parallaxes, and proper motions for ~1.47 billion
+sources in our Milky Way, based on 34 months of observations. The combination
+of Gaia DR2 radial velocities with the more precise and accurate astrometry
+provided by Gaia EDR3 makes the best dataset available to search for the
+fastest nearby stars in our Galaxy. We compute the velocity distribution of ~7
+million stars with precise parallaxes, to investigate the high-velocity tail of
+the velocity distribution of stars in the Milky Way. We release a catalogue
+with distances, total velocities, and corresponding uncertainties for all the
+stars considered in our analysis, available at
+https://sites.google.com/view/tmarchetti/research . By applying quality cuts on
+the Gaia astrometry and radial velocities, we identify a clean subset of 94
+stars with a probability Pub > 50% to be unbound from our Galaxy. 17 of these
+have Pub > 80% and are our best candidates. We propagate these stars in the
+Galactic potential to characterize their orbits. We find that 11 stars are
+consistent with being ejected from the Galactic disk, and are possible
+hyper-runaway star candidates. The other 6 stars are not consistent with coming
+from a known star-forming region. We investigate the effect of adopting a
+parallax zero point correction, which strongly impacts our results: when
+applying this correction, we identify only 12 stars with Pub > 50%, 3 of these
+having Pub > 80%. Spectroscopic follow-ups with ground-based telescopes are
+needed to confirm the candidates identified in this work.

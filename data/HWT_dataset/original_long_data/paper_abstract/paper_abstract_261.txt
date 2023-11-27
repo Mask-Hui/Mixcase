@@ -1,0 +1,20 @@
+State-of-the-art experiments employ strong ultrafast optical fields to study
+the nonlinear response of electrons in solids on an attosecond time-scale.
+Notably, a recent experiment retrieved a 3rd order nonlinear susceptibility by
+comparing the nonlinear response induced by a strong laser field to a linear
+response induced by the otherwise identical weak field. In parallel,
+experiments have demonstrated high harmonic generation (HHG) in solids, a
+highly nonlinear process that until recently had only been observed in gases.
+The highly nonlinear nature of HHG has the potential to extract even higher
+order nonlinear susceptibility terms, and thereby characterize the entire
+response of the electronic system to strong field excitation. However, up till
+now, such characterization has been elusive due to a lack of direct
+correspondence between high harmonics and nonlinear susceptibilities. Here, we
+demonstrate a regime where such correspondence can be clearly made, extracting
+nonlinear susceptibilities (7th, 9th, and 11th) from sapphire of the same order
+as the measured high harmonics. The extracted high order susceptibilities show
+angular-resolved periodicities arising from variation in the band structure
+with crystal orientation. Nonlinear susceptibilities are key to ultrafast
+lightwave driven optoelectronics, allowing petahertz scaling manipulation of
+the signal. Our results open a door to multi-channel signal processing,
+controlled by laser polarization.

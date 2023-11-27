@@ -1,0 +1,12 @@
+We consider a quantum sensor network of qubit sensors coupled to a field
+$f(\vec{x};\vec{\theta})$ analytically parameterized by the vector of
+parameters $\vec\theta$. The qubit sensors are fixed at positions
+$\vec{x}_1,\dots,\vec{x}_d$. While the functional form of
+$f(\vec{x};\vec{\theta})$ is known, the parameters $\vec{\theta}$ are not. We
+derive saturable bounds on the precision of measuring an arbitrary analytic
+function $q(\vec{\theta})$ of these parameters and construct the optimal
+protocols that achieve these bounds. Our results are obtained from a
+combination of techniques from quantum information theory and duality theorems
+for linear programming. They can be applied to many problems, including optimal
+placement of quantum sensors, field interpolation, and the measurement of
+functionals of parametrized fields.

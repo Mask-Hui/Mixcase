@@ -1,0 +1,13 @@
+We present a new mixed variable symplectic (MVS) integrator for planetary
+systems, that fully resolve close encounters. The method is based on a time
+regularisation that allows keeping the stability properties of the symplectic
+integrators, while also reducing the effective step size whenever two planets
+encounter. We use a high order MVS scheme such that it is possible to integrate
+with large time steps far away from close encounters. We show that this
+algorithm is able to resolve almost exact collisions (i.e with a mutual
+separation of a fraction of the physical radius) while using the same time-step
+as in weakly perturbed problem such as the Solar System. We demonstrate the
+long term behaviour on systems of six super-Earths experiencing strong
+scattering for 50 kyr. We compare our algorithm to hybrid methods such as
+MERCURY and show that for an equivalent cost we obtain much better energy
+conservation.

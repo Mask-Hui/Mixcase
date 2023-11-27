@@ -1,0 +1,11 @@
+We present a Feynman integral representation for the general momentum-space
+scalar $n$-point function in any conformal field theory. This representation
+solves the conformal Ward identities and features an arbitrary function of
+$n(n-3)/2$ variables which play the role of momentum-space conformal
+cross-ratios. It involves $(n-1)(n-2)/2$ integrations over momenta, with the
+momenta running over the edges of an $(n-1)$-simplex. We provide the details in
+the simplest non-trivial case (4-point functions), and for this case we
+identify values of the operator and spacetime dimensions for which
+singularities arise leading to anomalies and beta functions, and discuss
+several illustrative examples from perturbative quantum field theory and
+holography.

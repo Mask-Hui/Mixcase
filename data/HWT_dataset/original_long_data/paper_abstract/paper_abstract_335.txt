@@ -1,0 +1,13 @@
+Recently the LHCb collaboration has confirmed the evidence for lepton flavour
+non-universality at the $3.1\sigma$ level via an updated measurement of $R_K$.
+In this work we analyse this evidence within a model-independent approach. We
+make projections for future measurements which indicate that LHCb will be in
+the position to discover lepton nonuniversality with the Run 3 data in a single
+observable. We analyse other ratios based on our analysis of the present
+measurements of the ratios $R_{K^{(*)}}$ and analyse if they are able to
+differentiate between various new physics options within the effective field
+theory at present or in the near future. We also compare the present deviations
+in the ratios with NP indications in the angular observables of exclusive $b
+\to s \ell\ell$ transitions. Finally, we update our global analysis considering
+all $b \to s \ell\ell$ observables altogether, including a 20-parameter fit in
+connection of a Wilks' test.

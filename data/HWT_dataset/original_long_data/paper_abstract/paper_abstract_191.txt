@@ -1,0 +1,11 @@
+Posterior computation for high-dimensional data with many parameters can be
+challenging. This article focuses on a new method for approximating posterior
+distributions of a low- to moderate-dimensional parameter in the presence of a
+high-dimensional or otherwise computationally challenging nuisance parameter.
+The focus is on regression models and the key idea is to separate the
+likelihood into two components through a rotation. One component involves only
+the nuisance parameters, which can then be integrated out using a novel type of
+Gaussian approximation. We provide theory on approximation accuracy that holds
+for a broad class of forms of the nuisance component and priors. Applying our
+method to simulated and real data sets shows that it can outperform
+state-of-the-art posterior approximation approaches.

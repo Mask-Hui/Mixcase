@@ -1,0 +1,22 @@
+Interfacial spin-orbit coupling in Josephson junctions offers an intriguing
+way to combine anomalous Hall and Josephson physics in a single device. We
+study theoretically how the superposition of both effects impacts
+superconductor/ferromagnetic insulator/superconductor junctions' transport
+properties. Transverse momentum-dependent skew tunneling of Cooper pairs
+through the spin-active ferromagnetic insulator interface creates sizable
+transverse Hall supercurrents, to which we refer as anomalous Josephson Hall
+effect currents. We generalize the Furusaki-Tsukada formula, which got
+initially established to quantify usual (tunneling) Josephson current flows, to
+evaluate the transverse current components and demonstrate that their
+amplitudes are widely adjustable by means of the spin-orbit coupling strengths
+or the superconducting phase difference across the junction. As a clear
+spectroscopic fingerprint of Josephson junctions, well-localized subgap bound
+states form around the interface. By analyzing the spectral properties of these
+states, we unravel an unambiguous correlation between spin-orbit
+coupling-induced asymmetries in their energies and the transverse current
+response, founding the currents' microscopic origin. Moreover, skew tunneling
+simultaneously acts like a transverse spin filter for spin-triplet Cooper pairs
+and complements the discussed charge current phenomena by their spin current
+counterparts. The junctions' universal spin-charge current cross ratios provide
+valuable possibilities to experimentally detect and characterize interfacial
+spin-orbit coupling.

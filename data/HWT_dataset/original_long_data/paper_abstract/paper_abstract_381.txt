@@ -1,0 +1,10 @@
+Quantum communication is developed owing to the theoretically proven security
+of quantum mechanics, which may become the main technique in future information
+security. However, most studies and implementations are limited to two or
+several parties. Herein, we propose a fully connected quantum communication
+network without a trusted node for a large number of users. Using flexible
+wavelength demultiplex/multiplex and space multiplex technologies, 40 users are
+fully connected simultaneously without a trusted node by a broadband
+energy-time entangled photon pair source. This network architecture may be
+widely deployed in real scenarios such as companies, schools, and communities
+owing to its simplicity, scalability, and high efficiency.

@@ -1,0 +1,21 @@
+Signal separation and extraction are important tasks for devices recording
+audio signals in real environments which, aside from the desired sources, often
+contain several interfering sources such as background noise or concurrent
+speakers. Blind Source Separation (BSS) provides a powerful approach to address
+such problems. However, BSS algorithms typically treat all sources equally and
+do not resolve uncertainty regarding the ordering of the separated signals at
+the output of the algorithm, i.e., the outer permutation problem. This paper
+addresses this problem by incorporating prior knowledge into the adaptation of
+the demixing filters, e.g., the position of the sources, in a Bayesian
+framework. We focus here on methods based on Independent Vector Analysis (IVA)
+as it elegantly and successfully deals with the internal permutation problem.
+By including a background model, i.e., a model for sources we are not
+interested to separate, we enable the algorithm to extract the sources of
+interest in overdetermined and underdetermined scenarios at a low computational
+complexity. The proposed framework allows to incorporate prior knowledge about
+the demixing filters in a generic way and unifies several known and newly
+proposed algorithms using a Bayesian view. For all algorithmic variants, we
+provide efficient update rules based on the iterative projection principle. The
+performance of a large variety of representative algorithmic variants,
+including very recent algorithms, is compared using measured room impulse
+responses.

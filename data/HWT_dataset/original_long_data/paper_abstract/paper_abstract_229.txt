@@ -1,0 +1,15 @@
+In this letter, we investigate an intelligent reflecting surface (IRS) aided
+device-to-device (D2D) offloading system, where an IRS is employed to assist in
+computation offloading from a group of users with intensive tasks to another
+group of idle users. We propose a new two-timescale joint passive beamforming
+and resource allocation algorithm based on stochastic successive convex
+approximation to minimize the system latency while cutting down the heavy
+overhead in exchange of channel state information (CSI). Specifically, the
+high-dimensional passive beamforming vector at the IRS is updated in a
+frame-based manner based on the channel statistics, where each frame consists
+of a number of time slots, while the offloading ratio and user matching
+strategy are optimized relied on the low-dimensional real-time effective
+channel coefficients in each time slot. The convergence property and the
+computational complexity of the proposed algorithm are also examined.
+Simulation results show that our proposed algorithm significantly outperforms
+the conventional benchmarks.

@@ -1,0 +1,13 @@
+Understanding how strongly correlated two-dimensional (2D) systems can give
+rise to unconventional superconductivity with high critical temperatures is one
+of the major unsolved problems in condensed matter physics. Ultracold 2D Fermi
+gases have emerged as clean and controllable model systems to study the
+interplay of strong correlations and reduced dimensionality, but direct
+evidence of superfluidity in these systems has been missing. Here, we
+demonstrate superfluidity in an ultracold 2D Fermi gas by moving a periodic
+potential through the system and observing no dissipation below a critical
+velocity v$_{\rm c}$. We measure v$_{\rm c}$ as a function of interaction
+strength and find a maximum in the crossover regime between bosonic and
+fermionic superfluidity. Our measurement establishes ultracold Fermi gases as a
+powerful tool for studying the influence of reduced dimensionality on strongly
+correlated superfluids.

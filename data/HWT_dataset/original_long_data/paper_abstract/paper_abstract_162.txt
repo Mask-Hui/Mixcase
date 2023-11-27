@@ -1,0 +1,11 @@
+In this article, we study logics of unknown truths and false beliefs under
+neighborhood semantics. We compare the relative expressivity of the two logics.
+It turns out that they are incomparable over various classes of neighborhood
+models, and the combination of the two logics are equally expressive as
+standard modal logic over any class of neighborhood models. We propose
+morphisms for each logic, which can help us explore the frame definability
+problem, show a general soundness and completeness result, and generalize some
+results in the literature. We axiomatize the two logics over various classes of
+neighborhood frames. Last but not least, we extend the results to the case of
+public announcements, which has good applications to Moore sentences and some
+others.

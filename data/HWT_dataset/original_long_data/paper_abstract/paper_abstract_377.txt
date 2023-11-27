@@ -1,0 +1,13 @@
+We study the null-boundaries of Wheeler-de Witt (WdW) patches in three
+dimensional Poincare-AdS, when the selected boundary timeslice is an arbitrary
+(non-constant) function, presenting some useful analytic statements about them.
+Special attention will be given to the piecewise smooth nature of the
+null-boundaries, due to the emergence of caustics and null-null joint curves.
+This is then applied, in the spirit of our previous paper arXiv:1806.08376, to
+the problem of how complexity of the CFT$_2$ groundstate changes under a small
+local conformal transformation according to the action (CA) proposal. In stark
+contrast to the volume (CV) proposal, where this change is only proportional to
+the second order in the infinitesimal expansion parameter $\sigma$, we show
+that in the CA case we obtain terms of order $\sigma$ and even
+$\sigma\log(\sigma)$. This has strong implications for the possible
+field-theory duals of the CA proposal, ruling out an entire class of them.

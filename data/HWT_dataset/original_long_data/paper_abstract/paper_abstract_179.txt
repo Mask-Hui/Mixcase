@@ -1,0 +1,18 @@
+Like the old saying, "a graph is worth a thousand words," the non-verbal
+language, encapsulated in the concept of inscription, is a fundamental
+rhetorical device in the construction of knowledge represented by research
+outputs. As many inscriptions are deeply situated in a scientific and
+data-driven research paradigm, they can be used to understand the relationships
+between research traditions involved in the field of digital humanities (DH), a
+highly cross-disciplinary field that is frequently regarded as a battleground
+between these distinct research traditions, especially the humanities and STEM
+fields. This paper presents a quantitative, community-focused examination of
+how inscriptions are used in English-language research articles in DH journals.
+We randomly selected 252 articles published between 2011 and 2020 from a
+representative DH journal list, and manually coded and classified inscriptions
+and author domains in these publications. We found that inscriptions have been
+increasingly used during the past decade and their uses are more intensive in
+publications led by STEM authors comparing to other domains. This study offers
+a timely survey of the disciplinary landscape of DH from the perspective of
+inscriptions and sheds light on how different research approaches collaborated
+and combated in the field of DH.

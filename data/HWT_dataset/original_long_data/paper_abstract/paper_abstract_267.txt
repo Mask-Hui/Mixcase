@@ -1,0 +1,8 @@
+Over the last twenty years of research on quantum game theory have given us
+many ideas of how quantum games could be played. One of the most prominent
+ideas in the field is a model of quantum playing a 2x2 game introduced by J.
+Eisert, M. Wilkens and M. Lewenstein. The scheme assumes that players'
+strategies are unitary operations the players act on the maximally entangled
+two-qubit state. The quantum nature of the scheme has been under discussion
+since the article by Eisert et al. came out. The aim of our paper is to
+identify some of non-classical features of the quantum scheme.

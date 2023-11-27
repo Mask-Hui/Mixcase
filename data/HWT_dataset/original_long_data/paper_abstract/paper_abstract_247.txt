@@ -1,0 +1,14 @@
+The construction and classification of symmetry-protected topological (SPT)
+phases in interacting bosonic and fermionic systems have been intensively
+studied in the past few years. Very recently, a complete classification and
+construction of space group SPT phases were also proposed for interacting
+bosonic systems. In this paper, we attempt to generalize this classification
+and construction scheme systematically into interacting fermion systems. In
+particular, we construct and classify point group SPT phases for 2D interacting
+fermion systems via lower-dimensional block-state decorations. We discover
+several intriguing fermionic SPT states that can only be realized in
+interacting fermion systems (i.e., not in free-fermion or bosonic SPT systems).
+Moreover, we also verify the recently conjectured crystalline equivalence
+principle for 2D interacting fermion systems. Finally, the potential
+experimental realization of these new classes of point group SPT phases in 2D
+correlated superconductors is addressed.

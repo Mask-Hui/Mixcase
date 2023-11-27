@@ -1,0 +1,10 @@
+In order to determine the 3D structure of a thick sample, researchers have
+recently combined ptychography (for high resolution) and tomography (for 3D
+imaging) in a single experiment. 2-step methods are usually adopted for
+reconstruction, where the ptychography and tomography problems are often solved
+independently. In this paper, we provide a novel model and ADMM-based algorithm
+to jointly solve the ptychography-tomography problem iteratively, also
+employing total variation regularization. The proposed method permits large
+scan stepsizes for the ptychography experiment, requiring less measurements and
+being more robust to noise with respect to other strategies, while achieving
+higher reconstruction quality results.

@@ -1,0 +1,19 @@
+A stream of algorithmic advances has steadily increased the popularity of the
+Bayesian approach as an inference paradigm, both from the theoretical and
+applied perspective. Even with apparent successes in numerous application
+fields, a rising concern is the robustness of Bayesian inference in the
+presence of model misspecification, which may lead to undesirable extreme
+behavior of the posterior distributions for large sample sizes. Generalized
+belief updating with a loss function represents a central principle to making
+Bayesian inference more robust and less vulnerable to deviations from the
+assumed model. Here we consider such updates with $f$-divergences to quantify a
+discrepancy between the assumed statistical model and the probability
+distribution which generated the observed data. Since the latter is generally
+unknown, estimation of the divergence may be viewed as an intractable problem.
+We show that the divergence becomes accessible through the use of probabilistic
+classifiers that can leverage an estimate of the ratio of two probability
+distributions even when one or both of them is unknown. We demonstrate the
+behavior of generalized belief updates for various specific choices under the
+$f$-divergence family. We show that for specific divergence functions such an
+approach can even improve on methods evaluating the correct model likelihood
+function analytically.

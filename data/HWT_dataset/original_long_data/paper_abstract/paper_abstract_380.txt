@@ -1,0 +1,14 @@
+Observations of thermally driven transverse vibration of a photonic crystal
+waveguide (PCW) are reported. The PCW consists of two parallel nanobeams with a
+240 nm vacuum gap between the beams. Models are developed and validated for the
+transduction of beam motion to phase and amplitude modulation of a weak optical
+probe propagating in a guided mode (GM) of the PCW for probe frequencies far
+from and near to the dielectric band edge. Since our PCW has been designed for
+near-field atom trapping, this research provides a foundation for evaluating
+possible deleterious effects of thermal motion on optical atomic traps near the
+surfaces of PCWs. Longer term goals are to achieve strong atom-mediated links
+between individual phonons of vibration and single photons propagating in the
+GMs of the PCW, thereby enabling opto-mechanics at the quantum level with
+atoms, photons, and phonons. The experiments and models reported here provide a
+basis for assessing such goals, including sensing mechanical motion at the
+Standard Quantum Limit (SQL).

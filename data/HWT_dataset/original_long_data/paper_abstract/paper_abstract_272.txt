@@ -1,0 +1,17 @@
+Compulsory Dirac multipoles in the bilayer perovskite Ca3Ru2O7 are absent in
+published analyses of experimental data. In a first step at correcting
+knowledge of the magnetic structure, we have analysed existing Bragg
+diffraction patterns gathered on samples held well below the N\'eel temperature
+at which A-type antiferromagnetic order of axial dipoles spontaneously
+develops. Patterns were gathered with neutrons, and linearly polarized x-rays
+tuned in energy to a ruthenium atomic resonance. Neutron diffraction data
+contains solid evidence of Dirac dipoles (anapoles or toroidal moments). No
+such conclusion is reached with existing x-ray diffraction data, which instead
+is ambiguous on the question. To address this shortcoming by future
+experiments, we calculated additional diffraction patterns. Chiral order of
+Dirac multipoles is allowed by magnetic space-group PCna21, and it can be
+exposed in Bragg diffraction using circularly polarized x-rays. Likewise, a
+similar experiment can expose a chiral order of axial dipoles. A magnetic field
+applied parallel to the b-axis creates a ferrimagnetic structure in which bulk
+magnetization arises from field-induced nonequivalent Ru sites (magnetic
+space-group Pm'c'21).

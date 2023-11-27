@@ -1,0 +1,10 @@
+The temporal evolution of the levels in a three-level laser is
+macroscopically described by a closed set of rate equations. Here, we
+complement this picture by providing a model which describes through chemical
+reactions how the levels are evolving. In most textbooks, the chemical
+potential is introduced as a concept in quantum statistics. In this paper, we
+alternatively base its definition on population densities of the excited states
+in a dopant atom. Then the chemical reaction model delivers a clear and
+intuitive framework to define the further thermodynamic characteristics of the
+atom-field interactions such as the chemical potential of the photon and the
+photon entropy.

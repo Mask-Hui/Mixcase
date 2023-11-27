@@ -1,0 +1,19 @@
+Chiral spin textures are researched widely in condensed matter systems and
+show potential for spintronics and storage applications. Along with extensive
+condensed-matter studies of chiral spin textures, photonic counterparts of
+these textures have been observed in various optical systems with broken
+inversion symmetry. Unfortunately, the resemblances are only phenomenological.
+This work proposes a theoretical framework based on the variational theorem to
+show that the formation of photonic chiral spin textures in an optical
+interface is derived from the system's symmetry and relativity. Analysis of the
+optical system's rotational symmetry indicates that conservation of the total
+angular momentum is preserved from the local variations of spin vectors.
+Specifically, although the integral spin momentum does not carry net energy,
+the local spin momentum distribution, which determines the local subluminal
+energy transport and minimization variation of the square of total angular
+momentum, results in the chiral twisting of the spin vectors. The findings here
+deepen the understanding of the symmetries, conservative laws and energy
+transportation in optical system, construct the comparability in the formation
+mechanisms and geometries of photonic and condensed-matter chiral spin
+textures, and suggest applications to optical manipulation and chiral
+photonics.

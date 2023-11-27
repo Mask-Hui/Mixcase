@@ -1,0 +1,29 @@
+mlokay.nsf
+
+It's time to update the McAfee virus files....
+
+Please Note: This update is for Windows95 customers only, if you have 
+questions, call the Helpdesk.
+
+But before you run the winstall, please verify that you have version 4.0 or 
+greater :
+
+To check the VShield version:
+
+Right click on the Virus shield in the lower right corner 
+Select About  
+ 
+The McAfee VShield version should be 4.0 or greater, if not, please contact 
+the Helpdesk
+
+
+To Update the McAfee files:
+
+Click Start 
+Select Winstall Auto Update, should take about 20 seconds to run - If you 
+don't have the Winstall Auto Update, please contact the Helpdesk 
+When the Winstall is completed, you may be prompt to reboot your PC
+
+If you have any questions, or concerns before running the update, call the 
+Helpdesk
+Thanks - Omaha ETS Helpdesk x7454, 87,7454

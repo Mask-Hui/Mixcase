@@ -1,0 +1,14 @@
+The oldest and most robust technique to search for new particles is to look
+for `bumps' in invariant mass spectra over smoothly falling backgrounds. We
+present a new extension of the bump hunt that naturally benefits from modern
+machine learning algorithms while remaining model-agnostic. This approach is
+based on the Classification Without Labels (CWoLa) method where the invariant
+mass is used to create two potentially mixed samples, one with little or no
+signal and one with a potential resonance. Additional features that are
+uncorrelated with the invariant mass can be used for training the classifier.
+Given the lack of new physics signals at the Large Hadron Collider (LHC), such
+model-agnostic approaches are critical for ensuring full coverage to fully
+exploit the rich datasets from the LHC experiments. In addition to illustrating
+how the new method works in simple test cases, we demonstrate the power of the
+extended bump hunt on a realistic all-hadronic resonance search in a channel
+that would not be covered with existing techniques.

@@ -1,0 +1,10 @@
+It is known that invariance and equivariance properties for systems on Lie
+groups can be exploited in the design of high performance and robust observers
+and filters for real-world robotic systems. This paper proposes an analysis
+framework that allows any kinematic system on a Lie group to be embedded in a
+natural manner into an equivariant kinematic system. This framework allows us
+to characterise the properties of, and relationships between, invariant
+systems, group affine systems, and equivariant systems. We propose a new filter
+design, the Equivariant Filter (EqF), that exploits the equivariance properties
+of the system embedding and can be applied to any kinematic system on a Lie
+group.

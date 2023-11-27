@@ -1,0 +1,31 @@
+MLOKAY (Non-Privileged).pst
+
+Toby, I think NNG's looks great.  I agree, let's do the same for TW.
+
+This is an FYI to the TW Mktg Rep's that the TW unsubscribed report will look a little different (see how NNG's is below).
+
+ -----Original Message-----
+From: 	Kuehl, Toby  
+Sent:	Tuesday, July 17, 2001 7:52 AM
+To:	Donoho, Lindy; Frazier, Perry
+Cc:	Licciardo, Jeanne; Abramowicz, Richard
+Subject:	RE: TW Unsubscribed capacity
+Importance:	High
+
+Lindy, Perry
+
+When we go into production, I think we would want to be similar across the pipes in look and feel for the Unsubscribed capacity.  We can set up the criteria to in several different ways.  Please see NNG's Unsubscribed site http://www.nng.enron.com/dob/etfr_avcap.html and click on Unsubscribed to view the dropdowns.   I would suggest this is the way to go for the TW Unsubscribed page. Unlike today where the user has to pull the complete page up on TW's Unsubscribed,  this will give the user capability to define what they are looking for.  Please let me know as soon as possible so Rich can set up the format for TW's Unsubscribed.  If you have any questions please let me give me a call 31527.
+
+Toby
+
+
+
+
+ -----Original Message-----
+From: 	Abramowicz, Richard  
+Sent:	Monday, July 16, 2001 2:22 PM
+To:	Kuehl, Toby
+Cc:	Licciardo, Jeanne
+Subject:	TW Unsubscribed capacity
+
+We will soon be posting TW's unsubscribed capacity to the internet from the new CAS system.  The CAS and EDI requirements have been defined; but we don't yet know how the data should be displayed on the internet.  Should we copy the format from NNG's long term unsubscribed capacity or from TW's current unsubscribed capacity?

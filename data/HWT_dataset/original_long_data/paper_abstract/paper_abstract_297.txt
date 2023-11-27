@@ -1,0 +1,18 @@
+We study asymptotic state transformations in continuous variable quantum
+resource theories. In particular, we prove that monotones displaying lower
+semicontinuity and strong superadditivity can be used to bound asymptotic
+transformation rates in these settings. This removes the need for asymptotic
+continuity, which cannot be defined in the traditional sense for
+infinite-dimensional systems. We consider three applications, to the resource
+theories of (I) optical nonclassicality, (II) entanglement, and (III) quantum
+thermodynamics. In cases (II) and (III), the employed monotones are the
+(infinite-dimensional) squashed entanglement and the free energy, respectively.
+For case (I), we consider the measured relative entropy of nonclassicality and
+prove it to be lower semicontinuous and strongly superadditive. Our technique
+then yields computable upper bounds on asymptotic transformation rates
+including those achievable under linear optical elements. We also prove a
+number of results which ensure the measured relative entropy of nonclassicality
+to be bounded on any physically meaningful state, and to be easily computable
+for some class of states of interest, e.g., Fock diagonal states. We conclude
+by applying our findings to the problem of cat state manipulation and noisy
+Fock state purification.

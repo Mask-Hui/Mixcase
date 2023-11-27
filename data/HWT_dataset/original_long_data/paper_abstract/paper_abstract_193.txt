@@ -1,0 +1,12 @@
+Novel concepts, perspectives and challenges in measuring and controlling an
+open quantum system via sequential schemes are shown. We discuss how similar
+protocols, relying both on repeated quantum measurements and dynamical
+decoupling control pulses, can allow to: (i) Confine and protect quantum
+dynamics from decoherence in accordance with the Zeno physics. (ii)
+Analytically predict the probability that a quantum system is transferred into
+a target quantum state by means of stochastic sequential measurements. (iii)
+Optimally reconstruct the spectral density of environmental noise sources by
+orthogonalizing in the frequency domain the filter functions driving the
+designed quantum-sensor. The achievement of these tasks will enhance our
+capability to observe and manipulate open quantum systems, thus bringing
+advances to quantum science and technologies.

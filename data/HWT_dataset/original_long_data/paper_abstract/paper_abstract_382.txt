@@ -1,0 +1,14 @@
+In this paper we explore the possibility of observable gravitational waves as
+a manifestation of the QCD axion dynamics. In particular, we focus on dynamical
+axion models which solve the strong CP problem, and include the confinement of
+a QCD-like gauge group at the TeV scale. We study the resulting chiral symmetry
+breaking phase transition for models with $N_F=3$ and $N_F=4$ light flavors
+using the linear sigma model. This model describes the scalar meson spectrum
+and its interactions, with the diagonal field $\varphi$ as the order parameter.
+We find that the amplitude of the gravitational wave spectrum depends on the
+mass of the dynamical axion $\eta'$ via the ratio $m_{\eta'}/m_\varphi$. The
+resulting spectra may be observed at future mid-range gravitational wave
+experiments such as AION/MAGIS, DECIGO, and BBO. Moreover, the TeV states can
+be searched for at colliders and their quantum numbers characterized, providing
+a unique connection between axion physics, gravitational waves and collider
+searches.

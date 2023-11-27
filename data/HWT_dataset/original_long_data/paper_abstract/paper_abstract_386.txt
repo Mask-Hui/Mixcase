@@ -1,0 +1,16 @@
+We simultaneously measure the static friction and the real area of contact
+between two solid bodies. Under static conditions both quantities increase
+logarithmically in time, a phenomenon coined aging. Indeed, frictional strength
+is traditionally considered equivalent to the real area of contact. Here we
+show that this equivalence breaks down when a static shear load is applied
+during aging. The addition of such a shear load accelerates frictional aging
+while the aging rate of the real area of contact is unaffected. Moreover, a
+negative static shear - pulling instead of pushing - slows frictional aging,
+but similarly does not affect the aging of contacts. The origin of this shear
+effect on aging is geometrical. When shear load is increased, minute relative
+tilts between the two blocks prematurely erase interfacial memory prior to
+sliding, negating the effect of aging. Modifying the loading point of the
+interface eliminates these tilts and as a result frictional aging rate becomes
+insensitive to shear. We also identify a secondary memory-erasure effect that
+remains even when all tilts are eliminated and show that this effect can be
+leveraged to accelerate aging by cycling between two static shear loads.

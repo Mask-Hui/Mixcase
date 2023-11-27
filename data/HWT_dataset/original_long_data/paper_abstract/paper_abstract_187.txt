@@ -1,0 +1,20 @@
+We introduce and study the Wilson-loop ${\rm d}\log$ representation of
+certain Feynman integrals for scattering amplitudes in ${\cal N}=4$ SYM and
+beyond, which makes their evaluation completely straightforward. Such a
+representation was motivated by the dual Wilson loop picture, and it can also
+be derived by partial Feynman parametrization of loop integrals. We first
+introduce it for the simplest one-loop examples, the chiral pentagon in four
+dimensions and the three-mass-easy hexagon in six dimensions, which are
+represented by two- and three-fold ${\rm d}\log$ integrals that are nicely
+related to each other. For multi-loop examples, we write the $L$-loop
+generalized penta-ladders as $2(L{-}1)$-fold ${\rm d}\log$ integrals of some
+one-loop integral, so that once the latter is known, the integration can be
+performed in a systematic way. In particular, we write the eight-point
+penta-ladder as a $2L$-fold ${\rm d}\log$ integral whose symbol can be computed
+without performing the integration; we also obtain the last entries and the
+symbol alphabet of these integrals. Similarly we compute and study the symbol
+of the seven-point double-penta-ladder, which is represented by a
+$2(L{-}1)$-fold integral of a hexagon; the latter can be written as a two-fold
+${\rm d}\log$ integral plus a boundary term. We comment on the relation of our
+representation to differential equations and resum the ladders by solving
+certain integral equations.

@@ -1,0 +1,15 @@
+Optimization of low-thrust trajectories that involve a larger number of orbit
+revolutions is considered a challenging problem. This paper describes a
+high-precision symplectic method and optimization techniques to solve the
+minimum-energy low-thrust multi-revolution orbit transfer problem. First, the
+optimal orbit transfer problem is posed as a constrained nonlinear optimal
+control problem. Then, the constrained nonlinear optimal control problem is
+converted into an equivalent linear quadratic form near a reference solution.
+The reference solution is updated iteratively by solving a sequence of
+linear-quadratic optimal control sub-problems, until convergence. Each
+sub-problem is solved via a symplectic method in discrete form. To facilitate
+the convergence of the algorithm, the spacecraft dynamics are expressed via
+modified equinoctial elements. Interpolating the non-singular equinoctial
+orbital elements and the spacecraft mass between the initial point and end
+point is proven beneficial to accelerate the convergence process. Numerical
+examples reveal that the proposed method displays high accuracy and efficiency.

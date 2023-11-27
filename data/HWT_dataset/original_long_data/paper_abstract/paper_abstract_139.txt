@@ -1,0 +1,16 @@
+The stringent constraints from the direct searches for exotic scalars at the
+LHC as well as indirect bounds from flavor physics measurements have imposed
+severe restrictions on the parameter space of new physics models featuring
+extended Higgs sectors. In the Type-II 2HDM, this implies a lower bound on the
+charged Higgs masses of $\cal O$(600 GeV). In this work we analyze the
+phenomenology of a Z3HDM in the alignment limit focusing on the impact of
+flavor physics constraints on its parameter space. We show that the couplings
+of the two charged Higgs bosons in this model feature an additional suppression
+factor compared to Type-II 2HDM. This gives rise to a significant relaxation of
+the flavor physics constraints in this model, allowing the charged Higgs masses
+to be as low as $\cal O$(200 GeV). We also consider the constraints coming from
+precision electroweak observables and the observed diphoton decay rate of the
+125 GeV Higgs boson at the LHC. The bounds coming from the direct searches of
+nonstandard Higgs bosons at the LHC, particularly those from resonance searches
+in the ditau channel, prove to be very effective in constraining this scenario
+further.

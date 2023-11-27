@@ -1,0 +1,11 @@
+We investigate diffusive nanowire-based structures with two normal terminals
+on the sides and a central superconducting island in the middle, which is
+either grounded or floating. Using a semiclassical calculation we demonstrate
+that both device layouts permit a quantitative measurement of the
+energy-dependent sub-gap thermal conductance $G_\mathrm{th}$ from the spectral
+density of the current noise. In the floating case this goal is achieved
+without the need to contact the superconductor provided the device is
+asymmetric, that may be attractive from the experimental point of view. Our
+calculations are directly applicable to the multi-mode case and can serve as a
+starting point to understand the shot noise response in open one dimensional
+Majorana device.

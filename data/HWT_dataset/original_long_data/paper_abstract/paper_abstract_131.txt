@@ -1,0 +1,13 @@
+An alternate Lagrangian scheme at discrete times is proposed for the
+approximation of a nonlinear continuity equation arising as a mean-field limit
+of spatially inhomogeneous evolutionary games, describing the evolution of a
+system of spatially distributed agents with strategies, or labels, whose payoff
+depends also on the current position of the agents. The scheme is Lagrangian,
+as it traces the evolution of position and labels along characteristics and is
+alternate, as it consists of the following two steps: first the distribution of
+strategies or labels is updated according to a best performance criterion and
+then this is used by the agents to evolve their position. A general convergence
+result is provided in the space of probability measures. In the special cases
+of replicator-type systems and reversible Markov chains, variants of the
+scheme, where the explicit step in the evolution of the labels is replaced by
+an implicit one, are also considered and convergence results are provided.

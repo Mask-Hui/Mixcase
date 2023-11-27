@@ -1,0 +1,14 @@
+This paper presents a millimeter-scale CMOS 64$\times$64 single charged
+particle radiation detector system for external beam cancer radiotherapy. A
+1$\times$1 $\mu m^2$ diode measures energy deposition by a single charged
+particle in the depletion region, and the array design provides a large
+detection area of 512$\times$512 $\mu m^2$. Instead of sensing the voltage drop
+caused by radiation, the proposed system measures the pulse width, i.e., the
+time it takes for the voltage to return to its baseline. This obviates the need
+for using power-hungry and large analog-to-digital converters. A prototype ASIC
+is fabricated in TSMC 65 nm LP CMOS process and consumes the average static
+power of 0.535 mW under 1.2 V analog and digital power supply. The
+functionality of the whole system is successfully verified in a clinical 67.5
+MeV proton beam setting. To our' knowledge, this is the first work to
+demonstrate single charged particle detection for implantable in-vivo
+dosimetry.

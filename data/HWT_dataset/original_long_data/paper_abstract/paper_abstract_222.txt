@@ -1,0 +1,17 @@
+The in-medium mass and decay width of the $\phi$ meson in the hot asymmetric
+strange hadronic matter are calculated using an effective Lagrangian approach
+for $\phi$ $K\bar K$ interaction. The in-medium contributions of $K \bar K$
+loop to the $\phi$ meson self-energy are computed by the medium modified kaon
+and antikaon mass which is evaluated using the chiral SU(3) model. To deal with
+the ultraviolet divergence, we regularize the loop integral of self-energy with
+a dipole form factor, and present the results for cut-off mass, $\Lambda_c$=3
+GeV. In chiral model calculations, for strange matter, we find that the mass of
+kaons and antikaons decreases with the increase in baryonic density whereas the
+finite temperature causes an increase in the mass. We observed that the
+in-medium $\phi$ meson mass decreases slowly with baryonic density whereas the
+decay width increases rapidly. The results in the present investigation support
+result in the literature which indicate a small downward shift in mass and a
+large broadening in the decay width. In the asymmetric strange hadronic matter,
+the study of the $\phi$ mesons can be relevant for the compressed strange
+baryonic matter and experimental observables such as dilepton spectra which can
+result from the experiments in the future FAIR facility at GSI.
