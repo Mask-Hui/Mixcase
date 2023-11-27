@@ -1,14 +1,1 @@
-Quantum error correcting codes protect quantum computation from errors caused
-by decoherence and other noise. Here we study the problem of designing logical
-operations for quantum error correcting codes. We present an automated
-procedure which generates logical operations given known encoding and
-correcting procedures. Our technique is to use variational circuits for
-learning both the logical gates and the physical operations implementing them.
-This procedure can be implemented on near-term quantum computers via quantum
-process tomography. It enables automatic discovery of logical gates from
-analytically designed error correcting codes and can be extended to error
-correcting codes found by numerical optimizations. We test the procedure by
-simulation on classical computers on small quantum codes of four qubits to
-fifteen qubits and show that it finds most logical gates known in the current
-literature. Additionally, it generates logical gates not found in the current
-literature for the [[5,1,2]] code, the [[6,3,2]] code, and the [[8,3,2]] code.
+Quantum error correcting codes protect quantum computation from errors caused by decoherence and other noise. Here we study the problem of designing logical operations for quantum error correcting codes. We present an automated procedure which generates logical operations given known encoding and correcting procedures. Our technique is to use variational circuits for learning both the logical gates and the physical operations implementing them. This procedure can be implemented on near-term quantum computers via quantum process tomography. It enables automatic discovery of logical gates from analytically designed error correcting codes and can be extended to error correcting codes found by numerical optimizations. We test the procedure by simulation on classical computers on small quantum codes of four qubits to fifteen qubits and show that it finds most logical gates known in the current literature. Additionally, it generates logical gates not found in the current literature for the [[5,1,2]] code, the [[6,3,2]] code, and the [[8,3,2]] code.

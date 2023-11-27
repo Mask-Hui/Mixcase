@@ -1,31 +1,16 @@
 import os
 import random
 import json
-import nltk
 import matplotlib.pyplot as plt
 from nltk.tokenize import sent_tokenize,word_tokenize
 import numpy as np
+from utils import *
 
 
-def read_text_files(input_path, num_samples=50):
-    txt_files = [file for file in os.listdir(input_path) if file.endswith('.txt')]
-    if len(txt_files) < num_samples:
-        num_samples = len(txt_files)
-    chosen_files = random.sample(txt_files, num_samples)
-    return chosen_files
-
-
-def calculate_words_per_sentence(text):
-    sentences = sent_tokenize(text)
-    words_count = [len(nltk.word_tokenize(sentence)) for sentence in sentences]
-    return words_count
-
-
-def filter_text(text, target_mean=150, target_variance=50):
+def filter_text(text, target_mean=80, target_variance=50):
     sentences = sent_tokenize(text)
     words_per_sentence = [len(word_tokenize(sentence)) for sentence in sentences]
 
-    # 正态分布取样目标单词总数
     target_total_words = int(random.normalvariate(target_mean, target_variance))
 
     accepted_sentences = []
@@ -41,30 +26,41 @@ def filter_text(text, target_mean=150, target_variance=50):
 
 
 def process_text_files(input_path, output_path):
-    all_files = [f for f in os.listdir(input_path) if f.endswith('.txt')]
-    random.shuffle(all_files)
-
+    desired_samples_per_category = 50
+    categories = get_categories()
     json_data = []
     entry_id = 1
 
-    for file_name in all_files:
-        if len(json_data) >= 50:
-            break
+    for category in categories:
+        category_path = os.path.join(input_path, category)
+        clean_text_files(category_path)
+        txt_files = [file for file in os.listdir(category_path) if file.endswith('.txt')]
+        random.shuffle(txt_files)  # 随机打乱文件列表
 
-        file_path = os.path.join(input_path, file_name)
-        with open(file_path, 'r', encoding='utf-8') as file:
-            text = file.read()
-            filtered_text = filter_text(text)
+        chosen_files = set()
+        valid_samples_count = 0  # 记录符合要求的样本数量
+        for file_name in txt_files:
+            if valid_samples_count >= desired_samples_per_category:
+                break  # 如果已经达到所需有效样本数，则停止
 
-            if filtered_text:
-                data_entry = {
-                    #  category要写成6个
-                    "category": "",
-                    "id": entry_id,
-                    "HWT_sentence": filtered_text
-                }
-                json_data.append(data_entry)
-                entry_id += 1
+            if file_name not in chosen_files:
+                chosen_files.add(file_name)
+                file_path = os.path.join(category_path, file_name)
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    text = file.read()
+                    filtered_text = filter_text(text)
+
+                    if filtered_text:
+                        valid_samples_count += 1
+                        data_entry = {
+                            "category": category,
+                            "id": entry_id,
+                            "HWT_sentence": filtered_text
+                        }
+                        json_data.append(data_entry)
+                        entry_id += 1
+
+        print(f"Category: {category}, Total Files: {len(txt_files)}, Chosen Files: {len(chosen_files)}, Valid Samples: {valid_samples_count}")
 
     output_folder = os.path.dirname(output_path)
     if not os.path.exists(output_folder):
@@ -73,7 +69,6 @@ def process_text_files(input_path, output_path):
     with open(output_path, 'w', encoding='utf-8') as output_file:
         json.dump(json_data, output_file, indent=4)
 
-    # Reading JSON file and plotting text length distribution
     text_lengths = [len(item['HWT_sentence'].split()) for item in json_data]
 
     plt.hist(text_lengths, bins=20, alpha=0.7, color='blue')
@@ -102,6 +97,5 @@ def clean_text_files(folder_path):
 
 
 if __name__ == "__main__":
-    # 缺少MGT的处理
     process_text_files("../../data/HWT_dataset/original_long_data",
                        "../../data/HWT_dataset/original_data/HWT_original_data.json")

@@ -1,16 +1,1 @@
-We study classical and quantum hidden symmetries of a particle with electric
-charge $e$ in the background of a Dirac monopole of magnetic charge $g$
-subjected to an additional central potential $V(r)=U(r) +(eg)^2/2mr^{2}$ with
-$U(r)=\tfrac{1}{2}m\omega^2r^2$, similar to that in the one-dimensional
-conformal mechanics model of de Alfaro, Fubini and Furlan (AFF). By means of a
-non-unitary conformal bridge transformation, we establish a relation of the
-quantum states and of all symmetries of the system with those of the system
-without harmonic trap, $U(r)=0$. Introducing spin degrees of freedom via a very
-special spin-orbit coupling, we construct the $\mathfrak{osp}(2,2)$
-superconformal extension of the system with unbroken $\mathcal{N}=2$ Poincar\'e
-supersymmetry and show that two different superconformal extensions of the
-one-dimensional AFF model with unbroken and spontaneously broken supersymmetry
-have a common origin. We also show a universal relationship between the
-dynamics of a Euclidean particle in an arbitrary central potential $U(r)$ and
-the dynamics of a charged particle in a monopole background subjected to the
-potential $V(r)$.
+We study classical and quantum hidden symmetries of a particle with electric charge $e$ in the background of a dirac monopole of magnetic charge $g$ subjected to an additional central potential $v(r)=u(r) +(eg)^2/2mr^{2}$ with $u(r)=\tfrac{1}{2}m\omega^2r^2$, similar to that in the one-dimensional conformal mechanics model of de alfaro, fubini and furlan (aff). By means of a non-unitary conformal bridge transformation, we establish a relation of the quantum states and of all symmetries of the system with those of the system without harmonic trap, $u(r)=0$. Introducing spin degrees of freedom via a very special spin-orbit coupling, we construct the $\mathfrak{osp}(2,2)$ superconformal extension of the system with unbroken $\mathcal{n}=2$ poincar\'e supersymmetry and show that two different superconformal extensions of the one-dimensional aff model with unbroken and spontaneously broken supersymmetry have a common origin. We also show a universal relationship between the dynamics of a euclidean particle in an arbitrary central potential $u(r)$ and the dynamics of a charged particle in a monopole background subjected to the potential $v(r)$.

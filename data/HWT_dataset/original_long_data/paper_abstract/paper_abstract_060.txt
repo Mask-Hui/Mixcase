@@ -1,13 +1,1 @@
-Ultrahigh-resolution fiber-optic sensing has been demonstrated with a
-meter-long, high-finesse fiber Fabry-Perot interferometer (FFPI). The main
-technical challenge of large, environment-induced resonance frequency drift is
-addressed by locking the interrogation laser to a similar meter-long FFPI,
-which, along with the FFPI sensor, is thermally and mechanically isolated from
-the ambient. A nominal, noise-limited strain resolution of 800 f{\epsilon}
-/sqrt(Hz) has been achieved within 1 to 100 Hz. Strain resolution further
-improves to 75 f{\epsilon} /sqrt(Hz) at 1 kHz, 60 f{\epsilon} /sqrt(Hz) at 2
-kHz and 40 f{\epsilon} /sqrt(Hz) at 23 kHz, demonstrating comparable or even
-better resolutions than proven techniques such as {\pi}-phase-shifted and
-slow-light fiber Bragg gratings. Limitations of the current system are analyzed
-and improvement strategies are presented. The work lays out a feasible path
-toward ultrahigh-resolution fiber-optic sensing based on long FFPIs.
+Ultrahigh-resolution fiber-optic sensing has been demonstrated with a meter-long, high-finesse fiber fabry-perot interferometer (ffpi). The main technical challenge of large, environment-induced resonance frequency drift is addressed by locking the interrogation laser to a similar meter-long ffpi, which, along with the ffpi sensor, is thermally and mechanically isolated from the ambient. A nominal, noise-limited strain resolution of 800 f{\epsilon} /sqrt(hz) has been achieved within 1 to 100 hz. Strain resolution further improves to 75 f{\epsilon} /sqrt(hz) at 1 khz, 60 f{\epsilon} /sqrt(hz) at 2 khz and 40 f{\epsilon} /sqrt(hz) at 23 khz, demonstrating comparable or even better resolutions than proven techniques such as {\pi}-phase-shifted and slow-light fiber bragg gratings. Limitations of the current system are analyzed and improvement strategies are presented. The work lays out a feasible path toward ultrahigh-resolution fiber-optic sensing based on long ffpis.

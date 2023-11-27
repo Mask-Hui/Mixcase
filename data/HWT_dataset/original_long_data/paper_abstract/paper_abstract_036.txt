@@ -1,14 +1,1 @@
-This paper focuses on the stability analysis of a formation shape displayed
-by a team of mobile robots that uses heterogeneous sensing mechanism. Depending
-on the convenience and reliability of the local information, each robot
-utilizes the popular gradient-based control law which, in this paper, is either
-the distance-based or the bearing-only formation control. For the two and three
-robot case, we show that the use of heterogeneous gradient-based control laws
-can give rise to an undesired invariant set where a distorted formation shape
-is moving at a constant velocity. The (in)stability of such an invariant set is
-dependent on the specified distance and bearing constraints. For the two robot
-case, we prove almost global stability of the desired equilibrium set while for
-the three robot case, we guarantee local asymptotic stability for the correct
-formation shape. We also derive conditions for the three robot case in which
-the undesired invariant set is locally attractive. Numerical simulations are
-presented for illustrating the theoretical results in the three robot case.
+This paper focuses on the stability analysis of a formation shape displayed by a team of mobile robots that uses heterogeneous sensing mechanism. Depending on the convenience and reliability of the local information, each robot utilizes the popular gradient-based control law which, in this paper, is either the distance-based or the bearing-only formation control. For the two and three robot case, we show that the use of heterogeneous gradient-based control laws can give rise to an undesired invariant set where a distorted formation shape is moving at a constant velocity. The (in)stability of such an invariant set is dependent on the specified distance and bearing constraints. For the two robot case, we prove almost global stability of the desired equilibrium set while for the three robot case, we guarantee local asymptotic stability for the correct formation shape. We also derive conditions for the three robot case in which the undesired invariant set is locally attractive. Numerical simulations are presented for illustrating the theoretical results in the three robot case.

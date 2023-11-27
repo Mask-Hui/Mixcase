@@ -1,16 +1,1 @@
-In spite of its fundamental importance in quantum science and technology, the
-experimental certification of nonclassicality is still a challenging task,
-especially in realistic scenarios where losses and noise imbue the system.
-Here, we present the first experimental implementation of the recently
-introduced phase-space inequalities for nonclassicality certification, which
-conceptually unite phase-space representations with correlation conditions. We
-demonstrate the practicality and sensitivity of this approach by studying
-nonclassicality of a family of noisy and lossy quantum states of light. To this
-end, we experimentally generate single-photon-added thermal states with various
-thermal mean photon numbers and detect them at different loss levels. Based on
-the reconstructed Wigner and Husimi Q functions, the inequality conditions
-detect nonclassicality despite the fact that the involved distributions are
-nonnegative, which includes cases of high losses (93%) and cases where other
-established methods do not reveal nonclassicality. We show the advantages of
-the implemented approach and discuss possible extensions that assure a wide
-applicability for quantum science and technologies.
+In spite of its fundamental importance in quantum science and technology, the experimental certification of nonclassicality is still a challenging task, especially in realistic scenarios where losses and noise imbue the system. Here, we present the first experimental implementation of the recently introduced phase-space inequalities for nonclassicality certification, which conceptually unite phase-space representations with correlation conditions. We demonstrate the practicality and sensitivity of this approach by studying nonclassicality of a family of noisy and lossy quantum states of light. To this end, we experimentally generate single-photon-added thermal states with various thermal mean photon numbers and detect them at different loss levels. Based on the reconstructed wigner and husimi q functions, the inequality conditions detect nonclassicality despite the fact that the involved distributions are nonnegative, which includes cases of high losses (93%) and cases where other established methods do not reveal nonclassicality. We show the advantages of the implemented approach and discuss possible extensions that assure a wide applicability for quantum science and technologies.

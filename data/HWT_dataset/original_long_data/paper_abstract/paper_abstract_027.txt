@@ -1,13 +1,1 @@
-We propose a class of nodal line semimetals that host an eight-fold
-degenerate double Dirac nodal line (DDNL) with negligible spin-orbit coupling.
-We find only 5 of the 230 space groups host the DDNL. The DDNL can be
-considered as a combination of two Dirac nodal lines, and has a trivial Berry
-phase. This leads to two possible but completely different surface states,
-namely, a torus surface state covering the whole surface Brillouin zone and no
-surface state at all. Based on first-principles calculations, we predict that
-the hydrogen storage material LiBH is an ideal DDNL semimetal, where the line
-resides at Fermi level, is relatively flat in energy, and exhibits a large
-linear energy range. Interestingly, both the two novel surface states of DDNL
-can be realized in LiBH. Further, we predict that with a magnetic field
-parallel to DDNL, the Landau levels of DDNL are doubly degenerate due to
-Kramers-like degeneracy and have a doubly degenerate zero-mode.
+We propose a class of nodal line semimetals that host an eight-fold degenerate double dirac nodal line (ddnl) with negligible spin-orbit coupling. We find only 5 of the 230 space groups host the ddnl. The ddnl can be considered as a combination of two dirac nodal lines, and has a trivial berry phase. This leads to two possible but completely different surface states, namely, a torus surface state covering the whole surface brillouin zone and no surface state at all. Based on first-principles calculations, we predict that the hydrogen storage material libh is an ideal ddnl semimetal, where the line resides at fermi level, is relatively flat in energy, and exhibits a large linear energy range. Interestingly, both the two novel surface states of ddnl can be realized in libh. Further, we predict that with a magnetic field parallel to ddnl, the landau levels of ddnl are doubly degenerate due to kramers-like degeneracy and have a doubly degenerate zero-mode.

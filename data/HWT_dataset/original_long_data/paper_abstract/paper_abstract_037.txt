@@ -1,7 +1,1 @@
-With the aim to propose a non parametric hypothesis test, this paper carries
-out a study on the Matching Error (ME), a comparison index of two partitions
-obtained from the same data set, using for example two clustering methods. This
-index is related to the misclassifica-tion error in supervised learning. Some
-properties of the ME and, especially, its distribution function for the case of
-two independent partitions are analyzed. Extensive simulations show the
-efficiency of the ME and we propose a hypothesis test based on it.
+With the aim to propose a non parametric hypothesis test, this paper carries out a study on the matching error (me), a comparison index of two partitions obtained from the same data set, using for example two clustering methods. This index is related to the misclassifica-tion error in supervised learning. Some properties of the me and, especially, its distribution function for the case of two independent partitions are analyzed. Extensive simulations show the efficiency of the me and we propose a hypothesis test based on it.

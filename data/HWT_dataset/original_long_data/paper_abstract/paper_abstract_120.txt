@@ -1,8 +1,1 @@
-One of the key tasks in grating based x-ray phase contrast imaging is to
-accurately retrieve local phase gradients of a sample from measured intensity
-fringe shifts. To fulfill this task in dual phase grating interferometry, one
-needs to know the exact mathematical relationship between the two. In this
-work, using intuitive analysis of the sample-generated fringe shifts based on
-the beat pattern formation mechanism, the authors derived the formulas relating
-sample's phase gradients to fringe phase shifts. These formulas provide also a
-design optimization tool for dual phase grating interferometry.
+One of the key tasks in grating based x-ray phase contrast imaging is to accurately retrieve local phase gradients of a sample from measured intensity fringe shifts. To fulfill this task in dual phase grating interferometry, one needs to know the exact mathematical relationship between the two. In this work, using intuitive analysis of the sample-generated fringe shifts based on the beat pattern formation mechanism, the authors derived the formulas relating sample's phase gradients to fringe phase shifts. These formulas provide also a design optimization tool for dual phase grating interferometry.

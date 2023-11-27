@@ -1,10 +1,1 @@
-Precise spectroscopy of oscillating fields plays significant roles in many
-fields. Here, we propose an experimentally feasible scheme to measure the
-frequency of a fast-oscillating field using a single-qubit sensor. By invoking
-a stable classical clock, the signal phase correlations between successive
-measurements enable us to extract the target frequency with extremely high
-precision. In addition, we integrate dynamical decoupling technique into the
-framework to suppress the influence of slow environmental noise. Our framework
-is feasible with a variety of atomic and single solid-state-spin systems within
-the state-of-the-art experimental capabilities as a versatile tool for quantum
-spectroscopy.
+Precise spectroscopy of oscillating fields plays significant roles in many fields. Here, we propose an experimentally feasible scheme to measure the frequency of a fast-oscillating field using a single-qubit sensor. By invoking a stable classical clock, the signal phase correlations between successive measurements enable us to extract the target frequency with extremely high precision. In addition, we integrate dynamical decoupling technique into the framework to suppress the influence of slow environmental noise. Our framework is feasible with a variety of atomic and single solid-state-spin systems within the state-of-the-art experimental capabilities as a versatile tool for quantum spectroscopy.

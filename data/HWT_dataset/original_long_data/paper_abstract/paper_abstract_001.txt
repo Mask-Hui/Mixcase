@@ -1,18 +1,1 @@
-Lake ice, as part of the Essential Climate Variable (ECV) lakes, is an
-important indicator to monitor climate change and global warming. The
-spatio-temporal extent of lake ice cover, along with the timings of key
-phenological events such as freeze-up and break-up, provide important cues
-about the local and global climate. We present a lake ice monitoring system
-based on the automatic analysis of Sentinel-1 Synthetic Aperture Radar (SAR)
-data with a deep neural network. In previous studies that used optical
-satellite imagery for lake ice monitoring, frequent cloud cover was a main
-limiting factor, which we overcome thanks to the ability of microwave sensors
-to penetrate clouds and observe the lakes regardless of the weather and
-illumination conditions. We cast ice detection as a two class (frozen,
-non-frozen) semantic segmentation problem and solve it using a state-of-the-art
-deep convolutional network (CNN). We report results on two winters ( 2016 - 17
-and 2017 - 18 ) and three alpine lakes in Switzerland. The proposed model
-reaches mean Intersection-over-Union (mIoU) scores >90% on average, and >84%
-even for the most difficult lake. Additionally, we perform cross-validation
-tests and show that our algorithm generalises well across unseen lakes and
-winters.
+Lake ice, as part of the essential climate variable (ecv) lakes, is an important indicator to monitor climate change and global warming. The spatio-temporal extent of lake ice cover, along with the timings of key phenological events such as freeze-up and break-up, provide important cues about the local and global climate. We present a lake ice monitoring system based on the automatic analysis of sentinel-1 synthetic aperture radar (sar) data with a deep neural network. In previous studies that used optical satellite imagery for lake ice monitoring, frequent cloud cover was a main limiting factor, which we overcome thanks to the ability of microwave sensors to penetrate clouds and observe the lakes regardless of the weather and illumination conditions. We cast ice detection as a two class (frozen, non-frozen) semantic segmentation problem and solve it using a state-of-the-art deep convolutional network (cnn). We report results on two winters ( 2016 - 17 and 2017 - 18 ) and three alpine lakes in switzerland. The proposed model reaches mean intersection-over-union (miou) scores >90% on average, and >84% even for the most difficult lake. Additionally, we perform cross-validation tests and show that our algorithm generalises well across unseen lakes and winters.

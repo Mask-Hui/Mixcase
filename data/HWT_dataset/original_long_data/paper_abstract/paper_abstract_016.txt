@@ -1,9 +1,1 @@
-We study the sensitivity of displaced vertex searches for heavy neutrinos
-produced in W boson decays in the LHC detectors ATLAS, CMS and LHCb. We also
-propose a new search that uses the muon chambers to detect muons from heavy
-neutrino decays outside the tracker. The sensitivity estimates are based on
-benchmark models in which the heavy neutrinos mix exclusively with one of the
-three Standard Model generations. In the most sensitive mass regime the
-displaced vertex searches can improve existing constraints on the mixing with
-the first two Standard Model generations by more than four orders of magnitude
-and by three orders of magnitude for the mixing with the third generation.
+We study the sensitivity of displaced vertex searches for heavy neutrinos produced in w boson decays in the lhc detectors atlas, cms and lhcb. We also propose a new search that uses the muon chambers to detect muons from heavy neutrino decays outside the tracker. The sensitivity estimates are based on benchmark models in which the heavy neutrinos mix exclusively with one of the three standard model generations. In the most sensitive mass regime the displaced vertex searches can improve existing constraints on the mixing with the first two standard model generations by more than four orders of magnitude and by three orders of magnitude for the mixing with the third generation.

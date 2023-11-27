@@ -1,10 +1,1 @@
-One very promising technique for measuring the dense matter Equation of State
-exploits hotspots that form on the neutron star surface due to the pulsar
-mechanism, accretion streams, or during thermonuclear explosions in the neutron
-star ocean. This article explains how Pulse Profile Modeling of hotspots is
-being used by the Neutron Star Interior Composition Explorer (NICER), an X-ray
-telescope installed on the International Space Station in 2017 - and why the
-technique is a mission driver for the next, larger-area generation of
-telescopes including the enhanced X-ray Timing and Polarimetry (eXTP) mission
-and the Spectroscopic Time-Resolving Observatory for Broadband Energy X-rays
-(STROBE-X).
+One very promising technique for measuring the dense matter equation of state exploits hotspots that form on the neutron star surface due to the pulsar mechanism, accretion streams, or during thermonuclear explosions in the neutron star ocean. This article explains how pulse profile modeling of hotspots is being used by the neutron star interior composition explorer (nicer), an x-ray telescope installed on the international space station in 2017 - and why the technique is a mission driver for the next, larger-area generation of telescopes including the enhanced x-ray timing and polarimetry (extp) mission and the spectroscopic time-resolving observatory for broadband energy x-rays (strobe-x).

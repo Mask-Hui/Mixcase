@@ -1,15 +1,1 @@
-We propose and demonstrate pump-probe spectroscopy of rubidium absorption
-which reveals the sub-Doppler hyperfine structure of the $^{5}$S$_{1/2}
-\leftrightarrow$ $^{5}$P$_{3/2}$ (D2) transitions. The counter propagating pump
-and probe lasers are independently tunable in frequency, with the probe
-operating at the single-photon-level. The two-dimensional spectrum measured as
-the laser frequencies are scanned shows fluorescence, Doppler-broadened
-absorption dips and sub-Doppler features. The detuning between the pump and
-probe lasers allows compensation of the Doppler shift for all atomic velocities
-in the room temperature vapor, meaning we observe sub-Doppler features for all
-atoms in the beam. We detail a theoretical model of the system which
-incorporates fluorescence, saturation effects and optical pumping and compare
-this with the measured spectrum, finding a mean absolute percentage error of
-4.17\%. In the future this technique could assist in frequency stabilization of
-lasers, and the single-photon-level probe could be replaced by a single photon
-source.
+We propose and demonstrate pump-probe spectroscopy of rubidium absorption which reveals the sub-doppler hyperfine structure of the $^{5}$s$_{1/2} \leftrightarrow$ $^{5}$p$_{3/2}$ (d2) transitions. The counter propagating pump and probe lasers are independently tunable in frequency, with the probe operating at the single-photon-level. The two-dimensional spectrum measured as the laser frequencies are scanned shows fluorescence, doppler-broadened absorption dips and sub-doppler features. The detuning between the pump and probe lasers allows compensation of the doppler shift for all atomic velocities in the room temperature vapor, meaning we observe sub-doppler features for all atoms in the beam. We detail a theoretical model of the system which incorporates fluorescence, saturation effects and optical pumping and compare this with the measured spectrum, finding a mean absolute percentage error of 4.17\%. In the future this technique could assist in frequency stabilization of lasers, and the single-photon-level probe could be replaced by a single photon source.

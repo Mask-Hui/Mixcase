@@ -1,10 +1,1 @@
-DESlib is an open-source python library providing the implementation of
-several dynamic selection techniques. The library is divided into three
-modules: (i) \emph{dcs}, containing the implementation of dynamic classifier
-selection methods (DCS); (ii) \emph{des}, containing the implementation of
-dynamic ensemble selection methods (DES); (iii) \emph{static}, with the
-implementation of static ensemble techniques. The library is fully documented
-(documentation available online on Read the Docs), has a high test coverage
-(codecov.io) and is part of the scikit-learn-contrib supported projects.
-Documentation, code and examples can be found on its GitHub page:
-https://github.com/scikit-learn-contrib/DESlib.
+Deslib is an open-source python library providing the implementation of several dynamic selection techniques. The library is divided into three modules: (i) \emph{dcs}, containing the implementation of dynamic classifier selection methods (dcs); (ii) \emph{des}, containing the implementation of dynamic ensemble selection methods (des); (iii) \emph{static}, with the implementation of static ensemble techniques. The library is fully documented (documentation available online on read the docs), has a high test coverage (codecov.io) and is part of the scikit-learn-contrib supported projects. Documentation, code and examples can be found on its github page: https://github.com/scikit-learn-contrib/deslib.

@@ -1,10 +1,1 @@
-We consider the capacity of entanglement in models related with the
-gravitational phase transitions. The capacity is labeled by the replica
-parameter which plays a similar role to the inverse temperature in
-thermodynamics. In the end of the world brane model of a radiating black hole
-the capacity has a peak around the Page time indicating the phase transition
-between replica wormhole geometries of different types of topology. Similarly,
-in a moving mirror model describing Hawking radiation the capacity typically
-shows a discontinuity when the dominant saddle switches between two phases,
-which can be seen as a formation of island regions. In either case we find the
-capacity can be an invaluable diagnostic for a black hole evaporation process.
+We consider the capacity of entanglement in models related with the gravitational phase transitions. The capacity is labeled by the replica parameter which plays a similar role to the inverse temperature in thermodynamics. In the end of the world brane model of a radiating black hole the capacity has a peak around the page time indicating the phase transition between replica wormhole geometries of different types of topology. Similarly, in a moving mirror model describing hawking radiation the capacity typically shows a discontinuity when the dominant saddle switches between two phases, which can be seen as a formation of island regions. In either case we find the capacity can be an invaluable diagnostic for a black hole evaporation process.

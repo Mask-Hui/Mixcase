@@ -1,14 +1,1 @@
-The ability to manipulate entanglement between multiple spatially-separated
-qubits is essential for quantum information processing. Although
-nitrogen-vacancy (NV) centers in diamond provide a promising qubit platform,
-developing scalable two-qubit gates remains a well-known challenge. To this
-end, magnon-mediated entanglement proposals have attracted attention due to
-their long-range spin-coherent propagation. Optimal device geometries and gate
-protocols of such schemes, however, have yet to be determined. Here we predict
-strong long-distance ($>\mu$m) NV-NV coupling via magnon modes with
-cooperativities exceeding unity in ferromagnetic bar and waveguide structures.
-Moreover, we explore and compare on-resonant transduction and off-resonant
-virtual-magnon exchange protocols, and discuss their suitability for generating
-or manipulating entangled states at low temperatures ($T\lesssim 150$ mK) under
-realistic experimental conditions. This work will guide future experiments that
-aim to entangle spin qubits in solids with magnon excitations.
+The ability to manipulate entanglement between multiple spatially-separated qubits is essential for quantum information processing. Although nitrogen-vacancy (nv) centers in diamond provide a promising qubit platform, developing scalable two-qubit gates remains a well-known challenge. To this end, magnon-mediated entanglement proposals have attracted attention due to their long-range spin-coherent propagation. Optimal device geometries and gate protocols of such schemes, however, have yet to be determined. Here we predict strong long-distance ($>\mu$m) nv-nv coupling via magnon modes with cooperativities exceeding unity in ferromagnetic bar and waveguide structures. Moreover, we explore and compare on-resonant transduction and off-resonant virtual-magnon exchange protocols, and discuss their suitability for generating or manipulating entangled states at low temperatures ($t\lesssim 150$ mk) under realistic experimental conditions. This work will guide future experiments that aim to entangle spin qubits in solids with magnon excitations.

@@ -1,11 +1,1 @@
-Spurious association arises from covariance between propensity for the
-treatment and individual risk for the outcome. For sensitivity analysis with
-stochastic counterfactuals we introduce a methodology to characterize
-uncertainty in causal inference from natural experiments and quasi-experiments.
-Our sensitivity parameters are standardized measures of variation in propensity
-and individual risk, and one minus their geometric mean is an intuitive measure
-of randomness in the data generating process. Within our latent propensity-risk
-model, we show how to compute from contingency table data a threshold, $T$, of
-sufficient randomness for causal inference. If the actual randomness of the
-data generating process exceeds this threshold then causal inference is
-warranted.
+Spurious association arises from covariance between propensity for the treatment and individual risk for the outcome. For sensitivity analysis with stochastic counterfactuals we introduce a methodology to characterize uncertainty in causal inference from natural experiments and quasi-experiments. Our sensitivity parameters are standardized measures of variation in propensity and individual risk, and one minus their geometric mean is an intuitive measure of randomness in the data generating process. Within our latent propensity-risk model, we show how to compute from contingency table data a threshold, $t$, of sufficient randomness for causal inference. If the actual randomness of the data generating process exceeds this threshold then causal inference is warranted.

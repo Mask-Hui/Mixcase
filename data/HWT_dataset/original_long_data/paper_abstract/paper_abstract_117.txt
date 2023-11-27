@@ -1,17 +1,1 @@
-Gauge-invariant descriptions for a free bosonic scalar field of continuous
-spin in a $d$-dimensional Minkowski space-time using a metric-like formulation
-are constructed on the basis of a constrained BRST-BFV approach we propose. The
-resulting BRST-BFV equations of motion for a scalar field augmented by ghost
-operators contains different sets of auxiliary fields, depending on the manner
-of a partial gauge-fixing and a resolution of some of the equations of motion
-for a BRST-unfolded first-stage reducible gauge theory. To achieve an
-equivalence of the resulting BRST-unfolded constrained equations of motion with
-the initial irreducible Poincare group conditions of a Bargmann--Wigner type,
-it is demonstrated that one should replace the field in these conditions by a
-class of gauge-equivalent configurations. Triplet-like, doublet-like
-constrained descriptions, as well as an unconstrained quartet-like
-non-Lagrangian and Lagrangian formulations, are derived using both
-Fronsdal-like and new tensor fields. In particular, the BRST--BV equations of
-motion and Lagrangian using an appropriate set of Lagrangian multipliers in the
-minimal sector of the respective field and antifield configurations are
-constructed in a manifest way.
+Gauge-invariant descriptions for a free bosonic scalar field of continuous spin in a $d$-dimensional minkowski space-time using a metric-like formulation are constructed on the basis of a constrained brst-bfv approach we propose. The resulting brst-bfv equations of motion for a scalar field augmented by ghost operators contains different sets of auxiliary fields, depending on the manner of a partial gauge-fixing and a resolution of some of the equations of motion for a brst-unfolded first-stage reducible gauge theory. To achieve an equivalence of the resulting brst-unfolded constrained equations of motion with the initial irreducible poincare group conditions of a bargmann--wigner type, it is demonstrated that one should replace the field in these conditions by a class of gauge-equivalent configurations. Triplet-like, doublet-like constrained descriptions, as well as an unconstrained quartet-like non-lagrangian and lagrangian formulations, are derived using both fronsdal-like and new tensor fields. In particular, the brst--bv equations of motion and lagrangian using an appropriate set of lagrangian multipliers in the minimal sector of the respective field and antifield configurations are constructed in a manifest way.

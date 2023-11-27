@@ -1,17 +1,1 @@
-Pulsed nuclear magnetic resonance (NMR) is widely used in high-precision
-magnetic field measurements. The absolute value of the magnetic field is
-determined from the precession frequency of nuclear magnetic moments. The
-Hilbert transform is widely used to extract the phase function from the
-observed free induction decay (FID) signal and then its frequency. In this
-paper, a detailed implementation of a Hilbert-transform based FID frequency
-extraction method is described. How artifacts and noise level in the FID signal
-affect the extracted phase function are derived analytically. A method of
-mitigating the artifacts in the extracted phase function of an FID is
-discussed. Correlations between noises of the phase function samples are
-studied for different noise spectra. We discovered that the error covariance
-matrix for the extracted phase function is nearly singular and improper for
-constructing the $\chi^2$ used in the fitting routine. A down-sampling method
-for fixing the singular covariance matrix has been developed, so that the
-minimum $\chi^2$-fit yields properly the statistical uncertainty of the
-extracted frequency. Other practical methods of obtaining the statistical
-uncertainty are also discussed.
+Pulsed nuclear magnetic resonance (nmr) is widely used in high-precision magnetic field measurements. The absolute value of the magnetic field is determined from the precession frequency of nuclear magnetic moments. The hilbert transform is widely used to extract the phase function from the observed free induction decay (fid) signal and then its frequency. In this paper, a detailed implementation of a hilbert-transform based fid frequency extraction method is described. How artifacts and noise level in the fid signal affect the extracted phase function are derived analytically. A method of mitigating the artifacts in the extracted phase function of an fid is discussed. Correlations between noises of the phase function samples are studied for different noise spectra. We discovered that the error covariance matrix for the extracted phase function is nearly singular and improper for constructing the $\chi^2$ used in the fitting routine. A down-sampling method for fixing the singular covariance matrix has been developed, so that the minimum $\chi^2$-fit yields properly the statistical uncertainty of the extracted frequency. Other practical methods of obtaining the statistical uncertainty are also discussed.

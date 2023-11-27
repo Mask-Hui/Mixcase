@@ -1,12 +1,1 @@
-We advance a holographic construction for the entanglement negativity of
-bipartite mixed state configurations of two disjoint intervals in $(1+1)$
-dimensional conformal field theories ($CFT_{1+1}$) through the $AdS_3/CFT_2$
-correspondence. Our construction constitutes the large central charge analysis
-of the entanglement negativity for mixed states under consideration and
-involves a specific algebraic sum of bulk space like geodesics anchored on
-appropriate intervals in the dual $CFT_{1+1}$. The construction is utilized to
-compute the holographic entanglement negativity for such mixed states in
-$CFT_{1+1}$s dual to bulk pure $AdS_3$ geometries and BTZ black holes
-respectively. Our analysis exactly reproduces the universal features of
-corresponding replica technique results in the large central charge limit which
-serves as a consistency check.
+We advance a holographic construction for the entanglement negativity of bipartite mixed state configurations of two disjoint intervals in $(1+1)$ dimensional conformal field theories ($cft_{1+1}$) through the $ads_3/cft_2$ correspondence. Our construction constitutes the large central charge analysis of the entanglement negativity for mixed states under consideration and involves a specific algebraic sum of bulk space like geodesics anchored on appropriate intervals in the dual $cft_{1+1}$. The construction is utilized to compute the holographic entanglement negativity for such mixed states in $cft_{1+1}$s dual to bulk pure $ads_3$ geometries and btz black holes respectively. Our analysis exactly reproduces the universal features of corresponding replica technique results in the large central charge limit which serves as a consistency check.

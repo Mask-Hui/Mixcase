@@ -1,12 +1,1 @@
-We identify a class of dressed atom-photon states formingat the same energy
-of the atom at any coupling strength. As a hallmark, their photonic component
-is an eigenstate of the bare photonic bath with a vacancy in place of the atom.
-The picture accommodates waveguide-QED phenomena where atoms behave as perfect
-mirrors, connecting in particular dressed bound states (BS) in the continuum or
-BIC with geometrically-confined photonic modes. When applied to photonic
-lattices, the framework provides a general criterion to predict dressed BS in
-lattices with topological properties by putting them in one-to-one
-correspondence with photonic BS. New classes of dressed BS are thus predicted
-in the photonic Creutz-ladder and Haldane models. In the latter case, states
-with non-zero local photon flux occur, where an atom is dressed by a photon
-orbiting around it.
+We identify a class of dressed atom-photon states formingat the same energy of the atom at any coupling strength. As a hallmark, their photonic component is an eigenstate of the bare photonic bath with a vacancy in place of the atom. The picture accommodates waveguide-qed phenomena where atoms behave as perfect mirrors, connecting in particular dressed bound states (bs) in the continuum or bic with geometrically-confined photonic modes. When applied to photonic lattices, the framework provides a general criterion to predict dressed bs in lattices with topological properties by putting them in one-to-one correspondence with photonic bs. New classes of dressed bs are thus predicted in the photonic creutz-ladder and haldane models. In the latter case, states with non-zero local photon flux occur, where an atom is dressed by a photon orbiting around it.

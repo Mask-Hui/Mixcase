@@ -1,10 +1,1 @@
-We present the new CTEQ-TEA global analysis of quantum chromodynamics (QCD).
-In this analysis, parton distribution functions (PDFs) of the nucleon are
-determined within the Hessian method at the next-to-next-to-leading order
-(NNLO) in perturbative QCD, based on the most recent measurements from the
-Large Hadron Collider (LHC) and a variety of world collider data. Because of
-difficulties in fitting both the ATLAS 7 and 8 TeV $W$ and $Z$ vector boson
-production cross section data, we present four families of (N)NLO CTEQ-TEA
-PDFs, named CT18, A, X and Z PDFs, respectively. We study the impact of the
-CT18 family of PDFs on the theoretical predictions of standard candle cross
-sections at the LHC.
+We present the new cteq-tea global analysis of quantum chromodynamics (qcd). In this analysis, parton distribution functions (pdfs) of the nucleon are determined within the hessian method at the next-to-next-to-leading order (nnlo) in perturbative qcd, based on the most recent measurements from the large hadron collider (lhc) and a variety of world collider data. Because of difficulties in fitting both the atlas 7 and 8 tev $w$ and $z$ vector boson production cross section data, we present four families of (n)nlo cteq-tea pdfs, named ct18, a, x and z pdfs, respectively. We study the impact of the ct18 family of pdfs on the theoretical predictions of standard candle cross sections at the lhc.

@@ -1,18 +1,1 @@
-The topological states of matters arising from the nontrivial magnetic
-configuration provide a better understanding of physical properties and
-functionalities of solid materials. Such studies benefit from the active
-control of spin orientation in any solid, which is yet known to rarely take
-place in the two-dimensional (2D) limit. Here we demonstrate by the
-first-principles calculations that spin-orientation dependent topological
-states can appear in the geometrically frustrated monolayer antiferromagnet.
-Different topological states including quantum anomalous Hall (QAH) effect and
-time-reversal-symmetry (TRS) broken quantum spin Hall (QSH) effect can be
-obtained by changing spin orientation in the NiTl2S4 monolayer. Remarkably, the
-dilated nc-AFM NiTl2S4 monolayer gives birth to the QAH effect with hitherto
-reported largest number of quantized conducting channels (Chern number C = -4)
-in 2D materials. Interestingly, under tunable chemical potential, the nc-AFM
-NiTl2S4 monolayer hosts a novel state supporting the coexistence of QAH and TRS
-broken QSH effects with a Chern number C = 3 and spin Chern number C_s = 1.
-This work manifests a promising concept and material realization toward
-topological spintronics in 2D antiferromagnets by manipulating its spin degree
-of freedom.
+The topological states of matters arising from the nontrivial magnetic configuration provide a better understanding of physical properties and functionalities of solid materials. Such studies benefit from the active control of spin orientation in any solid, which is yet known to rarely take place in the two-dimensional (2d) limit. Here we demonstrate by the first-principles calculations that spin-orientation dependent topological states can appear in the geometrically frustrated monolayer antiferromagnet. Different topological states including quantum anomalous hall (qah) effect and time-reversal-symmetry (trs) broken quantum spin hall (qsh) effect can be obtained by changing spin orientation in the nitl2s4 monolayer. Remarkably, the dilated nc-afm nitl2s4 monolayer gives birth to the qah effect with hitherto reported largest number of quantized conducting channels (chern number c = -4) in 2d materials. Interestingly, under tunable chemical potential, the nc-afm nitl2s4 monolayer hosts a novel state supporting the coexistence of qah and trs broken qsh effects with a chern number c = 3 and spin chern number c_s = 1. This work manifests a promising concept and material realization toward topological spintronics in 2d antiferromagnets by manipulating its spin degree of freedom.

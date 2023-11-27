@@ -1,9 +1,1 @@
-We study the quantum tunnel effect through a potential barrier employing a
-semiclassical formulation of quantum mechanics based on expectation values of
-configuration variables and quantum dispersions as dynamical variables. The
-evolution of the system is given in terms of a dynamical system for which we
-are able to determine effective trajectories for individual particles, in a
-total resemblance of the Bohmian description of quantum mechanics. We obtain a
-type of semiclassical confinement for particles in a similar way as with the
-quantum potential, and also determine a semiclassical transmission coefficient
-for the tunneling process.
+We study the quantum tunnel effect through a potential barrier employing a semiclassical formulation of quantum mechanics based on expectation values of configuration variables and quantum dispersions as dynamical variables. The evolution of the system is given in terms of a dynamical system for which we are able to determine effective trajectories for individual particles, in a total resemblance of the bohmian description of quantum mechanics. We obtain a type of semiclassical confinement for particles in a similar way as with the quantum potential, and also determine a semiclassical transmission coefficient for the tunneling process.

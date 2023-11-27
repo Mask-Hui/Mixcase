@@ -1,13 +1,1 @@
-We study a new model of quintessential inflation which is inspired by
-supergravity and string theory. The model features a kinetic pole, which gives
-rise to the inflationary plateau, and a runaway quintessential tail. We
-envisage a coupling between the inflaton and the Peccei-Quinn (PQ) field which
-terminates the roll of the runaway inflaton and traps the latter at an enhanced
-symmetry point (ESP), thereby breaking the PQ symmetry. The kinetic density of
-the inflaton is transferred to the newly created thermal bath of the hot big
-bang due to the decay of PQ particles. The model successfully accounts for the
-observations of inflation and dark energy without any fine-tuning, while also
-resolving the strong CP problem of QCD and generating axionic dark matter,
-without isocurvature perturbations. Trapping the inflaton at the ESP ensures
-that the model does not suffer from the infamous 5th force problem, which
-typically plagues quintessence.
+We study a new model of quintessential inflation which is inspired by supergravity and string theory. The model features a kinetic pole, which gives rise to the inflationary plateau, and a runaway quintessential tail. We envisage a coupling between the inflaton and the peccei-quinn (pq) field which terminates the roll of the runaway inflaton and traps the latter at an enhanced symmetry point (esp), thereby breaking the pq symmetry. The kinetic density of the inflaton is transferred to the newly created thermal bath of the hot big bang due to the decay of pq particles. The model successfully accounts for the observations of inflation and dark energy without any fine-tuning, while also resolving the strong cp problem of qcd and generating axionic dark matter, without isocurvature perturbations. Trapping the inflaton at the esp ensures that the model does not suffer from the infamous 5th force problem, which typically plagues quintessence.

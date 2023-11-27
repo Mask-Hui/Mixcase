@@ -1,18 +1,1 @@
-The nonlinear programming (NLP) problem to solve distribution-level optimal
-power flow (D-OPF) poses convergence issues and does not scale well for
-unbalanced distribution systems. The existing scalable D-OPF algorithms either
-use approximations that are not valid for an unbalanced power distribution
-system or apply relaxation techniques to the nonlinear power flow equations
-that do not guarantee a feasible power flow solution. In this paper, we propose
-scalable D-OPF algorithms that simultaneously achieve optimal and feasible
-solutions by solving multiple iterations of approximate, or relaxed, D-OPF
-subproblems of low complexity. The first algorithm is based on a successive
-linear approximation of the nonlinear power flow equations around the current
-operating point, where the D-OPF solution is obtained by solving multiple
-iterations of a linear programming (LP) problem. The second algorithm is based
-on the relaxation of the nonlinear power flow equations as conic constraints
-together with directional constraints, which achieves optimal and feasible
-solutions over multiple iterations of a second-order cone programming (SOCP)
-problem. It is demonstrated that the proposed algorithms are able to reach an
-optimal and feasible solution while significantly reducing the computation time
-as compared to an equivalent NLP D-OPF model for the same distribution system.
+The nonlinear programming (nlp) problem to solve distribution-level optimal power flow (d-opf) poses convergence issues and does not scale well for unbalanced distribution systems. The existing scalable d-opf algorithms either use approximations that are not valid for an unbalanced power distribution system or apply relaxation techniques to the nonlinear power flow equations that do not guarantee a feasible power flow solution. In this paper, we propose scalable d-opf algorithms that simultaneously achieve optimal and feasible solutions by solving multiple iterations of approximate, or relaxed, d-opf subproblems of low complexity. The first algorithm is based on a successive linear approximation of the nonlinear power flow equations around the current operating point, where the d-opf solution is obtained by solving multiple iterations of a linear programming (lp) problem. The second algorithm is based on the relaxation of the nonlinear power flow equations as conic constraints together with directional constraints, which achieves optimal and feasible solutions over multiple iterations of a second-order cone programming (socp) problem. It is demonstrated that the proposed algorithms are able to reach an optimal and feasible solution while significantly reducing the computation time as compared to an equivalent nlp d-opf model for the same distribution system.

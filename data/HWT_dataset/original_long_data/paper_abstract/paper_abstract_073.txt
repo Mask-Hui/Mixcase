@@ -1,11 +1,1 @@
-Elephant random walk is a kind of one-dimensional discrete-time random walk
-with infinite memory: For each step, with probability $\alpha$ the walker
-adopts one of his/her previous steps uniformly chosen at random, and otherwise
-he/she performs like a simple random walk (possibly with bias). It admits phase
-transition from diffusive to superdiffusive behavior at the critical value
-$\alpha_c=1/2$. For $\alpha \in (\alpha_c, 1)$, there is a scaling factor $a_n$
-of order $n^{\alpha}$ such that the position $S_n$ of the walker at time $n$
-scaled by $a_n$ converges to a nondegenerate random variable $W$, whose
-distribution is not Gaussian. Our main result shows that the fluctuation of
-$S_n$ around $W \cdot a_n$ is still Gaussian. We also give a description of
-phase transition induced by bias decaying polynomially in time.
+Elephant random walk is a kind of one-dimensional discrete-time random walk with infinite memory: for each step, with probability $\alpha$ the walker adopts one of his/her previous steps uniformly chosen at random, and otherwise he/she performs like a simple random walk (possibly with bias). It admits phase transition from diffusive to superdiffusive behavior at the critical value $\alpha_c=1/2$. For $\alpha \in (\alpha_c, 1)$, there is a scaling factor $a_n$ of order $n^{\alpha}$ such that the position $s_n$ of the walker at time $n$ scaled by $a_n$ converges to a nondegenerate random variable $w$, whose distribution is not gaussian. Our main result shows that the fluctuation of $s_n$ around $w \cdot a_n$ is still gaussian. We also give a description of phase transition induced by bias decaying polynomially in time.

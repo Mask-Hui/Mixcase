@@ -1,10 +1,1 @@
-Let $\Omega$ be a Lipschitz polyhedral (can be nonconvex) domain in
-$\mathbb{R}^{3}$, and $V_{h}$ denotes the finite element space of continuous
-piecewise linear polynomials. On non-obtuse quasi-uniform tetrahedral meshes,
-we prove that the finite element projection $R_{h}u$ of $u \in H^{1}(\Omega)
-\cap C(\overline{\Omega})$ (with $R_{h} u$ interpolating $u$ at the boundary
-nodes) satisfies \begin{align*} \Vert R_{h} u\Vert_{L^{\infty}(\Omega)} \leq C
-\vert \log h \vert \Vert u\Vert_{L^{\infty}(\Omega)}. \end{align*} If we
-further assume $u \in W^{1,\infty}(\Omega)$, then \begin{align*} \Vert R_{h}
-u\Vert_{W^{1, \infty}(\Omega)} \leq C \vert \log h \vert \Vert u\Vert_{W^{1,
-\infty}(\Omega)}. \end{align*}
+Let $\omega$ be a lipschitz polyhedral (can be nonconvex) domain in $\mathbb{r}^{3}$, and $v_{h}$ denotes the finite element space of continuous piecewise linear polynomials. On non-obtuse quasi-uniform tetrahedral meshes, we prove that the finite element projection $r_{h}u$ of $u \in h^{1}(\omega) \cap c(\overline{\omega})$ (with $r_{h} u$ interpolating $u$ at the boundary nodes) satisfies \begin{align*} \vert r_{h} u\vert_{l^{\infty}(\omega)} \leq c \vert \log h \vert \vert u\vert_{l^{\infty}(\omega)}. \end{align*} if we further assume $u \in w^{1,\infty}(\omega)$, then \begin{align*} \vert r_{h} u\vert_{w^{1, \infty}(\omega)} \leq c \vert \log h \vert \vert u\vert_{w^{1, \infty}(\omega)}. \end{align*}

@@ -1,14 +1,1 @@
-It has been suggested a long time ago by W. Bardeen that non-vanishing of the
-one-loop same helicity YM amplitudes, in particular such an amplitude at four
-points, should be interpreted as an anomaly. However, the available derivations
-of these amplitudes are rather far from supporting this interpretation in that
-they share no similarity whatsoever with the standard triangle diagram chiral
-anomaly calculation. We provide a new computation of the same helicity
-four-point amplitude by a method designed to mimic the chiral anomaly
-derivation. This is done by using the momentum conservation to rewrite the
-logarithmically divergent four-point amplitude as a sum of linearly and then
-quadratically divergent integrals. These integrals are then seen to vanish
-after appropriate shifts of the loop momentum integration variable. The
-amplitude thus gets related to shifts, and these are computed in the standard
-textbook way. We thus reproduce the usual result but by a method which greatly
-strengthens the case for an anomaly interpretation of these amplitudes.
+It has been suggested a long time ago by w. Bardeen that non-vanishing of the one-loop same helicity ym amplitudes, in particular such an amplitude at four points, should be interpreted as an anomaly. However, the available derivations of these amplitudes are rather far from supporting this interpretation in that they share no similarity whatsoever with the standard triangle diagram chiral anomaly calculation. We provide a new computation of the same helicity four-point amplitude by a method designed to mimic the chiral anomaly derivation. This is done by using the momentum conservation to rewrite the logarithmically divergent four-point amplitude as a sum of linearly and then quadratically divergent integrals. These integrals are then seen to vanish after appropriate shifts of the loop momentum integration variable. The amplitude thus gets related to shifts, and these are computed in the standard textbook way. We thus reproduce the usual result but by a method which greatly strengthens the case for an anomaly interpretation of these amplitudes.

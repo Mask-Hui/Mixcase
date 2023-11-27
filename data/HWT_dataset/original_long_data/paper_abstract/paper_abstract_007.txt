@@ -1,17 +1,1 @@
-We formulate the Smoluchowski equation for a run-and-tumble particle. It
-includes the mean tumble rate in a chemical field, for which we derive a
-Markovian response theory. Using a multipole expansion and a reaction-diffusion
-equation for the chemoattractant field, we derive a polarization extended
-model, which also includes the recently discovered angle bias. In the adiabatic
-limit we recover generalized Keller-Segel equations with diffusion and
-chemotactic coefficients that depend on the microscopic swimming parameters. By
-requiring the tumble rate to be positive, our model possesses an upper bound of
-the chemotactic drift velocity, which is no longer singular as in the original
-Keller-Segel equations. Using the Keller-Segel model, we present an extensive
-study of traveling bacterial concentration pulses demonstrating how speed,
-width, and height of the pulse depend on the microscopic parameters. Most
-importantly, we discover a maximum number of bacteria that the pulse can
-sustain - the maximum carrying capacity. Finally, we obtain a remarkably good
-match to experimental results on the traveling bacterial pulse. It does not
-require a second, signaling chemical field nor a singular chemotactic drift
-velocity.
+We formulate the smoluchowski equation for a run-and-tumble particle. It includes the mean tumble rate in a chemical field, for which we derive a markovian response theory. Using a multipole expansion and a reaction-diffusion equation for the chemoattractant field, we derive a polarization extended model, which also includes the recently discovered angle bias. In the adiabatic limit we recover generalized keller-segel equations with diffusion and chemotactic coefficients that depend on the microscopic swimming parameters. By requiring the tumble rate to be positive, our model possesses an upper bound of the chemotactic drift velocity, which is no longer singular as in the original keller-segel equations. Using the keller-segel model, we present an extensive study of traveling bacterial concentration pulses demonstrating how speed, width, and height of the pulse depend on the microscopic parameters. Most importantly, we discover a maximum number of bacteria that the pulse can sustain - the maximum carrying capacity. Finally, we obtain a remarkably good match to experimental results on the traveling bacterial pulse. It does not require a second, signaling chemical field nor a singular chemotactic drift velocity.

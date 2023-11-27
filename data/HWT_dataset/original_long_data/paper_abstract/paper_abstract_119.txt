@@ -1,11 +1,1 @@
-Following a series of similar calculations in simpler non-conformal
-holographic setups, we determine the quasinormal mode spectrum for an operator
-dual to a gauge-invariant scalar field within the Improved Holographic QCD
-framework. At temperatures somewhat above the critical temperature of the
-deconfinement transition, we find a small number of clearly separated modes
-followed by a branch-cut-like structure parallel to the real axis, the presence
-of which is linked to the form of the IHQCD potential employed. The temperature
-dependence of the lowest nonzero mode is furthermore used to study the
-thermalization time of the corresponding correlator, which is found to be of
-the order of the inverse critical temperature near the phase transition and
-decrease slightly faster than $1/T$ at higher temperatures.
+Following a series of similar calculations in simpler non-conformal holographic setups, we determine the quasinormal mode spectrum for an operator dual to a gauge-invariant scalar field within the improved holographic qcd framework. At temperatures somewhat above the critical temperature of the deconfinement transition, we find a small number of clearly separated modes followed by a branch-cut-like structure parallel to the real axis, the presence of which is linked to the form of the ihqcd potential employed. The temperature dependence of the lowest nonzero mode is furthermore used to study the thermalization time of the corresponding correlator, which is found to be of the order of the inverse critical temperature near the phase transition and decrease slightly faster than $1/t$ at higher temperatures.

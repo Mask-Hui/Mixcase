@@ -1,14 +1,1 @@
-Topologically protected magnetic structures provide a robust platform for low
-power consumption devices for computation and data storage. Examples of these
-structures are skyrmions, chiral domain walls, and spin spirals. Here we use
-scanning electron microscopy with polarization analysis to unveil the presence
-of chiral counterclockwise N\'eel spin spirals at the surface of a bulk van der
-Waals ferromagnet Fe$_3$GeTe$_2$ (FGT), at zero magnetic field. These N\'eel
-spin spirals survive up to FGT's Curie temperature $T_\mathrm{C}= 220
-\mathrm{~K}$, with little change in the periodicity $p=300 \mathrm{~nm}$ of the
-spin spiral throughout the studied temperature range. The formation of a spin
-spiral showing counterclockwise rotation strongly suggests the presence of a
-positive Dzyaloshinskii-Moriya interaction in FGT, which provides the first
-steps towards the understanding of the magnetic structure of FGT. Our results
-additionally pave the way for chiral magnetism in van der Waals materials and
-their heterostructures.
+Topologically protected magnetic structures provide a robust platform for low power consumption devices for computation and data storage. Examples of these structures are skyrmions, chiral domain walls, and spin spirals. Here we use scanning electron microscopy with polarization analysis to unveil the presence of chiral counterclockwise n\'eel spin spirals at the surface of a bulk van der waals ferromagnet fe$_3$gete$_2$ (fgt), at zero magnetic field. These n\'eel spin spirals survive up to fgt's curie temperature $t_\mathrm{c}= 220 \mathrm{~k}$, with little change in the periodicity $p=300 \mathrm{~nm}$ of the spin spiral throughout the studied temperature range. The formation of a spin spiral showing counterclockwise rotation strongly suggests the presence of a positive dzyaloshinskii-moriya interaction in fgt, which provides the first steps towards the understanding of the magnetic structure of fgt. Our results additionally pave the way for chiral magnetism in van der waals materials and their heterostructures.

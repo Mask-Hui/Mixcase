@@ -1,15 +1,1 @@
-VKAMINS (Non-Privileged).pst
-
-
-
- -----Original Message-----
-From: 	Supatgiat, Chonawee  
-Sent:	Thursday, November 08, 2001 3:58 PM
-To:	Kaminski, Vince J
-Subject:	updated INFORMS slide
-
-Vince, 
-Attached here is the actual version of the slides I presented at INFORMS conference. Many people, including an area editor of Operations Research journal, showed their interests so I am thinking about publishing a paper about it. Of course, I will show it to you first before sending it to outside. 
-I also met a guy from Bell Lab working in Lucent's Bandwidth trading group. He said that Lucent allocates about 3-4 researchers to work in this area. He said Lucent believes that the bandwidth demand will eventually pick up so they want to be the first one who provide products and research for supporting bandwidth trading. I agree with him that research work should not be stopped and bandwidth trading will become a reality in the next few years.
-This time the conference is very big. They have 45 parallel sessions presenting at the same time for 3.5 days.
--Chonawee
+Vkamins (non-privileged).pst -----original message----- from: supatgiat, chonawee sent: thursday, november 08, 2001 3:58 pm to: kaminski, vince j subject: updated informs slide vince, attached here is the actual version of the slides i presented at informs conference. Many people, including an area editor of operations research journal, showed their interests so i am thinking about publishing a paper about it. Of course, i will show it to you first before sending it to outside. I also met a guy from bell lab working in lucent's bandwidth trading group. He said that lucent allocates about 3-4 researchers to work in this area. He said lucent believes that the bandwidth demand will eventually pick up so they want to be the first one who provide products and research for supporting bandwidth trading. I agree with him that research work should not be stopped and bandwidth trading will become a reality in the next few years. This time the conference is very big. They have 45 parallel sessions presenting at the same time for 3.5 days. -chonawee

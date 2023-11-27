@@ -1,10 +1,1 @@
-This paper presents a technique to measure the gain of a single-plate
-micro-channel plate (MCP)/phosphor assembly by using a convolutional neural
-network to analyse images of the phosphor screen, recorded by a charge coupled
-device. The neural network reduces the background noise in the images
-sufficiently that individual electron events can be identified. From the
-denoised images, an algorithm determines the average intensity recorded on the
-phosphor associated with a single electron hitting the MCP. From this average
-single-particle-intensity, along with measurements of the charge of bunches
-after amplification by the MCP, we were able to deduce the gain curve of the
-MCP.
+This paper presents a technique to measure the gain of a single-plate micro-channel plate (mcp)/phosphor assembly by using a convolutional neural network to analyse images of the phosphor screen, recorded by a charge coupled device. The neural network reduces the background noise in the images sufficiently that individual electron events can be identified. From the denoised images, an algorithm determines the average intensity recorded on the phosphor associated with a single electron hitting the mcp. From this average single-particle-intensity, along with measurements of the charge of bunches after amplification by the mcp, we were able to deduce the gain curve of the mcp.

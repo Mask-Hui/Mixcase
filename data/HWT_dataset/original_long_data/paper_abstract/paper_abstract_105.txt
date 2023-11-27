@@ -1,11 +1,1 @@
-We present several new results and connections between various extensions of
-finite automata through the study of vector automata and homing vector
-automata. We show that homing vector automata outperform extended finite
-automata when both are defined over $ 2 \times 2 $ integer matrices. We study
-the string separation problem for vector automata and demonstrate that
-generalized finite automata with rational entries can separate any pair of
-strings using only two states. Investigating stateless homing vector automata,
-we prove that a language is recognized by stateless blind deterministic
-real-time version of finite automata with multiplication iff it is commutative
-and its Parikh image is the set of nonnegative integer solutions to a system of
-linear homogeneous Diophantine equations.
+We present several new results and connections between various extensions of finite automata through the study of vector automata and homing vector automata. We show that homing vector automata outperform extended finite automata when both are defined over $ 2 \times 2 $ integer matrices. We study the string separation problem for vector automata and demonstrate that generalized finite automata with rational entries can separate any pair of strings using only two states. Investigating stateless homing vector automata, we prove that a language is recognized by stateless blind deterministic real-time version of finite automata with multiplication iff it is commutative and its parikh image is the set of nonnegative integer solutions to a system of linear homogeneous diophantine equations.

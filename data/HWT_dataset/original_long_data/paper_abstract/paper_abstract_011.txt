@@ -1,17 +1,1 @@
-We study the flow extension of graphs, i.e., pre-assigning a partial flow on
-the edges incident to a given vertex and aiming to extend to the entire graph.
-This is closely related to Tutte's $3$-flow conjecture(1972) that every
-$4$-edge-connected graph admits a nowhere-zero $3$-flow and a
-$\mathbb{Z}_3$-group connectivity conjecture(3GCC) of Jaeger, Linial, Payan,
-and Tarsi(1992) that every $5$-edge-connected graph $G$ is
-$\mathbb{Z}_3$-connected. Our main results show that these conjectures are
-equivalent to their natural flow extension versions and present some
-applications. The $3$-flow case gives an alternative proof of Kochol's
-result(2001) that Tutte's $3$-flow conjecture is equivalent to its restriction
-on $5$-edge-connected graphs and is implied by the 3GCC. It also shows a new
-fact that Gr{\"o}tzsch's theorem (that triangle-free planar graphs are
-$3$-colorable) is equivalent to its seemly weaker girth five case that planar
-graphs of grith $5$ are $3$-colorable. Our methods allow to verify 3GCC for
-graphs with crossing number one, which is in fact reduced to the planar case
-proved by Richter, Thomassen and Younger(2017). Other equivalent versions of
-3GCC and related partial results are obtained as well.
+We study the flow extension of graphs, i.e., pre-assigning a partial flow on the edges incident to a given vertex and aiming to extend to the entire graph. This is closely related to tutte's $3$-flow conjecture(1972) that every $4$-edge-connected graph admits a nowhere-zero $3$-flow and a $\mathbb{z}_3$-group connectivity conjecture(3gcc) of jaeger, linial, payan, and tarsi(1992) that every $5$-edge-connected graph $g$ is $\mathbb{z}_3$-connected. Our main results show that these conjectures are equivalent to their natural flow extension versions and present some applications. The $3$-flow case gives an alternative proof of kochol's result(2001) that tutte's $3$-flow conjecture is equivalent to its restriction on $5$-edge-connected graphs and is implied by the 3gcc. It also shows a new fact that gr{\"o}tzsch's theorem (that triangle-free planar graphs are $3$-colorable) is equivalent to its seemly weaker girth five case that planar graphs of grith $5$ are $3$-colorable. Our methods allow to verify 3gcc for graphs with crossing number one, which is in fact reduced to the planar case proved by richter, thomassen and younger(2017). Other equivalent versions of 3gcc and related partial results are obtained as well.

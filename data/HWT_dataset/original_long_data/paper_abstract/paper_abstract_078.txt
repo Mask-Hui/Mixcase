@@ -1,16 +1,1 @@
-Consider a Bayesian inference problem where a variable of interest does not
-take values in a Euclidean space. These "non-standard" data structures are in
-reality fairly common. They are frequently used in problems involving latent
-discrete factor models, networks, and domain specific problems such as sequence
-alignments and reconstructions, pedigrees, and phylogenies. In principle,
-Bayesian inference should be particularly well-suited in such scenarios, as the
-Bayesian paradigm provides a principled way to obtain confidence assessment for
-random variables of any type. However, much of the recent work on making
-Bayesian analysis more accessible and computationally efficient has focused on
-inference in Euclidean spaces. In this paper, we introduce Blang, a domain
-specific language (DSL) and library aimed at bridging this gap. Blang allows
-users to perform Bayesian analysis on arbitrary data types while using a
-declarative syntax similar to BUGS. Blang is augmented with intuitive language
-additions to invent data types of the user's choosing. To perform inference at
-scale on such arbitrary state spaces, Blang leverages recent advances in
-parallelizable, non-reversible Markov chain Monte Carlo methods.
+Consider a bayesian inference problem where a variable of interest does not take values in a euclidean space. These "non-standard" data structures are in reality fairly common. They are frequently used in problems involving latent discrete factor models, networks, and domain specific problems such as sequence alignments and reconstructions, pedigrees, and phylogenies. In principle, bayesian inference should be particularly well-suited in such scenarios, as the bayesian paradigm provides a principled way to obtain confidence assessment for random variables of any type. However, much of the recent work on making bayesian analysis more accessible and computationally efficient has focused on inference in euclidean spaces. In this paper, we introduce blang, a domain specific language (dsl) and library aimed at bridging this gap. Blang allows users to perform bayesian analysis on arbitrary data types while using a declarative syntax similar to bugs. Blang is augmented with intuitive language additions to invent data types of the user's choosing. To perform inference at scale on such arbitrary state spaces, blang leverages recent advances in parallelizable, non-reversible markov chain monte carlo methods.

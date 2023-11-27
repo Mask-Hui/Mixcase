@@ -1,16 +1,1 @@
-The local escape velocity provides valuable inputs to the mass profile of the
-Galaxy, and requires understanding the tail of the stellar speed distribution.
-Following Leonard $\&$ Tremaine (1990), various works have since modeled the
-tail of the stellar speed distribution as $\propto (v_{\rm{esc}} -v)^k$, where
-$v_{\rm{esc}}$ is the escape velocity, and $k$ is the slope of the
-distribution. In such studies, however, these two parameters were found to be
-largely degenerate and often a narrow prior is imposed on $k$ in order to
-constrain $v_{\rm{esc}}$. Furthermore, the validity of the power law form is
-likely to break down in the presence of multiple kinematic substructures. In
-this paper, we introduce a strategy that for the first time takes into account
-the presence of kinematic substructure. We model the tail of the velocity
-distribution as a sum of multiple power laws without imposing strong priors.
-Using mock data, we show the robustness of this method in the presence of
-kinematic structure that is similar to the recently-discovered Gaia Sausage. In
-a companion paper, we present the new measurement of the escape velocity and
-subsequently the mass of the Milky Way using Gaia DR2 data.
+The local escape velocity provides valuable inputs to the mass profile of the galaxy, and requires understanding the tail of the stellar speed distribution. Following leonard $\&$ tremaine (1990), various works have since modeled the tail of the stellar speed distribution as $\propto (v_{\rm{esc}} -v)^k$, where $v_{\rm{esc}}$ is the escape velocity, and $k$ is the slope of the distribution. In such studies, however, these two parameters were found to be largely degenerate and often a narrow prior is imposed on $k$ in order to constrain $v_{\rm{esc}}$. Furthermore, the validity of the power law form is likely to break down in the presence of multiple kinematic substructures. In this paper, we introduce a strategy that for the first time takes into account the presence of kinematic substructure. We model the tail of the velocity distribution as a sum of multiple power laws without imposing strong priors. Using mock data, we show the robustness of this method in the presence of kinematic structure that is similar to the recently-discovered gaia sausage. In a companion paper, we present the new measurement of the escape velocity and subsequently the mass of the milky way using gaia dr2 data.
