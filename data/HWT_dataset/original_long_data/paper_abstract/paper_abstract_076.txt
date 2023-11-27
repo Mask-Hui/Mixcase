@@ -1,0 +1,9 @@
+A semiclassical model is presented for characterizing the linear response of
+elementary quantum optical systems involving cavities, optical fibers, and
+atoms. Formulating the transmission and reflection spectra using a
+scattering-wave (transfer matrix) approach, the calculations become easily
+scalable. To demonstrate how useful this method is, we consider the example of
+a simple quantum network, i.e., two cavity-QED systems connected via an optical
+fiber. Differences between our quasi-exact transfer matrix approach and a
+single-mode, linearized quantum-optical model are demonstrated for parameters
+relevant to recent experiments with coupled nanofiber-cavity-QED systems.

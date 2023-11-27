@@ -1,0 +1,11 @@
+The surface diffusion potential landscape plays an essential role in a number
+of physical and chemical processes such as self-assembly and catalysis.
+Diffusion energy barriers can be calculated theoretically for simple systems,
+but there is currently no experimental technique to systematically measure them
+on the relevant atomic length scale. Here, we introduce an atomic force
+microscopy based method to semiquantitatively map the surface diffusion
+potential on an atomic length scale. In this proof of concept experiment, we
+show that the atomic force microscope damping signal at constant
+frequency-shift can be linked to nonconservative processes associated with the
+lowering of energy barriers and compared with calculated single-atom diffusion
+energy barriers.

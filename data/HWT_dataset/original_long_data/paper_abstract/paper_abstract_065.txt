@@ -1,0 +1,16 @@
+In this paper, we calculate the matrix element and form factors of
+vector-to-vector ($V'\to V'$) transition within the standard light-front~(SLF)
+and covariant light-front~(CLF) quark models~(QMs), and investigate the
+self-consistency and Lorentz covariance of the CLF QM within two types of
+correspondences between the manifest covariant Bethe-Salpeter approach and the
+LF approach. The zero-mode and valence contributions to the form factors of
+$V'\to V'$ transition in the CLF QM and their relation to the SLF results are
+analyzed, and the main conclusions obtained via the decay constants of vector
+and axial-vector mesons and form factors of $P\to V$ transition in the previous
+works are confirmed again. Furthermore, we present our numerical predictions
+for the form factors of $c\to (q,s)$ ($q=u,d$) induced $D^*\to (K^*\,,\rho)$,
+$D^*_s\to (\phi\,,K^*)$, $J/\Psi\to (D^*_s\,,D^*)$, $B^*_c\to (B^*_s\,,B^*)$
+transitions and $b\to (q,s,c)$ induced $B^*\to (D^*\,,K^*\,,\rho)$, $B^*_s\to
+(D^*_s\,,\phi\,,K^*)$, $B^*_c\to (J/\Psi\,,D^*_s\,,D^*)$, $\Upsilon(1S)\to
+(B_c^*\,,B_s^*\,,B^*)$ transitions, which can be applied further to the
+relevant phenomenological studies of meson decays.

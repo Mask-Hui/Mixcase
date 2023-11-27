@@ -1,0 +1,9 @@
+We study the spectrum of single-photon emission and scattering in a mixed
+optomechanical model which consists of both linear and quadratic optomechanical
+interactions. The spectra are calculated based on the exact long-time solutions
+of the single-photon emission and scattering processes in this system. We find
+that there exist some phonon sideband peaks in the spectra and there are some
+sub peaks around the phonon sideband peaks under proper parameter conditions.
+The correspondence between the spectral features and the optomechanical
+interactions is confirmed, and the optomechanical coupling strengths can be
+inferred by analyzing the resonance peaks and dips in the spectra.

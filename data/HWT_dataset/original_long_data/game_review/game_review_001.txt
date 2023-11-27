@@ -1,0 +1,1 @@
+Very relaxing fungus and bug simulator. All bugs and fungi interact with their environment in different ways. Unlocking their journal pages and learning more about them, especially learning exactly how they work after observing them doing their thing for some time, is a lot of fun!

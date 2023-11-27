@@ -1,0 +1,12 @@
+We carried out a comprehensive study of magnetic critical behavior in single
+crystals of ternary chalcogenide FeCr$_2$Te$_4$ that undergoes a ferrimagnetic
+transition below $T_c$ $\sim$ 123 K. Detailed critical behavior analysis and
+scaled magnetic entropy change indicate a second-order ferrimagentic
+transition. Critical exponents $\beta = 0.30(1)$ with $T_c = 122.4(5)$ K,
+$\gamma = 1.22(1)$ with $T_c = 122.8(1)$ K, and $\delta = 4.24(2)$ at $T_c$
+$\sim$ 123 K suggest that the spins approach three-dimensional Ising ($\beta$ =
+0.325, $\gamma$ = 1.24, and $\delta$ = 4.82) model coupled with the attractive
+long-range interactions between spins that decay as $J(r)\approx r^{-4.88}$.
+Our results suggest that the ferrimagnetism in FeCr$_2$Te$_4$ is due to
+itinerant ferromagnetism among the antiferromagnetically coupled Cr-Fe-Cr
+trimers.

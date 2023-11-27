@@ -1,0 +1,16 @@
+We show how series expansions of functions of bosonic number operators are
+naturally derived from finite-difference calculus. The scheme employs Newton
+series rather than Taylor series known from differential calculus, and also
+works in cases where the Taylor expansion fails. For a function of number
+operators, such an expansion is automatically normal ordered. Applied to the
+Holstein-Primakoff representation of spins, the scheme yields an exact series
+expansion with a finite number of terms and, in addition, allows for a
+systematic expansion of the spin operators that respects the spin commutation
+relations within a truncated part of the full Hilbert space. Furthermore, the
+Newton series expansion strongly facilitates the calculation of expectation
+values with respect to coherent states. As a third example, we show that
+factorial moments and factorial cumulants arising in the context of photon or
+electron counting are a natural consequence of Newton series expansions.
+Finally, we elucidate the connection between normal ordering, Taylor and Newton
+series by determining a corresponding integral transformation, which is related
+to the Mellin transform.

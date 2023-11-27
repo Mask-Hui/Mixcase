@@ -1,0 +1,16 @@
+Swept-frequency pulses have found applications in a wide range of areas
+including spectroscopic techniques where efficient control of spins is
+required. For many of these applications, a good understanding of the evolution
+of spin systems during these pulses plays a vital role, not only in describing
+the mechanism of techniques, but also in enabling new methodologies. In
+magnetic resonance spectroscopy, broadband inversion, refocusing, and
+excitation using these pulses are among the most used applications in NMR, ESR,
+MRI, and $in$ $vivo$ MRS. In the present survey, a general expression for
+chirped pulses will be introduced, and some numerical approaches to calculate
+the spin dynamics during chirped pulses via solutions of the well-known
+Liouville-von Neumann equation and the lesser-explored Wei-Norman Lie algebra
+along with comprehensive examples are presented. In both cases, spin state
+trajectories are calculated using the solution of differential equations.
+Additionally, applications of the proposed methods to study the spin dynamics
+during the PSYCHE pulse element for broadband homonuclear decoupling and the
+CHORUS sequence for broadband excitation will be presented.

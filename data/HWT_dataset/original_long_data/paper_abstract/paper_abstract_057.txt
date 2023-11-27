@@ -1,0 +1,15 @@
+This paper describes the inversion procedure being used operationally at the
+Norwegian Meteorological Institute for estimating ash emission rates from
+retrieved satellite ash column amounts and a priori knowledge.
+  The overall procedure consists of five stages:
+  (1) generate a priori emission estimates;
+  (2) run forward simulations with unit emissions;
+  (3) collocate/match observations with emission simulations;
+  (4) build system of linear equations; and
+  (5) solve overdetermined system.
+  We go through the mathematical foundations for the inversion procedure,
+performance for synthetic cases, and performance for real-world cases. The
+novelties of this paper includes pruning of the linear system of equations used
+in the inversion and inclusion of observations of ash cloud top altitude.
+  The source code used in this work is freely available under an open source
+license, and is possible to use for other similar applications.

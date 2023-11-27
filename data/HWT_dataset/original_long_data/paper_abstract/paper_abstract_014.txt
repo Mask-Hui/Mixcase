@@ -1,0 +1,13 @@
+Neural network-based anomaly detection methods have shown to achieve high
+performance. However, they require a large amount of training data for each
+task. We propose a neural network-based meta-learning method for supervised
+anomaly detection. The proposed method improves the anomaly detection
+performance on unseen tasks, which contains a few labeled normal and anomalous
+instances, by meta-training with various datasets. With a meta-learning
+framework, quick adaptation to each task and its effective backpropagation are
+important since the model is trained by the adaptation for each epoch. Our
+model enables them by formulating adaptation as a generalized eigenvalue
+problem with one-class classification; its global optimum solution is obtained,
+and the solver is differentiable. We experimentally demonstrate that the
+proposed method achieves better performance than existing anomaly detection and
+few-shot learning methods on various datasets.

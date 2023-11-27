@@ -1,0 +1,16 @@
+All elementary particles in nature can be classified as fermions with
+half-integer spin and bosons with integer spin. Within quantum electrodynamics
+(QED), even though the spin of the Dirac particle is well defined, there exist
+open questions on the quantized description of spin of the gauge field particle
+-- the photon. Here, we discover the quantum operators for the spin angular
+momentum (SAM) $\boldsymbol{S}_{M}=(1/c)\int
+d^{3}x\boldsymbol{\pi}\times\boldsymbol{A}$ and orbital angular momentum (OAM)
+$\boldsymbol{L}_{M}=-(1/c)\int
+d^{3}x\pi^{\mu}\boldsymbol{x}\times\boldsymbol{\nabla}A_{\mu}$ of the photon,
+where $\pi^{\mu}$ is the conjugate canonical momentum of the gauge field
+$A_{\mu}$. Using relativistic field theory, we reveal a perfect symmetry
+between the angular momentum commutation relations for Dirac fields and Maxwell
+fields. Our work resolves the long-standing questions on the decomposition of
+orbital and spin angular momentum of the photon with applications in quantum
+optics, topological photonics as well as nanophotonics and also has important
+ramifications for the spin structure of nucleons.

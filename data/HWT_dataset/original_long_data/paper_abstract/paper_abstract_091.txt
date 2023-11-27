@@ -1,0 +1,13 @@
+We employ the curvature expansion of the quantum effective action for
+gravity-matter systems to construct graviton-mediated scattering amplitudes for
+non-minimally coupled scalar fields in a Minkowski background. By design, the
+formalism parameterises all quantum corrections to these processes and is
+manifestly gauge-invariant. The conditions resulting from UV-finiteness,
+unitarity, and causality are analysed in detail and it is shown by explicit
+construction that the quantum effective action provides sufficient room to meet
+these structural requirements without introducing non-localities or higher-spin
+degrees of freedom. Our framework provides a bottom-up approach to all quantum
+gravity programs seeking for the quantisation of gravity within the framework
+of quantum field theory. Its scope is illustrated by specific examples,
+including effective field theory, Stelle gravity, infinite derivative gravity,
+and Asymptotic Safety.

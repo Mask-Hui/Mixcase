@@ -1,0 +1,1 @@
+Still seems to have issues with AMD video cards. I'm running two RX 480s in CrossFire and the stuttering is crazy bad! The game is playable, and when it doesn't stutter it looks really good! However until AMD and these developers actually have a sit down to fix things I cannot recommend this to anyone with an AMD graphics card.

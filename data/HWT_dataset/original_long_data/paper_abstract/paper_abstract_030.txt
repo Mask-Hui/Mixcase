@@ -1,0 +1,17 @@
+Objective dyslexia diagnosis is not a straighforward task since it is
+traditionally performed by means of the intepretation of different behavioural
+tests. Moreover, these tests are only applicable to readers. This way, early
+diagnosis requires the use of specific tasks not only related to reading. Thus,
+the use of Electroencephalography (EEG) constitutes an alternative for an
+objective and early diagnosis that can be used with pre-readers. In this way,
+the extraction of relevant features in EEG signals results crucial for
+classification. However, the identification of the most relevant features is
+not straighforward, and predefined statistics in the time or frequency domain
+are not always discriminant enough. On the other hand, classical processing of
+EEG signals based on extracting EEG bands frequency descriptors, usually make
+some assumptions on the raw signals that could cause indormation loosing. In
+this work we propose an alternative for analysis in the frequency domain based
+on Singluar Spectrum Analysis (SSA) to split the raw signal into components
+representing different oscillatory modes. Moreover, correlation matrices
+obtained for each component among EEG channels are classfied using a
+Convolutional Neural network.

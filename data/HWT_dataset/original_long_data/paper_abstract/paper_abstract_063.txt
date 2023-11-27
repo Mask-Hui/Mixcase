@@ -1,0 +1,19 @@
+Hyperspectral images provide much more information than conventional imaging
+techniques, allowing a precise identification of the materials in the observed
+scene, but because of the limited spatial resolution, the observations are
+usually mixtures of the contributions of several materials. The spectral
+unmixing problem aims at recovering the spectra of the pure materials of the
+scene (endmembers), along with their proportions (abundances) in each pixel. In
+order to deal with the intra-class variability of the materials and the induced
+spectral variability of the endmembers, several spectra per material,
+constituting endmember bundles, can be considered. However, the usual abundance
+estimation techniques do not take advantage of the particular structure of
+these bundles, organized into groups of spectra. In this paper, we propose to
+use group sparsity by introducing mixed norms in the abundance estimation
+optimization problem. In particular, we propose a new penalty which
+simultaneously enforces group and within group sparsity, to the cost of being
+nonconvex. All the proposed penalties are compatible with the abundance
+sum-to-one constraint, which is not the case with traditional sparse
+regression. We show on simulated and real datasets that well chosen penalties
+can significantly improve the unmixing performance compared to the naive bundle
+approach.

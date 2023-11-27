@@ -1,0 +1,11 @@
+We study the three-body decay of the newly observed bottom baryon
+$\Lambda_b^*(6072)$ by LHCb; $\Lambda_b^*(6072) \to \Lambda_b \pi \pi$. Its
+mass about 500 MeV above the ground state $\Lambda_b$ and a broad width imply
+that the state could be an analogue of the Roper resonance of the nucleon
+$N(1440)$. In terms of sequential processes going through $\Sigma_b$ and
+$\Sigma_b^*$, we find that the observed invariant mass distribution is
+reproduced assuming its spin and parity $J^P = 1/2^+$. We discuss that the
+ratio of the two sequential processes and angular correlation of two pions are
+useful for the determination of spin and parity. We suggest further studies for
+the Roper resonance analogue in various flavor contents, raising an interesting
+and important question in baryon spectroscopy.

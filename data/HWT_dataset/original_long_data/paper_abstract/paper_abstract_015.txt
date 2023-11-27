@@ -1,0 +1,13 @@
+We consider a family of $\kappa$-Poincar\'e invariant scalar field theories
+on 4-d $\kappa$-Minkowski space with quartic orientable interaction, that is
+for which $\phi$ and its conjugate $\phi^\dag$ alternate in the quartic
+interaction, and whose kinetic operator is the square of a
+$U_\kappa(iso(4))$-equivariant Dirac operator. The formal commutative limit
+yields the standard complex $\phi^4$ theory. We find that the 2-point function
+receives UV linearly diverging 1-loop corrections while it stays free of IR
+singularities that would signal occurrence of UV/IR mixing. We find that all
+the 1-loop planar and non-planar contributions to the 4-point function are UV
+finite, stemming from the existence of the particular estimate for the
+propagator partly combined with its decay properties at large momenta, implying
+formally vanishing of the beta-functions at 1-loop so that the coupling
+constants stay scale-invariant at 1-loop.

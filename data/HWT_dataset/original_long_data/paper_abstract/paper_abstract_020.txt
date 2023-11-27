@@ -1,0 +1,8 @@
+LHC analyses directly comparing data and simulated events bear the danger of
+using first-principle predictions only as a black-box part of event simulation.
+We show how simulations, for instance, of detector effects can instead be
+inverted using generative networks. This allows us to reconstruct parton level
+information from measured events. Our results illustrate how, in general, fully
+conditional generative networks can statistically invert Monte Carlo
+simulations. As a technical by-product we show how a maximum mean discrepancy
+loss can be staggered or cooled.

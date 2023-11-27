@@ -1,0 +1,10 @@
+We report (semi-)analytical solutions of a benchmark problem for rigorously
+testing coupled incompressible fluid--elastic solid interaction algorithms. The
+problem involves a visco-hyperelastic solid material layer sandwiched between
+two fluid layers, in turn confined by two long planar walls. The walls undergo
+oscillatory motion which drive a characteristic system response. The governing
+equations in this setting reduce to one-dimension and admit (semi-)analytical
+solutions, whose form depends on fluid viscosity and solid elasticity. Using
+these solutions, we highlight specific parameter settings that serve as
+rigorous, challenging long-time benchmarks for validating multiphase solvers,
+in the context of FSI simulations.

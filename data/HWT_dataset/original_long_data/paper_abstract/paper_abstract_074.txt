@@ -1,0 +1,15 @@
+Gravitational wave (GW) oscillations occur whenever there are additional
+tensor modes interacting with the perturbations of the metric coupled to
+matter. These extra modes can arise from new spin-2 fields (as in e.g.
+bigravity theories) or from non-trivial realisations of the cosmological
+principle induced by background vector fields with internal symmetries (e.g.
+Yang-Mills, gaugids or multi-Proca). We develop a general cosmological
+framework to study such novel features due to oscillations. The evolution of
+the two tensor modes is described by a linear system of coupled second order
+differential equations exhibiting friction, velocity, chirality and mass
+mixing. We follow appropriate schemes to obtain approximate solutions for the
+evolution of both modes and show the corresponding phenomenology for different
+mixings. Observational signatures include modulations of the wave-form,
+oscillations of the GW luminosity distance, anomalous GW speed and chirality.
+We discuss the prospects of observing these effects with present and future GW
+observatories such as LIGO/VIRGO and LISA.

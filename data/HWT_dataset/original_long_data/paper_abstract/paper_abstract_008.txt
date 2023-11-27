@@ -1,0 +1,10 @@
+We propose a Monte Carlo algorithm to sample from high dimensional
+probability distributions that combines Markov chain Monte Carlo and importance
+sampling. We provide a careful theoretical analysis, including guarantees on
+robustness to high dimensionality, explicit comparison with standard Markov
+chain Monte Carlo methods and illustrations of the potential improvements in
+efficiency. Simple and concrete intuition is provided for when the novel scheme
+is expected to outperform standard schemes. When applied to Bayesian
+variable-selection problems, the novel algorithm is orders of magnitude more
+efficient than available alternative sampling schemes and enables fast and
+reliable fully Bayesian inferences with tens of thousand regressors.

@@ -1,0 +1,10 @@
+This paper addresses the problem of selecting an optimal sampling set for
+signals on graphs. The proposed sampling set selection (SSS) is based on a
+localization operator that can consider both vertex domain and spectral domain
+localization. We clarify the relationships among the proposed method, sensor
+position selection methods in machine learning, and conventional SSS methods
+based on graph frequency. In contrast to the conventional graph signal
+processing-based approaches, the proposed method does not need to compute the
+eigendecomposition of a variation operator, while still considering (graph)
+frequency information. We evaluate the performance of our approach through
+comparisons of prediction errors and execution time.

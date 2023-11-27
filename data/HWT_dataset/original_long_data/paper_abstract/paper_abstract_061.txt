@@ -1,0 +1,12 @@
+We show that transverse-momentum-dependent parton distribution functions
+(TMDPDFs), important non-perturbative quantities for describing the properties
+of hadrons in high-energy scattering processes such as Drell-Yan and
+semi-inclusive deep-inelastic scattering with observed small transverse
+momentum, can be obtained from Euclidean QCD calculations in the framework of
+large-momentum effective theory (LaMET). We present a LaMET factorization of
+the Euclidean quasi-TMDPDFs in terms of the physical TMDPDFs and off-light-cone
+soft function at leading order in $1/P^z$ expansion, with the perturbative
+matching coefficient satisfying a renormalization group equation. We also
+discuss the implementation in lattice QCD with finite-length gauge links as
+well as the rapidity-regularization-independent factorization for Drell-Yan
+cross section.

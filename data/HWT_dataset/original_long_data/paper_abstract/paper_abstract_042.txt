@@ -1,0 +1,20 @@
+We propose a computationally efficient algorithm for the device activity
+detection problem in the multi-cell massive multi-input multi-output (MIMO)
+system, where the active devices transmit their signature sequences to multiple
+BSs in multiple cells and all the BSs cooperate to detect the active devices.
+The device activity detection problem has been formulated as a maximum
+likelihood maximization (MLE) problem in the literature. The state-of-the-art
+algorithm for solving the problem is the (random) coordinate descent (CD)
+algorithm. However, the CD algorithm fails to exploit the special sparsity
+structure of the solution of the device activity detection problem, i.e., most
+of devices are not active in each time slot. In this paper, we propose a novel
+active set selection strategy to accelerate the CD algorithm and propose an
+efficient active set CD algorithm for solving the considered problem.
+Specifically, at each iteration, the proposed active set CD algorithm first
+selects a small subset of all devices, namely the active set, which contains a
+few devices that contribute the most to the deviation from the first-order
+optimality condition of the MLE problem thus potentially can provide the most
+improvement to the objective function, then applies the CD algorithm to perform
+the detection for the devices in the active set. Simulation results show that
+the proposed active set CD algorithm significantly outperforms the
+state-of-the-art CD algorithm in terms of the computational efficiency.

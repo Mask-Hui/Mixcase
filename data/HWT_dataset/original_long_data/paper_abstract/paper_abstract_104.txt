@@ -1,0 +1,11 @@
+Faraday rotation has become a powerful tool in a large variety of physics
+applications. Most prominently, Faraday rotation can be used in precision
+magnetometry. Here we report the first measurements of gyromagnetic Faraday
+rotation on a dense, hyperpolarized $^3$He gas target. Theoretical calculations
+predict the rotations of linearly polarized light due to the magnetization of
+spin-1/2 particles are on the scale of 10$^{-7}$ radians. To maximize the
+signal, a $^3$He target designed to use with a multipass cavity is combined
+with a sensitive apparatus for polarimetry that can detect optical rotations on
+the order of 10$^{-8}$ radians. Although the expected results are well above
+the sensitivity for the given experimental conditions, no nuclear-spin induced
+rotation was observed.

@@ -1,0 +1,12 @@
+Rare B meson decays mediated by flavour changing neutral current (FCNC)
+transition play interesting role to probe the flavour sector of the standard
+model (SM). Generally at the tree level, FCNC processes are not allowed in the
+SM but occurs at the loop levels. This gives an excellent hunting ground for
+new physics (NP). From various experimental studies it is found that the FCNC
+processes having quark level transition $b \to s$ are challenging. Here, we
+investigate different kinematic observables like forward-backward asymmetry,
+differential branching ratio and lepton polarization asymmetry for semileptonic
+rare B decay modes $B_s \to \phi l^+ l^-$ and $B^+ \to K^+ l^+ l^-$ ($l=
+\mu,\tau$) considering the contribution of Z-mediated FCNC. A noticeable
+deviation of the observables for these decay channels from the SM value is
+found because of non-universal $Z$-$bs$ coupling.

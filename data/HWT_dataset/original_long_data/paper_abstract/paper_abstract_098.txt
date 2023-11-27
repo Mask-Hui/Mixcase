@@ -1,0 +1,15 @@
+The $N=1$ supersymmetric Born-Infeld theory coupled to $N=1$ supergravity in
+four spacetime dimensions is studied in the presence of a cosmological term
+with spontaneous supersymmetry breaking. The consistency is achieved by
+compensating a negative contribution to the cosmological term from the
+Born-Infeld theory by a positive contribution originating from the gravitino
+condensate. This leads to an identification of the Born-Infeld scale with the
+supersymmetry breaking scale. The dynamical formation of the gravitino
+condensate in supergravity is reconsidered and the induced one-loop effective
+potential is derived. Slow roll cosmological inflation with the gravitino
+condensate as the inflaton (near the maximum of the effective potential) is
+viable against the Planck 2018 data and can lead to the inflationary (Hubble)
+scale as high as $10^{12}$ GeV. Uplifting the Minkowski vacuum (after
+inflation) to a de Sitter vacuum (dark energy) is possible by the use of the
+alternative Fayet-Iliopoulos term. Some major physical consequences of our
+scenario to reheating are briefly discussed also.

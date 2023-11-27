@@ -1,0 +1,8 @@
+We suppose that a L\'evy process is observed at discrete time points.
+Starting from an asymptotically minimax family of estimators for the continuous
+part of the L\'evy Khinchine characteristics, i.e., the covariance, we derive a
+data-driven parameter choice for the frequency of estimating the covariance. We
+investigate a Lepski\u{i}-type stopping rule for the adaptive procedure.
+Consequently, we use a balancing principle for the best possible data-driven
+parameter. The adaptive estimator achieves almost the optimal rate. Numerical
+experiments with the proposed selection rule are also presented.

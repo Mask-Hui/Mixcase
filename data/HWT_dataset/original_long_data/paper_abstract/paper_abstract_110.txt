@@ -1,0 +1,20 @@
+The $a_0^0(980)-f_0(980)$ mixing is one of the most potential tools to learn
+about the nature of $a_0^0(980)$ and $f_0(980)$. Using the
+$f_0(980)$-$a_0^0(980)$ mixing intensity $\xi_{af}$ measured recently at
+BESIII, we calculate the the branching ratio of the the isospin violation decay
+$J/\psi \rightarrow\gamma\eta_c \rightarrow \gamma \pi^0 a_0^0(1450)\rightarrow
+\gamma \pi^0 a_0^0(980)f_0(500)\rightarrow \gamma \pi^0 f_0(980) f_0(500)
+\rightarrow \gamma \pi^0 \pi^+\pi^- \pi^+\pi^-$. The value of the branching
+ratio is found to be $O(10^{-6})$, which can be observed with $10^{10}$
+$J/\psi$ events collected at BESIII. The narrow peak from the
+$f_0(980)$-$a_0^0(980)$ mixing in the $\pi^+\pi^-$ mass square spectrum can
+also be observed. In addition, we study the non-resonant decay
+$a_0^0(1450)\rightarrow f_0(980) \pi^+\pi^-(\text{non-resonant})$, which is
+dominated by the $a_0^0(980)$-$f_{0}(980)$ mixing. We find that the
+non-resonant decay $a_0^0(1450)\rightarrow f_0(980) \pi^+\pi^-$ and the decay
+$a_0^0(1450)\rightarrow f_0(980) f_0(500)$ can be combined to measure the
+mixing intensity $\xi_{af}$ in experiment. These decays are the perfect
+complement to the decay $\chi_{c1}\rightarrow
+f_{0}(980)\pi^{0}\to\pi^{+}\pi^{-}\pi^{0}$ which had been observed at BESIII,
+the observations of them will make the measurement of the mixing intensity
+$\xi_{af}$ more precisely.

@@ -1,0 +1,17 @@
+We demonstrate the formation of multi-peak three-component stationary stripe
+vector solitons in a quasi-one-dimensional spin-orbit-coupled hyper-fine spin
+$F = 1$ polar Bose-Einstein condensate. The present investigation is carried
+out through a numerical solution by imaginary-time propagation and an analytic
+variational approximation of the underlying mean-field Gross-Pitaevskii
+equation. Simple analytic results for energy and component densities were found
+to be in excellent agreement with the numerical results for solitons with more
+than 100 pronounced maxima and minima. The vector solitons are one of the two
+types: dark-bright-dark or bright-dark-bright. In the former a maximum density
+in component $ F_z = 0 $ at the center is accompanied by a zero in components
+$F_z = \pm 1$. The opposite happens in the latter case. The vector solitons are
+demonstrated to be mobile and dynamically stable. The collision between two
+such vector solitons is found to be quasi elastic at large velocities with the
+conservation of total density of each vector soliton. However, at very small
+velocity, the collision is inelastic with a destruction of the initial vector
+solitons. It is possible to observe and study the predicted SO-coupled vector
+solitons in a laboratory.

@@ -1,0 +1,8 @@
+The motion of weakly inertial Brownian particles, transported by steady
+two-dimensional fluid flows, is investigated by means of asymptotic methods. We
+focus on the phenomenon of noise-induced separatrix crossing, which can force
+particles to enter or exit recirculation cells in an unpredictable manner. An
+analytical expression for the probability of separatrix crossing is obtained.
+It can be applied to a wide variety of flows, provided some elementary
+kinematical quantities of the fluid flow are known. It does not require to
+solve particle trajectories.

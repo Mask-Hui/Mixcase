@@ -1,0 +1,15 @@
+This paper presents a method of exploring the relative predictive importance
+of individual variables in multicollinear data sets at three levels of
+significance: strong importance, moderate importance, and no importance.
+Implementation of Bonferroni adjustment to control for Type I error in the
+method is described, and results with and without the correction are compared.
+An example of the method in binary logistic modeling is demonstrated by using a
+set of 20 acoustic features to discriminate vocalic nasality in the speech of
+six speakers of the Mixean variety of Low Navarrese Basque. Validation of the
+method is presented by comparing the direction of significant effects to those
+observed in separate logistic mixed effects models, as well as goodness of fit
+and prediction accuracy compared to partial least squares logistic regression.
+The results show that the proposed method yields: (1) similar, but more
+conservative estimates in comparison to separate logistic regression models,
+(2) models that fit data as well as partial least squares methods, and (3)
+predictions for new data that are as accurate as partial least squares methods.

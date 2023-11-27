@@ -1,0 +1,23 @@
+Conformal blocks are the fundamental, theory-independent building blocks in
+any CFT, so it is important to understand their holographic representation in
+the context of AdS/CFT. We describe how to systematically extract the
+holographic objects which compute higher-point global (scalar) conformal blocks
+in arbitrary spacetime dimensions, extending the result for the four-point
+block, known in the literature as a geodesic Witten diagram, to five- and
+six-point blocks. The main new tools which allow us to obtain such
+representations are various higher-point propagator identities, which can be
+interpreted as generalizations of the well-known flat space star-triangle
+identity, and which compute integrals over products of three bulk-to-bulk
+and/or bulk-to-boundary propagators in negatively curved spacetime. Using the
+holographic representation of the higher-point conformal blocks and
+higher-point propagator identities, we develop geodesic diagram techniques to
+obtain the explicit direct-channel conformal block decomposition of a broad
+class of higher-point AdS diagrams in a scalar effective bulk theory, with
+closed-form expressions for the decomposition coefficients. These methods
+require only certain elementary manipulations and no bulk integration, and
+furthermore provide quite trivially a simple algebraic origin of the
+logarithmic singularities of higher-point tree-level AdS diagrams. We also
+provide a more compact repackaging in terms of the spectral decomposition of
+the same diagrams, as well as an independent discussion on the closely related
+but computationally simpler framework over $p$-adics which admits comparable
+statements for all previously mentioned results.

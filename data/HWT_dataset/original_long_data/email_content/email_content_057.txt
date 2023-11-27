@@ -1,0 +1,32 @@
+klay.nsf
+
+Following please find the Daily EnronOnline Executive Summary.
+EnronOnline Executive Summary for 11/20/00
+Transaction Summary	
+External Transactions Today	4,680
+Average Daily External Transactions (30 day Trailing Avg)	3,654
+Total Life to Date Transactions	455,866
+
+EnronOnline Daily % of Entity's Total Transactions for 11/20/00	Trans	Percent
+Enron North America	4,126	80%
+Enron Europe Limited	237	43%
+Global Products	121	28%
+Enron Metals	196	16%
+
+EnronOnline Percentage of Total Corporate Transactions 
+(30 day Trailing Avg)	51%
+
+Gross Notional Value of EnronOnline Transactions	Total
+Today	2,839,408,062
+MTD	43,365,539,292
+LTD	256,794,243,707
+Average Daily Notional Value (30 Day Trailing Avg)	2,550,446,359
+	
+Notional Revenue from Physical Flows to Date	17,301,542,320
+
+Counterparties, Users, and Products Offered	
+Counterparties having transacted to date	572
+New Counterparties transacting for the first time today	1
+Number of Products Offered Today	1,208
+Total Number of External Users Logged on Today	2,983
+Average # of External Users logged on (30 day Trailing Avg)	2,782

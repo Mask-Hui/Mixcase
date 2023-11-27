@@ -1,0 +1,13 @@
+The establishment of a world-wide quantum communication network relies on the
+synergistic integration of satellite-based links and fiber-based networks. The
+first are helpful for long-distance communication, as the photon losses
+introduced by the optical fibers are too detrimental for lengths greater than
+about 200 km. This work aims at giving, on the one hand, a comprehensive and
+fundamental model for the losses suffered by the quantum signals during the
+propagation along an atmospheric free-space link. On the other hand, a
+performance analysis of different Quantum Key Distribution (QKD)
+implementations is performed, including finite-key effects, focusing on
+different interesting practical scenarios. The specific approach that we chose
+allows to precisely model the contribution due to different weather conditions,
+paving the way towards more accurate feasibility studies of satellite-based QKD
+missions.
