@@ -21,7 +21,7 @@ def calculate_words_per_sentence(text):
     return words_count
 
 
-def filter_text(text, target_mean=100, target_variance=30):
+def filter_text(text, target_mean=100, target_variance=20):
     sentences = sent_tokenize(text)
     words_per_sentence = [len(nltk.word_tokenize(sentence)) for sentence in sentences]
 
@@ -39,7 +39,6 @@ def filter_text(text, target_mean=100, target_variance=30):
     return sampled_text if total_words >= target_mean else None
 
 
-
 def process_text_files(input_path, output_path):
     clean_text_files(input_path)
     chosen_files = read_text_files(input_path)
@@ -51,7 +50,9 @@ def process_text_files(input_path, output_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             text = file.read()
             words_per_sentence = calculate_words_per_sentence(text)
+            # 好像是每个文件按正态分布取的
             avg_words_per_sentence = sum(words_per_sentence) / len(words_per_sentence)
+            # 缺少方差
             filtered_text = filter_text(text, target_mean=avg_words_per_sentence)
 
             if filtered_text:
@@ -70,6 +71,7 @@ def process_text_files(input_path, output_path):
     with open(output_path, 'w', encoding='utf-8') as output_file:
         json.dump(json_data, output_file, indent=4)
 
+    # 画图
     # Reading JSON file and plotting text length distribution
     file_path = "../../data/HWT_dataset/original_data/HWT_original_data.json"
     with open(file_path, 'r', encoding='utf-8') as json_file:

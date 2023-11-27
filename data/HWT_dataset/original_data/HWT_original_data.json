@@ -1,0 +1,252 @@
+[
+    {
+        "category": "",
+        "id": 1,
+        "HWT_sentence": "An attentional mechanism has lately been used to improve neural machine translation (nmt) by selectively focusing on parts of the source sentence during translation. However, there has been little work exploring useful architectures for attention-based nmt."
+    },
+    {
+        "category": "",
+        "id": 2,
+        "HWT_sentence": "Last thursday, i made the first attached presentation to the ferc staff at the power marketer's meeting on the ferc's investigation of the wholesale market in the west (and in particular california)."
+    },
+    {
+        "category": "",
+        "id": 3,
+        "HWT_sentence": "While yes it is a reskin of ch i had honestly ever put time into a clicker game before. I had played a few afk games before on kongregate but this gave me that small sense of nastalgia i got when the original servers were brought back up for ragnarok online."
+    },
+    {
+        "category": "",
+        "id": 4,
+        "HWT_sentence": "We adapt the ideas underlying the success of deep q-learning to the continuous action domain. We present an actor-critic, model-free algorithm based on the deterministic policy gradient that can operate over continuous action spaces."
+    },
+    {
+        "category": "",
+        "id": 5,
+        "HWT_sentence": "How about them lakers ! !! there is only one thing i can say..... Or maybe 3 words."
+    },
+    {
+        "category": "",
+        "id": 6,
+        "HWT_sentence": "On friday, december 28, 2001, the office of ratepayer advocates (\"ora\") filed a motion requesting that the commission suspend the procedural schedule in the socalgas/sdg&e 2003 bcap."
+    },
+    {
+        "category": "",
+        "id": 7,
+        "HWT_sentence": "For most deep learning practitioners, sequence modeling is synonymous with recurrent networks. Yet recent results indicate that convolutional architectures can outperform recurrent networks on tasks such as audio synthesis and machine translation."
+    },
+    {
+        "category": "",
+        "id": 8,
+        "HWT_sentence": "There is large consent that successful training of deep networks requires many thousand annotated training samples. In this paper, we present a network and training strategy that relies on the strong use of data augmentation to use the available annotated samples more efficiently."
+    },
+    {
+        "category": "",
+        "id": 9,
+        "HWT_sentence": "In response to glen hass' voicemail identifying his concerns regarding the remaining mainline capacity going west, i have included additional data on the revised file attached below."
+    },
+    {
+        "category": "",
+        "id": 10,
+        "HWT_sentence": "I went from cs:go to this after 1k hours on cs:go and i still think this game is gorgeous. I'm really sad that i started to play 1.6 just now, and also that i missed the 1.6 golden era."
+    },
+    {
+        "category": "",
+        "id": 11,
+        "HWT_sentence": "I guess this review is mostly for people who played mgs before (if for some reason you have not bought it yet), but i hope that newcomers will get something new out of it as well."
+    },
+    {
+        "category": "",
+        "id": 12,
+        "HWT_sentence": "I was thinkin back to a poem i wrote a while ago, thought i had saved a copy...and now can't find it...i am going to try to get it back out of the deep recesses of my brain though."
+    },
+    {
+        "category": "",
+        "id": 13,
+        "HWT_sentence": "I attended the ferc commission meeting this morning and it was short and refreshing. Here are some high points: ferc issues an order rejecting the proposed amendment to the caiso creditworthiness provisions, and granting in part the complaint of the generators in the docket (which we supported)."
+    },
+    {
+        "category": "",
+        "id": 14,
+        "HWT_sentence": "Generating music has a few notable differences from generating images and videos. First, music is an art of time, necessitating a temporal model."
+    },
+    {
+        "category": "",
+        "id": 15,
+        "HWT_sentence": "This paper studies monocular visual odometry (vo) problem. Most of existing vo algorithms are developed under a standard pipeline including feature extraction, feature matching, motion estimation, local optimisation, etc."
+    },
+    {
+        "category": "",
+        "id": 16,
+        "HWT_sentence": "So i've worked a variety of shifts before but never actual shift work."
+    },
+    {
+        "category": "",
+        "id": 17,
+        "HWT_sentence": "How do we meet them? when do we know they will be important in our lives?"
+    },
+    {
+        "category": "",
+        "id": 18,
+        "HWT_sentence": "The iso has posted on its web site a template for your use in submitting your final comments on the iso's congestion management reform recommendation that is part of its comprehensive market redesign."
+    },
+    {
+        "category": "",
+        "id": 19,
+        "HWT_sentence": "Hey there guzman! you said you didn't have my e-mail, so here ya are bro."
+    },
+    {
+        "category": "",
+        "id": 20,
+        "HWT_sentence": "Neural machine translation (nmt) is an end-to-end learning approach for automated translation, with the potential to overcome many of the weaknesses of conventional phrase-based translation systems."
+    },
+    {
+        "category": "",
+        "id": 21,
+        "HWT_sentence": "I thought that you might be interested in our new monthly newsletter, energy competition strategy report. It contains detailed strategies on how to tackle the complex challenges of deregulation."
+    },
+    {
+        "category": "",
+        "id": 22,
+        "HWT_sentence": "Predicting protein properties such as solvent accessibility and secondary structure from its primary amino acid sequence is an important task in bioinformatics."
+    },
+    {
+        "category": "",
+        "id": 23,
+        "HWT_sentence": "Yesterday was not a terribly good day for me - something i had eaten on the weekend was bothering me the whole day. I went to the dojo in the morning to train since i had my driving test in the afternoon (to get a nsw license because i still carry my brunei license that doesn't have a photo)."
+    },
+    {
+        "category": "",
+        "id": 24,
+        "HWT_sentence": "Generative adversarial networks (gans) excel at creating realistic images with complex models for which maximum likelihood is infeasible. However, the convergence of gan training has still not been proved."
+    },
+    {
+        "category": "",
+        "id": 25,
+        "HWT_sentence": "Generative adversarial networks (gans) are powerful generative models, but suffer from training instability. The recently proposed wasserstein gan (wgan) makes progress toward stable training of gans, but sometimes can still generate only low-quality samples or fail to converge."
+    },
+    {
+        "category": "",
+        "id": 26,
+        "HWT_sentence": "Most modern supervised statistical/machine learning (ml) methods are explicitly designed to solve prediction problems very well. Achieving this goal does not imply that these methods automatically deliver good estimators of causal parameters."
+    },
+    {
+        "category": "",
+        "id": 27,
+        "HWT_sentence": "(click the title) (as of august 5th) that's a really interesting site that, instead of viewing polls in terms of the popular vote, breaks them state by state to display them in the way that matters: at the electoral college."
+    },
+    {
+        "category": "",
+        "id": 28,
+        "HWT_sentence": "We present deepwalk, a novel approach for learning latent representations of vertices in a network. These latent representations encode social relations in a continuous vector space, which is easily exploited by statistical models."
+    },
+    {
+        "category": "",
+        "id": 29,
+        "HWT_sentence": "This game is an example of very interesting concepts and very fascinating (and disturbing) art and story. Unfortunately, it suffers from a difficulty curve based only on how time consuming and frustrating certain levels are."
+    },
+    {
+        "category": "",
+        "id": 30,
+        "HWT_sentence": "This game is a masterpiece of writing, voice acting, and musical talent. In fact, throughout my time with the game, i had to remind myself to sleep, so that i could better understand the story, and improve my performance in the game."
+    },
+    {
+        "category": "",
+        "id": 31,
+        "HWT_sentence": "Supervised learning on molecules has incredible potential to be useful in chemistry, drug discovery, and materials science. Luckily, several promising and closely related neural network models invariant to molecular symmetries have already been described in the literature."
+    },
+    {
+        "category": "",
+        "id": 32,
+        "HWT_sentence": "I have reviewed the la plata facilities o&o agreement. Lee, could you please review the same and see if you agree with this assessment?"
+    },
+    {
+        "category": "",
+        "id": 33,
+        "HWT_sentence": "(review counted as the complete sam and max seasons 1,2 and 3 however seasons 1 and 2 currently do not work on windows 10) really entertaining and funny point and click adventure game."
+    },
+    {
+        "category": "",
+        "id": 34,
+        "HWT_sentence": "We present the stanford question answering dataset (squad), a new reading comprehension dataset consisting of 100,000+ questions posed by crowdworkers on a set of wikipedia articles, where the answer to each question is a segment of text from the corresponding reading passage."
+    },
+    {
+        "category": "",
+        "id": 35,
+        "HWT_sentence": "The dominant sequence transduction models are based on complex recurrent orconvolutional neural networks in an encoder and decoder configuration. The best performing such models also connect the encoder and decoder through an attentionm echanisms."
+    },
+    {
+        "category": "",
+        "id": 36,
+        "HWT_sentence": "We report on a series of experiments with convolutional neural networks (cnn) trained on top of pre-trained word vectors for sentence-level classification tasks."
+    },
+    {
+        "category": "",
+        "id": 37,
+        "HWT_sentence": "All: the new full registry for testing for expanded testing (interoperability and end-to-end) can be found on the bottom of the page at: http://www.nerc.com/~filez/tag/e-tag/e-tag.htm these files include a snapshot of the full registry taken last friday as well as the test registry previously being used by the vendors for interoperability testing."
+    },
+    {
+        "category": "",
+        "id": 38,
+        "HWT_sentence": "In recent years, deep neural networks have yielded immense success on speech recognition, computer vision and natural language processing. However, the exploration of deep neural networks on recommender systems has received relatively less scrutiny."
+    },
+    {
+        "category": "",
+        "id": 39,
+        "HWT_sentence": "Crysis 2 is a very solid and enjoyable game. The graphics are beautiful and the suit system has been revamped in a good way. I didn't find that the loss of the sandbox navigation of the first game detracts from gameplay at all, which i've heard was a common complaint; personally, i felt it made things easier because crysis 1 always had me wondering if i was going in the right direction."
+    },
+    {
+        "category": "",
+        "id": 40,
+        "HWT_sentence": "It's decent fun if you like these kinds of games and are looking for a casual experience, or are simply intrigued by playing a 2d moba. I'd recommend it if you're paying a few dollars or less for it, but not for full price."
+    },
+    {
+        "category": "",
+        "id": 41,
+        "HWT_sentence": "Recent work has demonstrated that neural networks are vulnerable to adversarial examples, i.e., inputs that are almost indistinguishable from natural data and yet classified incorrectly by the network."
+    },
+    {
+        "category": "",
+        "id": 42,
+        "HWT_sentence": "Hi matthew, greg will be in the london office from early tuesday afternoon through end-of-business day on thursday, june 7."
+    },
+    {
+        "category": "",
+        "id": 43,
+        "HWT_sentence": "Note attached sdg&e press release calling on governor davis to use his emergency powers to remedy the accelerating energy crisis by taking a number of actions, e.g., directing local air districts to temporarily lift emissions limits for in-state power plants so that the plants which have met or exceeded their air-emissions limits can run."
+    },
+    {
+        "category": "",
+        "id": 44,
+        "HWT_sentence": "As the title suggests i had a great weekend, i'm just sorry that it had to end. I wont go into all the specifics but i hung out with bunches of friends and family and even saw la plebe play at the phoenix theatre in petaluma."
+    },
+    {
+        "category": "",
+        "id": 45,
+        "HWT_sentence": "To be honest, my hopes were not high when i picked up this game on sale. It looked pretty simple and pretty bloody ugly but surely it'd be worth a quid or so?"
+    },
+    {
+        "category": "",
+        "id": 46,
+        "HWT_sentence": "Urllink deep links -- deep links is a group weblog featuring pointers to news articles and weblog posts that spark the interest of urllink eff [electronic frontier foundation] staff members."
+    },
+    {
+        "category": "",
+        "id": 47,
+        "HWT_sentence": "Several variants of the long short-term memory (lstm) architecture for recurrent neural networks have been proposed since its inception in 1995. In recent years, these networks have become the state-of-the-art models for a variety of machine learning problems."
+    },
+    {
+        "category": "",
+        "id": 48,
+        "HWT_sentence": "I was a weedy child. This wasn't so much an accident of physiology, more an unnecessary attempt by the world to fully cast me in the role of maths geek."
+    },
+    {
+        "category": "",
+        "id": 49,
+        "HWT_sentence": "As you can see, the blog title has been changed to celebrate this great kingdom which we live in and will someday rule."
+    },
+    {
+        "category": "",
+        "id": 50,
+        "HWT_sentence": "Rating based on current state of play, as per my last login. The last time i logged in, there was nearly no one to play with, things were stagnating, and there was far less to do as a 'greenie' (nonsubscriber on subscriber oceans) than there seemed to have felt like in the past."
+    }
+]
