@@ -24,7 +24,6 @@ def filter_text(text, target_mean=150, target_variance=20, tolerance_percentage=
     lower_bound = target_mean - (target_mean * tolerance_percentage)
     upper_bound = target_mean + (target_mean * tolerance_percentage)
 
-    # 检查总单词数是否在容忍区间内
     if lower_bound <= total_words <= upper_bound:
         return ' '.join(accepted_sentences)
     else:
@@ -41,13 +40,13 @@ def process_text_files(input_path, output_path):
         category_path = os.path.join(input_path, category)
         clean_text_files(category_path)
         txt_files = [file for file in os.listdir(category_path) if file.endswith('.txt')]
-        random.shuffle(txt_files)  # 随机打乱文件列表
+        random.shuffle(txt_files)
 
         chosen_files = set()
-        valid_samples_count = 0  # 记录符合要求的样本数量
+        valid_samples_count = 0
         for file_name in txt_files:
             if valid_samples_count >= desired_samples_per_category:
-                break  # 如果已经达到所需有效样本数，则停止
+                break
 
             if file_name not in chosen_files:
                 chosen_files.add(file_name)
