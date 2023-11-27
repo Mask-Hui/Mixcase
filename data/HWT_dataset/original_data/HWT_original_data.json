@@ -2,251 +2,181 @@
     {
         "category": "",
         "id": 1,
-        "HWT_sentence": "An attentional mechanism has lately been used to improve neural machine translation (nmt) by selectively focusing on parts of the source sentence during translation. However, there has been little work exploring useful architectures for attention-based nmt."
+        "HWT_sentence": "Yesterday was not a terribly good day for me - something i had eaten on the weekend was bothering me the whole day. I went to the dojo in the morning to train since i had my driving test in the afternoon (to get a nsw license because i still carry my brunei license that doesn't have a photo). The karate day classes are funny; sometimes there'll be heaps of people and like yesterday, there was 3 of us. Not that small classes are a bad thing, but i find they lack the energy of a big group. It also makes it hard for the instructor to conduct a lively class with so few students (in my experience at least). It sure was in stark contrast to the group of 42 girls from sydney girls who came in after our class! (they're john's pet project - he approached the school and asked whether they could use a martial arts instructor.)"
     },
     {
         "category": "",
         "id": 2,
-        "HWT_sentence": "Last thursday, i made the first attached presentation to the ferc staff at the power marketer's meeting on the ferc's investigation of the wholesale market in the west (and in particular california)."
+        "HWT_sentence": "Neural machine translation is a recently proposed approach to machine translation. Unlike the traditional statistical machine translation, the neural machine translation aims at building a single neural network that can be jointly tuned to maximize the translation performance. The models proposed recently for neural machine translation often belong to a family of encoder-decoders and consists of an encoder that encodes a source sentence into a fixed-length vector from which a decoder generates a translation. In this paper, we conjecture that the use of a fixed-length vector is a bottleneck in improving the performance of this basic encoder-decoder architecture, and propose to extend this by allowing a model to automatically (soft-)search for parts of a source sentence that are relevant to predicting a target word, without having to form these parts as a hard segment explicitly. With this new approach, we achieve a translation performance comparable to the existing state-of-the-art phrase-based system on the task of english-to-french translation. Furthermore, qualitative analysis reveals that the (soft-)alignments found by the model agree well with our intuition."
     },
     {
         "category": "",
         "id": 3,
-        "HWT_sentence": "While yes it is a reskin of ch i had honestly ever put time into a clicker game before. I had played a few afk games before on kongregate but this gave me that small sense of nastalgia i got when the original servers were brought back up for ragnarok online."
+        "HWT_sentence": "This e-mail is intended to reach all of those who have expressed an interest in being part of the legal work group subgroup addressing the rto bylaws, articles and tax status. Please let me know if my e-mail distribution list is missing anyone who would like to participate in the subgroup. I would divide the immediate tasks before us into four main categories: 1. General governance issues (especially rto membership, board composition and technical advisory committee issues) at the governance workshop on june 15, we had a good discussion of issues relating to the appropriate number and scope of membership classes, board composition and method of selecting the members of the technical advisory committee. Barney speckman is in the process of scheduling a meeting in early july for a continuation of discussion of these topics and any other governance issues that may be of interest. 2."
     },
     {
         "category": "",
         "id": 4,
-        "HWT_sentence": "We adapt the ideas underlying the success of deep q-learning to the continuous action domain. We present an actor-critic, model-free algorithm based on the deterministic policy gradient that can operate over continuous action spaces."
+        "HWT_sentence": "Knowledge graph completion aims to perform link prediction between entities. In this paper, we consider the approach of knowledge graph embeddings. Recently, models such as transe and transh build entity and relation embeddings by regarding a relation as translation from head entity to tail entity. We note that these models simply put both entities and relations within the same semantic space. In fact, an entity may have multiple aspects and various relations may focus on different aspects of entities, which makes a common space insufficient for modeling. In this paper, we propose transr to build entity and relation embeddings in separate entity space and relation spaces. Afterwards, we learn embeddings by first projecting entities from entity space to corresponding relation space and then building translations between projected entities. In experiments, we evaluate our models on three tasks including link prediction, triple classification and relational fact extraction."
     },
     {
         "category": "",
         "id": 5,
-        "HWT_sentence": "How about them lakers ! !! there is only one thing i can say..... Or maybe 3 words."
+        "HWT_sentence": "We present deepwalk, a novel approach for learning latent representations of vertices in a network. These latent representations encode social relations in a continuous vector space, which is easily exploited by statistical models. Deepwalk generalizes recent advancements in language modeling and unsupervised feature learning (or deep learning) from sequences of words to graphs. Deepwalk uses local information obtained from truncated random walks to learn latent representations by treating walks as the equivalent of sentences. We demonstrate deepwalk's latent representations on several multi-label network classification tasks for social networks such as blogcatalog, flickr, and youtube. Our results show that deepwalk outperforms challenging baselines which are allowed a global view of the network, especially in the presence of missing information. Deepwalk's representations can provide f1 scores up to 10% higher than competing methods when labeled data is sparse. In some experiments, deepwalk's representations are able to outperform all baseline methods while using 60% less training data. Deepwalk is also scalable. It is an online learning algorithm which builds useful incremental results, and is trivially parallelizable. These qualities make it suitable for a broad class of real world applications such as network classification, and anomaly detection."
     },
     {
         "category": "",
         "id": 6,
-        "HWT_sentence": "On friday, december 28, 2001, the office of ratepayer advocates (\"ora\") filed a motion requesting that the commission suspend the procedural schedule in the socalgas/sdg&e 2003 bcap."
+        "HWT_sentence": "How do we meet them? when do we know they will be important in our lives? what are the signs that certain people are meant to change you, permanently? this weekend i found a good friend, and luckily, she is part of my family. At our mutual cousin's wedding we met again after probably 15 years. I don't even remember the last time i saw her but it was probably at our north carolina family reunion, eating chicken stew cooked in a large cast iron kettle over an open flame. Surrounded by family i didn't know very well and in the mist of teenage angst i guess i didn't realize what an amazing person r. Would grow to be. Funnily too, we lived an hour away from each other at one point in college and never made the trip over the mountains to meet. R. Currently lives in nyc pursuing her passion, poetry. She\u2019s been through college, graduate school and now another masters degree for writing."
     },
     {
         "category": "",
         "id": 7,
-        "HWT_sentence": "For most deep learning practitioners, sequence modeling is synonymous with recurrent networks. Yet recent results indicate that convolutional architectures can outperform recurrent networks on tasks such as audio synthesis and machine translation."
+        "HWT_sentence": "I bought the pc prequel to this game, trials 2, in a steam sale years ago and it was one of the most dangerous purchases i have ever made. It is in my nature to get addicted to incredibly hard and frustrating skill games and it is one of the best. I have very little bad to say about that game. The sequel moved to 360, which was really sad and upsetting that they ditched the fan base that supported them. After a few years, they announced the return to pc which was good news! it uses uplay which is fine but i would prefer that it didn't. I would prefer full integration with steam friends. Then it arrived. I started playing it. I got addicted again. I was 100% most of the game. I hated the game but couldn't stop playing it. Most of this came down to the horrible bugginess of the game. It would have huge fps drops and jitter."
     },
     {
         "category": "",
         "id": 8,
-        "HWT_sentence": "There is large consent that successful training of deep networks requires many thousand annotated training samples. In this paper, we present a network and training strategy that relies on the strong use of data augmentation to use the available annotated samples more efficiently."
+        "HWT_sentence": "The only reason i do not recommend this game is if you are more into the management aspect of these games. The creative and building part is phenomenal if that is what you are looking for then you should get the game. The management aspect needs a severe rebalancing and almost complete re-working to make it even an aspect of the game that you need to pay attention to. It's way too easy to make money and it's way too easy to please guests. That being said, if you just want to construct cool looking rollercoasters and theme parks then get this game. More on the management: the challenge mode is only initially challenging. As soon as you get a couple rides the game might as well be sandbox mode because of how little you have to 'manage' the park. Hundreds of people will stop by to visit your crappy park as soon as you plop down your first couple attractions."
     },
     {
         "category": "",
         "id": 9,
-        "HWT_sentence": "In response to glen hass' voicemail identifying his concerns regarding the remaining mainline capacity going west, i have included additional data on the revised file attached below."
+        "HWT_sentence": "Deep reinforcement learning has yielded proficient controllers for complex tasks. However, these controllers have limited memory and rely on being able to perceive the complete game screen at each decision point. To address these shortcomings, this article investigates the effects of adding recurrency to a deep q-network (dqn) by replacing the first post-convolutional fully-connected layer with a recurrent lstm. The resulting \\textit{deep recurrent q-network} (drqn), although capable of seeing only a single frame at each timestep, successfully integrates information through time and replicates dqn's performance on standard atari games and partially observed equivalents featuring flickering game screens. Additionally, when trained with partial observations and evaluated with incrementally more complete observations, drqn's performance scales as a function of observability. Conversely, when trained with full observations and evaluated with partial observations, drqn's performance degrades less than dqn's."
     },
     {
         "category": "",
         "id": 10,
-        "HWT_sentence": "I went from cs:go to this after 1k hours on cs:go and i still think this game is gorgeous. I'm really sad that i started to play 1.6 just now, and also that i missed the 1.6 golden era."
+        "HWT_sentence": "Recent work has demonstrated that neural networks are vulnerable to adversarial examples, i.e., inputs that are almost indistinguishable from natural data and yet classified incorrectly by the network. To address this problem, we study the adversarial robustness of neural networks through the lens of robust optimization. This approach provides us with a broad and unifying view on much prior work on this topic. Its principled nature also enables us to identify methods for both training and attacking neural networks that are reliable and, in a certain sense, universal. In particular, they specify a concrete security guarantee that would protect against a well-defined class of adversaries. These methods let us train networks with significantly improved resistance to a wide range of adversarial attacks. They also suggest robustness against a first-order adversary as a natural security guarantee. We believe that robustness against such well-defined classes of adversaries is an important stepping stone towards fully resistant deep learning models."
     },
     {
         "category": "",
         "id": 11,
-        "HWT_sentence": "I guess this review is mostly for people who played mgs before (if for some reason you have not bought it yet), but i hope that newcomers will get something new out of it as well."
+        "HWT_sentence": "Okay, this is just based on my own personal experience. I understand there have been a lot of major performance issues for a lot of people. I count myself fortunate that these issues have not happened for me for the most part. The good: if you liked the first dishonored you will like this game. The gameplay and mechanics are essentially the same (which is a positive as they were good in the first game) except for the option to play as corvo or emily and a few new abilities that come with her character. The gameplay and level design are the game's strongest aspects with multiple paths and options available to complete a mission in a variety of ways. The clockwork mansion and the crack in the slab level (where you travel between the past and present) are probably the best of these. As before i found the world design and lore very interesting and was alway eager to explore more. Combat is very smooth and the ai (i played on hard) seemed quite intelligent and challenging # most of the time."
     },
     {
         "category": "",
         "id": 12,
-        "HWT_sentence": "I was thinkin back to a poem i wrote a while ago, thought i had saved a copy...and now can't find it...i am going to try to get it back out of the deep recesses of my brain though."
+        "HWT_sentence": "Generalized linear models with nonlinear feature transformations are widely used for large-scale regression and classification problems with sparse inputs. Memorization of feature interactions through a wide set of cross-product feature transformations are effective and interpretable, while generalization requires more feature engineering effort. With less feature engineering, deep neural networks can generalize better to unseen feature combinations through low-dimensional dense embeddings learned for the sparse features. However, deep neural networks with embeddings can over-generalize and recommend less relevant items when the user-item interactions are sparse and high-rank. In this paper, we present wide & deep learning---jointly trained wide linear models and deep neural networks---to combine the benefits of memorization and generalization for recommender systems. We productionized and evaluated the system on google play, a commercial mobile app store with over one billion active users and over one million apps. Online experiment results show that wide & deep significantly increased app acquisitions compared with wide-only and deep-only models. We have also open-sourced our implementation in tensorflow."
     },
     {
         "category": "",
         "id": 13,
-        "HWT_sentence": "I attended the ferc commission meeting this morning and it was short and refreshing. Here are some high points: ferc issues an order rejecting the proposed amendment to the caiso creditworthiness provisions, and granting in part the complaint of the generators in the docket (which we supported)."
+        "HWT_sentence": "As the title suggests i had a great weekend, i'm just sorry that it had to end. I wont go into all the specifics but i hung out with bunches of friends and family and even saw la plebe play at the phoenix theatre in petaluma. I got to see my friend from the good ol' state of oregon and her twins. I think of the twins, charlotte, is starting to like me but maggie still seems pretty wary of me. I got to see two parades this year, vallejo and benicia's. I think i can say without too much hometown bias that vallejo's was the better of the two, although both shared quite a few floats. I have a feeling that is the reason that benicia has it's parade on the third, because if it did it on the fourth many of it's floats would be in vallejo. Benicia's after parade festivies beat vallejo's handsdown though. In vallejo the vallejo symphony plays after the parade and there is like a mini-crafts fair."
     },
     {
         "category": "",
         "id": 14,
-        "HWT_sentence": "Generating music has a few notable differences from generating images and videos. First, music is an art of time, necessitating a temporal model."
+        "HWT_sentence": "Rating based on current state of play, as per my last login. The last time i logged in, there was nearly no one to play with, things were stagnating, and there was far less to do as a 'greenie' (nonsubscriber on subscriber oceans) than there seemed to have felt like in the past. Even if i had resub'd, there didn't see that much to do, let alone anyone to do any of it with. I played y!pp on and off for so. So. So. Many years. I believe my first account was made somewhere in 05 to 06, putting me at roughly the 9-10 year mark. While i played more off than on, those times during which i did play i would get completely sucked back into my ocean for weeks, if not months. When i was a bit younger, this game was tremendous amounts of fun."
     },
     {
         "category": "",
         "id": 15,
-        "HWT_sentence": "This paper studies monocular visual odometry (vo) problem. Most of existing vo algorithms are developed under a standard pipeline including feature extraction, feature matching, motion estimation, local optimisation, etc."
+        "HWT_sentence": "I love the noir feel of this game as well as the jamacan music and the characters seem quite interesting and not too stereotypical in my opinion. I've seen some people in the reviews stating that both grim fandango and the journey down have a similar feel in gameplay, i disagree with that and i wasn't feeling any 'tim schafer moments' in this title, not that that's a flaw of course, this game has it's own unique feel and setting one can enjoy. I agree that it has a similar design to grim fandango so i can see why people would draw connections. It also has easier puzzles than many of the tim schafer titles so you might enjoy this game as somewhat of a beginner puzzle, to put it bluntly. I think the developers should work on the lip syncing seeing how most of the dialogue is out of sync with the phonems of the characters. Also the quality of sound heard from some of the characters sounded quite rough (matoke at the front of mama makena's bar is a good example of this), although i didn't see many flaws in the voice acting itself."
     },
     {
         "category": "",
         "id": 16,
-        "HWT_sentence": "So i've worked a variety of shifts before but never actual shift work."
+        "HWT_sentence": "Several variants of the long short-term memory (lstm) architecture for recurrent neural networks have been proposed since its inception in 1995. In recent years, these networks have become the state-of-the-art models for a variety of machine learning problems. This has led to a renewed interest in understanding the role and utility of various computational components of typical lstm variants. In this paper, we present the first large-scale analysis of eight lstm variants on three representative tasks: speech recognition, handwriting recognition, and polyphonic music modeling. The hyperparameters of all lstm variants for each task were optimized separately using random search, and their importance was assessed using the powerful fanova framework. In total, we summarize the results of 5400 experimental runs (\u224815 years of cpu time), which makes our study the largest of its kind on lstm networks. Our results show that none of the variants can improve upon the standard lstm architecture significantly, and demonstrate the forget gate and the output activation function to be its most critical components."
     },
     {
         "category": "",
         "id": 17,
-        "HWT_sentence": "How do we meet them? when do we know they will be important in our lives?"
+        "HWT_sentence": "We are pleased to announce that ees, fieldcentrix and a group of outside investors have formed a new company to be referred to as the facility services group. This group is charged with creating a national service network to provide predictable and scalable repair, maintenance and other facilities services for retail customers, including many of ees's existing and future customers. The facility services group is expanding its vendor management platform to allow service technicians to focus on efficient, predictable service while capturing data on a real time basis and will provide scalable execution capability for the vendor management and o&m products. We expect these products and services to create significant value. The facility services group includes enron building services, inc. (ebsi), the linc company, the hvac services business (all three, formerly part of enron facility services), interactive process technologies (ipt) and fieldcentrix, inc., a mobile workforce management software company. The management team of the facility services group will include existing management from these companies. Fieldcentrix is a leading provider of wireless, internet-based field force automation software."
     },
     {
         "category": "",
         "id": 18,
-        "HWT_sentence": "The iso has posted on its web site a template for your use in submitting your final comments on the iso's congestion management reform recommendation that is part of its comprehensive market redesign."
+        "HWT_sentence": "We develop a bayesian \"sum-of-trees\" model where each tree is constrained by a regularization prior to be a weak learner, and fitting and inference are accomplished via an iterative bayesian backfitting mcmc algorithm that generates samples from a posterior. Effectively, bart is a nonparametric bayesian regression approach which uses dimensionally adaptive random basis elements. Motivated by ensemble methods in general, and boosting algorithms in particular, bart is defined by a statistical model: a prior and a likelihood. This approach enables full posterior inference including point and interval estimates of the unknown regression function as well as the marginal effects of potential predictors. By keeping track of predictor inclusion frequencies, bart can also be used for model-free variable selection. Bart's many features are illustrated with a bake-off against competing methods on 42 different data sets, with a simulation experiment and on a drug discovery classification problem."
     },
     {
         "category": "",
         "id": 19,
-        "HWT_sentence": "Hey there guzman! you said you didn't have my e-mail, so here ya are bro."
+        "HWT_sentence": "An epiphany fred, you probably should stop reading this right now. I know how you hate it when i get philosophical. But i had an epiphany last night. I was practicing yoga and almost ready to go into the rest pose when it hit me. I've always said that pain is a warning, but i never really fully understood that, until last night. I didn't hurt myself or anything. I was sitting with my legs (almost) in lotus, with my forehead resting on the floor. And i had this urge in the back of my head to sit up. I resisted as long as i could, but then i realized that i needed to sit up. The urge was strong enough to push me up. In that position, i always think about being a seed buried deep in the dirt. What makes it want to grow? it must be that urge to rise."
     },
     {
         "category": "",
         "id": 20,
-        "HWT_sentence": "Neural machine translation (nmt) is an end-to-end learning approach for automated translation, with the potential to overcome many of the weaknesses of conventional phrase-based translation systems."
+        "HWT_sentence": "We introduce a neural network with a recurrent attention model over a possibly large external memory. The architecture is a form of memory network (weston et al., 2015) but unlike the model in that work, it is trained end-to-end, and hence requires significantly less supervision during training, making it more generally applicable in realistic settings. It can also be seen as an extension of rnnsearch to the case where multiple computational steps (hops) are performed per output symbol. The flexibility of the model allows us to apply it to tasks as diverse as (synthetic) question answering and to language modeling. For the former our approach is competitive with memory networks, but with less supervision. For the latter, on the penn treebank and text8 datasets our approach demonstrates comparable performance to rnns and lstms."
     },
     {
         "category": "",
         "id": 21,
-        "HWT_sentence": "I thought that you might be interested in our new monthly newsletter, energy competition strategy report. It contains detailed strategies on how to tackle the complex challenges of deregulation."
+        "HWT_sentence": "Non-negative matrix factorization (nmf) approximates a given matrix as a product of two non-negative matrices. Multiplicative algorithms deliver reliable results, but they show slow convergence for high-dimensional data and may be stuck away from local minima. Gradient descent methods have better behavior, but only apply to smooth losses such as the least-squares loss. In this article, we propose a first-order primal-dual algorithm for non-negative decomposition problems (where one factor is fixed) with the kl divergence, based on the chambolle-pock algorithm. All required computations may be obtained in closed form and we provide an efficient heuristic way to select step-sizes. By using alternating optimization, our algorithm readily extends to nmf and, on synthetic examples, face recognition or music source separation datasets, it is either faster than existing algorithms, or leads to improved local optima, or both."
     },
     {
         "category": "",
         "id": 22,
-        "HWT_sentence": "Predicting protein properties such as solvent accessibility and secondary structure from its primary amino acid sequence is an important task in bioinformatics."
+        "HWT_sentence": "We present a variety of new architectural features and training procedures that we apply to the generative adversarial networks (gans) framework. We focus on two applications of gans: semi-supervised learning, and the generation of images that humans find visually realistic. Unlike most work on generative models, our primary goal is not to train a model that assigns high likelihood to test data, nor do we require the model to be able to learn well without using any labels. Using our new techniques, we achieve state-of-the-art results in semi-supervised classification on mnist, cifar-10 and svhn. The generated images are of high quality as confirmed by a visual turing test: our model generates mnist samples that humans cannot distinguish from real data, and cifar-10 samples that yield a human error rate of 21.3%. We also present imagenet samples with unprecedented resolution and show that our methods enable the model to learn recognizable features of imagenet classes."
     },
     {
         "category": "",
         "id": 23,
-        "HWT_sentence": "Yesterday was not a terribly good day for me - something i had eaten on the weekend was bothering me the whole day. I went to the dojo in the morning to train since i had my driving test in the afternoon (to get a nsw license because i still carry my brunei license that doesn't have a photo)."
+        "HWT_sentence": "I think this point is moot for the time being because (as of last tuesday) we are not dealing with bidder d. I think it is ok legally to go this way -- although there is potential liability under the warn act (the plant closing law). We probably can schedule around that exposure, though, by giving everyone who possibly may be affected 60 days' notice. Practically, however, this would not be my favorite approach. I'd prefer it if we could have the ability to compete for top performers, but we should be able to manage that by working through the persons who we identify and present for possible hiring by the buyer. I would like more information about what is meant by \"ena does not interfere with\" the offers made by the buyer. Does that mean no counteroffers?"
     },
     {
         "category": "",
         "id": 24,
-        "HWT_sentence": "Generative adversarial networks (gans) excel at creating realistic images with complex models for which maximum likelihood is infeasible. However, the convergence of gan training has still not been proved."
+        "HWT_sentence": "I could tell by the menu screen this game was going to be creepy. First night: i look at my cameras and notice the bear is starting to move a little. I start to think everything is ok but its been awhile since i checked my cameras. I glance down at my camera and see there is no bunny. It takes me a second to process it and i pull up the camera a second time to confirm that the bunny is gone. Now i'm starting to hear things in the hallway and i start to press my light in small flickers trying to conserve power. I turn the light on and then the bunny is right there leaning in the room and i about have a heart attack as i reach and slam the door button down. When 6 clock comes around and you still have enough battery to keep your door closed it will be such a relief."
     },
     {
         "category": "",
         "id": 25,
-        "HWT_sentence": "Generative adversarial networks (gans) are powerful generative models, but suffer from training instability. The recently proposed wasserstein gan (wgan) makes progress toward stable training of gans, but sometimes can still generate only low-quality samples or fail to converge."
+        "HWT_sentence": "On friday, december 28, 2001, the office of ratepayer advocates (\"ora\") filed a motion requesting that the commission suspend the procedural schedule in the socalgas/sdg&e 2003 bcap. Ora also requests that the time to respond to its motion be shortened to ten days (jan. 7). Ora's motion comes in the wake of the commission's final decision in the gas industry restructuring proceeding, decision (\"d.\") 01-12-018, which was voted out on december 11, 2001. As you know, that decision adopts the comprehensive settlement agreement (\"csa\"), to which transwestern is a party, with modifications. Socalgas and sdg&e have notified the commission that they will need to file revised bcap applications (and supporting testimony) to reflect the impact of the csa."
     },
     {
         "category": "",
         "id": 26,
-        "HWT_sentence": "Most modern supervised statistical/machine learning (ml) methods are explicitly designed to solve prediction problems very well. Achieving this goal does not imply that these methods automatically deliver good estimators of causal parameters."
+        "HWT_sentence": "Following is info on bps, pipeline segment and ec meetings in april / may. Fyi - on the triage call this afternoon, kim announced the following bps schedule for dealing with the recall order: ** wed 4/3 conference call 8:30 - 12:30 central - agenda - only to identify the issues and not to work on any of the issues at this point ** wed/thurs 4/10 - 4/11 face to face @ con ed in nyc ** wed 4/24 conference call 8:30 - 12:30 central ** tues/wed 4/30-5/1 face to face in houston - probably @ cms kim indicated that on the 4/24 call we'd know better what additional meetings might be needed. I suggested that since the technical and ir are meetings are in houston mon may 13 (tech) and tues/wed may 14-15 (ir), that if there needs to be another face to face about that time, that we could possibly have it that thursday and friday (may 16-17) in houston. Stay tuned on any dates after the may 1 meeting."
     },
     {
         "category": "",
         "id": 27,
-        "HWT_sentence": "(click the title) (as of august 5th) that's a really interesting site that, instead of viewing polls in terms of the popular vote, breaks them state by state to display them in the way that matters: at the electoral college."
+        "HWT_sentence": "Supervised learning on molecules has incredible potential to be useful in chemistry, drug discovery, and materials science. Luckily, several promising and closely related neural network models invariant to molecular symmetries have already been described in the literature. These models learn a message passing algorithm and aggregation procedure to compute a function of their entire input graph. At this point, the next step is to find a particularly effective variant of this general approach and apply it to chemical prediction benchmarks until we either solve them or reach the limits of the approach. In this paper, we reformulate existing models into a single common framework we call message passing neural networks (mpnns) and explore additional novel variations within this framework. Using mpnns we demonstrate state of the art results on an important molecular property prediction benchmark; these results are strong enough that we believe future work should focus on datasets with larger molecules or more accurate ground truth labels."
     },
     {
         "category": "",
         "id": 28,
-        "HWT_sentence": "We present deepwalk, a novel approach for learning latent representations of vertices in a network. These latent representations encode social relations in a continuous vector space, which is easily exploited by statistical models."
+        "HWT_sentence": "This year the office of labor & employee relations (oler) is pleased to provide your business unit's 2001 affirmative action program online. The online site contains the documentation required to meet our regulatory obligations including the aap narrative, goals and utilization analysis. We have also included links to critical eeo/aa policies and related information. We are excited about this opportunity to simplify your access to this critical and important information. Please reference this web-site when you have an open position that needs to be filled or when considering transferring and promoting employees. The url link is listed at the bottom of this message. Through our affirmative action programs we take positive steps to ensure that we deliver on our commitment to eeo. Affirmative action is not about quotas for women or minorities nor is it about preferential treatment to less qualified candidates because of their race, gender, disability or veteran status."
     },
     {
         "category": "",
         "id": 29,
-        "HWT_sentence": "This game is an example of very interesting concepts and very fascinating (and disturbing) art and story. Unfortunately, it suffers from a difficulty curve based only on how time consuming and frustrating certain levels are."
+        "HWT_sentence": "Learning individual-level causal effects from observational data, such as inferring the most effective medication for a specific patient, is a problem of growing importance for policy makers. The most important aspect of inferring causal effects from observational data is the handling of confounders, factors that affect both an intervention and its outcome. A carefully designed observational study attempts to measure all important confounders. However, even if one does not have direct access to all confounders, there may exist noisy and uncertain measurement of proxies for confounders. We build on recent advances in latent variable modeling to simultaneously estimate the unknown latent space summarizing the confounders and the causal effect. Our method is based on variational autoencoders (vae) which follow the causal structure of inference with proxies. We show our method is significantly more robust than existing methods, and matches the state-of-the-art on previous benchmarks focused on individual treatment effects."
     },
     {
         "category": "",
         "id": 30,
-        "HWT_sentence": "This game is a masterpiece of writing, voice acting, and musical talent. In fact, throughout my time with the game, i had to remind myself to sleep, so that i could better understand the story, and improve my performance in the game."
+        "HWT_sentence": "The state of the art in music source separation employs neural networks trained in a supervised fashion on multi-track databases to estimate the sources from a given mixture. With only few datasets available, often extensive data augmentation is used to combat overfitting. Mixing random tracks, however, can even reduce separation performance as instruments in real music are strongly correlated. The key concept in our approach is that source estimates of an optimal separator should be indistinguishable from real source signals. Based on this idea, we drive the separator towards outputs deemed as realistic by discriminator networks that are trained to tell apart real from separator samples. This way, we can also use unpaired source and mixture recordings without the drawbacks of creating unrealistic music mixtures. Our framework is widely applicable as it does not assume a specific network architecture or number of sources. To our knowledge, this is the first adoption of adversarial training for music source separation. In a prototype experiment for singing voice separation, separation performance increases with our approach compared to purely supervised training."
     },
     {
         "category": "",
         "id": 31,
-        "HWT_sentence": "Supervised learning on molecules has incredible potential to be useful in chemistry, drug discovery, and materials science. Luckily, several promising and closely related neural network models invariant to molecular symmetries have already been described in the literature."
+        "HWT_sentence": "It's decent fun if you like these kinds of games and are looking for a casual experience, or are simply intrigued by playing a 2d moba. I'd recommend it if you're paying a few dollars or less for it, but not for full price. Awesomenauts feels a lot more like monday night combat than any other game i can think of. Killing another player requires a ton of auto-attack hits; you can unload all your abilities and have them just round a corner or straight up run away if they're slightly faster than you. Though your team can help, there aren't many stuns and most abilities can be dodged with a bit of skill which makes a 3 on 1 ambush hardly a guarantee. The maps are small and the characters are generally fast, meaning it is easy to run behind a tower and teleport back to base. This makes you feel weak, and makes the early game a push and pull grind unless the teams or picks are unbalanced."
     },
     {
         "category": "",
         "id": 32,
-        "HWT_sentence": "I have reviewed the la plata facilities o&o agreement. Lee, could you please review the same and see if you agree with this assessment?"
+        "HWT_sentence": "How about them lakers ! !! there is only one thing i can say..... Or maybe 3 words. Men against boys ! !. Didn't they just kick ass! they are peaking at just the right time. The dodgers are in first place and the kings have gone beyond everyone's expectations. Life is good in southern california. On the down side, ramon got admitted into the hospital over the weekend. It started out as a problem with very low blood sugar but then escalated into a weak heart problem with very shallow breathing. They have him on a respirator and plan to wean him off of that this morning. Cita is all stressed out but thank god that one of her neighbors is spending the night with her. We're getting an update today on some tests performed on ramon, so we'll know alot more. Cita is doing fairly well."
     },
     {
         "category": "",
         "id": 33,
-        "HWT_sentence": "(review counted as the complete sam and max seasons 1,2 and 3 however seasons 1 and 2 currently do not work on windows 10) really entertaining and funny point and click adventure game."
+        "HWT_sentence": "Trading, origination, asset services, and community affairs have purchased a box suite (17 seats) at pge park. This entitles these groups the opportunity to have a total of 17 people attend each home beavers and timbers game. The enron pge park committee (comprised of some employees from the groups above) is working together to ensure equitable distribution of tickets so that everyone on the floor will have an opportunity to attend games. In order to allocate tickets in the most beneficial way to those who are interested, please respond to the following questions by monday afternoon, april 30. If you would prefer to reply verbally, stop by debra's desk and she will write them down. Debra also has information about the games if you have questions. Are you interested in attending any timbers soccer games?"
     },
     {
         "category": "",
         "id": 34,
-        "HWT_sentence": "We present the stanford question answering dataset (squad), a new reading comprehension dataset consisting of 100,000+ questions posed by crowdworkers on a set of wikipedia articles, where the answer to each question is a segment of text from the corresponding reading passage."
+        "HWT_sentence": "Learning from a few examples remains a key challenge in machine learning. Despite recent advances in important domains such as vision and language, the standard supervised deep learning paradigm does not offer a satisfactory solution for learning new concepts rapidly from little data. In this work, we employ ideas from metric learning based on deep neural features and from recent advances that augment neural networks with external memories. Our framework learns a network that maps a small labelled support set and an unlabelled example to its label, obviating the need for fine-tuning to adapt to new class types. We then define one-shot learning problems on vision (using omniglot, imagenet) and language tasks. Our algorithm improves one-shot accuracy on imagenet from 87.6% to 93.2% and from 88.0% to 93.8% on omniglot compared to competing approaches. We also demonstrate the usefulness of the same model on language modeling by introducing a one-shot task on the penn treebank."
     },
     {
         "category": "",
         "id": 35,
-        "HWT_sentence": "The dominant sequence transduction models are based on complex recurrent orconvolutional neural networks in an encoder and decoder configuration. The best performing such models also connect the encoder and decoder through an attentionm echanisms."
+        "HWT_sentence": "There is large consent that successful training of deep networks requires many thousand annotated training samples. In this paper, we present a network and training strategy that relies on the strong use of data augmentation to use the available annotated samples more efficiently. The architecture consists of a contracting path to capture context and a symmetric expanding path that enables precise localization. We show that such a network can be trained end-to-end from very few images and outperforms the prior best method (a sliding-window convolutional network) on the isbi challenge for segmentation of neuronal structures in electron microscopic stacks. Using the same network trained on transmitted light microscopy images (phase contrast and dic) we won the isbi cell tracking challenge 2015 in these categories by a large margin. Moreover, the network is fast. Segmentation of a 512x512 image takes less than a second on a recent gpu. The full implementation (based on caffe) and the trained networks are available at http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net ."
     },
     {
         "category": "",
         "id": 36,
-        "HWT_sentence": "We report on a series of experiments with convolutional neural networks (cnn) trained on top of pre-trained word vectors for sentence-level classification tasks."
-    },
-    {
-        "category": "",
-        "id": 37,
-        "HWT_sentence": "All: the new full registry for testing for expanded testing (interoperability and end-to-end) can be found on the bottom of the page at: http://www.nerc.com/~filez/tag/e-tag/e-tag.htm these files include a snapshot of the full registry taken last friday as well as the test registry previously being used by the vendors for interoperability testing."
-    },
-    {
-        "category": "",
-        "id": 38,
-        "HWT_sentence": "In recent years, deep neural networks have yielded immense success on speech recognition, computer vision and natural language processing. However, the exploration of deep neural networks on recommender systems has received relatively less scrutiny."
-    },
-    {
-        "category": "",
-        "id": 39,
-        "HWT_sentence": "Crysis 2 is a very solid and enjoyable game. The graphics are beautiful and the suit system has been revamped in a good way. I didn't find that the loss of the sandbox navigation of the first game detracts from gameplay at all, which i've heard was a common complaint; personally, i felt it made things easier because crysis 1 always had me wondering if i was going in the right direction."
-    },
-    {
-        "category": "",
-        "id": 40,
-        "HWT_sentence": "It's decent fun if you like these kinds of games and are looking for a casual experience, or are simply intrigued by playing a 2d moba. I'd recommend it if you're paying a few dollars or less for it, but not for full price."
-    },
-    {
-        "category": "",
-        "id": 41,
-        "HWT_sentence": "Recent work has demonstrated that neural networks are vulnerable to adversarial examples, i.e., inputs that are almost indistinguishable from natural data and yet classified incorrectly by the network."
-    },
-    {
-        "category": "",
-        "id": 42,
-        "HWT_sentence": "Hi matthew, greg will be in the london office from early tuesday afternoon through end-of-business day on thursday, june 7."
-    },
-    {
-        "category": "",
-        "id": 43,
-        "HWT_sentence": "Note attached sdg&e press release calling on governor davis to use his emergency powers to remedy the accelerating energy crisis by taking a number of actions, e.g., directing local air districts to temporarily lift emissions limits for in-state power plants so that the plants which have met or exceeded their air-emissions limits can run."
-    },
-    {
-        "category": "",
-        "id": 44,
-        "HWT_sentence": "As the title suggests i had a great weekend, i'm just sorry that it had to end. I wont go into all the specifics but i hung out with bunches of friends and family and even saw la plebe play at the phoenix theatre in petaluma."
-    },
-    {
-        "category": "",
-        "id": 45,
-        "HWT_sentence": "To be honest, my hopes were not high when i picked up this game on sale. It looked pretty simple and pretty bloody ugly but surely it'd be worth a quid or so?"
-    },
-    {
-        "category": "",
-        "id": 46,
-        "HWT_sentence": "Urllink deep links -- deep links is a group weblog featuring pointers to news articles and weblog posts that spark the interest of urllink eff [electronic frontier foundation] staff members."
-    },
-    {
-        "category": "",
-        "id": 47,
-        "HWT_sentence": "Several variants of the long short-term memory (lstm) architecture for recurrent neural networks have been proposed since its inception in 1995. In recent years, these networks have become the state-of-the-art models for a variety of machine learning problems."
-    },
-    {
-        "category": "",
-        "id": 48,
-        "HWT_sentence": "I was a weedy child. This wasn't so much an accident of physiology, more an unnecessary attempt by the world to fully cast me in the role of maths geek."
-    },
-    {
-        "category": "",
-        "id": 49,
-        "HWT_sentence": "As you can see, the blog title has been changed to celebrate this great kingdom which we live in and will someday rule."
-    },
-    {
-        "category": "",
-        "id": 50,
-        "HWT_sentence": "Rating based on current state of play, as per my last login. The last time i logged in, there was nearly no one to play with, things were stagnating, and there was far less to do as a 'greenie' (nonsubscriber on subscriber oceans) than there seemed to have felt like in the past."
+        "HWT_sentence": "I understand now...i guess i did all this time, from today until ever, you're just that one who walks by my side, wanting me or not. Although it has been a year since then, i couldn't feel it until today. You look at me through the mirror, watch me bleeding upon the altar of my life and all you could do is stare at my eyes and walk through hell with me. All i want to know is if this is only but a dream... Are we real?... The smell of the blood is too intense, i'm lying there...wanting to dream again...i open my eyes and i see you standing right by my side, you say nothing, only watch me bleeding...but that's all you were doing, right? you're just another illusion of my mind...although i'll never let go"
     }
 ]

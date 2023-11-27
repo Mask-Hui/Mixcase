@@ -3,7 +3,7 @@ import random
 import json
 import nltk
 import matplotlib.pyplot as plt
-from nltk.tokenize import sent_tokenize
+from nltk.tokenize import sent_tokenize,word_tokenize
 import numpy as np
 
 
@@ -21,39 +21,40 @@ def calculate_words_per_sentence(text):
     return words_count
 
 
-def filter_text(text, target_mean=100, target_variance=20):
+def filter_text(text, target_mean=150, target_variance=50):
     sentences = sent_tokenize(text)
-    words_per_sentence = [len(nltk.word_tokenize(sentence)) for sentence in sentences]
+    words_per_sentence = [len(word_tokenize(sentence)) for sentence in sentences]
+
+    # 正态分布取样目标单词总数
+    target_total_words = int(random.normalvariate(target_mean, target_variance))
 
     accepted_sentences = []
     total_words = 0
-    for i, word_count in enumerate(words_per_sentence):
-        accepted_sentences.append(sentences[i])
-        total_words += word_count
-
-        # 检查是否达到目标平均单词数
-        if total_words >= target_mean:
+    for sentence, word_count in zip(sentences, words_per_sentence):
+        if total_words + word_count > target_total_words:
             break
+        accepted_sentences.append(sentence)
+        total_words += word_count
 
     sampled_text = ' '.join(accepted_sentences)
     return sampled_text if total_words >= target_mean else None
 
 
 def process_text_files(input_path, output_path):
-    clean_text_files(input_path)
-    chosen_files = read_text_files(input_path)
+    all_files = [f for f in os.listdir(input_path) if f.endswith('.txt')]
+    random.shuffle(all_files)
+
     json_data = []
     entry_id = 1
 
-    for file_name in chosen_files:
+    for file_name in all_files:
+        if len(json_data) >= 50:
+            break
+
         file_path = os.path.join(input_path, file_name)
         with open(file_path, 'r', encoding='utf-8') as file:
             text = file.read()
-            words_per_sentence = calculate_words_per_sentence(text)
-            # 好像是每个文件按正态分布取的
-            avg_words_per_sentence = sum(words_per_sentence) / len(words_per_sentence)
-            # 缺少方差
-            filtered_text = filter_text(text, target_mean=avg_words_per_sentence)
+            filtered_text = filter_text(text)
 
             if filtered_text:
                 data_entry = {
@@ -71,13 +72,8 @@ def process_text_files(input_path, output_path):
     with open(output_path, 'w', encoding='utf-8') as output_file:
         json.dump(json_data, output_file, indent=4)
 
-    # 画图
     # Reading JSON file and plotting text length distribution
-    file_path = "../../data/HWT_dataset/original_data/HWT_original_data.json"
-    with open(file_path, 'r', encoding='utf-8') as json_file:
-        data = json.load(json_file)
-
-    text_lengths = [len(item['HWT_sentence'].split()) for item in data]
+    text_lengths = [len(item['HWT_sentence'].split()) for item in json_data]
 
     plt.hist(text_lengths, bins=20, alpha=0.7, color='blue')
     plt.xlabel('Text Length (in words)')
