@@ -58,6 +58,7 @@ def process_text_files(input_path, output_path):
 
             if filtered_text:
                 data_entry = {
+                    #  category要写成6个
                     "category": "",
                     "id": entry_id,
                     "HWT_sentence": filtered_text
@@ -101,5 +102,6 @@ def clean_text_files(folder_path):
 
 
 if __name__ == "__main__":
+    # 缺少MGT的处理
     process_text_files("../../data/HWT_dataset/original_long_data",
                        "../../data/HWT_dataset/original_data/HWT_original_data.json")
