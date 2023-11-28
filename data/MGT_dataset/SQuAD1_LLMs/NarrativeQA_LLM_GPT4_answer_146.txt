@@ -1,1 +1,0 @@
-The passage states that Bertrand's postulate holds for any natural number n greater than 3. The question asks for the size of a natural number at which Bertrand's postulate holds. The answer is not provided in the passage, but it can be inferred that Bertrand's postulate holds for any natural number n greater than 3.

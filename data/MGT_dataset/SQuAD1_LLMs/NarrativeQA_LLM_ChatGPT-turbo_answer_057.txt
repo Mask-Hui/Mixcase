@@ -1,1 +1,0 @@
-The branching ability of certain computational models, such as non-deterministic Turing machines, often affects or facilitates ease of analysis in computational problems.

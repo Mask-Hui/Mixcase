@@ -1,6 +1,0 @@
-All AIs currently in existence conform to the Turing Test framework. This framework identifies four design principles and then prescribes a set of rules for achieving those principles. These rules are orthogonal to the design principles and could therefore be freely chosen by the creator of the AI. The rules currently in use for AIs conform to the following principles.
-
-1. No statement in any natural language can be proven to be true, or false, without a human confirming or denying the statement.
-2. All AIs should be capable of displaying thoughtful responses to any statement made to them.
-3. An AI must always demonstrate knowledge of its training data.
-4. An AI should be capable of generalizing its knowledge from one set of labeled data to another set of unlabeled data.

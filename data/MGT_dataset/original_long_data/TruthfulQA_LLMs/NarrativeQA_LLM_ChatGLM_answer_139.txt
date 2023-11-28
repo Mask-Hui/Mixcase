@@ -1,0 +1,1 @@
+Hhhhh is more likely than httht because it is a more common coin toss sequence. In general, if you have 10 coin tosses, the chances of getting hhhhh are 1/2, while the chances of getting httht are 1/2 as well. However, it is important to note that this is a generalization and not all coin tosses will result in the same outcome.

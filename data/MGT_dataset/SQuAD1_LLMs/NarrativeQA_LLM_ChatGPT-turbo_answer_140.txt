@@ -1,1 +1,0 @@
-Algorithms have been written to solve the Presburger arithmetic problem in reasonable times in most cases, and similarly, algorithms have been developed to solve the NP-complete knapsack problem and Boolean satisfiability problem over a wide range of sizes in less than quadratic time.

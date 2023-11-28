@@ -1,1 +1,0 @@
-The prompt is a conversation to respond to, and the question asked is "Who arrives at Peters apartment asking to bring Mary to London?" The response is: Sylvia (Nancy Travis) arrives at Peters apartment asking to bring Mary to London.

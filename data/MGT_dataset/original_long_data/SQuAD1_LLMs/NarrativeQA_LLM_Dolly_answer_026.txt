@@ -1,0 +1,1 @@
+Prime ideals are an important tool and object of study in number theory. Fundamental theorem of arithmetic generalizes to the lasker–noether theorem, which expresses every ideal in a noetherian commutative ring as an intersection of primary ideals.

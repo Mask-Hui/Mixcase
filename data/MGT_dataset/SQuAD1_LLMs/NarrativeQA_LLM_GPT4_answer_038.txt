@@ -1,1 +1,0 @@
-The Sievé of Ératosthènes is a method for computing prime numbers. It involves using the formula:```cssn = 2^(2k+1) + 1``` where `n` is the prime to be found and `k` ranges from 0 to the number of digits in `n`. This formula is used to find the largest prime number that can be represented by a given integer.

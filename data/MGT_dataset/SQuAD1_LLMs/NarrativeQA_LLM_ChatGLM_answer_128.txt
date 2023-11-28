@@ -1,1 +1,0 @@
-The National Science Foundation Network (NSFNET) eventually provided a nationwide backbone network operating at speeds of 56 kbit/s, 1.5 Mbit/s (T1), and 45 Mbit/s (T3) that were constructed to support NSF's networking initiatives from 1985-1995. It developed into a major part of the Internet backbone.

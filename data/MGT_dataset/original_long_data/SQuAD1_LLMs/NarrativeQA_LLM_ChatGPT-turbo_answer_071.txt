@@ -1,0 +1,1 @@
+One type of prime where p + 1 or p − 1 takes a certain shape is sophie germain primes.

@@ -1,1 +1,0 @@
-algorithms have been written that solve the problem in reasonable times in most cases

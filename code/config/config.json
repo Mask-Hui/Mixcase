@@ -6,13 +6,18 @@
     }
   },
   "data_preprocessing": {
-    "categories": [
+    "HWT_categories": [
       "blog",
       "email_content",
       "game_review",
       "news",
       "paper_abstract",
       "speech"
+    ],
+    "MGT_datasets:": [
+      "NarrativeQA_LLMs",
+      "SQuAD1_LLMs",
+      "TruthfulQA_LLMs"
     ]
   }
 }

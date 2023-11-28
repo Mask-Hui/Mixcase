@@ -1,1 +1,0 @@
-Certain arithmetic questions related to Q or more general global fields may be transferred back and forth to the completed (or local) fields.

@@ -1,1 +1,0 @@
-The prompt is a conversation to respond to, and the question asked is "Where does Cecile distribute copies of Sebastian's journal?" The response is: "Cecile distributes copies of Sebastian's journal at his funeral."

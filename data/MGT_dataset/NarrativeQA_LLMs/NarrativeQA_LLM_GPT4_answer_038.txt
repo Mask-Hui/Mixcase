@@ -1,1 +1,0 @@
-The prompt is a question to answer, task or conversation. The context is about a police officer investigating a murder, and the question is about who goes on a date with him. The prompt suggests that the answer is Claudia Wilson, but Jim goes on a date with her.
