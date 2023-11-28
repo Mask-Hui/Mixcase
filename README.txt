@@ -8,5 +8,7 @@
 △data;
     HWT_dataset:
         · original_long_data:原始长句子的n多txt
-        · original_data: 整合成的原始数据集original_sentence.json
+        · original_data: 整合成的原始数据集HWT_original_sentence.json
     MGT_dataset:
+        · original_long_data:原始长句子的n多txt
+        · original_data: 整合成的原始数据集MGT_original_sentence.json
