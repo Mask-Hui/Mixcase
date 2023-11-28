@@ -1,0 +1,3 @@
+The form do complex Gaussian integers have?
+
+A complex Gaussian integer has the form a + bi where a and b are arbitrary integers and i denotes the imaginary unit.

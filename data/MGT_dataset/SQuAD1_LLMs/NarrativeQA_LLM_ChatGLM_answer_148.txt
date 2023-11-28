@@ -1,0 +1,1 @@
+The most elemental way to test the primality of any integer n is to divide n by each integer m that is greater than 1 and less than or equal to the square root of n. If the result of any of these divisions is an integer, then n is not a prime, otherwise it is a prime. This routine can be implemented more efficiently if a complete list of primes up to n is known.

@@ -1,0 +1,1 @@
+The passage states that "some complexity classes have complicated definitions that do not fit into this framework", implying that the difficulty in establishing a framework for complexity classes can be caused by complex or atypical definitions. However, the passage does not mention any specific variable that causes this difficulty.

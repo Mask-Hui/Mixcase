@@ -1,0 +1,1 @@
+It is believed that P is not equal to co-NP. However, it has not yet been proven. It has been shown that if these two complexity classes are not equal then P is not equal to NP.

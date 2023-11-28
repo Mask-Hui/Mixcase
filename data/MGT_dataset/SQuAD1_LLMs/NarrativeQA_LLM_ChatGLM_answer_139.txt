@@ -1,0 +1,1 @@
+Distributed Adaptive Message Block Switching provided a fault-tolerant, efficient routing method for telecommunication messages as part of a research program at the RAND Corporation.

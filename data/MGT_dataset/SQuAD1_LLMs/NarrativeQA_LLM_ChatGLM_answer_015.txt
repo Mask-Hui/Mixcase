@@ -1,0 +1,1 @@
+Polignac's conjecture holds that for any positive integer n, there are infinitely many pairs of consecutive primes differing by 2n.

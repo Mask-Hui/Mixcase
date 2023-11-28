@@ -1,0 +1,1 @@
+In response to the question "What happens to reactive oxygen species signals since they don't leave the chloroplast?", the answer is that the reactive oxygen species signals are then passed on to the second messenger molecule. The second messenger molecule then initiates retrograde signaling, which ultimately regulates gene expression in the nucleus.

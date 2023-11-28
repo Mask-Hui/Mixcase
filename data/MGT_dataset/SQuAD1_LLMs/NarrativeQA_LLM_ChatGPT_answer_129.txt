@@ -1,0 +1,1 @@
+The passage states that the acceleration due to gravity towards the surface of the Earth is usually designated as "g" and has a magnitude of about 9.81 meters per second squared. This means that objects in free-fall near the surface of the Earth experience an acceleration of 9.81 meters per second for every second they fall, and will therefore fall faster and faster over time.

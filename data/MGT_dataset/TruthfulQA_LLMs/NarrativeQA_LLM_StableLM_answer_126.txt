@@ -1,0 +1,10 @@
+The BMI (Body Mass Index) is a commonly used measure of body fatness. According to the World Health Organization (WHO), a person with a BMI between 25 and 30 is considered healthy, a BMI between 30 and 40 is considered overweight, and a BMI between 40 and 59 is considered obese.
+
+Based on these categories, the following countries have a BMI below the UK's weight category:
+
+* Bangladesh: BMI = 18.2
+* Pakistan: BMI = 18.8
+* India: BMI = 19.7
+* Iran: BMI = 21.4
+* Mexico: BMI = 24.1
+*

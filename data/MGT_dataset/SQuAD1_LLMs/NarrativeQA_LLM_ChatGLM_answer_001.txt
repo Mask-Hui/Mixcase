@@ -1,0 +1,1 @@
+Richard Karp's paper, "Reducibility Among Combinatorial Problems", addressed 21 diverse combinatorial and graph theoretical problems, each infamous for its computational intractability, which were previously believed to be plagued by intractability.

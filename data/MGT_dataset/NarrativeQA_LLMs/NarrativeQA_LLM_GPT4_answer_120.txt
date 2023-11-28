@@ -1,0 +1,1 @@
+The prompt is a conversation to respond to, and the question asked is "Who comes to pick up the package next day?" The response is: "The two men who are drug dealers arrive at the apartment to pick up the package."

@@ -1,0 +1,9 @@
+CERN made several major accomplishments in 2012:
+
+1. Discovery of the Higgs Boson: In July 2012, the ATLAS and CMS experiments at CERN officially announced the discovery of the Higgs Boson particle, also known as the God particle. This discovery confirmed a major prediction of the Standard Model of particle physics.
+
+2. Record-breaking collisions: CERN's Large Hadron Collider (LHC) achieved its highest energy collisions, reaching 8 TeV (tera-electronvolts), in 2012. This allowed scientists to study particle interactions at higher energies than ever before.
+
+3. Investigation of the symmetry between matter and antimatter: In September 2012, CERN's ALPHA team published the first direct measurement of the electric charge of an antihydrogen atom. This measurement helps scientists study why there is more matter than antimatter in the universe.
+
+4. Launch of CERN open data portal: In December 2012, CERN launched an open data portal, making data from its experiments publicly available for the first time. This move is expected to accelerate scientific progress and innovation.

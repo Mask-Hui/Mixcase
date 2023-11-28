@@ -1,0 +1,1 @@
+Between L (the set of all problems that can be solved in logarithmic space) and P, there are many complexity classes such as NL and NC that prevent a definitive determination of the relationship between L and P.
