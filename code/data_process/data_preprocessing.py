@@ -69,6 +69,7 @@ def process_HWT_text_files(input_path, output_path):
             f"Category: {category}, Total Files: {len(txt_files)}, Chosen Files: {len(chosen_files)}, Valid Samples: {valid_samples_count}")
     save_and_plot(json_data, output_path, 'HWT_sentence')
 
+
 def process_MGT_text_files(input_path, output_path):
     desired_samples_per_category = 100
     categories = get_datasets()
