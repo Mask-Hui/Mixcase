@@ -2,32 +2,45 @@ import os
 import random
 import json
 import matplotlib.pyplot as plt
+import scipy.stats as stats
 from nltk.tokenize import sent_tokenize, word_tokenize
 import numpy as np
 from utils import *
 
 
-def filter_text(text, target_mean=150, target_variance=20, tolerance_percentage=0.30):
+def calculate_interval_counts(total_count):
+    target_mean = 130
+    target_variance = 20
+    intervals = [(i, i + 20) for i in range(target_mean - 2 * target_variance, target_mean + 2 * target_variance, 20)]
+    probabilities = [
+        stats.norm(target_mean, target_variance).cdf(interval[1]) - stats.norm(target_mean, target_variance).cdf(
+            interval[0]) for interval in intervals]
+    total_prob = sum(probabilities)
+    interval_counts = {interval: int(prob / total_prob * total_count) for interval, prob in
+                       zip(intervals, probabilities)}
+    for interval, count in interval_counts.items():
+        print(f"Interval {interval}: {count} texts")
+    return interval_counts
+
+
+def filter_text(text, target_interval):
     sentences = sent_tokenize(text)
     words_per_sentence = [len(word_tokenize(sentence)) for sentence in sentences]
-
-    target_total_words = int(random.normalvariate(target_mean, target_variance))
-
     accepted_sentences = []
     total_words = 0
-    for sentence, word_count in zip(sentences, words_per_sentence):
-        if total_words + word_count > target_total_words:
-            break
-        accepted_sentences.append(sentence)
-        total_words += word_count
+    index = 0
 
-    lower_bound = target_mean - (target_mean * tolerance_percentage)
-    upper_bound = target_mean + (target_mean * tolerance_percentage)
+    while sentences and index < len(sentences) and total_words < target_interval[1]:
+        next_sentence = sentences[index]
+        next_word_count = words_per_sentence[index]
+        if target_interval[0] <= next_word_count <= target_interval[1]:
+            accepted_sentences.append(next_sentence)
+            total_words += next_word_count
+        index += 1
+        sentences.pop(0)
+        words_per_sentence.pop(0)
 
-    if lower_bound <= total_words <= upper_bound:
-        return ' '.join(accepted_sentences)
-    else:
-        return None
+    return ' '.join(accepted_sentences) if accepted_sentences else None
 
 
 def process_HWT_text_files(input_path, output_path):
@@ -37,41 +50,51 @@ def process_HWT_text_files(input_path, output_path):
     entry_id = 1
 
     for category in categories:
+        interval_counts = calculate_interval_counts(desired_samples_per_category)  # 获取每个区间的目标数量
+        sorted_intervals = sorted(interval_counts.items(), key=lambda x: x[0])  # 按区间排序
+
         category_path = os.path.join(input_path, category)
         clean_text_files(category_path)
-        txt_files = [file for file in os.listdir(category_path) if file.endswith('.txt')]
-        random.shuffle(txt_files)
-
-        chosen_files = set()
+        all_txt_files = [file for file in os.listdir(category_path) if file.endswith('.txt')]
+        processed_files = set()
         valid_samples_count = 0
-        for file_name in txt_files:
-            if valid_samples_count >= desired_samples_per_category:
+
+        while valid_samples_count < desired_samples_per_category and all_txt_files:
+            remaining_files = list(set(all_txt_files) - processed_files)
+            if not remaining_files:
                 break
 
-            if file_name not in chosen_files:
-                chosen_files.add(file_name)
-                file_path = os.path.join(category_path, file_name)
-                with open(file_path, 'r', encoding='utf-8') as file:
-                    text = file.read()
-                    filtered_text = filter_text(text)
+            random.shuffle(remaining_files)
 
-                    if filtered_text:
-                        valid_samples_count += 1
-                        data_entry = {
-                            "category": category,
-                            "id": entry_id,
-                            "HWT_sentence": filtered_text
-                        }
-                        json_data.append(data_entry)
-                        entry_id += 1
+            for interval, count in sorted_intervals:
+                if count > 0:
+                    for file_name in remaining_files:
+                        if valid_samples_count >= desired_samples_per_category:
+                            break
 
+                        file_path = os.path.join(category_path, file_name)
+                        with open(file_path, 'r', encoding='utf-8') as file:
+                            text = file.read()
+                            filtered_text = filter_text(text, interval)
+                            if filtered_text:
+                                interval_counts[interval] -= 1  # 更新区间计数
+                                valid_samples_count += 1
+                                data_entry = {
+                                    "category": category,
+                                    "id": entry_id,
+                                    "HWT_sentence": filtered_text
+                                }
+                                json_data.append(data_entry)
+                                entry_id += 1
+                                processed_files.add(file_name)
+                                break
         print(
-            f"Category: {category}, Total Files: {len(txt_files)}, Chosen Files: {len(chosen_files)}, Valid Samples: {valid_samples_count}")
+            f"Category: {category}, Total Files: {len(all_txt_files)}, Chosen Files: {len(processed_files)}, Valid Samples: {valid_samples_count}")
     save_and_plot(json_data, output_path, 'HWT_sentence')
 
 
 def process_MGT_text_files(input_path, output_path):
-    desired_samples_per_category = 100
+    desired_samples_per_category = 105
     categories = get_datasets()
     json_data = []
     entry_id = 1
@@ -79,17 +102,21 @@ def process_MGT_text_files(input_path, output_path):
     for category in categories:
         category_path = os.path.join(input_path, category)
         clean_text_files(category_path)
-        txt_files = [file for file in os.listdir(category_path) if file.endswith('.txt')]
-        random.shuffle(txt_files)
-
-        chosen_files = set()
+        all_txt_files = [file for file in os.listdir(category_path) if file.endswith('.txt')]
+        processed_files = set()
         valid_samples_count = 0
-        for file_name in txt_files:
-            if valid_samples_count >= desired_samples_per_category:
-                break
 
-            if file_name not in chosen_files:
-                chosen_files.add(file_name)
+        while valid_samples_count < desired_samples_per_category and all_txt_files:
+            remaining_files = list(set(all_txt_files) - processed_files)
+            if not remaining_files:
+                break  # No more files to process
+
+            random.shuffle(remaining_files)
+
+            for file_name in remaining_files:
+                if valid_samples_count >= desired_samples_per_category:
+                    break
+
                 file_path = os.path.join(category_path, file_name)
                 with open(file_path, 'r', encoding='utf-8') as file:
                     text = file.read()
@@ -97,9 +124,7 @@ def process_MGT_text_files(input_path, output_path):
 
                     if filtered_text:
                         valid_samples_count += 1
-
                         model_label = file_name.split('_')[2]
-
                         data_entry = {
                             "category": category,
                             "model": model_label,
@@ -108,10 +133,13 @@ def process_MGT_text_files(input_path, output_path):
                         }
                         json_data.append(data_entry)
                         entry_id += 1
+                        processed_files.add(file_name)  # Always mark file as processed
 
         print(
-            f"Category: {category}, Total Files: {len(txt_files)}, Chosen Files: {len(chosen_files)}, Valid Samples: {valid_samples_count}")
+            f"Category: {category}, Total Files: {len(all_txt_files)}, Chosen Files: {len(processed_files)}, Valid Samples: {valid_samples_count}")
+
     save_and_plot(json_data, output_path, 'MGT_sentence')
+
 
 def save_and_plot(json_data, output_path, key):
     output_folder = os.path.dirname(output_path)
@@ -122,8 +150,17 @@ def save_and_plot(json_data, output_path, key):
         json.dump(json_data, output_file, indent=4)
 
     text_lengths = [len(item[key].split()) for item in json_data]
+    max_length = max(text_lengths)
+    bins = list(range(0, max_length + 20, 20))
+    bins.append(max_length + 5)
+    bins.sort()
 
-    plt.hist(text_lengths, bins=20, alpha=0.7, color='blue')
+    counts, bins, patches = plt.hist(text_lengths, bins=bins, alpha=0.7, color='blue')
+
+    for count, patch in zip(counts, patches):
+        plt.text(patch.get_x() + patch.get_width() / 2, patch.get_height(),
+                 f'{int(count)}', ha='center', va='bottom')
+
     plt.xlabel('Text Length (in words)')
     plt.ylabel('Frequency')
     plt.title('Distribution of Text Lengths')
@@ -149,8 +186,7 @@ def clean_text_files(folder_path):
 
 
 if __name__ == "__main__":
-    if __name__ == "__main__":
-        process_HWT_text_files("../../data/HWT_dataset/original_long_data",
-                               "../../data/HWT_dataset/original_data/HWT_original_data.json")
-        process_MGT_text_files("../../data/MGT_dataset/original_long_data",
-                               "../../data/MGT_dataset/original_data/MGT_original_data.json")
+    process_HWT_text_files("../../data/HWT_dataset/original_long_data",
+                           "../../data/HWT_dataset/original_data/HWT_original_data.json")
+    # process_MGT_text_files("../../data/MGT_dataset/original_long_data",
+    # "../../data/MGT_dataset/original_data/MGT_original_data.json")

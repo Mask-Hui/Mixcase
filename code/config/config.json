@@ -16,8 +16,8 @@
     ],
     "MGT_datasets:": [
       "NarrativeQA_LLMs",
-      "SQuAD1_LLMs",
-      "TruthfulQA_LLMs"
+      "TruthfulQA_LLMs",
+      "SQuAD1_LLMs"
     ]
   }
 }
