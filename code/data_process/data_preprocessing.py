@@ -67,9 +67,7 @@ def process_HWT_text_files(input_path, output_path):
 
         print(
             f"Category: {category}, Total Files: {len(txt_files)}, Chosen Files: {len(chosen_files)}, Valid Samples: {valid_samples_count}")
-
-    save_and_plot(json_data, output_path)
-
+    save_and_plot(json_data, output_path, 'HWT_sentence')
 
 def process_MGT_text_files(input_path, output_path):
     desired_samples_per_category = 100
@@ -112,11 +110,9 @@ def process_MGT_text_files(input_path, output_path):
 
         print(
             f"Category: {category}, Total Files: {len(txt_files)}, Chosen Files: {len(chosen_files)}, Valid Samples: {valid_samples_count}")
+    save_and_plot(json_data, output_path, 'MGT_sentence')
 
-    save_and_plot(json_data, output_path)
-
-
-def save_and_plot(json_data, output_path):
+def save_and_plot(json_data, output_path, key):
     output_folder = os.path.dirname(output_path)
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -124,7 +120,7 @@ def save_and_plot(json_data, output_path):
     with open(output_path, 'w', encoding='utf-8') as output_file:
         json.dump(json_data, output_file, indent=4)
 
-    text_lengths = [len(item['MGT_sentence'].split()) for item in json_data]
+    text_lengths = [len(item[key].split()) for item in json_data]
 
     plt.hist(text_lengths, bins=20, alpha=0.7, color='blue')
     plt.xlabel('Text Length (in words)')
@@ -152,7 +148,8 @@ def clean_text_files(folder_path):
 
 
 if __name__ == "__main__":
-    # process_HWT_text_files("../../data/HWT_dataset/original_long_data",
-    # "../../data/HWT_dataset/original_data/HWT_original_data.json")
-    process_MGT_text_files("../../data/MGT_dataset/original_long_data",
-                           "../../data/MGT_dataset/original_data/MGT_original_data.json")
+    if __name__ == "__main__":
+        process_HWT_text_files("../../data/HWT_dataset/original_long_data",
+                               "../../data/HWT_dataset/original_data/HWT_original_data.json")
+        process_MGT_text_files("../../data/MGT_dataset/original_long_data",
+                               "../../data/MGT_dataset/original_data/MGT_original_data.json")
