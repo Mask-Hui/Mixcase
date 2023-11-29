@@ -9,7 +9,7 @@ from utils import *
 
 
 def calculate_interval_counts(total_count):
-    target_mean = 130
+    target_mean = 80
     target_variance = 20
     intervals = [(i, i + 20) for i in range(target_mean - 2 * target_variance, target_mean + 2 * target_variance, 20)]
     probabilities = [
@@ -44,14 +44,15 @@ def filter_text(text, target_interval):
 
 
 def process_HWT_text_files(input_path, output_path):
-    desired_samples_per_category = 50
+    max_sampling_tries = 3
+    desired_samples_per_category = 52
     categories = get_categories()
     json_data = []
     entry_id = 1
 
     for category in categories:
-        interval_counts = calculate_interval_counts(desired_samples_per_category)  # 获取每个区间的目标数量
-        sorted_intervals = sorted(interval_counts.items(), key=lambda x: x[0])  # 按区间排序
+        interval_counts = calculate_interval_counts(desired_samples_per_category)
+        sorted_intervals = sorted(interval_counts.items(), key=lambda x: x[0])
 
         category_path = os.path.join(input_path, category)
         clean_text_files(category_path)
@@ -72,34 +73,50 @@ def process_HWT_text_files(input_path, output_path):
                         if valid_samples_count >= desired_samples_per_category:
                             break
 
+                        if file_name in processed_files:
+                            continue
+
                         file_path = os.path.join(category_path, file_name)
-                        with open(file_path, 'r', encoding='utf-8') as file:
-                            text = file.read()
-                            filtered_text = filter_text(text, interval)
-                            if filtered_text:
-                                interval_counts[interval] -= 1  # 更新区间计数
-                                valid_samples_count += 1
-                                data_entry = {
-                                    "category": category,
-                                    "id": entry_id,
-                                    "HWT_sentence": filtered_text
-                                }
-                                json_data.append(data_entry)
-                                entry_id += 1
-                                processed_files.add(file_name)
-                                break
+                        sampling_tries = 0
+
+                        while sampling_tries < max_sampling_tries:
+                            with open(file_path, 'r', encoding='utf-8') as file:
+                                text = file.read()
+                                filtered_text = filter_text(text, interval)
+                                if filtered_text:
+                                    interval_counts[interval] -= 1
+                                    valid_samples_count += 1
+                                    data_entry = {
+                                        "category": category,
+                                        "id": entry_id,
+                                        "HWT_sentence": filtered_text
+                                    }
+                                    json_data.append(data_entry)
+                                    entry_id += 1
+                                    processed_files.add(file_name)
+                                    break
+                            sampling_tries += 1
+
+                        if sampling_tries >= max_sampling_tries:
+                            processed_files.add(file_name)
+
         print(
             f"Category: {category}, Total Files: {len(all_txt_files)}, Chosen Files: {len(processed_files)}, Valid Samples: {valid_samples_count}")
+
     save_and_plot(json_data, output_path, 'HWT_sentence')
 
 
 def process_MGT_text_files(input_path, output_path):
+    max_sampling_tries = 3
     desired_samples_per_category = 105
     categories = get_datasets()
     json_data = []
     entry_id = 1
 
     for category in categories:
+        interval_counts = calculate_interval_counts(desired_samples_per_category)
+        sorted_intervals = sorted(interval_counts.items(), key=lambda x: x[0])
+
         category_path = os.path.join(input_path, category)
         clean_text_files(category_path)
         all_txt_files = [file for file in os.listdir(category_path) if file.endswith('.txt')]
@@ -109,35 +126,44 @@ def process_MGT_text_files(input_path, output_path):
         while valid_samples_count < desired_samples_per_category and all_txt_files:
             remaining_files = list(set(all_txt_files) - processed_files)
             if not remaining_files:
-                break  # No more files to process
+                break
 
             random.shuffle(remaining_files)
 
-            for file_name in remaining_files:
-                if valid_samples_count >= desired_samples_per_category:
-                    break
+            for interval, count in sorted_intervals:
+                if count > 0:
+                    for file_name in remaining_files:
+                        if valid_samples_count >= desired_samples_per_category:
+                            break
 
-                file_path = os.path.join(category_path, file_name)
-                with open(file_path, 'r', encoding='utf-8') as file:
-                    text = file.read()
-                    filtered_text = filter_text(text)
+                        if file_name in processed_files:
+                            continue
 
-                    if filtered_text:
-                        valid_samples_count += 1
-                        model_label = file_name.split('_')[2]
-                        data_entry = {
-                            "category": category,
-                            "model": model_label,
-                            "id": entry_id,
-                            "MGT_sentence": filtered_text
-                        }
-                        json_data.append(data_entry)
-                        entry_id += 1
-                        processed_files.add(file_name)  # Always mark file as processed
+                        file_path = os.path.join(category_path, file_name)
+                        sampling_tries = 0
 
-        print(
-            f"Category: {category}, Total Files: {len(all_txt_files)}, Chosen Files: {len(processed_files)}, Valid Samples: {valid_samples_count}")
+                        while sampling_tries < max_sampling_tries:
+                            with open(file_path, 'r', encoding='utf-8') as file:
+                                text = file.read()
+                                filtered_text = filter_text(text, interval)
+                                if filtered_text:
+                                    valid_samples_count += 1
+                                    model_label = file_name.split('_')[2]
+                                    data_entry = {
+                                        "category": category,
+                                        "model": model_label,
+                                        "id": entry_id,
+                                        "MGT_sentence": filtered_text
+                                    }
+                                    json_data.append(data_entry)
+                                    entry_id += 1
+                                    processed_files.add(file_name)
+                                    break
+                            sampling_tries += 1
 
+                        if sampling_tries >= max_sampling_tries:
+                            processed_files.add(file_name)
+        print(f"Category: {category}, Total Files: {len(all_txt_files)}, Chosen Files: {len(processed_files)}, Valid Samples: {valid_samples_count}")
     save_and_plot(json_data, output_path, 'MGT_sentence')
 
 
@@ -151,7 +177,7 @@ def save_and_plot(json_data, output_path, key):
 
     text_lengths = [len(item[key].split()) for item in json_data]
     max_length = max(text_lengths)
-    bins = list(range(0, max_length + 20, 20))
+    bins = list(range(0, max_length + 10, 10))
     bins.append(max_length + 5)
     bins.sort()
 
@@ -186,7 +212,7 @@ def clean_text_files(folder_path):
 
 
 if __name__ == "__main__":
-    process_HWT_text_files("../../data/HWT_dataset/original_long_data",
-                           "../../data/HWT_dataset/original_data/HWT_original_data.json")
-    # process_MGT_text_files("../../data/MGT_dataset/original_long_data",
-    # "../../data/MGT_dataset/original_data/MGT_original_data.json")
+    # process_HWT_text_files("../../data/HWT_dataset/original_long_data",
+                           # "../../data/HWT_dataset/original_data/HWT_original_data.json")
+    process_MGT_text_files("../../data/MGT_dataset/original_long_data",
+                           "../../data/MGT_dataset/original_data/MGT_original_data.json")
