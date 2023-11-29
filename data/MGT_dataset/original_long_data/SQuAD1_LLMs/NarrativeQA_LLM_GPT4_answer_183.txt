@@ -1,0 +1,1 @@
+A function problem is an example of a computational problem where the output for every input is more complex than a decision problem. Notable examples include the traveling salesman problem and integer factorization.

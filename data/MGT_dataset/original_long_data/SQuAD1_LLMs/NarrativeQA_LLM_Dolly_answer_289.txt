@@ -1,0 +1,1 @@
+To what may general global fields be transferred to or from? from: real numbers → p-adic numbers → all fields to: all arithmetic questions related to real numbers or more general global fields

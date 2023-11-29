@@ -1,1 +1,1 @@
-In the modern industrialized world, construction usually involves the translation of designs into reality. A formal design team may be assembled to plan the physical proceedings, and to integrate those proceedings with the other parts.
+The passage is referring to the two famous complexity classes between which logarithmic space cannot be distinguished. These classes are nc and nl. It is not known if nl is a subset of nc or if they are two different classes.

@@ -1,1 +1,1 @@
-In cases of billable services, such as cellular communication services, circuit switching is characterized by a fee per unit of connection time, even when no data is transferred, while packet switching may be characterized by a fee per unit of information transmitted, such as characters, packets, or messages.
+A diagram is used to simplify particle interactions on a fundamental level when two matter particles (represented by a couple of straight lines in the diagram) interact by exchanging a virtual particle (represented by a wavy line).

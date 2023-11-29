@@ -1,1 +1,1 @@
-The trial division consists of dividing the number 37 by each integer greater than 1 and less than sqrt(37). If the result of the division is an integer then 37 is not a prime. Indeed, 37 is prime as it is a composite number. This trial division can be implemented more efficiently if a complete list of primes up to sqrt(37) is known. In this case, only three divisions are required.
+It was a matter of great urgency to expel the jews from all german territory, as they were responsible for calumnies against the christian religion.

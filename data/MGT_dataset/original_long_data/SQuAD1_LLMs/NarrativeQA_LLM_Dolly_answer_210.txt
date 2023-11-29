@@ -1,0 +1,1 @@
+Objects on earth experience acceleration due to gravity and the magnitude of this acceleration is 9.81 meters per second squared. The faster the objects, the greater this acceleration. An object that falls at sea level with a speed of 60 km/h will experience an acceleration of about 0.6 meters per second squared.

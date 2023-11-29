@@ -1,0 +1,1 @@
+In the rankine cycle, waste heat is removed in a condenser. The waste heat is typically that of the hot exhaust steam exiting the engine.

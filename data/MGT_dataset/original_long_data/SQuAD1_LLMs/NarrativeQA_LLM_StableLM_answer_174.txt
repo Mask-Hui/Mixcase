@@ -1,0 +1,1 @@
+In 1999, the very high-speed backbone network service (vbns) installed one of the first ever production oc-48c ip links in february 1999 and went on to upgrade the entire backbone to oc-48c. The network was designed and operated by mci telecommunications under a cooperative agreement with the nsf.

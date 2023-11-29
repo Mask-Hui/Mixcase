@@ -1,1 +1,1 @@
-The national science foundation network (nsfnet) eventually provided a nationwide backbone network operating at speeds of 56 kbit/s, 1.5 mbit/s (t1), and 45 mbit/s (t3) that were constructed to support nsf's networking initiatives from 1985-1995. It developed into a major part of the internet backbone.
+The lunar module (lm) was designed to descend from lunar orbit to land two astronauts on the moon and take them back to orbit to rendezvous with the command module.

@@ -1,1 +1,1 @@
-According to the passage, in the 2000s, california's growth became concentrated in the northern part of the state due to a stronger, tech-oriented economy in the bay area and an emerging greater sacramento region.
+Between l (the set of all problems that can be solved in logarithmic space) and p, there are many complexity classes such as nl and nc that prevent a definitive determination of the relationship between l and p.

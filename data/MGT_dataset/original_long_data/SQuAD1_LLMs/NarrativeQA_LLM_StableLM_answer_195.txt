@@ -1,0 +1,1 @@
+Rubisco has a problem with distinguishing between carbon dioxide and oxygen, which is why it accidentally adds oxygen to sugar precursors in the process of photosynthesis. This results in the production of atp energy being wasted and co2 being released, leading to a big problem since o2 is produced by the initial light reactions of photosynthesis.

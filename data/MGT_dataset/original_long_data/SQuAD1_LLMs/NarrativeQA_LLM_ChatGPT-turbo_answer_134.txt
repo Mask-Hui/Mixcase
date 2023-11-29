@@ -1,1 +1,1 @@
-The combs are spaced evenly round the body in eight rows that run from near the mouth to the opposite end.
+The relevant cross-sectional area for the volume for which the stress-tensor is being calculated is used to calculate cross section area in the volume of an object.

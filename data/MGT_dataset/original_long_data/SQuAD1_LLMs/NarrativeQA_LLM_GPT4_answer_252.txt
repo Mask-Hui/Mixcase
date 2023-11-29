@@ -1,0 +1,1 @@
+The answer to the question is "non-deterministic time". Non-dete rm i nt turing machines are computational models that allow for branching and checking multiple possibilities at once, which can make analysis of computational problems easier.

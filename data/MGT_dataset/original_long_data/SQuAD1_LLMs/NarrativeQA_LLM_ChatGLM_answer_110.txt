@@ -1,1 +1,1 @@
-Cobham's thesis states that the solution to a problem is solvable with reasonable resources assuming it allows for a polynomial time algorithm.
+Thoreau mentions that an individual who is willing to act unjustly and who is not willing to confront the fact that they are making a choice could corrupt a government system.

@@ -1,1 +1,1 @@
-It is believed that p is not equal to co-np. However, it has not yet been proven. It has been shown that if these two complexity classes are not equal then p is not equal to np.
+In 2014, there was not a single team in los angeles. In 2015, there was not a single team either, but in 2016, 2017 and 2018, there were two teams in los angeles.

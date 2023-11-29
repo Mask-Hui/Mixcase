@@ -1,1 +1,1 @@
-Cobham's thesis states that the solution to a problem is solvable with reasonable resources assuming it allows for a polynomial time algorithm.
+The expression used to identify any given series of problems capable of being solved within time on a deterministic turing machine is dtime(f(n)).

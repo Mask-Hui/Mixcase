@@ -1,1 +1,1 @@
-There would be at most one prime number in the progression for each of the three values of a that are 3, 6, or 9, since each of these values is a multiple of 9 and therefore cannot be prime. Therefore, the total number of primes in the progression would be one for each of these three values of a.
+Malum in se considerations are legal requirements that come from the desire to prevent things that are indisputably bad, such as bridge collapses or explosions.

@@ -1,1 +1,1 @@
-How many affiliated stations does abc currently have? the passage states that abc has eight owned-and-operated and over 232 affiliated television stations throughout the united states and its territories. Therefore, abc currently has 8 owned-and-operated and 232 affiliated stations.
+There would be at most one prime number in the progression for each of the three values of a that are 3, 6, or 9, since each of these values is a multiple of 9 and therefore cannot be prime. Therefore, the total number of primes in the progression would be one for each of these three values of a.

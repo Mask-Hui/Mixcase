@@ -1,0 +1,1 @@
+First, intermediate network nodes are used to forward the packets. Second, intermediate network nodes may be implemented with or without using shared physical medium. Third, intermediate network nodes use first-in, first-out buffering to forward the packets.
