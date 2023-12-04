@@ -1,0 +1,9 @@
+All,ChatGPT,gpt2-medium,likelihood_threshold,{"acc_test": 0.56, "precision_test": 0.5445544554455446, "recall_test": 0.7333333333333333, "f1_test": 0.625, "auc_test": 0}
+All,ChatGPT,gpt2-medium,rank_threshold,{"acc_test": 0.5, "precision_test": 0.5, "recall_test": 1.0, "f1_test": 0.6666666666666666, "auc_test": 0}
+All,ChatGPT,gpt2-medium,log_rank_threshold,{"acc_test": 0.5483333333333333, "precision_test": 0.5413105413105413, "recall_test": 0.6333333333333333, "f1_test": 0.5837173579109063, "auc_test": 0}
+All,ChatGPT,gpt2-medium,entropy_threshold,{"acc_test": 0.595, "precision_test": 0.5683453237410072, "recall_test": 0.79, "f1_test": 0.6610878661087867, "auc_test": 0}
+All,ChatGPT,gpt2-medium,rank_GLTR_threshold,{"acc_test": 0.48833333333333334, "precision_test": 0.48582995951417, "recall_test": 0.4, "f1_test": 0.43875685557586835, "auc_test": 0}
+All,ChatGPT,gpt2-medium,roberta-base-openai-detector,{"acc_test": 0.48833333333333334, "precision_test": 0.40540540540540543, "recall_test": 0.05, "f1_test": 0.08902077151335312, "auc_test": 0}
+All,ChatGPT,gpt2-medium,Hello-SimpleAI/chatgpt-detector-roberta,{"acc_test": 0.5516666666666666, "precision_test": 0.746031746031746, "recall_test": 0.15666666666666668, "f1_test": 0.25895316804407714, "auc_test": 0}
+All,ChatGPT,gpt2-medium,distilbert-base-uncased,{"acc_test": 0.6516666666666666, "precision_test": 0.6743295019157088, "recall_test": 0.5866666666666667, "f1_test": 0.6274509803921567, "auc_test": 0}
+All,ChatGPT,gpt2-medium,perturbation_10_z,{"acc_test": 0.5083333333333333, "precision_test": 0.5079365079365079, "recall_test": 0.5333333333333333, "f1_test": 0.5203252032520326, "auc_test": 0}
