@@ -1,0 +1,3 @@
+实验：实验一
+有用信息：只有ACC
+说明：这些logs是基于最新数据集跑出来的，增加了两个新的detector，可以拿来画dataset和acc的雷达图，同时这里面的probability是绝对的而不是相对的。

@@ -1,0 +1,3 @@
+实验：实验一
+有用信息：只有logits，acc是包含全部600条的，不要用ACC
+说明：这些logs是基于最新数据集跑出来的，增加了一个新的supervised detector，可以拿来画similarity和 possibility的雷达图，同时这里面的probability是相对的。都是按顺序的，这次没有shuffle。
