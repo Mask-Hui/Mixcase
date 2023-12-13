@@ -1,0 +1,11 @@
+{"name": "likelihood_threshold", "acc_test": 0.21, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}
+{"name": "rank_threshold", "acc_test": 0.25666666666666665, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}
+{"name": "log_rank_threshold", "acc_test": 0.21666666666666667, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}
+{"name": "entropy_threshold", "acc_test": 0.20666666666666667, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}
+{"name": "rank_GLTR_threshold", "acc_test": 0.21666666666666667, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}
+{"name": "perturbation_10_z", "general": {"acc_test": 0.37666666666666665, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}}
+{"name": " GPT-sentinel", "before": {"acc_test": 0.09, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}, "acc_test": 0.09, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}
+{"name": "roberta-base-openai-detector", "acc_test": 0.51, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0, "preds": []}
+{"name": "Hello-SimpleAI/chatgpt-detector-roberta", "acc_test": 0.25, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0, "preds": []}
+{"name": "Retraineddistilbert-base-uncased", "acc_test": 0.0, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0, "preds": []}
+{"name": "Radar", "before": {"acc_test": 0.15, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}, "acc_test": 0.15, "precision_test": 0.0, "recall_test": 0.0, "f1_test": 0.0, "auc_test": 0}
