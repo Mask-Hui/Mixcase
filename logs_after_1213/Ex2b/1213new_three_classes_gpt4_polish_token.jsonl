@@ -1,0 +1,8 @@
+{"name": "likelihood_threshold", "acc_test": 0.25, "precision_test": 0.56203007518797, "recall_test": 0.25, "f1_test": 0.30881180223285487, "auc_test": -1.0}
+{"name": "rank_threshold", "acc_test": 0.22, "precision_test": 0.34375, "recall_test": 0.22, "f1_test": 0.2682926829268293, "auc_test": -1.0}
+{"name": "log_rank_threshold", "acc_test": 0.25, "precision_test": 0.2604166666666667, "recall_test": 0.25, "f1_test": 0.25510204081632654, "auc_test": -1.0}
+{"name": "entropy_threshold", "acc_test": 0.14, "precision_test": 0.33333333333333326, "recall_test": 0.14, "f1_test": 0.1971830985915493, "auc_test": -1.0}
+{"name": "rank_GLTR_threshold", "acc_test": 0.18, "precision_test": 0.20930232558139536, "recall_test": 0.18, "f1_test": 0.1935483870967742, "auc_test": -1.0}
+{"name": "Retraineddistilbert-base-uncased", "acc_test": 0.43, "precision_test": 0.24157303370786518, "recall_test": 0.43, "f1_test": 0.30935251798561153, "auc_test": -1.0, "preds": []}
+{"name": "RetrainedHello-SimpleAI/chatgpt-detector-roberta", "acc_test": 0.27, "precision_test": 0.4651442307692308, "recall_test": 0.27, "f1_test": 0.34082156611039793, "auc_test": -1.0, "preds": []}
+{"name": "perturbation_10_z", "general": {"acc_test": 0.22, "precision_test": 0.25, "recall_test": 0.22, "f1_test": 0.23404255319148937, "auc_test": -1.0}}
